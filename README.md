@@ -9,6 +9,7 @@ Browse all data at https://flatgithub.com/pgaspar/solana-nft-monitor and use "Da
 * Saiba Gang
 * The Tower
 * Gloom Punk Club
+* Solsunsets
 
 ### Adding new collections
 
