@@ -33,6 +33,10 @@ If a specific collection is only available at Magic Eden or Solanart, just open 
 
 Flat Github doesn't allow you to configure ignored files, so moonrank json files were showing up in the Data File dropdown. There's an open issue about this, but in the mean time I found that [they ignore](https://github.com/githubocto/flat-viewer/blob/main/src/api/index.ts#L49) the `.vscode` and `.github` directories, so that's why I put the moonrank directory there.
 
+### Was this useful?
+
+SOL: `6HvBqNvZ8zTJRshvaDyLCqXm6V5wM5Dgke4tvjoUw6KP`
+
 ### Credits
 
 Thanks to [@braposo](https://github.com/braposo) for working on the original [Gloom Monitor](https://github.com/braposo/gloom-monitor)!
