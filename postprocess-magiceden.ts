@@ -18,7 +18,7 @@ type RawData = {
 };
 
 type ParsedData = {
-  id: number;
+  id: string;
   price: number;
   moonRank?: string;
   storeURL: string;
@@ -41,7 +41,7 @@ try {
 
   csvData = rawData.map((row) => {
     return {
-      id: parseInt(String(row.id)),
+      id: String(row.id),
       price: parseInt(String(row.price)),
       moonRank: String(row.moonRank),
       storeURL: String(row.storeURL),
@@ -58,7 +58,7 @@ const enhancedData: Array<ParsedData> = data.results
     const storeURL = `https://magiceden.io/item-details/${item.mintAddress}`;
 
     return {
-      id: parseInt(id),
+      id,
       price: item.price,
       moonRank: moonrank[id],
       storeURL,
@@ -68,7 +68,7 @@ const enhancedData: Array<ParsedData> = data.results
 
 // Step 4: Update the original CSV with the new data
 csvData.push(...enhancedData);
-csvData.sort((a, b) => a.id - b.id);
+csvData.sort((a, b) => parseInt(a.id) - parseInt(b.id));
 
 console.log("Processed Items:", enhancedData.length);
 console.log("Total Items in CSV:", csvData.length);
