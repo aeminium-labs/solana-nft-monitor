@@ -10,6 +10,7 @@ Browse all data at https://flatgithub.com/pgaspar/solana-nft-monitor and use "Da
 * The Tower
 * Gloom Punk Club
 * Solsunsets
+* Crypto Cultists
 
 ### Adding new collections
 
