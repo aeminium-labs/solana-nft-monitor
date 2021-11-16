@@ -8,7 +8,7 @@ URI.open("https://moonrank.app/mints/#{ARGV[0]}") do |moonrank_data|
 end
 
 processed_data = data["mints"].map do |m|
-  id = m["name"].match(/\d+/).to_s
+  _, id = m["name"].split("#")
   rank = m["rank"]
 
   [id, rank]
