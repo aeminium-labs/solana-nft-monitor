@@ -42,7 +42,7 @@ try {
   csvData = rawData.map((row) => {
     return {
       id: String(row.id),
-      price: parseInt(String(row.price)),
+      price: parseFloat(String(row.price)),
       moonRank: String(row.moonRank),
       storeURL: String(row.storeURL),
     }
