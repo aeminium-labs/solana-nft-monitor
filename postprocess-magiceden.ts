@@ -29,7 +29,7 @@ const filename = Deno.args[0];
 const collection = filename.split("__")[0];
 const data: RawData = await readJSON(filename);
 const moonrank: Record<string, string> = await readJSON(
-  `moonrank/${collection}.json`
+  `.github/moonrank/${collection}.json`
 );
 
 // Step 2: Read the existing CSV file, if it exists, and remove old magic eden entries

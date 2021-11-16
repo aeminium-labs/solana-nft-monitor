@@ -21,4 +21,4 @@ File.open(workflow_filename, "w") do |workflow|
 end
 
 # Process moonrank data
-require_relative "moonrank/process_moonrank_data"
+require_relative ".github/moonrank/process_moonrank_data"
