@@ -7,6 +7,7 @@ Browse all data at https://flatgithub.com/pgaspar/solana-nft-monitor and use "Da
 ### Tracked collections
 
 * Saiba Gang
+* The Tower
 
 ### Adding new collections
 
