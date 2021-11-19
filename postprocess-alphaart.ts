@@ -61,7 +61,7 @@ while (data.nextPage) {
     body: JSON.stringify({ token: data.nextPage }),
   }).then((res) => res.json());
 
-  allTokens.push(...data.tokens);
+  if (data.tokens) { allTokens.push(...data.tokens) };
 }
 
 // Step 3: Filter specific data we want to keep
