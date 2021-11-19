@@ -28,11 +28,19 @@ You can find these identifiers by looking at the URLs:
 * https://magiceden.io/marketplace/the_tower
 * https://solanart.io/collections/thetower
 
-If a specific collection is only available at Magic Eden or Solanart, just open the workflow YML file and remove the steps you don't need.
+If a collection is not available in one of the marketplaces, set their identifier to `""`:
+
+```shell
+$ ruby add_collection.rb crypto_cultists crypto_cultist ""
+```
+
+This would skip Solanart for the Crypto Cultists collection, for example.
 
 ### About `.github/moonrank`
 
 Flat Github doesn't allow you to configure ignored files, so moonrank json files were showing up in the Data File dropdown. There's an open issue about this, but in the mean time I found that [they ignore](https://github.com/githubocto/flat-viewer/blob/main/src/api/index.ts#L49) the `.vscode` and `.github` directories, so that's why I put the moonrank directory there.
+
+And I did the same with `.github/collections.json`, which defines the collections we support.
 
 ### Was this useful?
 

@@ -1,0 +1,97 @@
+name: Fetch All Data
+on:
+  schedule:
+    - cron: "*/20 * * * *"
+  workflow_dispatch: {}
+  push:
+    paths:
+      - .github/workflows/flat.yml
+      - ./postprocess-magiceden.ts
+      - ./postprocess-solanart.ts
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Setup deno
+        uses: denoland/setup-deno@main
+        with:
+          deno-version: v1.x
+      - name: Check out repo
+        uses: actions/checkout@v2
+
+      - name: saibagang - Fetch Magic Eden data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://api-mainnet.magiceden.io/rpc/getListedNFTsByQuery?q=%7B%22%24match%22%3A%7B%22collectionSymbol%22%3A%22saiba_gang%22%7D%2C%22%24sort%22%3A%7B%22takerAmount%22%3A1%2C%22createdAt%22%3A-1%7D%7D
+          downloaded_filename: saibagang__magiceden.json
+          postprocess: ./postprocess-magiceden.ts
+
+      - name: saibagang - Fetch Solanart data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://qzlsklfacc.medianetwork.cloud/nft_for_sale?collection=saibagang
+          downloaded_filename: saibagang__solanart.json
+          postprocess: ./postprocess-solanart.ts
+
+      - name: towerdao - Fetch Magic Eden data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://api-mainnet.magiceden.io/rpc/getListedNFTsByQuery?q=%7B%22%24match%22%3A%7B%22collectionSymbol%22%3A%22the_tower%22%7D%2C%22%24sort%22%3A%7B%22takerAmount%22%3A1%2C%22createdAt%22%3A-1%7D%7D
+          downloaded_filename: towerdao__magiceden.json
+          postprocess: ./postprocess-magiceden.ts
+
+      - name: towerdao - Fetch Solanart data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://qzlsklfacc.medianetwork.cloud/nft_for_sale?collection=thetower
+          downloaded_filename: towerdao__solanart.json
+          postprocess: ./postprocess-solanart.ts
+
+      - name: gloompunkclub - Fetch Magic Eden data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://api-mainnet.magiceden.io/rpc/getListedNFTsByQuery?q=%7B%22%24match%22%3A%7B%22collectionSymbol%22%3A%22gloom_punk_club%22%7D%2C%22%24sort%22%3A%7B%22takerAmount%22%3A1%2C%22createdAt%22%3A-1%7D%7D
+          downloaded_filename: gloompunkclub__magiceden.json
+          postprocess: ./postprocess-magiceden.ts
+
+      - name: gloompunkclub - Fetch Solanart data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://qzlsklfacc.medianetwork.cloud/nft_for_sale?collection=gloompunk
+          downloaded_filename: gloompunkclub__solanart.json
+          postprocess: ./postprocess-solanart.ts
+
+      - name: crypto_cultists - Fetch Magic Eden data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://api-mainnet.magiceden.io/rpc/getListedNFTsByQuery?q=%7B%22%24match%22%3A%7B%22collectionSymbol%22%3A%22crypto_cultist%22%7D%2C%22%24sort%22%3A%7B%22takerAmount%22%3A1%2C%22createdAt%22%3A-1%7D%7D
+          downloaded_filename: crypto_cultists__magiceden.json
+          postprocess: ./postprocess-magiceden.ts
+
+      - name: solsunsets - Fetch Magic Eden data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://api-mainnet.magiceden.io/rpc/getListedNFTsByQuery?q=%7B%22%24match%22%3A%7B%22collectionSymbol%22%3A%22solsunsets%22%7D%2C%22%24sort%22%3A%7B%22takerAmount%22%3A1%2C%22createdAt%22%3A-1%7D%7D
+          downloaded_filename: solsunsets__magiceden.json
+          postprocess: ./postprocess-magiceden.ts
+
+      - name: flamingo_party - Fetch Magic Eden data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://api-mainnet.magiceden.io/rpc/getListedNFTsByQuery?q=%7B%22%24match%22%3A%7B%22collectionSymbol%22%3A%22flamingo_party%22%7D%2C%22%24sort%22%3A%7B%22takerAmount%22%3A1%2C%22createdAt%22%3A-1%7D%7D
+          downloaded_filename: flamingo_party__magiceden.json
+          postprocess: ./postprocess-magiceden.ts
+
+      - name: careless_cats - Fetch Magic Eden data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://api-mainnet.magiceden.io/rpc/getListedNFTsByQuery?q=%7B%22%24match%22%3A%7B%22collectionSymbol%22%3A%22careless_cats%22%7D%2C%22%24sort%22%3A%7B%22takerAmount%22%3A1%2C%22createdAt%22%3A-1%7D%7D
+          downloaded_filename: careless_cats__magiceden.json
+          postprocess: ./postprocess-magiceden.ts
+
+      - name: pixel_creatures - Fetch Magic Eden data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://api-mainnet.magiceden.io/rpc/getListedNFTsByQuery?q=%7B%22%24match%22%3A%7B%22collectionSymbol%22%3A%22pixel_creatures%22%7D%2C%22%24sort%22%3A%7B%22takerAmount%22%3A1%2C%22createdAt%22%3A-1%7D%7D
+          downloaded_filename: pixel_creatures__magiceden.json
+          postprocess: ./postprocess-magiceden.ts

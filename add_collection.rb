@@ -1,24 +1,33 @@
 require "erb"
+require "json"
 
 # Call like this:
 #
 #   ruby add_collection.rb <moonrank_id> <magiceden_id> <solanart_id>
 #
 
-collection_name = {
+# Get ids from the console command and do some cleanup
+collection = {
   moonrank: ARGV[0],
-  magiceden: ARGV[1] || ARGV[0],
-  solanart: ARGV[2] || ARGV[0]
+  magic_eden: ARGV[1],
+  solanart: ARGV[2]
 }
-
-# Create the workflow file based on the template
-workflow_template_filename = File.join(File.dirname(__FILE__), "./templates/workflow.yml.erb")
-workflow_template = ERB.new(File.read(workflow_template_filename))
-
-workflow_filename = File.join(File.dirname(__FILE__), "./.github/workflows/#{collection_name[:moonrank]}.yml")
-File.open(workflow_filename, "w") do |workflow|
-  workflow.write(workflow_template.result)
+collection.transform_values! do |id|
+  id == "" ? nil : id
 end
+
+# Update the collection index
+collection_index_filename = File.join(File.dirname(__FILE__), "./.github/collections.json")
+collection_index = JSON.parse File.open(collection_index_filename).read
+
+collection_index.push(collection)
+
+File.open(collection_index_filename, "w") do |collection_index_file|
+  collection_index_file.write JSON.pretty_generate(collection_index)
+end
+
+# Re-generate the Github Actions workflow
+require_relative "generate_workflow"
 
 # Process moonrank data
 require_relative ".github/moonrank/process_moonrank_data"
