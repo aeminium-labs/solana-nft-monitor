@@ -47,6 +47,14 @@ jobs:
           downloaded_filename: towerdao__solanart.json
           postprocess: ./postprocess-solanart.ts
 
+      - name: towerdao - Fetch Alpha Art data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://apis.alpha.art/api/v1/collection
+          downloaded_filename: towerdao__alphaart.json
+          axios_config: .github/alpha_axios_configs/towerdao.json
+          postprocess: ./postprocess-alphaart.ts
+
       - name: gloompunkclub - Fetch Magic Eden data
         uses: githubocto/flat@v3
         with:
@@ -60,6 +68,14 @@ jobs:
           http_url: https://qzlsklfacc.medianetwork.cloud/nft_for_sale?collection=gloompunk
           downloaded_filename: gloompunkclub__solanart.json
           postprocess: ./postprocess-solanart.ts
+
+      - name: gloompunkclub - Fetch Alpha Art data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://apis.alpha.art/api/v1/collection
+          downloaded_filename: gloompunkclub__alphaart.json
+          axios_config: .github/alpha_axios_configs/gloompunkclub.json
+          postprocess: ./postprocess-alphaart.ts
 
       - name: crypto_cultists - Fetch Magic Eden data
         uses: githubocto/flat@v3
@@ -75,6 +91,14 @@ jobs:
           downloaded_filename: solsunsets__magiceden.json
           postprocess: ./postprocess-magiceden.ts
 
+      - name: solsunsets - Fetch Alpha Art data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://apis.alpha.art/api/v1/collection
+          downloaded_filename: solsunsets__alphaart.json
+          axios_config: .github/alpha_axios_configs/solsunsets.json
+          postprocess: ./postprocess-alphaart.ts
+
       - name: flamingo_party - Fetch Magic Eden data
         uses: githubocto/flat@v3
         with:
@@ -82,12 +106,28 @@ jobs:
           downloaded_filename: flamingo_party__magiceden.json
           postprocess: ./postprocess-magiceden.ts
 
+      - name: flamingo_party - Fetch Alpha Art data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://apis.alpha.art/api/v1/collection
+          downloaded_filename: flamingo_party__alphaart.json
+          axios_config: .github/alpha_axios_configs/flamingo_party.json
+          postprocess: ./postprocess-alphaart.ts
+
       - name: careless_cats - Fetch Magic Eden data
         uses: githubocto/flat@v3
         with:
           http_url: https://api-mainnet.magiceden.io/rpc/getListedNFTsByQuery?q=%7B%22%24match%22%3A%7B%22collectionSymbol%22%3A%22careless_cats%22%7D%2C%22%24sort%22%3A%7B%22takerAmount%22%3A1%2C%22createdAt%22%3A-1%7D%7D
           downloaded_filename: careless_cats__magiceden.json
           postprocess: ./postprocess-magiceden.ts
+
+      - name: careless_cats - Fetch Alpha Art data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://apis.alpha.art/api/v1/collection
+          downloaded_filename: careless_cats__alphaart.json
+          axios_config: .github/alpha_axios_configs/careless_cats.json
+          postprocess: ./postprocess-alphaart.ts
 
       - name: pixel_creatures - Fetch Magic Eden data
         uses: githubocto/flat@v3
