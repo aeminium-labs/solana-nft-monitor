@@ -7,24 +7,15 @@ import {
   removeFile,
 } from "https://deno.land/x/flat@0.0.13/mod.ts";
 
+type Item = {
+  mintId: string;
+  title: string;
+  price: string;
+};
+
 type RawData = {
-  id: number;
-  // deno-lint-ignore camelcase
-  token_add: string;
-  price: number;
-  // deno-lint-ignore camelcase
-  for_sale: number;
-  // deno-lint-ignore camelcase
-  link_img: string;
-  name: string;
-  escrowAdd: string;
-  // deno-lint-ignore camelcase
-  seller_address: string;
-  attributes: string;
-  skin: null;
-  type: string;
-  ranking: null;
-  lastSoldPrice: null | number;
+  tokens: Array<Item>;
+  nextPage: string;
 };
 
 type ParsedData = {
@@ -37,12 +28,12 @@ type ParsedData = {
 // Step 1: Read the downloaded_filename JSON
 const filename = Deno.args[0];
 const collection = filename.split("__")[0];
-const data: Array<RawData> = await readJSON(filename);
+let data: RawData = await readJSON(filename);
 const moonrank: Record<string, string> = await readJSON(
   `.github/moonrank/${collection}.json`
 );
 
-// Step 2: Read the existing CSV file, if it exists, and remove old solanart entries
+// Step 2: Read the existing CSV file, if it exists, and remove old alpha art entries
 let csvData: Array<ParsedData> = [];
 const csvFilename = `${collection}.csv`;
 
@@ -58,18 +49,30 @@ try {
     }
   });
 
-  csvData = csvData.filter((item) => { return !item.storeURL.includes("solanart"); });
+  csvData = csvData.filter((item) => { return !item.storeURL.includes("alpha.art"); });
 } catch(NotFound) {};
 
+// Step 2.5: Fetch all other result pages (Alpha Art paginates)
+let allTokens = data.tokens;
+
+while (data.nextPage) {
+  data = await fetch("https://apis.alpha.art/api/v1/collection", {
+    method: "POST",
+    body: JSON.stringify({ token: data.nextPage }),
+  }).then((res) => res.json());
+
+  allTokens.push(...data.tokens);
+}
+
 // Step 3: Filter specific data we want to keep
-const enhancedData: Array<ParsedData> = data
+const enhancedData: Array<ParsedData> = allTokens
   .map((item) => {
-    const [_, id] = item.name.split("#");
-    const storeURL = `https://solanart.io/search/?token=${item.token_add}`;
+    const [_, id] = item.title.split("#");
+    const storeURL = `https://alpha.art/t/${item.mintId}`;
 
     return {
       id,
-      price: item.price,
+      price: parseInt(item.price) / 1000000000,
       moonRank: moonrank[id],
       storeURL,
     };

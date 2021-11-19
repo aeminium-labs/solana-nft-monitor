@@ -3,14 +3,15 @@ require "json"
 
 # Call like this:
 #
-#   ruby add_collection.rb <moonrank_id> <magiceden_id> <solanart_id>
+#   ruby add_collection.rb <moonrank_id> <magiceden_id> <solanart_id> <alphaart_id>
 #
 
 # Get ids from the console command and do some cleanup
 collection = {
   moonrank: ARGV[0],
   magic_eden: ARGV[1],
-  solanart: ARGV[2]
+  solanart: ARGV[2],
+  alpha_art: ARGV[3]
 }
 collection.transform_values! do |id|
   id == "" ? nil : id
@@ -28,6 +29,9 @@ end
 
 # Re-generate the Github Actions workflow
 require_relative "generate_workflow"
+
+# Create axios config files for Alpha Art marketplace
+require_relative "generate_axios_configs"
 
 # Process moonrank data
 require_relative ".github/moonrank/process_moonrank_data"
