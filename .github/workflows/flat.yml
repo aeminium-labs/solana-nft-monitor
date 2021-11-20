@@ -484,3 +484,11 @@ jobs:
           downloaded_filename: pawnshop_gnomies__alphaart.json
           axios_config: .github/alpha_axios_configs/pawnshop_gnomies.json
           postprocess: ./postprocess/alphaart.ts
+
+      - name: degods - Fetch Alpha Art data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://apis.alpha.art/api/v1/collection
+          downloaded_filename: degods__alphaart.json
+          axios_config: .github/alpha_axios_configs/degods.json
+          postprocess: ./postprocess/alphaart.ts
