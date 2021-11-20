@@ -67,7 +67,10 @@ while (data.nextPage) {
 // Step 3: Filter specific data we want to keep
 const enhancedData: Array<ParsedData> = allTokens
   .map((item) => {
-    const [_, id] = item.title.split("#");
+    let id = item.title;
+    if (id.includes("#")) {
+      id = id.split("#")[1];
+    }
     const storeURL = `https://alpha.art/t/${item.mintId}`;
 
     return {

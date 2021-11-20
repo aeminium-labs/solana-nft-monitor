@@ -54,7 +54,10 @@ try {
 // Step 3: Filter specific data we want to keep
 const enhancedData: Array<ParsedData> = data.results
   .map((item) => {
-    const [_, id] = item.title.split("#");
+    let id = item.title;
+    if (id.includes("#")) {
+      id = id.split("#")[1];
+    }
     const storeURL = `https://magiceden.io/item-details/${item.mintAddress}`;
 
     return {

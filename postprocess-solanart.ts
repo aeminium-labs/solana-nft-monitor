@@ -64,7 +64,10 @@ try {
 // Step 3: Filter specific data we want to keep
 const enhancedData: Array<ParsedData> = data
   .map((item) => {
-    const [_, id] = item.name.split("#");
+    let id = item.name;
+    if (id.includes("#")) {
+      id = id.split("#")[1];
+    }
     const storeURL = `https://solanart.io/search/?token=${item.token_add}`;
 
     return {
