@@ -1,6 +1,8 @@
 require "json"
 require "open-uri"
 
+# Downloads Moonrank data for collection and generates moonrank file
+
 data = {}
 
 URI.open("https://moonrank.app/mints/#{ARGV[0]}") do |moonrank_data|
@@ -19,6 +21,6 @@ processed_data.sort_by! { |a, b| a.to_i }
 
 processed_json = JSON.pretty_generate(processed_data.to_h)
 
-File.open(File.join(File.dirname(__FILE__), "./#{ARGV[0]}.json"), "w") do |moonrank_file|
+File.open(File.join(File.dirname(__FILE__), "../.github/moonrank/#{ARGV[0]}.json"), "w") do |moonrank_file|
   moonrank_file.write processed_json
 end

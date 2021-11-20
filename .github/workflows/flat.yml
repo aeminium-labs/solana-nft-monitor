@@ -6,8 +6,7 @@ on:
   push:
     paths:
       - .github/workflows/flat.yml
-      - ./postprocess-magiceden.ts
-      - ./postprocess-solanart.ts
+      - ./postprocess/*.ts
 jobs:
   scheduled:
     runs-on: ubuntu-latest
@@ -24,28 +23,28 @@ jobs:
         with:
           http_url: https://api-mainnet.magiceden.io/rpc/getListedNFTsByQuery?q=%7B%22%24match%22%3A%7B%22collectionSymbol%22%3A%22saiba_gang%22%7D%2C%22%24sort%22%3A%7B%22takerAmount%22%3A1%2C%22createdAt%22%3A-1%7D%7D
           downloaded_filename: saibagang__magiceden.json
-          postprocess: ./postprocess-magiceden.ts
+          postprocess: ./postprocess/magiceden.ts
 
       - name: saibagang - Fetch Solanart data
         uses: githubocto/flat@v3
         with:
           http_url: https://qzlsklfacc.medianetwork.cloud/nft_for_sale?collection=saibagang
           downloaded_filename: saibagang__solanart.json
-          postprocess: ./postprocess-solanart.ts
+          postprocess: ./postprocess/solanart.ts
 
       - name: towerdao - Fetch Magic Eden data
         uses: githubocto/flat@v3
         with:
           http_url: https://api-mainnet.magiceden.io/rpc/getListedNFTsByQuery?q=%7B%22%24match%22%3A%7B%22collectionSymbol%22%3A%22the_tower%22%7D%2C%22%24sort%22%3A%7B%22takerAmount%22%3A1%2C%22createdAt%22%3A-1%7D%7D
           downloaded_filename: towerdao__magiceden.json
-          postprocess: ./postprocess-magiceden.ts
+          postprocess: ./postprocess/magiceden.ts
 
       - name: towerdao - Fetch Solanart data
         uses: githubocto/flat@v3
         with:
           http_url: https://qzlsklfacc.medianetwork.cloud/nft_for_sale?collection=thetower
           downloaded_filename: towerdao__solanart.json
-          postprocess: ./postprocess-solanart.ts
+          postprocess: ./postprocess/solanart.ts
 
       - name: towerdao - Fetch Alpha Art data
         uses: githubocto/flat@v3
@@ -53,21 +52,21 @@ jobs:
           http_url: https://apis.alpha.art/api/v1/collection
           downloaded_filename: towerdao__alphaart.json
           axios_config: .github/alpha_axios_configs/towerdao.json
-          postprocess: ./postprocess-alphaart.ts
+          postprocess: ./postprocess/alphaart.ts
 
       - name: gloompunkclub - Fetch Magic Eden data
         uses: githubocto/flat@v3
         with:
           http_url: https://api-mainnet.magiceden.io/rpc/getListedNFTsByQuery?q=%7B%22%24match%22%3A%7B%22collectionSymbol%22%3A%22gloom_punk_club%22%7D%2C%22%24sort%22%3A%7B%22takerAmount%22%3A1%2C%22createdAt%22%3A-1%7D%7D
           downloaded_filename: gloompunkclub__magiceden.json
-          postprocess: ./postprocess-magiceden.ts
+          postprocess: ./postprocess/magiceden.ts
 
       - name: gloompunkclub - Fetch Solanart data
         uses: githubocto/flat@v3
         with:
           http_url: https://qzlsklfacc.medianetwork.cloud/nft_for_sale?collection=gloompunk
           downloaded_filename: gloompunkclub__solanart.json
-          postprocess: ./postprocess-solanart.ts
+          postprocess: ./postprocess/solanart.ts
 
       - name: gloompunkclub - Fetch Alpha Art data
         uses: githubocto/flat@v3
@@ -75,21 +74,21 @@ jobs:
           http_url: https://apis.alpha.art/api/v1/collection
           downloaded_filename: gloompunkclub__alphaart.json
           axios_config: .github/alpha_axios_configs/gloompunkclub.json
-          postprocess: ./postprocess-alphaart.ts
+          postprocess: ./postprocess/alphaart.ts
 
       - name: crypto_cultists - Fetch Magic Eden data
         uses: githubocto/flat@v3
         with:
           http_url: https://api-mainnet.magiceden.io/rpc/getListedNFTsByQuery?q=%7B%22%24match%22%3A%7B%22collectionSymbol%22%3A%22crypto_cultist%22%7D%2C%22%24sort%22%3A%7B%22takerAmount%22%3A1%2C%22createdAt%22%3A-1%7D%7D
           downloaded_filename: crypto_cultists__magiceden.json
-          postprocess: ./postprocess-magiceden.ts
+          postprocess: ./postprocess/magiceden.ts
 
       - name: solsunsets - Fetch Magic Eden data
         uses: githubocto/flat@v3
         with:
           http_url: https://api-mainnet.magiceden.io/rpc/getListedNFTsByQuery?q=%7B%22%24match%22%3A%7B%22collectionSymbol%22%3A%22solsunsets%22%7D%2C%22%24sort%22%3A%7B%22takerAmount%22%3A1%2C%22createdAt%22%3A-1%7D%7D
           downloaded_filename: solsunsets__magiceden.json
-          postprocess: ./postprocess-magiceden.ts
+          postprocess: ./postprocess/magiceden.ts
 
       - name: solsunsets - Fetch Alpha Art data
         uses: githubocto/flat@v3
@@ -97,14 +96,14 @@ jobs:
           http_url: https://apis.alpha.art/api/v1/collection
           downloaded_filename: solsunsets__alphaart.json
           axios_config: .github/alpha_axios_configs/solsunsets.json
-          postprocess: ./postprocess-alphaart.ts
+          postprocess: ./postprocess/alphaart.ts
 
       - name: flamingo_party - Fetch Magic Eden data
         uses: githubocto/flat@v3
         with:
           http_url: https://api-mainnet.magiceden.io/rpc/getListedNFTsByQuery?q=%7B%22%24match%22%3A%7B%22collectionSymbol%22%3A%22flamingo_party%22%7D%2C%22%24sort%22%3A%7B%22takerAmount%22%3A1%2C%22createdAt%22%3A-1%7D%7D
           downloaded_filename: flamingo_party__magiceden.json
-          postprocess: ./postprocess-magiceden.ts
+          postprocess: ./postprocess/magiceden.ts
 
       - name: flamingo_party - Fetch Alpha Art data
         uses: githubocto/flat@v3
@@ -112,14 +111,14 @@ jobs:
           http_url: https://apis.alpha.art/api/v1/collection
           downloaded_filename: flamingo_party__alphaart.json
           axios_config: .github/alpha_axios_configs/flamingo_party.json
-          postprocess: ./postprocess-alphaart.ts
+          postprocess: ./postprocess/alphaart.ts
 
       - name: careless_cats - Fetch Magic Eden data
         uses: githubocto/flat@v3
         with:
           http_url: https://api-mainnet.magiceden.io/rpc/getListedNFTsByQuery?q=%7B%22%24match%22%3A%7B%22collectionSymbol%22%3A%22careless_cats%22%7D%2C%22%24sort%22%3A%7B%22takerAmount%22%3A1%2C%22createdAt%22%3A-1%7D%7D
           downloaded_filename: careless_cats__magiceden.json
-          postprocess: ./postprocess-magiceden.ts
+          postprocess: ./postprocess/magiceden.ts
 
       - name: careless_cats - Fetch Alpha Art data
         uses: githubocto/flat@v3
@@ -127,21 +126,21 @@ jobs:
           http_url: https://apis.alpha.art/api/v1/collection
           downloaded_filename: careless_cats__alphaart.json
           axios_config: .github/alpha_axios_configs/careless_cats.json
-          postprocess: ./postprocess-alphaart.ts
+          postprocess: ./postprocess/alphaart.ts
 
       - name: pixel_creatures - Fetch Magic Eden data
         uses: githubocto/flat@v3
         with:
           http_url: https://api-mainnet.magiceden.io/rpc/getListedNFTsByQuery?q=%7B%22%24match%22%3A%7B%22collectionSymbol%22%3A%22pixel_creatures%22%7D%2C%22%24sort%22%3A%7B%22takerAmount%22%3A1%2C%22createdAt%22%3A-1%7D%7D
           downloaded_filename: pixel_creatures__magiceden.json
-          postprocess: ./postprocess-magiceden.ts
+          postprocess: ./postprocess/magiceden.ts
 
       - name: solsocks - Fetch Magic Eden data
         uses: githubocto/flat@v3
         with:
           http_url: https://api-mainnet.magiceden.io/rpc/getListedNFTsByQuery?q=%7B%22%24match%22%3A%7B%22collectionSymbol%22%3A%22solsocks%22%7D%2C%22%24sort%22%3A%7B%22takerAmount%22%3A1%2C%22createdAt%22%3A-1%7D%7D
           downloaded_filename: solsocks__magiceden.json
-          postprocess: ./postprocess-magiceden.ts
+          postprocess: ./postprocess/magiceden.ts
 
       - name: solsocks - Fetch Alpha Art data
         uses: githubocto/flat@v3
@@ -149,21 +148,21 @@ jobs:
           http_url: https://apis.alpha.art/api/v1/collection
           downloaded_filename: solsocks__alphaart.json
           axios_config: .github/alpha_axios_configs/solsocks.json
-          postprocess: ./postprocess-alphaart.ts
+          postprocess: ./postprocess/alphaart.ts
 
       - name: solsteads - Fetch Magic Eden data
         uses: githubocto/flat@v3
         with:
           http_url: https://api-mainnet.magiceden.io/rpc/getListedNFTsByQuery?q=%7B%22%24match%22%3A%7B%22collectionSymbol%22%3A%22solsteads_surreal_estate%22%7D%2C%22%24sort%22%3A%7B%22takerAmount%22%3A1%2C%22createdAt%22%3A-1%7D%7D
           downloaded_filename: solsteads__magiceden.json
-          postprocess: ./postprocess-magiceden.ts
+          postprocess: ./postprocess/magiceden.ts
 
       - name: solsteads - Fetch Solanart data
         uses: githubocto/flat@v3
         with:
           http_url: https://qzlsklfacc.medianetwork.cloud/nft_for_sale?collection=solsteads
           downloaded_filename: solsteads__solanart.json
-          postprocess: ./postprocess-solanart.ts
+          postprocess: ./postprocess/solanart.ts
 
       - name: solsteads - Fetch Alpha Art data
         uses: githubocto/flat@v3
@@ -171,49 +170,49 @@ jobs:
           http_url: https://apis.alpha.art/api/v1/collection
           downloaded_filename: solsteads__alphaart.json
           axios_config: .github/alpha_axios_configs/solsteads.json
-          postprocess: ./postprocess-alphaart.ts
+          postprocess: ./postprocess/alphaart.ts
 
       - name: meerkatmillionaires - Fetch Magic Eden data
         uses: githubocto/flat@v3
         with:
           http_url: https://api-mainnet.magiceden.io/rpc/getListedNFTsByQuery?q=%7B%22%24match%22%3A%7B%22collectionSymbol%22%3A%22meerkat_millionaires_country_club%22%7D%2C%22%24sort%22%3A%7B%22takerAmount%22%3A1%2C%22createdAt%22%3A-1%7D%7D
           downloaded_filename: meerkatmillionaires__magiceden.json
-          postprocess: ./postprocess-magiceden.ts
+          postprocess: ./postprocess/magiceden.ts
 
       - name: meerkatmillionaires - Fetch Solanart data
         uses: githubocto/flat@v3
         with:
           http_url: https://qzlsklfacc.medianetwork.cloud/nft_for_sale?collection=meerkatmillionairescc
           downloaded_filename: meerkatmillionaires__solanart.json
-          postprocess: ./postprocess-solanart.ts
+          postprocess: ./postprocess/solanart.ts
 
       - name: galacticgeckos - Fetch Magic Eden data
         uses: githubocto/flat@v3
         with:
           http_url: https://api-mainnet.magiceden.io/rpc/getListedNFTsByQuery?q=%7B%22%24match%22%3A%7B%22collectionSymbol%22%3A%22galactic_geckos%22%7D%2C%22%24sort%22%3A%7B%22takerAmount%22%3A1%2C%22createdAt%22%3A-1%7D%7D
           downloaded_filename: galacticgeckos__magiceden.json
-          postprocess: ./postprocess-magiceden.ts
+          postprocess: ./postprocess/magiceden.ts
 
       - name: galacticgeckos - Fetch Solanart data
         uses: githubocto/flat@v3
         with:
           http_url: https://qzlsklfacc.medianetwork.cloud/nft_for_sale?collection=galacticgeckospacegarage
           downloaded_filename: galacticgeckos__solanart.json
-          postprocess: ./postprocess-solanart.ts
+          postprocess: ./postprocess/solanart.ts
 
       - name: degenapes - Fetch Magic Eden data
         uses: githubocto/flat@v3
         with:
           http_url: https://api-mainnet.magiceden.io/rpc/getListedNFTsByQuery?q=%7B%22%24match%22%3A%7B%22collectionSymbol%22%3A%22degenerate_ape_academy%22%7D%2C%22%24sort%22%3A%7B%22takerAmount%22%3A1%2C%22createdAt%22%3A-1%7D%7D
           downloaded_filename: degenapes__magiceden.json
-          postprocess: ./postprocess-magiceden.ts
+          postprocess: ./postprocess/magiceden.ts
 
       - name: degenapes - Fetch Solanart data
         uses: githubocto/flat@v3
         with:
           http_url: https://qzlsklfacc.medianetwork.cloud/nft_for_sale?collection=degenape
           downloaded_filename: degenapes__solanart.json
-          postprocess: ./postprocess-solanart.ts
+          postprocess: ./postprocess/solanart.ts
 
       - name: degenapes - Fetch Alpha Art data
         uses: githubocto/flat@v3
@@ -221,21 +220,21 @@ jobs:
           http_url: https://apis.alpha.art/api/v1/collection
           downloaded_filename: degenapes__alphaart.json
           axios_config: .github/alpha_axios_configs/degenapes.json
-          postprocess: ./postprocess-alphaart.ts
+          postprocess: ./postprocess/alphaart.ts
 
       - name: thugbirdz - Fetch Magic Eden data
         uses: githubocto/flat@v3
         with:
           http_url: https://api-mainnet.magiceden.io/rpc/getListedNFTsByQuery?q=%7B%22%24match%22%3A%7B%22collectionSymbol%22%3A%22thugbirdz%22%7D%2C%22%24sort%22%3A%7B%22takerAmount%22%3A1%2C%22createdAt%22%3A-1%7D%7D
           downloaded_filename: thugbirdz__magiceden.json
-          postprocess: ./postprocess-magiceden.ts
+          postprocess: ./postprocess/magiceden.ts
 
       - name: thugbirdz - Fetch Solanart data
         uses: githubocto/flat@v3
         with:
           http_url: https://qzlsklfacc.medianetwork.cloud/nft_for_sale?collection=thugbirdz
           downloaded_filename: thugbirdz__solanart.json
-          postprocess: ./postprocess-solanart.ts
+          postprocess: ./postprocess/solanart.ts
 
       - name: thugbirdz - Fetch Alpha Art data
         uses: githubocto/flat@v3
@@ -243,21 +242,21 @@ jobs:
           http_url: https://apis.alpha.art/api/v1/collection
           downloaded_filename: thugbirdz__alphaart.json
           axios_config: .github/alpha_axios_configs/thugbirdz.json
-          postprocess: ./postprocess-alphaart.ts
+          postprocess: ./postprocess/alphaart.ts
 
       - name: shadowysupercoder - Fetch Magic Eden data
         uses: githubocto/flat@v3
         with:
           http_url: https://api-mainnet.magiceden.io/rpc/getListedNFTsByQuery?q=%7B%22%24match%22%3A%7B%22collectionSymbol%22%3A%22shadowy_super_coder_dao%22%7D%2C%22%24sort%22%3A%7B%22takerAmount%22%3A1%2C%22createdAt%22%3A-1%7D%7D
           downloaded_filename: shadowysupercoder__magiceden.json
-          postprocess: ./postprocess-magiceden.ts
+          postprocess: ./postprocess/magiceden.ts
 
       - name: shadowysupercoder - Fetch Solanart data
         uses: githubocto/flat@v3
         with:
           http_url: https://qzlsklfacc.medianetwork.cloud/nft_for_sale?collection=shadowysupercoder
           downloaded_filename: shadowysupercoder__solanart.json
-          postprocess: ./postprocess-solanart.ts
+          postprocess: ./postprocess/solanart.ts
 
       - name: shadowysupercoder - Fetch Alpha Art data
         uses: githubocto/flat@v3
@@ -265,21 +264,21 @@ jobs:
           http_url: https://apis.alpha.art/api/v1/collection
           downloaded_filename: shadowysupercoder__alphaart.json
           axios_config: .github/alpha_axios_configs/shadowysupercoder.json
-          postprocess: ./postprocess-alphaart.ts
+          postprocess: ./postprocess/alphaart.ts
 
       - name: aurory - Fetch Magic Eden data
         uses: githubocto/flat@v3
         with:
           http_url: https://api-mainnet.magiceden.io/rpc/getListedNFTsByQuery?q=%7B%22%24match%22%3A%7B%22collectionSymbol%22%3A%22aurory%22%7D%2C%22%24sort%22%3A%7B%22takerAmount%22%3A1%2C%22createdAt%22%3A-1%7D%7D
           downloaded_filename: aurory__magiceden.json
-          postprocess: ./postprocess-magiceden.ts
+          postprocess: ./postprocess/magiceden.ts
 
       - name: aurory - Fetch Solanart data
         uses: githubocto/flat@v3
         with:
           http_url: https://qzlsklfacc.medianetwork.cloud/nft_for_sale?collection=aurory
           downloaded_filename: aurory__solanart.json
-          postprocess: ./postprocess-solanart.ts
+          postprocess: ./postprocess/solanart.ts
 
       - name: aurory - Fetch Alpha Art data
         uses: githubocto/flat@v3
@@ -287,21 +286,21 @@ jobs:
           http_url: https://apis.alpha.art/api/v1/collection
           downloaded_filename: aurory__alphaart.json
           axios_config: .github/alpha_axios_configs/aurory.json
-          postprocess: ./postprocess-alphaart.ts
+          postprocess: ./postprocess/alphaart.ts
 
       - name: grimsyndicate - Fetch Magic Eden data
         uses: githubocto/flat@v3
         with:
           http_url: https://api-mainnet.magiceden.io/rpc/getListedNFTsByQuery?q=%7B%22%24match%22%3A%7B%22collectionSymbol%22%3A%22grim_syndicate%22%7D%2C%22%24sort%22%3A%7B%22takerAmount%22%3A1%2C%22createdAt%22%3A-1%7D%7D
           downloaded_filename: grimsyndicate__magiceden.json
-          postprocess: ./postprocess-magiceden.ts
+          postprocess: ./postprocess/magiceden.ts
 
       - name: grimsyndicate - Fetch Solanart data
         uses: githubocto/flat@v3
         with:
           http_url: https://qzlsklfacc.medianetwork.cloud/nft_for_sale?collection=grimsyndicate
           downloaded_filename: grimsyndicate__solanart.json
-          postprocess: ./postprocess-solanart.ts
+          postprocess: ./postprocess/solanart.ts
 
       - name: grimsyndicate - Fetch Alpha Art data
         uses: githubocto/flat@v3
@@ -309,21 +308,21 @@ jobs:
           http_url: https://apis.alpha.art/api/v1/collection
           downloaded_filename: grimsyndicate__alphaart.json
           axios_config: .github/alpha_axios_configs/grimsyndicate.json
-          postprocess: ./postprocess-alphaart.ts
+          postprocess: ./postprocess/alphaart.ts
 
       - name: famousfoxfederation - Fetch Magic Eden data
         uses: githubocto/flat@v3
         with:
           http_url: https://api-mainnet.magiceden.io/rpc/getListedNFTsByQuery?q=%7B%22%24match%22%3A%7B%22collectionSymbol%22%3A%22famous_fox_federation%22%7D%2C%22%24sort%22%3A%7B%22takerAmount%22%3A1%2C%22createdAt%22%3A-1%7D%7D
           downloaded_filename: famousfoxfederation__magiceden.json
-          postprocess: ./postprocess-magiceden.ts
+          postprocess: ./postprocess/magiceden.ts
 
       - name: famousfoxfederation - Fetch Solanart data
         uses: githubocto/flat@v3
         with:
           http_url: https://qzlsklfacc.medianetwork.cloud/nft_for_sale?collection=famousfoxfederation
           downloaded_filename: famousfoxfederation__solanart.json
-          postprocess: ./postprocess-solanart.ts
+          postprocess: ./postprocess/solanart.ts
 
       - name: famousfoxfederation - Fetch Alpha Art data
         uses: githubocto/flat@v3
@@ -331,21 +330,21 @@ jobs:
           http_url: https://apis.alpha.art/api/v1/collection
           downloaded_filename: famousfoxfederation__alphaart.json
           axios_config: .github/alpha_axios_configs/famousfoxfederation.json
-          postprocess: ./postprocess-alphaart.ts
+          postprocess: ./postprocess/alphaart.ts
 
       - name: nyan_heroes - Fetch Magic Eden data
         uses: githubocto/flat@v3
         with:
           http_url: https://api-mainnet.magiceden.io/rpc/getListedNFTsByQuery?q=%7B%22%24match%22%3A%7B%22collectionSymbol%22%3A%22nyan_heroes%22%7D%2C%22%24sort%22%3A%7B%22takerAmount%22%3A1%2C%22createdAt%22%3A-1%7D%7D
           downloaded_filename: nyan_heroes__magiceden.json
-          postprocess: ./postprocess-magiceden.ts
+          postprocess: ./postprocess/magiceden.ts
 
       - name: nyan_heroes - Fetch Solanart data
         uses: githubocto/flat@v3
         with:
           http_url: https://qzlsklfacc.medianetwork.cloud/nft_for_sale?collection=nyanheroes
           downloaded_filename: nyan_heroes__solanart.json
-          postprocess: ./postprocess-solanart.ts
+          postprocess: ./postprocess/solanart.ts
 
       - name: nyan_heroes - Fetch Alpha Art data
         uses: githubocto/flat@v3
@@ -353,35 +352,35 @@ jobs:
           http_url: https://apis.alpha.art/api/v1/collection
           downloaded_filename: nyan_heroes__alphaart.json
           axios_config: .github/alpha_axios_configs/nyan_heroes.json
-          postprocess: ./postprocess-alphaart.ts
+          postprocess: ./postprocess/alphaart.ts
 
       - name: babolex - Fetch Magic Eden data
         uses: githubocto/flat@v3
         with:
           http_url: https://api-mainnet.magiceden.io/rpc/getListedNFTsByQuery?q=%7B%22%24match%22%3A%7B%22collectionSymbol%22%3A%22babolex%22%7D%2C%22%24sort%22%3A%7B%22takerAmount%22%3A1%2C%22createdAt%22%3A-1%7D%7D
           downloaded_filename: babolex__magiceden.json
-          postprocess: ./postprocess-magiceden.ts
+          postprocess: ./postprocess/magiceden.ts
 
       - name: babolex - Fetch Solanart data
         uses: githubocto/flat@v3
         with:
           http_url: https://qzlsklfacc.medianetwork.cloud/nft_for_sale?collection=babolex
           downloaded_filename: babolex__solanart.json
-          postprocess: ./postprocess-solanart.ts
+          postprocess: ./postprocess/solanart.ts
 
       - name: skeletoncrew - Fetch Magic Eden data
         uses: githubocto/flat@v3
         with:
           http_url: https://api-mainnet.magiceden.io/rpc/getListedNFTsByQuery?q=%7B%22%24match%22%3A%7B%22collectionSymbol%22%3A%22skeleton_crew_skulls%22%7D%2C%22%24sort%22%3A%7B%22takerAmount%22%3A1%2C%22createdAt%22%3A-1%7D%7D
           downloaded_filename: skeletoncrew__magiceden.json
-          postprocess: ./postprocess-magiceden.ts
+          postprocess: ./postprocess/magiceden.ts
 
       - name: skeletoncrew - Fetch Solanart data
         uses: githubocto/flat@v3
         with:
           http_url: https://qzlsklfacc.medianetwork.cloud/nft_for_sale?collection=skeletoncrew
           downloaded_filename: skeletoncrew__solanart.json
-          postprocess: ./postprocess-solanart.ts
+          postprocess: ./postprocess/solanart.ts
 
       - name: skeletoncrew - Fetch Alpha Art data
         uses: githubocto/flat@v3
@@ -389,14 +388,14 @@ jobs:
           http_url: https://apis.alpha.art/api/v1/collection
           downloaded_filename: skeletoncrew__alphaart.json
           axios_config: .github/alpha_axios_configs/skeletoncrew.json
-          postprocess: ./postprocess-alphaart.ts
+          postprocess: ./postprocess/alphaart.ts
 
       - name: peskypenguins - Fetch Magic Eden data
         uses: githubocto/flat@v3
         with:
           http_url: https://api-mainnet.magiceden.io/rpc/getListedNFTsByQuery?q=%7B%22%24match%22%3A%7B%22collectionSymbol%22%3A%22pesky_penguins%22%7D%2C%22%24sort%22%3A%7B%22takerAmount%22%3A1%2C%22createdAt%22%3A-1%7D%7D
           downloaded_filename: peskypenguins__magiceden.json
-          postprocess: ./postprocess-magiceden.ts
+          postprocess: ./postprocess/magiceden.ts
 
       - name: peskypenguins - Fetch Alpha Art data
         uses: githubocto/flat@v3
@@ -404,35 +403,35 @@ jobs:
           http_url: https://apis.alpha.art/api/v1/collection
           downloaded_filename: peskypenguins__alphaart.json
           axios_config: .github/alpha_axios_configs/peskypenguins.json
-          postprocess: ./postprocess-alphaart.ts
+          postprocess: ./postprocess/alphaart.ts
 
       - name: junglecats - Fetch Magic Eden data
         uses: githubocto/flat@v3
         with:
           http_url: https://api-mainnet.magiceden.io/rpc/getListedNFTsByQuery?q=%7B%22%24match%22%3A%7B%22collectionSymbol%22%3A%22jungle_cats%22%7D%2C%22%24sort%22%3A%7B%22takerAmount%22%3A1%2C%22createdAt%22%3A-1%7D%7D
           downloaded_filename: junglecats__magiceden.json
-          postprocess: ./postprocess-magiceden.ts
+          postprocess: ./postprocess/magiceden.ts
 
       - name: junglecats - Fetch Solanart data
         uses: githubocto/flat@v3
         with:
           http_url: https://qzlsklfacc.medianetwork.cloud/nft_for_sale?collection=junglecats
           downloaded_filename: junglecats__solanart.json
-          postprocess: ./postprocess-solanart.ts
+          postprocess: ./postprocess/solanart.ts
 
       - name: boryokudragonz - Fetch Magic Eden data
         uses: githubocto/flat@v3
         with:
           http_url: https://api-mainnet.magiceden.io/rpc/getListedNFTsByQuery?q=%7B%22%24match%22%3A%7B%22collectionSymbol%22%3A%22boryoku_dragonz%22%7D%2C%22%24sort%22%3A%7B%22takerAmount%22%3A1%2C%22createdAt%22%3A-1%7D%7D
           downloaded_filename: boryokudragonz__magiceden.json
-          postprocess: ./postprocess-magiceden.ts
+          postprocess: ./postprocess/magiceden.ts
 
       - name: solgods - Fetch Magic Eden data
         uses: githubocto/flat@v3
         with:
           http_url: https://api-mainnet.magiceden.io/rpc/getListedNFTsByQuery?q=%7B%22%24match%22%3A%7B%22collectionSymbol%22%3A%22solgods%22%7D%2C%22%24sort%22%3A%7B%22takerAmount%22%3A1%2C%22createdAt%22%3A-1%7D%7D
           downloaded_filename: solgods__magiceden.json
-          postprocess: ./postprocess-magiceden.ts
+          postprocess: ./postprocess/magiceden.ts
 
       - name: solgods - Fetch Alpha Art data
         uses: githubocto/flat@v3
@@ -440,28 +439,28 @@ jobs:
           http_url: https://apis.alpha.art/api/v1/collection
           downloaded_filename: solgods__alphaart.json
           axios_config: .github/alpha_axios_configs/solgods.json
-          postprocess: ./postprocess-alphaart.ts
+          postprocess: ./postprocess/alphaart.ts
 
       - name: meremarbles - Fetch Magic Eden data
         uses: githubocto/flat@v3
         with:
           http_url: https://api-mainnet.magiceden.io/rpc/getListedNFTsByQuery?q=%7B%22%24match%22%3A%7B%22collectionSymbol%22%3A%22mere_marbles%22%7D%2C%22%24sort%22%3A%7B%22takerAmount%22%3A1%2C%22createdAt%22%3A-1%7D%7D
           downloaded_filename: meremarbles__magiceden.json
-          postprocess: ./postprocess-magiceden.ts
+          postprocess: ./postprocess/magiceden.ts
 
       - name: solowl - Fetch Magic Eden data
         uses: githubocto/flat@v3
         with:
           http_url: https://api-mainnet.magiceden.io/rpc/getListedNFTsByQuery?q=%7B%22%24match%22%3A%7B%22collectionSymbol%22%3A%22solowl%22%7D%2C%22%24sort%22%3A%7B%22takerAmount%22%3A1%2C%22createdAt%22%3A-1%7D%7D
           downloaded_filename: solowl__magiceden.json
-          postprocess: ./postprocess-magiceden.ts
+          postprocess: ./postprocess/magiceden.ts
 
       - name: secretducksociety - Fetch Magic Eden data
         uses: githubocto/flat@v3
         with:
           http_url: https://api-mainnet.magiceden.io/rpc/getListedNFTsByQuery?q=%7B%22%24match%22%3A%7B%22collectionSymbol%22%3A%22secret_duck_society%22%7D%2C%22%24sort%22%3A%7B%22takerAmount%22%3A1%2C%22createdAt%22%3A-1%7D%7D
           downloaded_filename: secretducksociety__magiceden.json
-          postprocess: ./postprocess-magiceden.ts
+          postprocess: ./postprocess/magiceden.ts
 
       - name: secretducksociety - Fetch Alpha Art data
         uses: githubocto/flat@v3
@@ -469,14 +468,14 @@ jobs:
           http_url: https://apis.alpha.art/api/v1/collection
           downloaded_filename: secretducksociety__alphaart.json
           axios_config: .github/alpha_axios_configs/secretducksociety.json
-          postprocess: ./postprocess-alphaart.ts
+          postprocess: ./postprocess/alphaart.ts
 
       - name: pawnshop_gnomies - Fetch Magic Eden data
         uses: githubocto/flat@v3
         with:
           http_url: https://api-mainnet.magiceden.io/rpc/getListedNFTsByQuery?q=%7B%22%24match%22%3A%7B%22collectionSymbol%22%3A%22pawnshop_gnomies%22%7D%2C%22%24sort%22%3A%7B%22takerAmount%22%3A1%2C%22createdAt%22%3A-1%7D%7D
           downloaded_filename: pawnshop_gnomies__magiceden.json
-          postprocess: ./postprocess-magiceden.ts
+          postprocess: ./postprocess/magiceden.ts
 
       - name: pawnshop_gnomies - Fetch Alpha Art data
         uses: githubocto/flat@v3
@@ -484,4 +483,4 @@ jobs:
           http_url: https://apis.alpha.art/api/v1/collection
           downloaded_filename: pawnshop_gnomies__alphaart.json
           axios_config: .github/alpha_axios_configs/pawnshop_gnomies.json
-          postprocess: ./postprocess-alphaart.ts
+          postprocess: ./postprocess/alphaart.ts

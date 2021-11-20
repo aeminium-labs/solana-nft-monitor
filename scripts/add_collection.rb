@@ -3,7 +3,7 @@ require "json"
 
 # Call like this:
 #
-#   ruby add_collection.rb <moonrank_id> <magiceden_id> <solanart_id> <alphaart_id>
+#   ruby scripts/add_collection.rb <moonrank_id> <magiceden_id> <solanart_id> <alphaart_id>
 #
 
 # Get ids from the console command and do some cleanup
@@ -18,7 +18,7 @@ collection.transform_values! do |id|
 end
 
 # Update the collection index
-collection_index_filename = File.join(File.dirname(__FILE__), "./.github/collections.json")
+collection_index_filename = File.join(File.dirname(__FILE__), "../.github/collections.json")
 collection_index = JSON.parse File.open(collection_index_filename).read
 
 collection_index.push(collection)
@@ -34,4 +34,4 @@ require_relative "generate_workflow"
 require_relative "generate_axios_configs"
 
 # Process moonrank data
-require_relative ".github/moonrank/process_moonrank_data"
+require_relative "process_moonrank_data"

@@ -6,8 +6,7 @@ on:
   push:
     paths:
       - .github/workflows/flat.yml
-      - ./postprocess-magiceden.ts
-      - ./postprocess-solanart.ts
+      - ./postprocess/*.ts
 jobs:
   scheduled:
     runs-on: ubuntu-latest

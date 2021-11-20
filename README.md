@@ -18,8 +18,8 @@ Browse all data at https://flatgithub.com/pgaspar/solana-nft-monitor and use "Da
 I added a very rough Ruby script that'll generate the required files. You just need to give it the collection identifiers for Moonrank, Magic Eden, Solanart and Alpha Art (in that order):
 
 ```shell
-# ruby add_collection.rb <moonrank_id> <magiceden_id> <solanart_id> <alphaart_id>
-$ ruby add_collection.rb towerdao the_tower thetower the-tower
+# ruby scripts/add_collection.rb <moonrank_id> <magiceden_id> <solanart_id> <alphaart_id>
+$ ruby scripts/add_collection.rb towerdao the_tower thetower the-tower
 ```
 
 You can find these identifiers by looking at the URLs:
@@ -32,7 +32,7 @@ You can find these identifiers by looking at the URLs:
 If a collection is not available in one of the marketplaces, set their identifier to `""`:
 
 ```shell
-$ ruby add_collection.rb crypto_cultists crypto_cultist "" ""
+$ ruby scripts/add_collection.rb crypto_cultists crypto_cultist "" ""
 ```
 
 This would skip Solanart and Alpha Art for the Crypto Cultists collection, for example.
