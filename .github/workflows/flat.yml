@@ -310,3 +310,25 @@ jobs:
           downloaded_filename: grimsyndicate__alphaart.json
           axios_config: .github/alpha_axios_configs/grimsyndicate.json
           postprocess: ./postprocess-alphaart.ts
+
+      - name: famousfoxfederation - Fetch Magic Eden data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://api-mainnet.magiceden.io/rpc/getListedNFTsByQuery?q=%7B%22%24match%22%3A%7B%22collectionSymbol%22%3A%22famous_fox_federation%22%7D%2C%22%24sort%22%3A%7B%22takerAmount%22%3A1%2C%22createdAt%22%3A-1%7D%7D
+          downloaded_filename: famousfoxfederation__magiceden.json
+          postprocess: ./postprocess-magiceden.ts
+
+      - name: famousfoxfederation - Fetch Solanart data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://qzlsklfacc.medianetwork.cloud/nft_for_sale?collection=famousfoxfederation
+          downloaded_filename: famousfoxfederation__solanart.json
+          postprocess: ./postprocess-solanart.ts
+
+      - name: famousfoxfederation - Fetch Alpha Art data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://apis.alpha.art/api/v1/collection
+          downloaded_filename: famousfoxfederation__alphaart.json
+          axios_config: .github/alpha_axios_configs/famousfoxfederation.json
+          postprocess: ./postprocess-alphaart.ts
