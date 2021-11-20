@@ -222,3 +222,25 @@ jobs:
           downloaded_filename: degenapes__alphaart.json
           axios_config: .github/alpha_axios_configs/degenapes.json
           postprocess: ./postprocess-alphaart.ts
+
+      - name: thugbirdz - Fetch Magic Eden data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://api-mainnet.magiceden.io/rpc/getListedNFTsByQuery?q=%7B%22%24match%22%3A%7B%22collectionSymbol%22%3A%22thugbirdz%22%7D%2C%22%24sort%22%3A%7B%22takerAmount%22%3A1%2C%22createdAt%22%3A-1%7D%7D
+          downloaded_filename: thugbirdz__magiceden.json
+          postprocess: ./postprocess-magiceden.ts
+
+      - name: thugbirdz - Fetch Solanart data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://qzlsklfacc.medianetwork.cloud/nft_for_sale?collection=thugbirdz
+          downloaded_filename: thugbirdz__solanart.json
+          postprocess: ./postprocess-solanart.ts
+
+      - name: thugbirdz - Fetch Alpha Art data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://apis.alpha.art/api/v1/collection
+          downloaded_filename: thugbirdz__alphaart.json
+          axios_config: .github/alpha_axios_configs/thugbirdz.json
+          postprocess: ./postprocess-alphaart.ts
