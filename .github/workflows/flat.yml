@@ -455,3 +455,17 @@ jobs:
           http_url: https://api-mainnet.magiceden.io/rpc/getListedNFTsByQuery?q=%7B%22%24match%22%3A%7B%22collectionSymbol%22%3A%22solowl%22%7D%2C%22%24sort%22%3A%7B%22takerAmount%22%3A1%2C%22createdAt%22%3A-1%7D%7D
           downloaded_filename: solowl__magiceden.json
           postprocess: ./postprocess-magiceden.ts
+
+      - name: secretducksociety - Fetch Magic Eden data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://api-mainnet.magiceden.io/rpc/getListedNFTsByQuery?q=%7B%22%24match%22%3A%7B%22collectionSymbol%22%3A%22secret_duck_society%22%7D%2C%22%24sort%22%3A%7B%22takerAmount%22%3A1%2C%22createdAt%22%3A-1%7D%7D
+          downloaded_filename: secretducksociety__magiceden.json
+          postprocess: ./postprocess-magiceden.ts
+
+      - name: secretducksociety - Fetch Solanart data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://qzlsklfacc.medianetwork.cloud/nft_for_sale?collection=secret-duck-society
+          downloaded_filename: secretducksociety__solanart.json
+          postprocess: ./postprocess-solanart.ts
