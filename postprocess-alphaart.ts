@@ -53,7 +53,7 @@ try {
 } catch(NotFound) {};
 
 // Step 2.5: Fetch all other result pages (Alpha Art paginates)
-let allTokens = data.tokens;
+let allTokens = data.tokens || [];
 
 while (data.nextPage) {
   data = await fetch("https://apis.alpha.art/api/v1/collection", {
