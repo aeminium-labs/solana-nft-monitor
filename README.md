@@ -13,7 +13,13 @@ Browse all data at https://flatgithub.com/pgaspar/solana-nft-monitor and use "Da
 * Crypto Cultists
 * ... and a few more - check the site!
 
-### Adding new collections
+### Requesting new collections
+
+If you want me to add a new collection to the site, please submit an issue by clicking [this link](https://github.com/pgaspar/solana-nft-monitor/issues/new?assignees=&labels=add+collection&template=request-a-new-collection-listing.md).
+
+Thanks!
+
+### The add_collection.rb script
 
 I added a very rough Ruby script that'll generate the required files. You just need to give it the collection identifiers for Moonrank, Magic Eden, Solanart and Alpha Art (in that order):
 
