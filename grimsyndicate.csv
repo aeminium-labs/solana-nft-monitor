@@ -9,7 +9,6 @@ id,price,moonRank,storeURL
 166,39.990002,405,https://solanart.io/search/?token=C5MCBMDnXJqaELqVoMfBETB2UuJQHV4wdBNhEhkzQkz6
 281,12,4627,https://alpha.art/t/B9GaTFGiHE8Ma1HVuriDqUxaobGCVGBdwXYUkHSZRUKN
 302,8,2129,https://magiceden.io/item-details/A9qTCcUeLcisewwYYuAfRYu4bc2rTnfMD6Ty3HXFD9UV
-305,3.9,4579,https://alpha.art/t/5RxUQnUd2Zpo1XzEPknuAToYJYdZV3LkYLh23GtbJTdE
 317,9.5,817,https://solanart.io/search/?token=12zheFsABCAmSv8S3Uw6sFqi3AA1GWskYUMGRJh4GMzQ
 353,7.5,5719,https://magiceden.io/item-details/E8dQ4NnSELzYihY4GMjAvgCwbmKoqzLJVcmtZCGRVNZk
 387,5.7,3134,https://solanart.io/search/?token=4ADquUPqj7jC88PfqdbfTznPQaH2RTErvEwZ6SqNRDaE
@@ -50,7 +49,6 @@ id,price,moonRank,storeURL
 1256,30,2846,https://solanart.io/search/?token=AdN4khaetTpe5FJRdB3q6FnwknvzLersJrhdKqRherjc
 1257,60,114,https://alpha.art/t/2Rp6Fq2CjEcqKQvgVpqcPW58FasFajdju6aE5NDKkEed
 1285,19,8762,https://solanart.io/search/?token=2nuGZWiMPwaqPexDMX7wA3YsmwRGGezL6zHmqSVieHbK
-1316,13,4147,https://solanart.io/search/?token=3uSuXg4DUTh5KFrbGZ2C5czh9EUsyNZjrLnS8rTocHFG
 1327,9.69,1213,https://magiceden.io/item-details/9PFjUKVamU8qn5Zr9sqkVgM1jY9XSusQGHg2pb5tdTkn
 1356,6.4,5094,https://solanart.io/search/?token=3NDXdEhfwCZYgYSEwNrsVFhosM5T7uhA4WrCmubdW6AQ
 1369,4.24,6699,https://magiceden.io/item-details/8QUxemChouZs5RkFGhVfVJ7Jhmza4ssUXSWWDdL9G1A7
@@ -59,6 +57,7 @@ id,price,moonRank,storeURL
 1468,8,4510,https://magiceden.io/item-details/FtEeEz7tw8CyQPauhkFiKpusbmBiPTMYL2zT34nYeBbn
 1507,12.88,756,https://solanart.io/search/?token=7ychUxMQDqu3ZQ8cFFfWbZWWSCZnMZEZbgqo4imHAqc
 1603,18.690001,2229,https://solanart.io/search/?token=9KtkgXiumsiFGN3coUtayjCRSKa5iNTq6ikrhNjY4epo
+1611,4.2,2585,https://solanart.io/search/?token=FueTmWr1h5EnTSvjHJiw45tSd4y5LhjhG8T5YLgcWcWg
 1623,22,3723,https://solanart.io/search/?token=64SWobmCRXkv2WqaPtAmRBjiJFpsgwaMy27PAsQcLC2r
 1642,15,627,https://solanart.io/search/?token=FqAYgKqiBWoWeosyH34M71yUPtmcbSuHbxTam3Nb7RZM
 1644,19,6759,https://solanart.io/search/?token=5WMoUVZDvScuvVu76VgRcKKDpoVNrvZoYfEbqComLam8
@@ -342,6 +341,7 @@ id,price,moonRank,storeURL
 6791,8,2329,https://solanart.io/search/?token=Ac5Ldp84EFbbffxC4xiFuiiZ9f8W2z9ASNsHd6tzmETY
 6793,3.9,1646,https://solanart.io/search/?token=4mWwDH3JvUGEseaRTLHZEAvHAbMVzZTBZLg3UixWEC4e
 6805,5.9,4974,https://solanart.io/search/?token=8Dr7BwtgecqWKrVVAUrh2oNPcgCrtPEfMnVpEcTM4eGF
+6814,8,1703,https://solanart.io/search/?token=CUtP6VSPUkk9Kznit3oiA92b7knZ1zUUYmy7PDipuUdL
 6826,100,2868,https://magiceden.io/item-details/4rjxFHHLBmwRp7d2HuD4ANJkNAyahapCb1zazdPfSa93
 6901,19,3493,https://solanart.io/search/?token=8k6LztzjfG1rbQ5ZTAYCnRwVfQyugEJ2akdiZ6eKgp5L
 6930,3.85,3999,https://alpha.art/t/A7Fv8ATrcDtaZthUcy5JHVVao3JgNiJXCSxLGGH3UnH2
@@ -417,7 +417,6 @@ id,price,moonRank,storeURL
 8008,28,7243,https://magiceden.io/item-details/HUXVtfV8NRdNbh6sDC2UhKCnT4D9PdL1pacuMEozjC1e
 8029,5,6263,https://solanart.io/search/?token=9eQ1ZAEGbs4mb3YWcSatfNQpDYWZb4hDfPEasHDs2es1
 8030,40,134,https://magiceden.io/item-details/BFgU5EpjsLjorTtaR7krowmLqbdXbWB1UGurC88UXxHs
-8040,12,6599,https://solanart.io/search/?token=C9JknsAxfhSrwc69yrAnsjYPjyG2NpyFBtrpFmDNijKh
 8045,6,3991,https://magiceden.io/item-details/BgCmKnvYN1p3RBd79q9Ni2uJasrjJhr6Az2vuFtMt2ai
 8066,75,364,https://solanart.io/search/?token=J9woXD8UnYz5qhcSkJJ7yVo9ezuz2FUsiPBXLh8MKtku
 8075,5,9334,https://magiceden.io/item-details/9UU9DnnFMYZfEVBQitnb421ZLCKfADxNW4myy7KY5vgd
@@ -466,6 +465,7 @@ id,price,moonRank,storeURL
 8776,8.49,6099,https://alpha.art/t/92TTC4suDLpHfvD3rd1dQuMSMeHVs9FxE3GbKz8tf5eE
 8792,4.24,7905,https://magiceden.io/item-details/AaRvn2foG6i9uSk5ADDXtadFUoev7sky3aFaYGSzcjAg
 8805,12.69,5587,https://magiceden.io/item-details/6cX6LzqNKLoicXVFe864k5gXWKQtwuXt2KMhG4RScc2w
+8811,15,1117,https://alpha.art/t/HTeTNLvQi8eiDQ8B2KaiyZhRwcT98urwUmyeuMJhZWZ1
 8820,8.99,3022,https://solanart.io/search/?token=7MxtkLDGUoQB9xqbcVbz9pG5MtvnhYX3MjxVzRShv1Hn
 8831,25,2457,https://solanart.io/search/?token=66ZHQx9atvY4ek1Ad9cJunHir55oyZG3LJt2NQSurVw3
 8853,18,5606,https://magiceden.io/item-details/3Csr9jVu1v1xwyGEbmXJkhi5KeXwvW4ek53b8rz4vbMj
