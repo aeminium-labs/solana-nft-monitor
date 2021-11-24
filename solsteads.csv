@@ -144,7 +144,7 @@ id,price,moonRank,storeURL
 229 Baker Street,45,53,https://solanart.io/search/?token=8Vs7SxgqqdEzoznQXWm9P4VFTAQ3TSskfPec7JYMXTQX
 233 Bit Boulevard,18,1807,https://solanart.io/search/?token=4cGtLqsbjywm8NZwyzDijEVU4QyfLz1S9x3s2rZkQYe5
 233 Privet Drive,88.88,1983,https://alpha.art/t/FgfmbXZbbx1t4NiXSzpJY1FMjojDXbAirAMqqvkbjf9X
-234 Bit Boulevard,100,2166,https://solanart.io/search/?token=Di2otapZgiQnz43dkBtNq8aQSp8vANhMbv6RBZT2pxBA
+234 Bit Boulevard,60,2166,https://solanart.io/search/?token=Di2otapZgiQnz43dkBtNq8aQSp8vANhMbv6RBZT2pxBA
 235 Bit Boulevard,53.42,260,https://alpha.art/t/ASo7gPNXZwmvxAAoLxRJQu3AHuab1SF4bz3QtBohE1qr
 238 Bit Boulevard,30,1231,https://magiceden.io/item-details/8gB8zxhxxLNanXPmiLDeokSiNXhg8iMx7JvAHu6VREka
 238 Baker Street,39.974998,2318,https://solanart.io/search/?token=HkKAcWpWs9u9vUiECd4X2c2xbjaCw3nuWhBSu3VCLb46
@@ -191,6 +191,7 @@ id,price,moonRank,storeURL
 308 First Avenue,50,651,https://alpha.art/t/CzxkiYKEx91V459vGMhuuAzvU6gzZrv4S7b1kLw7yuP9
 309 Pico Street,43,932,https://solanart.io/search/?token=Dz1uNV15hyvh7nXniSBe7pR8i2s6fEqzVke4NNqg1ASL
 310 Pico Street,50,47,https://solanart.io/search/?token=8Sf8avwyLdXSMw12cwSBHfAwLhb1Ekvb962HYckpUV7g
+311 Sierra Avenue,45,2297,https://magiceden.io/item-details/EY4dyVh9g2VYv8zuaEzLqgsYxU4Wowj8A47jXq1TtqNW
 313 Bit Boulevard,29,1897,https://magiceden.io/item-details/Hqaw5Y1pK8F8DxZBAPGLmPcvxZyunFFxnrjBTogHNFCu
 313 Delray Circle,71,103,https://solanart.io/search/?token=6Bmm1zWoWbXwdXR7NrEBSX4VsMXYt2nLeYrBW5riJedL
 314 First Avenue,20.5,2468,https://magiceden.io/item-details/5bgQP4wFn3SB2KxYHCXtzBfmn81oaPi55LokZ2htC1dG
@@ -257,7 +258,6 @@ id,price,moonRank,storeURL
 389 Lynwood Avenue,129,162,https://solanart.io/search/?token=XNtrnegT9cUTG79qscmfLYZed9zxFzEFutqSEWuwtB9
 390 First Avenue,111,589,https://solanart.io/search/?token=9kRjLm7UCf4WvET6udjmxwEhaXCpj9LLVEDmbRVLoGJw
 392 Lamport Lane,69.98,201,https://magiceden.io/item-details/66fufXXTMQFYeGvSATfYWJW3TaQC4FBMsRsuedmAntbx
-393 Lamport Lane,25,2163,https://solanart.io/search/?token=H46zyn9CsvqmNMerBuhdQRCkdFSRh8h8TFGvtdMHL6wQ
 393 Sierra Avenue,99,277,https://solanart.io/search/?token=55jD8Wtows7CZ3tVJrRKL5Aqe2sJ22wa51mGikaHctF4
 394 Lamport Lane,99,1969,https://solanart.io/search/?token=9AeTJapE25wDQ1pGUJXDbnEVRNvwUiEwst5MJ58Bivjg
 394 Mint Mile,99,79,https://solanart.io/search/?token=8niyBCtTmwXhPhon1FvJfP46WFsivEobmqyQQyPAp2YU
@@ -288,7 +288,7 @@ id,price,moonRank,storeURL
 420 Blockchain Drive,142.01,2076,https://magiceden.io/item-details/DUy9Ank1NV5hSAX8YoEEJmVfCzY8iHWN5QdgqCHEqJAc
 420 Dahlia Drive,420,2289,https://solanart.io/search/?token=5jt7Xya3pgHJ79ri3dsyrZr5MgskfTVDyt5iE5KNJbzV
 421 Blaze Boulevard,77,1480,https://magiceden.io/item-details/AX6r4GPPFRSXdAsxdwLjTstxoTdJakRw9v6WdbKwx4DR
-421 Blockchain Drive,88,49,https://solanart.io/search/?token=EWEAq8hJ1RHV6oF83vYpzfndmoViaYpuWoXDAb4ygHN5
+421 Blockchain Drive,58,49,https://solanart.io/search/?token=EWEAq8hJ1RHV6oF83vYpzfndmoViaYpuWoXDAb4ygHN5
 422 Grime Lane,45,1854,https://magiceden.io/item-details/2p8PGE3L5kSzLHZikjdh7D6oQbuYTjvhpfasKUfXskUV
 422 Evergreen Terrace,169,330,https://magiceden.io/item-details/9fD1KbaehCCP64xZ5kixSrXrPYiZ38bpRbRQnNkB6kvV
 423 Blaze Boulevard,100,1816,https://solanart.io/search/?token=2Am6vbxwM9a5WgG6qmc6uhuUjzCkio32VTwbK9oZ6mQX
@@ -302,7 +302,7 @@ id,price,moonRank,storeURL
 431 Blaze Boulevard,420.690002,2080,https://solanart.io/search/?token=HrW8qAYjoZBMbfPvsSfxZDMmCwbKH7HZAMQ2fp5xnWrq
 432 Blaze Boulevard,125,1311,https://solanart.io/search/?token=3Q8dMFe5LXcno9viNkdk3Bwp5N9Lq8uwUgjqtB7N7cLJ
 433 Lamport Lane,30,1181,https://solanart.io/search/?token=G79ZVpcws1VkSh3wWX99MEbhBcmsn8jhgZ6W2xL3Npc8
-434 Dahlia Drive,19,2224,https://solanart.io/search/?token=HkfSxwoeSqNxqmhTtoDYPjaqYrJpQbH4gyQ2Xe3oQABS
+434 Dahlia Drive,18,2224,https://solanart.io/search/?token=HkfSxwoeSqNxqmhTtoDYPjaqYrJpQbH4gyQ2Xe3oQABS
 434 Lamport Lane,27,1815,https://alpha.art/t/CqkZVXLGGdzYR6S5KnpEtuBVnHiUxh22zgv5m69Qmzrv
 436 Lamport Lane,55,94,https://solanart.io/search/?token=99B1cYZCDoxqGKVNPyZSzH6i5Mf1vL3SjuP4qY88KB4A
 437 Blaze Boulevard,70,728,https://magiceden.io/item-details/HAV2gTofrLeaYyc1rh9N2J23YsRAoHqD8PFBTdMwcb8L
@@ -357,7 +357,6 @@ id,price,moonRank,storeURL
 549 Dip Drive,48,392,https://solanart.io/search/?token=HdM1C7ZC4yV2GgJPKzbrjTJFPXKzSbtbkFR6LJQbd3Gn
 554 Jane Jacobs Way,64.800003,1836,https://solanart.io/search/?token=BvQnCGn6BFjEiw3v3Vi64t4eYRjGc4TSXHJtsgf8WhfL
 558 Dahlia Drive,49,1950,https://magiceden.io/item-details/7c35bmYTNMa6BtzFYCBc9uo7ztYxv3feSp7VAu9H3cgK
-558 Jane Jacobs Way,23,904,https://solanart.io/search/?token=F4rVHqEZVMtbaKL7vYedo4rx65vd3rCWF12YSnAURYMU
 561 Jane Jacobs Way,25,832,https://alpha.art/t/AqYqmemDAHs7LhMetyVCirGY94qBYyCm6PTRt8n4A6UG
 563 Jane Jacobs Way,99,588,https://solanart.io/search/?token=5P846LaXsHxicPgbx9zDyyk8eWNsJ4TqcYsDQ6KpD9ZB
 564 Poplar Street,300,1675,https://solanart.io/search/?token=4WKYrT4of18ftcq4Ckw6zzsVHczi1ReNK6VgkpGoco5P
@@ -414,7 +413,7 @@ id,price,moonRank,storeURL
 641 Dahlia Drive,45,818,https://magiceden.io/item-details/3sza4wwpyB9WvEkonARbqa1AWfGu8hE9YZ611cnfzx8c
 641 Clipping Drive,111,2265,https://solanart.io/search/?token=Cck6zK97CW2KVbNqNXfw6NS2ZPmF1GHsGKm26qJ2mzNW
 641 Dip Drive,230,432,https://solanart.io/search/?token=41kyAZLwYmcU6LK6uVhhaDV6FjCFmZZSmX5vsPJvB35z
-644 Rip Street,100,2204,https://solanart.io/search/?token=4aoYyhBFs1fn2gvQ3H22WckUpUVngkwtpJ4ujWL138uZ
+644 Rip Street,50,2204,https://solanart.io/search/?token=4aoYyhBFs1fn2gvQ3H22WckUpUVngkwtpJ4ujWL138uZ
 647 Dip Drive,99,2009,https://solanart.io/search/?token=9sUQo95MY65muWbf9YJvQLFoUmLvZmm9z4sZRTXGKP7j
 650 Ramsey Street,25,1182,https://solanart.io/search/?token=Gqro16bUnRJa6BqEbnNYTKbTeJuEpguqNxHLr5Z5TjT5
 651 Epoch Avenue,19.4,2411,https://magiceden.io/item-details/FC5a7pQpHnefZZW48RGMQdxPmVjre7nsfx3BAS1udKQD
@@ -463,7 +462,6 @@ id,price,moonRank,storeURL
 731 Clipping Drive,101,35,https://magiceden.io/item-details/GGpfkdj2qvQr5RbEndj16n4z7mhiVjZSgYDa6ZTpmPRZ
 734 Clipping Drive,980,136,https://solanart.io/search/?token=BbhSFLvn4QBiyHQt7vWjMvbWUrB2QhWmKQpxui5hSyKK
 737 Rodeo Drive,24,664,https://magiceden.io/item-details/9XwBhdWisR7Sw1nNMMHTemuUz2ESSSecGHYa96M1AmEV
-741 Rodeo Drive,25,142,https://magiceden.io/item-details/3eDPbdkjAVRNATn348b61wT1nUyFBxKRQiBxPTHqqK7Y
 748 Rodeo Drive,23,1327,https://magiceden.io/item-details/ErV57BX31j33aeMrDAM8hftBswq9vjPTHttqFZd5pgaY
 758 Rodeo Drive,32,1035,https://solanart.io/search/?token=4zK1N4Aj32PRccoLNmq2yvmVtzJsbTKBpGcLivenYxi3
 767 Rodeo Drive,250,128,https://solanart.io/search/?token=AVieBGgSuJ1KdjabJ3v9rsBSoRmrbAoa5sAMDjkTaHC1
