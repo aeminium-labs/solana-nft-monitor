@@ -1,5 +1,6 @@
 id,price,moonRank,storeURL
 0001,33,2167,https://solanart.io/search/?token=dRKfmNQ9jCxQ6VHCyV4bUmPhatAwurY3PdPg3F2dewp
+0008,6,4349,https://magiceden.io/item-details/9RmQwdGue2SY9BCyC9pc91ZDZKMc8QiVNdw331GDapjc
 0009,11,708,https://solanart.io/search/?token=Dcwo88AuAhynwB76HTdekYUHaW1FwASBfUZQjuSPQ462
 0014,1000,1660,https://solanart.io/search/?token=12iK7WAiJLkF6jSeXRxNQ12xwvp7kWKNEQajYjzRk34m
 0023,2022,4073,https://solanart.io/search/?token=GLc3bxCSsnoPEWkCYyJxRtVNJ6ccMXTaDy7xtzjUu67q
@@ -131,7 +132,6 @@ id,price,moonRank,storeURL
 1297,15,1755,https://solanart.io/search/?token=DamZ3aWwHpMW4Ukcu3JiSdvCK5QEzPWdGwPdckbwXYt5
 1298,20,5469,https://solanart.io/search/?token=3pUeMn5mJyJLPREhierNFyjpThHRYSbQck7iBFsgZjCz
 1300,6,3246,https://solanart.io/search/?token=8vCUpuzUi6UFEtxzTZ5Bk2huRrMVakSZc4MHDae55mZL
-1317,4.15,3978,https://solanart.io/search/?token=6J7WdQTPAfsTSzfmawFZUYbZMNDoEwUfpZtdBWF1xGCq
 1337,10,1208,https://solanart.io/search/?token=3X1tycGnXDxPBbFSTBymvWNwJyNWS2kwFwWtdFxEKBG2
 1347,300,2161,https://solanart.io/search/?token=9HHs6LfiaNoCisz7aKaAuh5CToCkBgVQAAXh9q3DZwWr
 1348,80,2896,https://solanart.io/search/?token=AZhLtpWGNDtgBvTTYJWqWwS6oqRUzcD9acY92apEmeYr
@@ -220,7 +220,7 @@ id,price,moonRank,storeURL
 2090,14,911,https://magiceden.io/item-details/GVEb56qaiQtqhDZo6je2E9cMkjzZ1agTAvBs6ewG1t1y
 2091,30,264,https://solanart.io/search/?token=AFQmxfHrMtUYjHFxVwZCy9cUwzuFcMJKJCdNENa77pxd
 2110,6.5,4568,https://solanart.io/search/?token=J7QmpxKihhL6W7JxwFXJrnsxtfThdF964CaFZrXaFfzD
-2116,5.1,1642,https://solanart.io/search/?token=GGKNgsaWdvigP2LH3iGt1taBF8o1g4EnVVWno4VjsqLS
+2116,4.9,1642,https://solanart.io/search/?token=GGKNgsaWdvigP2LH3iGt1taBF8o1g4EnVVWno4VjsqLS
 2126,7,3283,https://solanart.io/search/?token=4v7hKVswAFBMRiJbiVeGnPWez9a7uZAwhDM4AxjJ3w1n
 2137,7.99,1578,https://solanart.io/search/?token=6kZL5hoWKoTGwk2mwg7PYBKwfr9tF6pXtUB4N91od1ai
 2142,8,3632,https://solanart.io/search/?token=59BtoA1kqnLuDADRuptVxqu1cSyoAtrwW4nCYENbuWf6
@@ -415,13 +415,13 @@ id,price,moonRank,storeURL
 3903,1000,2476,https://solanart.io/search/?token=5gGhiFAj2HH9AQNZc12V8SGxv5AZoUK9hw9iRwc4nSED
 3920,7.48,4098,https://solanart.io/search/?token=2qiaA8Ak4UUSquJxV2UsjT7s2ZdGcjNpHowbbvj7jC9o
 3924,7.5,777,https://magiceden.io/item-details/62BAuKjqkiykp4FLwQzooKRGJfQ32AQpEaVBRTB1KZJv
+3940,8,1127,https://magiceden.io/item-details/EPKTGXDv2xQqQQ9jpbuW7vhEij8hbbscNtKaBmKUCtnw
 3962,10,4944,https://solanart.io/search/?token=7YUB8CKRqyr7QMnZZrUnPKgpoSCuvy65NYBZWY7E5ghM
 3992,3.75,5480,https://solanart.io/search/?token=83pMLZRT5UUEw6uSgn2HAZCz2WUAUWvmZfY44chQJEki
 3993,50,179,https://solanart.io/search/?token=D8HCVzrbB8vgsKeSFo9wkMraJMpgj76gaHnaPbsZtkY1
 4009,28,1708,https://solanart.io/search/?token=3ubiiQRV5FnfHW124LjZtuvFpConDAGn4DvCYEQwHfoH
 4015,100,16,https://magiceden.io/item-details/FHPoKhVbJGb7uUYKyxqqXnVEFj1tpBQo8ima4jsdteSp
 4016,7,3429,https://solanart.io/search/?token=9CpLqTcirEcaHBTk7DDsWdUKskLPxKLkLhhzPyLLqeod
-4020,3,1148,https://solanart.io/search/?token=7BF1PmRpo5L1oAcSVTeBxxWXHVZsNsxGm21w3Mawvucg
 4028,9.9,805,https://solanart.io/search/?token=D9bx66usU8iXBjPd3p7NBbx99DFB9SfWzewRVKgFkqd2
 4038,4.98,292,https://solanart.io/search/?token=4htNpJzsY9yVKyiiuuNyJRS61XaA5hA9qs3SuxLP8dFG
 4055,7.9,916,https://solanart.io/search/?token=GpvY1gmVUFjBQp7Rc5PUAqgu6YF6HzvLZZTGVgediKHi
@@ -537,7 +537,7 @@ id,price,moonRank,storeURL
 5161,6,4789,https://solanart.io/search/?token=E5qBk4TcLQAu6opHdSSqDigMDVX7vs9WpupYK9JCsMm4
 5167,20,66,https://solanart.io/search/?token=Dzrd2ufu9u9FuDTAQWXFt8pdHG1bquPvWrXShdrtEk8f
 5170,14.99,5476,https://solanart.io/search/?token=9QbDZssbjKqRpKN92T5RWoEbk9JoZHXM7YkTwYTuW2KB
-5175,11,1070,https://solanart.io/search/?token=36dBs3Vj2AWxLwTV3wPiJd2TijizRMrwEaCx1UbDSSnA
+5175,9,1070,https://solanart.io/search/?token=36dBs3Vj2AWxLwTV3wPiJd2TijizRMrwEaCx1UbDSSnA
 5181,9.99,3636,https://solanart.io/search/?token=5ikt5wCZyF4CZTf9pzZ2Ccxa1X8zX1dEddhV5cvKY9JQ
 5184,3.7,2980,https://solanart.io/search/?token=CK5HEPgGt91i54NHbH5imiAg8afBacDSw1T578rhQxT5
 5240,7,547,https://solanart.io/search/?token=FLpHF6n88wCzpRbjqDkJ9u7haHSNKfAko5KSJyXp9rtM
