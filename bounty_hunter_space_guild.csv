@@ -1,5 +1,6 @@
 id,price,moonRank,storeURL
 0006,3,2716,https://magiceden.io/item-details/9JHsv9SjiCBMyz2mdjrGze5PWEgVwAEPMr4uqqvDpggu
+0014,55.55,482,https://magiceden.io/item-details/b6px857iumFfVJz9XVjsB514b9D9Jq83LWjnzK6dXN8
 0034,2.3,3239,https://magiceden.io/item-details/FMfgb9DCQDMoQtewwLWuEww5K5evM3jFuCywCaYoqfbw
 0044,1.92,1472,https://magiceden.io/item-details/5EQ3UZmoFQsNvZgwFBNErKVCMzsrLsEspxttHFCiFmSS
 0057,1.24,1744,https://magiceden.io/item-details/7vPu84EohpQfHiAswqAEA8gJJkr62WZJvUcbkRCqMfDW
@@ -17,6 +18,7 @@ id,price,moonRank,storeURL
 0198,2.2,3268,https://magiceden.io/item-details/7ctehbf79KwSk2jBaNPkXFGRZnnM7LKHCSEsfbZLdipC
 0203,2,1475,https://magiceden.io/item-details/8753mCngb8N7omkQ8FVzdV9WsYGQhhN6zDG8xQWpSf5g
 0210,2,3865,https://magiceden.io/item-details/6iwjwLdeDqrNYzE4dpWjBcoPnrntUYGCoV7jcVnTJDpY
+0232,2.75,72,https://magiceden.io/item-details/At9zVkA4Dds4yrjEgpGV97Yv5Ybe6xBWZ8XXPcatCyyb
 0240,1.5,1936,https://magiceden.io/item-details/D9mVkrhCwWY6aDjzQ79jrUK9wXcDM9TnFNs5AjFjkhNy
 0242,5,539,https://magiceden.io/item-details/8XmgYHqR3LatqcnPwg9v7BVyucfivZVmX6peZ5eYuRSQ
 0248,2.1,1373,https://magiceden.io/item-details/CRHkaMn4fUXZuRQ1L2htM2sUWj7zmuv5xd7dAJYZoWeN
@@ -79,8 +81,6 @@ id,price,moonRank,storeURL
 0815,1.16,1707,https://magiceden.io/item-details/7tFTaafaRXbkmwbFgBeXLWAmvbRe7kG8UYAcZX6Bwu7B
 0816,1.5,4418,https://magiceden.io/item-details/BNkHoP7mneZ4Jk9X1844n7Sf9r1m599jaktotQqFK5V8
 0817,38,673,https://magiceden.io/item-details/HjE7EnhQ26P9ycSZks2A72GVeWqfAS1p51guTsw2EYx5
-Bounty Hunter: Jungle Cats,39,9,https://magiceden.io/item-details/8WMqvHjVyQzHKM35rqhXwCA4tcLtui8GandTxWgNshZJ
-0014,55.55,482,https://magiceden.io/item-details/b6px857iumFfVJz9XVjsB514b9D9Jq83LWjnzK6dXN8
 0823,5,1927,https://magiceden.io/item-details/DjPjjb5epmGJdC4kDRsU9TmGrL8VzcwkUPe3KLWLcto8
 0829,1.09,1999,https://magiceden.io/item-details/FGEKfDKSuWxNynKUX4L18DKyh9AmDxp8obsmoVV647kz
 0830,1.12,3841,https://magiceden.io/item-details/8WBY6D7sH35g3WWQt3KuKitX8htcdanTtwWL5b18eQ7k
@@ -99,10 +99,10 @@ Bounty Hunter: Jungle Cats,39,9,https://magiceden.io/item-details/8WMqvHjVyQzHKM
 1013,3,4295,https://magiceden.io/item-details/98t8WEbmatUv66b7wg9FvSX9YjcRjMGfYrjnNJNo2Qsb
 1021,69.69,89,https://magiceden.io/item-details/3gB9TLdKA1YFyTDAEH5N6N84ueGT1iciQu6XpgE4KXAp
 1032,2.33,3147,https://magiceden.io/item-details/HBG5AY7kHemcBWokMce3ttgEYKw8Raoi7GPKvFhU2VXZ
+1063,4,2252,https://magiceden.io/item-details/Bc7uwc9SKZXG28tRNoPMx2wSni4te751xSPj6ocyqZtW
 1066,2.5,4407,https://magiceden.io/item-details/Bmpw9eQcGNeSAxUNJSaQgCzdfezMP1rkAxkBXupZS7wp
 1078,2,3776,https://magiceden.io/item-details/Hwc7nb2pRnMowpzRstRSHWDh3eTWj8qoFktegUatJtWy
 1079,1.49,3276,https://magiceden.io/item-details/HxwawhXk8eW83ZHBJ8FD2XLGfX8Y2Ma6VdL9ativGJw3
-1084,2,1100,https://magiceden.io/item-details/GVLAkKp7wujzZhkiwsEGmT3qARmj2xCt6o3bUcZyE3DE
 1103,2.5,3944,https://magiceden.io/item-details/9FbC1Kbt6bU7BmVoPNVyKhmKbrvBkXLqeCrPnA5PUcpw
 1105,4,531,https://magiceden.io/item-details/AYdXmoegf4wTkpzVptXiG1XdhJatq8x5JY7oiRAuHWVu
 1107,5,975,https://magiceden.io/item-details/CS2M1DgQqQAS3p12ccJBzAgjp4LDh9KnE3yrqi9uTHcU
@@ -118,6 +118,7 @@ Bounty Hunter: Jungle Cats,39,9,https://magiceden.io/item-details/8WMqvHjVyQzHKM
 1319,2,2921,https://magiceden.io/item-details/3ihzDsp1Jh9N2z2T7VxxgK8rwh7hDHXaS6fhTNS62A82
 1330,3,1015,https://magiceden.io/item-details/CutmmYLbgZUrYw9fmfv4WEMVXXzETB3jH3u2afWBCxpk
 1331,2,3358,https://magiceden.io/item-details/3bJ1bKGrv2RkqYnkoparKprtwGypZiFtmUumVzqvVNJb
+1350,0.89,2445,https://magiceden.io/item-details/9VoofDneGeETUbUx8jabbh8rYvrHbJUHVpWMtRSqcKTE
 1351,2.5,1829,https://magiceden.io/item-details/5ET44LWPKSANzK7boqP96aecGvMYi2Ka4n7CtaPrv91b
 1353,5,921,https://magiceden.io/item-details/8BwgHTKC7TsZR2kpyTwzAtapMfqLkxpGz8m5VrqPF5WB
 1365,2.5,2779,https://magiceden.io/item-details/G4TiSf4VddXZ8q3BA5yYbSpM72JD7EWauUMqQukRrK7Q
@@ -152,7 +153,6 @@ Bounty Hunter: Jungle Cats,39,9,https://magiceden.io/item-details/8WMqvHjVyQzHKM
 1827,1.59,1890,https://magiceden.io/item-details/UEjX3JrSiTqiqRgM9SBus1daPxak22uoBXdMhE4tc8n
 1869,1.5,3810,https://magiceden.io/item-details/E2TYkbToki7SbQ8xATc8Aye94DHpgQuHVfttxfbhL4HG
 1916,18,259,https://magiceden.io/item-details/32q4rMrAAQBvWC1jZdE2UBPdnhLN6uWYgotm7CgQfQ7m
-1919,1.1,1064,https://magiceden.io/item-details/3B7hNGys9Ah9wjD21Gq3ywuBXsRJKyRNjyXLkJGFgkQX
 1931,10,2918,https://magiceden.io/item-details/Awf31Ce96FXKXAi9XSENAmHXo1MJFRSzoU9deNHZjyug
 1947,2,2220,https://magiceden.io/item-details/7z6fXCdn1X3eeDjF6TqawjwpiQhUgAwpGZpXUf3KemL6
 1959,3,3451,https://magiceden.io/item-details/AbRtFCBU4iQgEeoyjBcq3VCFfaa4DmDjUftHRhouP4ud
@@ -220,7 +220,6 @@ Bounty Hunter: Jungle Cats,39,9,https://magiceden.io/item-details/8WMqvHjVyQzHKM
 2750,1,4084,https://magiceden.io/item-details/6A73b17m9UsaXuXx4Srjgz62uoKq5rBSPBs2buMd8wfE
 2764,2,3904,https://magiceden.io/item-details/26EMszYqTuPoUHnE6qwziLnNbxLQYBCbJrCesaTH372L
 2765,2,4404,https://magiceden.io/item-details/Bth11TJtS5GifTotgaedEtxKSgRquNRmCTSPDuuro7Gs
-2773,111,621,https://magiceden.io/item-details/8DnN5v8x91y7aVJyb7Uw4D4b6PpfVq878h817KKkmP8D
 2777,6,2791,https://magiceden.io/item-details/38NspyijVEWJJBSc6ttktZnwCHD4S8pWFosczyT6R7Ub
 2779,8,2889,https://magiceden.io/item-details/D7Z1DxJwfGhFwhPxEbRDjWhH4Fd6psjaYBANdxyfY6QN
 2780,13,1709,https://magiceden.io/item-details/HVvWN2irshDYnwZfBm1PkVnM4H8R7ZVmAbs1oYycJodB
@@ -278,10 +277,11 @@ Bounty Hunter: Jungle Cats,39,9,https://magiceden.io/item-details/8WMqvHjVyQzHKM
 3398,2,3778,https://magiceden.io/item-details/3ah1c5Xnv9UCeTURVwAfCqhmvfzaUvVZHaUrbq5UYF1h
 3399,2,3067,https://magiceden.io/item-details/12pWNkfYyUVAqactBmpgfXFknLcRaPpLYo9aD9PEHWQp
 3405,5,800,https://magiceden.io/item-details/7UJrGRDYfasAztG9Bpunfz2MuApQB38bhypz2XhJPSnq
+3408,2.15,120,https://magiceden.io/item-details/3FV1jjLJY19eXo5TNocTXXHvaSQ2Hj1DSaL4ypyK4y6r
 3411,1.7,3705,https://magiceden.io/item-details/Cfbfu8ykBcUz52Qix9NHTjvMp6uHa7sLQ9j4tvESyY71
 3416,1.89,1610,https://magiceden.io/item-details/R9tPz1JDa4qm9Sr4iKj1ibZaDH4ZsbsToGY43FxwZnS
 3435,1.4,3842,https://magiceden.io/item-details/DG9bsXhx8SLQ32wwAvYzZBhPuQaHHr3EbHw7JKr6mrnb
-3452,1.2,1948,https://magiceden.io/item-details/BvDk8SuJJikWNufZShG68qcqg9Ah47nbyTX9TbovvZvN
+3452,1,1948,https://magiceden.io/item-details/BvDk8SuJJikWNufZShG68qcqg9Ah47nbyTX9TbovvZvN
 3457,1.9,1377,https://magiceden.io/item-details/AjHCeXJxc8uh2P5CPFBji1NgmWDZFX3RqB6kdY8TQiiJ
 3486,24,429,https://magiceden.io/item-details/39JSnjQSae7W4BfwH6aE1DBGJ8MyuqCKnhgnBbrhLKq7
 3488,3,2382,https://magiceden.io/item-details/pXJDwFiGYH3NwfaEA29gzynVcnm1KA6iVpVscigQwCa
@@ -366,6 +366,9 @@ Bounty Hunter: Jungle Cats,39,9,https://magiceden.io/item-details/8WMqvHjVyQzHKM
 4415,2,458,https://magiceden.io/item-details/99i8T3HR1GFJY6UoBL7VdyL2BLvP1moCUHohHSagMKv7
 4417,1.8,3438,https://magiceden.io/item-details/DgHWLyQb9mZaKUTKcmyt565CntH9pyNxbeMdNYv4LKbR
 4425,2.5,737,https://magiceden.io/item-details/4PWytRHPvgwf3ZRXPwuLdGmkfHWfUZZnAdrcUEJr7SoB
+Bounty Hunter: ThugBirdz,22,12,https://magiceden.io/item-details/EhyrRFBGBaLrmpZEsMx4wnuMfEdktAdPwhXyMcXmgNXW
+Bounty Hunter: Jungle Cats,39,9,https://magiceden.io/item-details/8WMqvHjVyQzHKM35rqhXwCA4tcLtui8GandTxWgNshZJ
+2773,111,621,https://magiceden.io/item-details/8DnN5v8x91y7aVJyb7Uw4D4b6PpfVq878h817KKkmP8D
 Wikk the Widow,150,3,https://magiceden.io/item-details/99JUyrzogyeYCy6c1wiULRquAAxbUbxKQe3wW1R9URZo
 0021,1.5,1644,https://solanart.io/search/?token=9M7sxuvrafTsbMf8oyQ8ixzAwLU4SKFHCZpJWj8y1mXR
 0030,9,3285,https://solanart.io/search/?token=6URqLToJMhiVbF2ZpjncgJr4Feaq5BuznsnLrDDQGrEx
@@ -382,7 +385,6 @@ Wikk the Widow,150,3,https://magiceden.io/item-details/99JUyrzogyeYCy6c1wiULRquA
 0184,1.1,634,https://solanart.io/search/?token=8WYZrik2XAaEwAGQkCaGQVRegjdod4ydGguSkiwXuSky
 0205,5,2683,https://solanart.io/search/?token=HUKsi5aCCEMBALtJgoDhykrbfZoGcWnbZCZBRtoGtX3x
 0208,1.11,2478,https://solanart.io/search/?token=3JXzTimtbrrGG7ttVrqwKMJMGufHxBAmNk3BidHpFqGb
-0232,2.75,72,https://solanart.io/search/?token=At9zVkA4Dds4yrjEgpGV97Yv5Ybe6xBWZ8XXPcatCyyb
 0236,2,798,https://solanart.io/search/?token=AEtrS9tREksKFeUE2RUiUyE8VjLXXgqyBokB5vKzFmAX
 0251,2,3929,https://solanart.io/search/?token=96NZdsCYGmb88aWpnM9ti83BW2CZCEwHyJojFt14WDmJ
 0264,39,197,https://solanart.io/search/?token=FoYP2tmkcVzeBBCnPN3eGrZsxw918MTLoUyWcoV6XduW
@@ -422,7 +424,6 @@ Wikk the Widow,150,3,https://magiceden.io/item-details/99JUyrzogyeYCy6c1wiULRquA
 0805,1.75,2980,https://solanart.io/search/?token=GSm3tPACJDW7jcBD416fgWJwK2BMPWYKm43ZLsosjeQc
 0819,1.29,2602,https://solanart.io/search/?token=BzEPZPpyhqHDdJXcs9omQ9fdG43Te2BDta6ZRhFLrJQ7
 0839,2.5,1260,https://solanart.io/search/?token=Agx7nosNU1uZNjAcDr18HRGU85M9o4avrqBUuRHQxhHN
-0841,2,2338,https://solanart.io/search/?token=8jMhtCnwPtdzxN6aLwvwwxG2y8WA2QdbDmLeVAjHUTKD
 0855,1.5,1596,https://solanart.io/search/?token=DhjcowwKuEzzuv13ggV5jAHDEEizNjcfSmtoABq1oB9x
 0857,1.5,2277,https://solanart.io/search/?token=GxMBXzj3yMB26HKWKPq4rFNoXTyXaxBhuromC4PxhhWW
 0876,6,1416,https://solanart.io/search/?token=7vHZdk23D9CqudkvnyCBeKJQHJ2EAh67d46LugUwXnuS
@@ -440,6 +441,7 @@ Wikk the Widow,150,3,https://magiceden.io/item-details/99JUyrzogyeYCy6c1wiULRquA
 0988,5,1667,https://solanart.io/search/?token=6x8y6uisTeUC6ibpmJaEhx5zQzGHAVmqCZXaadAhmDhR
 1004,3,3743,https://solanart.io/search/?token=9Gp5X7eiJDGj1SLiGqh9ssYfGyzntC9nCUcAvr3RVz69
 1023,10.1,1951,https://solanart.io/search/?token=2iu6bR6y9W3m1wAGmEw6NFmau1NNM1WNU5ow9KUdegaY
+1031,1.1,4120,https://solanart.io/search/?token=EpKKyjWaBrxgkxYpQN41J8giU77QST1M5rG8n236jd11
 1067,1.8,4320,https://solanart.io/search/?token=3zGHCTJtuzzzsqa5rccPd2Sqbu5t7cxt7Ns5esDNNHS4
 1089,3.5,1764,https://solanart.io/search/?token=4pTTLA8QL7QUJFYBZZqrFh6EqMQrhMta6YkcMCUeqU5L
 1093,20,4303,https://solanart.io/search/?token=HYcbEpq3KgxRYxkHKvQQwFQuxVAcrFwqmCGGNWErAYXy
@@ -447,13 +449,13 @@ Wikk the Widow,150,3,https://magiceden.io/item-details/99JUyrzogyeYCy6c1wiULRquA
 1148,1.8,1941,https://solanart.io/search/?token=G8JNCGiaGus9ANA6D7DSZtg75xMpqi9UZpMVqhBV3SHT
 1152,50,1140,https://alpha.art/t/7dDa12BoA9ojiSZxhWaDPE7sX5swWYhMc2Xj3tcPbSbG
 1153,1.81,2757,https://solanart.io/search/?token=HLYvafZZdBZxE1sKBe7BmoGy3JPHz1q4z2yeGa292vG5
+1154,3.5,349,https://solanart.io/search/?token=3a54EEBr4TqCST5mhrh3Y3ZpM8wqmwyJFY5ZCb3WbCx7
 1158,2,2830,https://solanart.io/search/?token=G5CTc8XjfFpmuhvArwpKCyVoowq7mwCPiaFKmA6ozykf
 1164,8.72,671,https://solanart.io/search/?token=Htx8M5v9ar947gCyWVy52cePUZQQUYCpxQbs6kTN5tkZ
 1168,3.88,376,https://solanart.io/search/?token=H9n6Q1nQdW6fUt4ddBYHjviyrrJGKvN2R8Q1bJTeFVcD
 1180,1.3,3627,https://solanart.io/search/?token=6tNTfz3F2BhWLYZZqKnmcpHUV8n9o7L71W1RsSpMAWoY
 1196,2.5,2666,https://alpha.art/t/qNnJCxprhpCxHy4dKBESfm44xVwuNW7iUeaxtQFr2GX
 1205,10,3708,https://solanart.io/search/?token=DZBWKgaKdAay1eHSqka5Mnxuh22BxhREBQVXV4hpxLDB
-1231,3.3,,https://solanart.io/search/?token=Dr3sCxTaQgd1XDzDe15o9mfNBWb4Hg2hxcAAtJyx8LWG
 1271,3.5,1700,https://solanart.io/search/?token=5yYA6jJtiUsaZ2BYrwCnuqm1t8cJzzZE5fEVxoQ51sgX
 1286,1.7,492,https://alpha.art/t/5p9VjmcRC3qm3wvVeQ54mUGTYv2JVjkocFuP2SqV1qSN
 1291,0.99,4401,https://alpha.art/t/EyEewtBZbK1LjntBPshWfLpUJKcHVvJvEX7ZSyzfB6Xf
@@ -473,8 +475,10 @@ Wikk the Widow,150,3,https://magiceden.io/item-details/99JUyrzogyeYCy6c1wiULRquA
 1506,3,3578,https://solanart.io/search/?token=91LgPE46S3YbA2XkZw536Aab11PWbvwM2ChsWUzXWrRF
 1529,3.1,3357,https://solanart.io/search/?token=EcYaGB4y6HcyRNH2WZBpnDQvwopaCbGJgtbeyDPsrPZW
 1532,10,340,https://solanart.io/search/?token=51SpXwkicVwnn97H1jgxZSpCGR3Ziznb3PA2LWrr4hM
+1533,1.5,3730,https://solanart.io/search/?token=4WQfy19LbTy78WydzCRQCmHPw8RoWtKLSDvmRrCgWviB
 1559,1.27,3299,https://solanart.io/search/?token=3XGSHTop6wxRc2UMjnaQ6otvJx7Y7njLAArWQqzvEiUL
 1595,40,1710,https://alpha.art/t/4xZfweY731Lf1qEfRTknQMH8epF7fr3ybNvikkeTkf9k
+1596,4,3724,https://solanart.io/search/?token=G7vHQwAVEgRLFhsGveXmELZLaY1j295eUrTqfA8i39Pm
 1624,1.95,2146,https://solanart.io/search/?token=HXicu7HHqEnLEbN5G5zsfGrJLuYH2BsqXJsPc6P84dUv
 1629,6.4,2665,https://alpha.art/t/Hg9wnzSnPzLDYGWqqn5fw7k3SzqqLkPauM8JaS9cjP2R
 1634,2.75,2094,https://solanart.io/search/?token=CDVniqqbgXGwncrGmoC9MYWXmumpiDJRwW8NRWRgUgrS
@@ -631,7 +635,6 @@ Wikk the Widow,150,3,https://magiceden.io/item-details/99JUyrzogyeYCy6c1wiULRquA
 3377,10,3074,https://solanart.io/search/?token=4Qc99rkjd3iPBA2HF3eXtr7aTUdPwR3Ls3cp7hXfUFAY
 3391,5,313,https://solanart.io/search/?token=FE5Bx3kGENScsY3Yrtkc3u8cwZ3omsrtZdjXJMqRqszn
 3402,1.4,2773,https://solanart.io/search/?token=8Batm6e3NC7WoHQUW9LJbzBGEVKwVMkRnuHd5UoiWQBb
-3408,2.15,120,https://solanart.io/search/?token=3FV1jjLJY19eXo5TNocTXXHvaSQ2Hj1DSaL4ypyK4y6r
 3424,3,2429,https://solanart.io/search/?token=B1fjaC1xU3cGpZiL7gRPcSFkvTXTCLzPPDUHDqxPRnst
 3427,2.4,1758,https://solanart.io/search/?token=BGWTfy57eNmWdhNaNTLj1GSgBGLnAREGBD7GY3TE9PVp
 3429,3,1920,https://solanart.io/search/?token=FzP3GZh4Q36aqM5VPCXH5i1CRRTcpy4xbYud136Kzn7z
