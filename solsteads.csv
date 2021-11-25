@@ -103,7 +103,7 @@ id,price,moonRank,storeURL
 108 Ape Lane,99.690002,1262,https://solanart.io/search/?token=GWytMfDxgJyC88HMfuyqv33rwdFaPWdfZ2stNxFZgC7s
 109 Stewart Avenue,20,1696,https://solanart.io/search/?token=9foSE3yABY8EhFchXgVFC8bQMBUm8jr7dTbXeZCnCa7B
 109 Ape Lane,120,901,https://solanart.io/search/?token=94GDFygpwUcRMYZhfjQSKXyxhe6N3gfzSVXg8gXXwMCf
-112 Ape Lane,33.330002,1029,https://solanart.io/search/?token=2H17FrS2f43zHz2tRdZoXPobBxEgUtK66a9pSK9QHfcD
+112 Ape Lane,26.690001,1029,https://solanart.io/search/?token=2H17FrS2f43zHz2tRdZoXPobBxEgUtK66a9pSK9QHfcD
 116 Supple Circle,22.5,1230,https://magiceden.io/item-details/2CJdMG6PaMT4AWtcecbjFfWFFRxePM6EknuU4MMcyeJv
 120 Supple Circle,169,999,https://solanart.io/search/?token=C3vZDUVSnbkWRHLeR8XuknhBDHdKTi12MhAJ4piHXArW
 120 Canal Street,666,1082,https://solanart.io/search/?token=GZqdwx4ULjbksx2BUUthETsndBMiVzYPgrQEDmsVHtEr
@@ -190,6 +190,7 @@ id,price,moonRank,storeURL
 309 Pico Street,43,932,https://solanart.io/search/?token=Dz1uNV15hyvh7nXniSBe7pR8i2s6fEqzVke4NNqg1ASL
 310 Pico Street,30,47,https://solanart.io/search/?token=8Sf8avwyLdXSMw12cwSBHfAwLhb1Ekvb962HYckpUV7g
 311 Sierra Avenue,45,2297,https://magiceden.io/item-details/EY4dyVh9g2VYv8zuaEzLqgsYxU4Wowj8A47jXq1TtqNW
+313 Bit Boulevard,25,1897,https://magiceden.io/item-details/Hqaw5Y1pK8F8DxZBAPGLmPcvxZyunFFxnrjBTogHNFCu
 313 Delray Circle,55,103,https://solanart.io/search/?token=6Bmm1zWoWbXwdXR7NrEBSX4VsMXYt2nLeYrBW5riJedL
 314 First Avenue,20.5,2468,https://magiceden.io/item-details/5bgQP4wFn3SB2KxYHCXtzBfmn81oaPi55LokZ2htC1dG
 314 Bit Boulevard,99,2193,https://solanart.io/search/?token=2oUTgjK81BRTLQkU2PoZDTbK3R8AzHJjiLPBKvhnnVmG
@@ -206,7 +207,6 @@ id,price,moonRank,storeURL
 325 Sierra Avenue,65,140,https://solanart.io/search/?token=7TC9rT5G2DCCopUWmqeL86mBES2sqA6aEtBpFzMjbos2
 326 Grime Lane,35.689999,1360,https://solanart.io/search/?token=427xX5MrkFjRFyfzKuY2rx1T7LrNDRccvLB7rVPdpanV
 326 Lynwood Avenue,99,1619,https://solanart.io/search/?token=D9uzJB1yL9Eb76nekvQCXAD9ArAULYh5QLNza7dJJP7Z
-327 Solana Vista Drive,5000,10,https://alpha.art/t/5qqzNXsUsUW9F4dNZaD52XHzBZq5BDSXHGR1EjXWQWyH
 328 Sierra Avenue,37,1448,https://solanart.io/search/?token=DUrHdVqfxEhF36r9uRoGmqPdSXmxpTD5cxHB2jX8RwQW
 329 Sierra Avenue,75,2424,https://magiceden.io/item-details/26R9ccMfb8sztBHU3tTxj25iKyQUBTisqEY5UtcZ792c
 330 Grime Lane,99,1228,https://solanart.io/search/?token=Fb4uXctcvceawc2ScXYD2SpsKVw2a3StqG4JwfWKk1gR
@@ -215,7 +215,7 @@ id,price,moonRank,storeURL
 334 Delray Circle,20,2144,https://magiceden.io/item-details/9TkiVH4abhRVYFNoVrVhWXZxZBZhDoc6zxM4qDcV3AFw
 337 First Avenue,230,1535,https://solanart.io/search/?token=D77ecojKkVB25ab2mggQQuLmWQnkhzXCBqYTboWVmWhj
 339 Pico Street,15,2233,https://magiceden.io/item-details/5joWtqXsBXADpUmNb7KpAmC4sGqbvcUq11mR2wsPj5vF
-339 Sierra Avenue,30,506,https://magiceden.io/item-details/GL8RHxzWBw7naiviHuVo6jaFHwtNEeArzYEww2isqFFE
+339 Sierra Avenue,25,506,https://magiceden.io/item-details/GL8RHxzWBw7naiviHuVo6jaFHwtNEeArzYEww2isqFFE
 341 Lynwood Avenue,49,2113,https://magiceden.io/item-details/4LJ2irx29oLfNvMxrzsEG33AJfR88aubndsUFpW9BQ7E
 343 First Avenue,99,1115,https://solanart.io/search/?token=APSDT7wT8jDf93XKCEivKFATZMTKHkc6SsSECAqZYH2t
 345 Sierra Avenue,69.69,528,https://magiceden.io/item-details/Do4GiV5efGj5TWcAT4nCy5oZBA9aASa98wAeyZksunrB
@@ -281,7 +281,7 @@ id,price,moonRank,storeURL
 407 Evergreen Terrace,180,529,https://alpha.art/t/AU5yZHmVE8DSYEkoBS3p7phowypqsKZy6u2mo8TB1T4Y
 413 Blockchain Drive,77,784,https://magiceden.io/item-details/HNP9LgEz5zq5Lj1GiGL5pCNwo3yaKdPvX1bkVCa6knzD
 414 Bamboo Boulevard,24.9,2358,https://magiceden.io/item-details/AZtVqg7xENUkkis59MdgQywCbnRdyZXuLTwPfpK3h2Lz
-415 Grand Avenue,18.8,1174,https://magiceden.io/item-details/3o2tCRRm5K3mk7QKwPSe9JgA3oVeFL96xshZWq5LoD5W
+415 Grand Avenue,16.8,1174,https://magiceden.io/item-details/3o2tCRRm5K3mk7QKwPSe9JgA3oVeFL96xshZWq5LoD5W
 416 Blaze Boulevard,89,1890,https://magiceden.io/item-details/EK4w7DT1AcDVv5wTDbKVLYZrj28TwiEVV8Fn4XbuS18
 416 Lamport Lane,29,936,https://solanart.io/search/?token=HcQuT8vpU38idhKQGLKPuo7oKF8kGQMfSXvDfKtKuFbD
 418 Grand Avenue,25,1330,https://solanart.io/search/?token=CBTBpGHU9FBrgNFLt9qhBFEnCGoFNYjPMoBznuEZdN67
@@ -498,6 +498,7 @@ id,price,moonRank,storeURL
 854 Battle Street,35,1674,https://solanart.io/search/?token=5ommAFL91tvFF6vJ97mLzP2rpLaWPyyhJMv3X1ZdjJNd
 860 Battle Street,28,686,https://solanart.io/search/?token=3speWuuCbbg3q45xQqgaqZX9wG3eBtp9Gj4dPfVQkYna
 861 Battle Street,55,153,https://solanart.io/search/?token=GeK3oiybM2PpEP1gUJHasD4t7mSHaJZ8cMR2si4QTi5
+872 Battle Street,21,54,https://solanart.io/search/?token=5RHA9QjXGX7LHkz3wwgLmonqQ3CaxfiSjzoxHiRvXbue
 872 Broadway,59,519,https://solanart.io/search/?token=FoTPWXo9zjit2ncp4H43QFXLxqedtEpxk74Lp7JEeciC
 879 Battle Street,33,1710,https://solanart.io/search/?token=XRJZi6unuhw66SfJEseWDqGmivdDHG5mfa5jXVt51xM
 881 Battle Street,35,1137,https://solanart.io/search/?token=FFb2MittChLohqQCP2djeRw5VKQL2dRYyKR8pFVMBq3S
