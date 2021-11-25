@@ -21,6 +21,7 @@ id,price,moonRank,storeURL
 45 Groove Path,1000,46,https://solanart.io/search/?token=ChgckGgUuHnjicM5vQVwimBsyQZ9DkyK4DrWFCabxjAZ
 47 Stewart Avenue,30,1680,https://solanart.io/search/?token=2p1YVTzuuX3zgNS97LK5BWvrcinW2QQK84qucjahWMgF
 48 Supple Circle,19.5,1994,https://magiceden.io/item-details/BMeYUjkKcxaWzyGxmh3qE1Rfv5pDvP83HGLUqdNFrsFE
+48 Stewart Avenue,24.9,1175,https://solanart.io/search/?token=8o4YpE3h5pqsJXtrwV3qPo4GZ5KYSAGAyPcsgmqm2fUq
 49 Rosa Street,34.88,1653,https://magiceden.io/item-details/5N4uNk8Ri5vr8aEvSdmEW8ZY3N1KbSeEnRCA3KnR2das
 49 Teeps Lane,159,497,https://solanart.io/search/?token=Av2NPCQCWKtVqoNBe5xdvecRM2RfxjeHGvWwDsttngt8
 50 Rosa Street,96.1,1147,https://magiceden.io/item-details/22RfyNfKvvPNNb3p4jut34TG3HPiGmoJKbfVTyWCgooP
@@ -102,7 +103,6 @@ id,price,moonRank,storeURL
 108 Ape Lane,99.690002,1262,https://solanart.io/search/?token=GWytMfDxgJyC88HMfuyqv33rwdFaPWdfZ2stNxFZgC7s
 109 Stewart Avenue,20,1696,https://solanart.io/search/?token=9foSE3yABY8EhFchXgVFC8bQMBUm8jr7dTbXeZCnCa7B
 109 Ape Lane,120,901,https://solanart.io/search/?token=94GDFygpwUcRMYZhfjQSKXyxhe6N3gfzSVXg8gXXwMCf
-112 Ape Lane,14.69,1029,https://solanart.io/search/?token=2H17FrS2f43zHz2tRdZoXPobBxEgUtK66a9pSK9QHfcD
 116 Supple Circle,22.5,1230,https://magiceden.io/item-details/2CJdMG6PaMT4AWtcecbjFfWFFRxePM6EknuU4MMcyeJv
 117 Supple Circle,18.4,2376,https://alpha.art/t/H3WaMNwHYGWsM8pozRmVo8ZDi9nSzaQEUUURcY9CBcpU
 120 Supple Circle,169,999,https://solanart.io/search/?token=C3vZDUVSnbkWRHLeR8XuknhBDHdKTi12MhAJ4piHXArW
@@ -281,7 +281,7 @@ id,price,moonRank,storeURL
 416 Blaze Boulevard,89,1890,https://magiceden.io/item-details/EK4w7DT1AcDVv5wTDbKVLYZrj28TwiEVV8Fn4XbuS18
 416 Lamport Lane,29,936,https://solanart.io/search/?token=HcQuT8vpU38idhKQGLKPuo7oKF8kGQMfSXvDfKtKuFbD
 418 Grand Avenue,25,1330,https://solanart.io/search/?token=CBTBpGHU9FBrgNFLt9qhBFEnCGoFNYjPMoBznuEZdN67
-418 Blaze Boulevard,44,213,https://solanart.io/search/?token=A1gyHXuGgErm6LNA3LcV2bbTEhrSbRRjYrZSRpvi4mdv
+418 Blaze Boulevard,32,213,https://solanart.io/search/?token=A1gyHXuGgErm6LNA3LcV2bbTEhrSbRRjYrZSRpvi4mdv
 420 Blockchain Drive,142.01,2076,https://magiceden.io/item-details/DUy9Ank1NV5hSAX8YoEEJmVfCzY8iHWN5QdgqCHEqJAc
 420 Dahlia Drive,420,2289,https://solanart.io/search/?token=5jt7Xya3pgHJ79ri3dsyrZr5MgskfTVDyt5iE5KNJbzV
 421 Blaze Boulevard,77,1480,https://magiceden.io/item-details/AX6r4GPPFRSXdAsxdwLjTstxoTdJakRw9v6WdbKwx4DR
@@ -413,14 +413,14 @@ id,price,moonRank,storeURL
 641 Dip Drive,230,432,https://solanart.io/search/?token=41kyAZLwYmcU6LK6uVhhaDV6FjCFmZZSmX5vsPJvB35z
 642 Dip Drive,15,1103,https://solanart.io/search/?token=FbPGoeuM8Gk4wCYvdA1FuDhrjbdjjgJXCMEmm4WbXbez
 644 Rip Street,50,2204,https://solanart.io/search/?token=4aoYyhBFs1fn2gvQ3H22WckUpUVngkwtpJ4ujWL138uZ
-647 Poplar Street,15,1518,https://solanart.io/search/?token=D34AmSu4ytngFNozDMNrWV5iCK7PGR56zfwbvMC3nShJ
+647 Poplar Street,13,1518,https://solanart.io/search/?token=D34AmSu4ytngFNozDMNrWV5iCK7PGR56zfwbvMC3nShJ
 647 Dip Drive,99,2009,https://solanart.io/search/?token=9sUQo95MY65muWbf9YJvQLFoUmLvZmm9z4sZRTXGKP7j
 650 Ramsey Street,25,1182,https://solanart.io/search/?token=Gqro16bUnRJa6BqEbnNYTKbTeJuEpguqNxHLr5Z5TjT5
 650 Dahlia Drive,27,339,https://solanart.io/search/?token=2i33xTWLYjBAb5Wpu6s59zvWwPcankrx1QDCC6mUdHMK
 651 Epoch Avenue,19.4,2411,https://magiceden.io/item-details/FC5a7pQpHnefZZW48RGMQdxPmVjre7nsfx3BAS1udKQD
 651 Clipping Drive,99,727,https://solanart.io/search/?token=bqF5atXiqevs7YrnZEmfDaW851KszSPCbJYfyhxM2if
 652 Dip Drive,69,349,https://solanart.io/search/?token=EzGcN2EjwJRqc19p4HPiFXTnsWp2tGKn1AZnBmt4ALiv
-656 Ramsey Street,39,1558,https://alpha.art/t/6qyUb3NVsSX2W8D4PtnHvsBKWK5o3XQKA5FffgPpTDcT
+656 Ramsey Street,31.58,1558,https://alpha.art/t/6qyUb3NVsSX2W8D4PtnHvsBKWK5o3XQKA5FffgPpTDcT
 656 Clipping Drive,59,2061,https://alpha.art/t/HWezyP1KAqafGUF2wrbE3RYJP6mbvQXcE6udutFkpNvU
 657 Poplar Street,27,1457,https://magiceden.io/item-details/F6JZiCoiDtwoFzrRceo4JamEZZovpp3ZZSvc8gW75SeM
 658 Dahlia Drive,88,1410,https://alpha.art/t/9WLCqgYrwkXMkUQ9frMbiDNq3FEoTaxMQgBZHGxXjiz6
