@@ -54,7 +54,7 @@ try {
 // Step 3: Filter specific data we want to keep
 const enhancedData: Array<ParsedData> = data.results
   .map((item) => {
-    let id = item.title;
+    let id = item.title || item.mintAddress;
     if (id.includes("#")) {
       id = id.split("#")[1];
     }
