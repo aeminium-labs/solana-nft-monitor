@@ -233,7 +233,7 @@ id,price,moonRank,storeURL
 348 First Avenue,99,1742,https://solanart.io/search/?token=ELzcYfkMqWN9qWD5cvbX9hUZPu29QyyDiTxag91sVGwm
 349 First Avenue,1069,61,https://magiceden.io/item-details/AGZ42yFuVqKTsj8pzyrLqirq5iqqj2mkc1FLMHUaxwpX
 349 Grime Lane,99,1494,https://solanart.io/search/?token=JB48P2cf7mkLNFnScNTP9fj9SJz7Pvv8CBkuBn8mTaYk
-350 Pico Street,12.5,2366,https://magiceden.io/item-details/HqCFDxs8A4g3xasD92omuKxAg81WpoUPXAu38dqteXeA
+350 Pico Street,12,2366,https://magiceden.io/item-details/HqCFDxs8A4g3xasD92omuKxAg81WpoUPXAu38dqteXeA
 350 Sierra Avenue,75,2324,https://magiceden.io/item-details/9pim623nsf1gcYM2C3D3v9jvkMCGQKuAYFBtLEfTcjfo
 350 Lynwood Avenue,99,389,https://solanart.io/search/?token=8TSL81MR4c6zVzYyEWXrrnCDu3jKLZcFfE5kAbzPhkzy
 351 Sierra Avenue,15,1557,https://magiceden.io/item-details/DAyUCAQ2hogzRp9DSTpN8TaKhSBP33WaqsJTbzMuxNYf
@@ -291,6 +291,7 @@ id,price,moonRank,storeURL
 416 Blaze Boulevard,89,1890,https://magiceden.io/item-details/EK4w7DT1AcDVv5wTDbKVLYZrj28TwiEVV8Fn4XbuS18
 416 Lamport Lane,29,936,https://solanart.io/search/?token=HcQuT8vpU38idhKQGLKPuo7oKF8kGQMfSXvDfKtKuFbD
 418 Lamport Lane,14.5,2161,https://magiceden.io/item-details/8cai85UBBdhEV7xYuthMLfQGxdeLN4KEqw41AdLe9xZR
+418 Blaze Boulevard,28,213,https://magiceden.io/item-details/A1gyHXuGgErm6LNA3LcV2bbTEhrSbRRjYrZSRpvi4mdv
 418 Grand Avenue,25,1330,https://solanart.io/search/?token=CBTBpGHU9FBrgNFLt9qhBFEnCGoFNYjPMoBznuEZdN67
 420 Blockchain Drive,142.01,2076,https://magiceden.io/item-details/DUy9Ank1NV5hSAX8YoEEJmVfCzY8iHWN5QdgqCHEqJAc
 420 Grime Lane,240,2249,https://solanart.io/search/?token=HEhAPAJSHpCGQZR5Zbx3Nnd7U4Yi5JHpksCcmnUwy1pc
@@ -388,12 +389,10 @@ id,price,moonRank,storeURL
 578 Poplar Street,200,1455,https://solanart.io/search/?token=8Hs6L4NbTCLqYgACPPBMmsv9Z9Vf7UrWqjkAByaMcs48
 580 Helix Avenue,69,2156,https://solanart.io/search/?token=BQAt2Ys43HqdBRCZ5MAMNFHidiohq38p5MiENo4KETCF
 581 Dip Drive,85,138,https://solanart.io/search/?token=EtJpFWMYoazN66p3L2ViG11QqFk9ZmLSBEAXi1o2Qfeo
-582 Cluster Lane,13,403,https://solanart.io/search/?token=5sWa1kUidnEHczCFSXUcMiazS1HjMZ7GLHGddVDiErxD
 583 Dahlia Drive,45,670,https://solanart.io/search/?token=GbTbhGJTy8DswFD2P6Ui4viEYcaxGAacrqStY4VPFDhL
 585 Helix Avenue,90,1411,https://solanart.io/search/?token=2x4AzGDToAGNXqWrf3anMfq8GRxagxuYM5gDNCFBBeXT
 588 Helix Avenue,99,82,https://solanart.io/search/?token=EPF4SHACFUPinPdRnKxUALavMuuPgYL9frpdPHiNMEFo
 595 Cluster Lane,70,387,https://magiceden.io/item-details/53qSfd3nvz7i1zQdjFpMBo3B8LfpMoE7ZDi8K9ijG2xi
-596 Helix Avenue,22,278,https://solanart.io/search/?token=AK3yzjW3Af4gGZ8FGi3V2qdvgYYuXUmRudsCm6u2ksCY
 597 Helix Avenue,30,834,https://solanart.io/search/?token=Gky5U83RLQ6LJ697k1i69tBVHQpVQiFzJQaYtnFBxPwQ
 604 Dip Drive,35,1196,https://magiceden.io/item-details/D3VjGaQzbjthpVS2tCRGG8mQaQCBfDf7T16d6psk6sPj
 606 Dip Drive,55,1328,https://solanart.io/search/?token=4LP8jAgoiC4dXRsXTgLYtR6f32U3oxbeE16hjNdNBCZG
@@ -448,6 +447,7 @@ id,price,moonRank,storeURL
 667 Poplar Street,78,133,https://solanart.io/search/?token=FfMin1tJBPvAmLaqDpsMGTWu85q3dYANK1Qy4efQeyGj
 668 Clipping Drive,199,777,https://solanart.io/search/?token=6N8azTW5wN1vVmR1WmtHrp94V89W5Gmyooz6J8yUhMV2
 668 Poplar Street,44,1639,https://alpha.art/t/A25hscJgEjr5bxrgKrP9RcPtgnspCCC3FqXjTPBfpf1R
+669 Ramsey Street,14.99,581,https://magiceden.io/item-details/7tZiTfy5CzJ6HDBQkzZgwMfv7sCQeoBgULFkhkTNT7XQ
 670 Ramsey Street,69.88,1921,https://magiceden.io/item-details/5xVES2pMVt1so2KcD4rT5mxUy1WSQdUb2E2JQZMQKk4N
 670 Helix Avenue,57,1512,https://solanart.io/search/?token=3dWxcZSP1kZcKHijdcTvbwioqDwsMw8K1VCvadLbGV3P
 679 Helix Avenue,99,639,https://solanart.io/search/?token=Dhu99MUG6dLQdMVwPfKNutsFFyaDaV3uKtYAtjcCy63j
