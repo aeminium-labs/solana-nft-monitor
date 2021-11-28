@@ -51,7 +51,7 @@ id,price,moonRank,storeURL
 64 King Street,19,2408,https://alpha.art/t/9ixnGeXArFnsmKuheMcNSKDj2gLE8aCLbdWYddSkyA1L
 66 Teeps Lane,69,737,https://solanart.io/search/?token=HX9xpYTL1DSgS5zgFfZkcqwf2yzGqwx7CyUzmZn8a67p
 66 Ligma Lane,320,406,https://solanart.io/search/?token=FeLEwuyePwV1GwinUGckzRwtJyd3xFQyEguwjKRqex4t
-67 Ape Lane,46.400002,2435,https://solanart.io/search/?token=5v9ejU8xtksDokeB8UoNvssKCSpWjgagbiPXMnC4k4Nt
+67 Ape Lane,44.200001,2435,https://solanart.io/search/?token=5v9ejU8xtksDokeB8UoNvssKCSpWjgagbiPXMnC4k4Nt
 68 Ape Lane,175,858,https://solanart.io/search/?token=7R911JG23yX7K9ZQhcqZgxHXwcpUznWNYsCkKy41gPww
 69 Teeps Lane,49.990002,712,https://solanart.io/search/?token=6wqPH535CVSs6epECJAnBPJwYYdLay9KapYprbS35hYz
 69 Abbey Road,169,1380,https://solanart.io/search/?token=9uC68Ww8UPhX1eGyzSMF5tECTYLXP29BEs8QbAtZdyKp
@@ -112,7 +112,7 @@ id,price,moonRank,storeURL
 109 Stewart Avenue,20,1696,https://solanart.io/search/?token=9foSE3yABY8EhFchXgVFC8bQMBUm8jr7dTbXeZCnCa7B
 109 Ape Lane,120,901,https://solanart.io/search/?token=94GDFygpwUcRMYZhfjQSKXyxhe6N3gfzSVXg8gXXwMCf
 116 Supple Circle,22.5,1230,https://magiceden.io/item-details/2CJdMG6PaMT4AWtcecbjFfWFFRxePM6EknuU4MMcyeJv
-118 Stewart Avenue,12.5,2288,https://magiceden.io/item-details/DSsjmLaucivccjhcFHWPiJcsDFxps3P8MMg3jJsQEPrP
+118 Stewart Avenue,11.42,2288,https://magiceden.io/item-details/DSsjmLaucivccjhcFHWPiJcsDFxps3P8MMg3jJsQEPrP
 120 Supple Circle,169,999,https://solanart.io/search/?token=C3vZDUVSnbkWRHLeR8XuknhBDHdKTi12MhAJ4piHXArW
 120 Canal Street,666,1082,https://solanart.io/search/?token=GZqdwx4ULjbksx2BUUthETsndBMiVzYPgrQEDmsVHtEr
 128 Canal Street,35,2223,https://solanart.io/search/?token=5oYGgWmLtufHMTAzh3eGsEyoQpsUAmRvoV6gbFbRuaNH
@@ -351,6 +351,7 @@ id,price,moonRank,storeURL
 496 Dahlia Drive,42,536,https://solanart.io/search/?token=5oGhbVj3YpYSqFfFBAMLNgdkrAiSFkJS8LzEifccBuLB
 497 Lamport Lane,20,990,https://magiceden.io/item-details/ESx6SD7iWp974Khq6kbFPPmvQGW74HMfoZazFM5oTKLA
 505 Dahlia Drive,16,2301,https://magiceden.io/item-details/4PMb5M6htmYhr5cogmaVfFGtVFPW7yeeatT2e3dgg2xq
+514 Dahlia Drive,16,267,https://solanart.io/search/?token=4h7CyrSr6g5ZZbpkUPmLmxw1QWm8PVJw3LdgNchqSsyg
 516 Dahlia Drive,19,331,https://solanart.io/search/?token=DnvprUnvRGo4J9NU2Ne5rUbSaAhFWSbG23grq7WJ5pmP
 530 Dahlia Drive,99,209,https://solanart.io/search/?token=HduFWGUPB8wrriPi7EiedP4fjvew19HL3oCCq9rtJBTY
 532 Dahlia Drive,99,884,https://solanart.io/search/?token=Ca7D2UZywV9iTTdNwbtkmVueNFZRajmfdVwh467Z4i43
@@ -366,6 +367,7 @@ id,price,moonRank,storeURL
 556 Dip Drive,14,2191,https://solanart.io/search/?token=GKv3jTVLfkiKYK82HpNpk5qCAbKyu39ECRnv7kfxzEbU
 556 Poplar Street,50,2410,https://solanart.io/search/?token=7hvosyLxNMftfaR35w573wC4FgxjJcVv7hdEPvhkKZAi
 558 Dahlia Drive,29,1950,https://magiceden.io/item-details/7c35bmYTNMa6BtzFYCBc9uo7ztYxv3feSp7VAu9H3cgK
+558 Jane Jacobs Way,17.99,904,https://solanart.io/search/?token=F4rVHqEZVMtbaKL7vYedo4rx65vd3rCWF12YSnAURYMU
 561 Jane Jacobs Way,25,832,https://alpha.art/t/AqYqmemDAHs7LhMetyVCirGY94qBYyCm6PTRt8n4A6UG
 563 Jane Jacobs Way,43.5,588,https://solanart.io/search/?token=5P846LaXsHxicPgbx9zDyyk8eWNsJ4TqcYsDQ6KpD9ZB
 564 Poplar Street,300,1675,https://solanart.io/search/?token=4WKYrT4of18ftcq4Ckw6zzsVHczi1ReNK6VgkpGoco5P
@@ -501,7 +503,6 @@ id,price,moonRank,storeURL
 854 Battle Street,35,1674,https://solanart.io/search/?token=5ommAFL91tvFF6vJ97mLzP2rpLaWPyyhJMv3X1ZdjJNd
 860 Battle Street,28,686,https://solanart.io/search/?token=3speWuuCbbg3q45xQqgaqZX9wG3eBtp9Gj4dPfVQkYna
 861 Battle Street,55,153,https://solanart.io/search/?token=GeK3oiybM2PpEP1gUJHasD4t7mSHaJZ8cMR2si4QTi5
-872 Battle Street,14.8,54,https://magiceden.io/item-details/5RHA9QjXGX7LHkz3wwgLmonqQ3CaxfiSjzoxHiRvXbue
 872 Broadway,59,519,https://solanart.io/search/?token=FoTPWXo9zjit2ncp4H43QFXLxqedtEpxk74Lp7JEeciC
 879 Battle Street,33,1710,https://solanart.io/search/?token=XRJZi6unuhw66SfJEseWDqGmivdDHG5mfa5jXVt51xM
 881 Battle Street,35,1137,https://solanart.io/search/?token=FFb2MittChLohqQCP2djeRw5VKQL2dRYyKR8pFVMBq3S
