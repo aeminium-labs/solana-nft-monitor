@@ -6,7 +6,6 @@ id,price,moonRank,storeURL
 43,3,1184,https://solanart.io/search/?token=ARViJ9nqc77TgBS5GzMjXsJgiphctw3skBLB4VDY29mn
 68,9,163,https://solanart.io/search/?token=6hDwv5NXFGgNbMTrVrviLCRWyU9vPanofvPixqKfWCoQ
 102,7,201,https://magiceden.io/item-details/DEHhgnH8NtrfdDKABsXu1R8eXW4x9MMueWt3Q1SD8nWj
-102,4.5,201,https://solanart.io/search/?token=DEHhgnH8NtrfdDKABsXu1R8eXW4x9MMueWt3Q1SD8nWj
 109,2,5001,https://magiceden.io/item-details/86c77fBpqq8PqY88FFRvyVw9QydaHmkQ5tibY3wveTRg
 111,1,5214,https://solanart.io/search/?token=7hYgQDNB1S8oLi6PUHtdxtoyVqrCUo47ifyLogMgn8va
 112,0.82,2291,https://solanart.io/search/?token=6tiXHXiK5V9opJPSxUDKPFDHPVbGyGMbMtCK6vZDTZYM
@@ -129,7 +128,7 @@ id,price,moonRank,storeURL
 1058,0.75,3771,https://solanart.io/search/?token=ATFwo3fTmcqaTvFFiGMQqX6JmpbYTLiNQ9sWwJhMqvnD
 1070,1.49,401,https://solanart.io/search/?token=7vmp1LCbXfcL7utc3TMo5cj6McV4XZVSLK6frfSBMTSW
 1071,0.65,3591,https://solanart.io/search/?token=9HHnSMknbj1shLBWPLYcU2UQ46iW1NHLzPk3q8Q3xV73
-1073,1.2,8327,https://solanart.io/search/?token=BbzGU2oKnaTJJVdQZ6ekLfN4Ym67vrZ8fkUd5CmZaJox
+1073,0.4,8327,https://solanart.io/search/?token=BbzGU2oKnaTJJVdQZ6ekLfN4Ym67vrZ8fkUd5CmZaJox
 1096,1,7165,https://solanart.io/search/?token=CVTUBo5G22eNm1RUZ9zzrxwfbwLcsahgKBSqiUC5AH5s
 1102,13.5,8304,https://solanart.io/search/?token=EwvPKj5ReJv3jUsg3eWu3LQbkb1RZwBbxUq9YG9KfA9v
 1104,1.6,824,https://solanart.io/search/?token=9PeTQbSVYBWpjppWGqUfuntDobLrfd6VMNNwtn4ZvF9h
@@ -273,6 +272,7 @@ id,price,moonRank,storeURL
 1884,3.2,8339,https://solanart.io/search/?token=5XWP9iYyBtKS8t3bBoJTpJTaMrJ96VVAuwCNWzhewJkd
 1899,1.7,7250,https://solanart.io/search/?token=CZCcTwCKvQNSEvQTgCunvTbg66WajmNYizkTbPEaShiK
 1908,3,4818,https://solanart.io/search/?token=5VGozPxzGiv3SP3YLT2vinf6V3PdzKij9764tfsM9JDz
+1911,2,5813,https://solanart.io/search/?token=12hL9UvGBDY3Y9B1ehp5z8aixy7hbic5RuJBWewSyUxr
 1916,0.36,5503,https://solanart.io/search/?token=EKUz1E7seNG9HPqTbLVMBpFEmLpKLGXUntJkSk4rS36e
 1926,0.36,8439,https://magiceden.io/item-details/CXG7YSFyqCNeJ2tg1miGzwmbNuUbYNTHwR6q1mK1dKcG
 1928,5,388,https://solanart.io/search/?token=2oKeYX6g7p6jATjgEeZFmLV9ncFKJ27PNJSEj9ix4Aq1
@@ -935,7 +935,7 @@ id,price,moonRank,storeURL
 5352,0.26,7054,https://magiceden.io/item-details/EMEzd2KgyCE7ojokDh8CregNQTt3mxNaBNv4Y8FFa6Ux
 5355,1.5,2501,https://magiceden.io/item-details/ArNzqRbiPRBc59k97HErUmhW9XgaDchR12SUTXTiU4R2
 5356,6.9,135,https://solanart.io/search/?token=6ZnqghCAQYZjmhptzAQreY1QKzzvTSLj33KLbS98FJMp
-5361,1.777,7116,https://solanart.io/search/?token=488yDnfea53b8bdDQSr4WgjwrcjLFyH77rh8nhk4uAy3
+5361,1.69,7116,https://solanart.io/search/?token=488yDnfea53b8bdDQSr4WgjwrcjLFyH77rh8nhk4uAy3
 5368,0.28,4800,https://magiceden.io/item-details/3RHA2gmpxfJsw9FotVacdPvNrw6KXLpkDVkNWTEQFxkb
 5371,1.6,6752,https://alpha.art/t/8xcfqVaDWketpLsUws3GgYdGMMTDCiMZiHwXZAfccLN3
 5376,5,6507,https://solanart.io/search/?token=F8Lueeb1fMLCDqy7yvcwtbrqv4S1MDJQSanui3VAC7zf
@@ -1212,6 +1212,7 @@ id,price,moonRank,storeURL
 6959,2,2253,https://solanart.io/search/?token=ER8BT82R8uLoodQwqHoSPDfq2LQP5Y7qTsrF3xTpPMGP
 6961,0.6,3214,https://solanart.io/search/?token=AT1PLxMJui3Sq3tN6YToaFqcFrEPKyJ3E3udJpcsSXpY
 6962,1.9,5599,https://alpha.art/t/6D27zTnT55JbDpkM8eNGNpWPZV6ytwNEue2L1dqe5UVy
+6965,1,8520,https://solanart.io/search/?token=GBc1SnSrh4UvDYiJogFebXbZnXiHVqLmnXGWKeH8afyF
 6969,2,5930,https://magiceden.io/item-details/qwTSNzomLyqXehYP8J1fPAp4kxm1q58H2KwuJUAAXRc
 6971,0.5,2523,https://solanart.io/search/?token=2huJS4Mg4CWTipWdb8Wj2b5WESrXx4bYzB7T3nJTicRD
 6974,0.29,5801,https://magiceden.io/item-details/8PHnWBMxZqhNBtiyRJ73M2sxnKGj8XoJT8s9DQsJUbra
@@ -1314,6 +1315,7 @@ id,price,moonRank,storeURL
 7564,0.5,5553,https://alpha.art/t/5r629G9wu7do6LCjk3sHrz2zqBRYyBZknmEMRhDAxcfb
 7573,1.999,8172,https://solanart.io/search/?token=89qpk3mV2PmpdDCkUquJxM2w12vey4PeUR5HNy5A6Wk6
 7580,2,646,https://magiceden.io/item-details/G3XX1LFVHjDGy8pBWCqnJd7vf6krU8vxQQeckpkw9USw
+7582,0.37,3722,https://solanart.io/search/?token=H3GSvR9EYy4sF5afQa15kgL5tcmnRM4ZJp1y1beS7SJX
 7585,0.65,7363,https://solanart.io/search/?token=JBc1UZHRP5Z4vnK62Buyi3tXzQLDGfFuJ8XENLu5D6T4
 7587,0.4,5807,https://alpha.art/t/mXovVp2mfhp893MWi1VAY3emaczvVMEVgry3rjtfDYB
 7590,0.95,1120,https://alpha.art/t/ER6obSqt5utiUWi2AhXZr42buzzi9n2NFsSVbxzt95nU
@@ -1327,6 +1329,7 @@ id,price,moonRank,storeURL
 7635,2.12,685,https://magiceden.io/item-details/4eYuoruF6CALFhDhL1daFsurutuDTaTinNfkQ9aXwcAu
 7647,4,3484,https://solanart.io/search/?token=CMDZrW6nM4o7yrr3AvB5NiUppRSSR4T8iBW8sicYX6ct
 7648,2.5,7976,https://solanart.io/search/?token=7FD6TwA51oFU5uKjzmK78SxPHdh62smevJ5WGSxvzDfX
+7661,0.33,3745,https://solanart.io/search/?token=7QEsd6r6uXjcDr1BEbedcapSK6ga5ytYsbZcXxx5W8Uq
 7664,2.2,5331,https://solanart.io/search/?token=2NvhPqaGfKygxjT6XRodgLwi9gfu7TSqF3XSMdnUpGTF
 7673,1.4,1865,https://solanart.io/search/?token=5ZUUJG3QBcC8QGqtthH763dfpVcjjq13tEuELuQrazHJ
 7681,2,3272,https://solanart.io/search/?token=EK9eX9TQVnEBQDmcqkTVH7hgVmsrJCWtSNx6JFhvPkwS
