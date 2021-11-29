@@ -6,7 +6,7 @@ id,price,moonRank,storeURL
 30,10.7,9114,https://alpha.art/t/FkeFo9K3WZdTuakif8afPui4PciujKS7L5BFmFzmCV5t
 33,26.69,8592,https://alpha.art/t/46zduwcH13fHCCS1XcCxFkHexejTn81hJHrJvWwzDTW8
 40,17,9015,https://alpha.art/t/8WqSBAL4kkEdkSwJ4jU5WgEgZNkeegbL4XvV2PsHbJrF
-42,6.5,8382,https://alpha.art/t/8MyQa69KKGkD3Qxwx4SVspmpRVWZiumEVycArEMky9Eh
+42,5.32,8382,https://alpha.art/t/8MyQa69KKGkD3Qxwx4SVspmpRVWZiumEVycArEMky9Eh
 51,70,9561,https://alpha.art/t/5YmZ1jT3UBcPgP27ajdJM94ZwHPz6GYWFP1q3CcKdC9u
 56,11.5,2554,https://alpha.art/t/4jbSmXgcYM6A5UTjiDoKkcwEn7zvVHKASibafhdmfPni
 69,14,9108,https://alpha.art/t/3PJjUeCGtP2nhtW6wq5tgwZRXoMy2tvVF9yK5hT1Q2vE
@@ -18,7 +18,7 @@ id,price,moonRank,storeURL
 125,8,5321,https://alpha.art/t/3JGPZ8CgSG93PJB95bsjdfoCeqAcroXpJj9CKq4Ez9Ly
 134,60,2096,https://alpha.art/t/FSGGjwcw4d4DeJMVG6vkX2DjvnKnTSwSZ2ekJjrZxCvG
 140,6.3,8379,https://alpha.art/t/4dutnNQVzc2S2TfbrW5yRNGKYaZw9z2W7nXu9xMLz3yG
-180,6,7485,https://alpha.art/t/G4kKEyyv6FJwE8PZC4QWzevsiHgUq1nhApeqmXf69aoF
+180,5.5,7485,https://alpha.art/t/G4kKEyyv6FJwE8PZC4QWzevsiHgUq1nhApeqmXf69aoF
 184,9.9,6792,https://alpha.art/t/5hsqwztMoDR7eQ6f8sdsTvwN6uThushqGRqrgmePRF8p
 186,6.89,8319,https://alpha.art/t/GZRmerj9WH6UKZTfXr5mpCGCyYGFa7pf7rz3rzwn1WHU
 190,9.69,8229,https://alpha.art/t/EtJ3X5vzsorknxq6GoSU54ahJbTorCQMazMgECpwXAfS
@@ -49,6 +49,7 @@ id,price,moonRank,storeURL
 397,13.6,5241,https://alpha.art/t/7qvJNxT4AFmbz4fKWs6GY4k4fVyRFv67i4T3DLobzf43
 399,9.5,994,https://alpha.art/t/T4CvSBQcTcwSwiAeU2FsYPD3XG2ZbQb8f7hRsNxYcFH
 422,500,9020,https://alpha.art/t/5sJqWNXeqHfVoT8qZcVY63QnJMVae6ytYRA9FwjgqmSC
+425,5.4,4803,https://alpha.art/t/DApDNHLpfRHZUoJLk9bJ4RqaqudpnLZ3dNzV5RyM2eC2
 445,11,5192,https://alpha.art/t/3iMvcqynPyEajGm896hvZXFyVhZWDzf6BPVv6t2kMBQX
 448,43,4869,https://alpha.art/t/6NLNedfeprcX4FPP5XFFPXyUZiMbSaQWeWd66ZWeS9Cr
 453,44,2857,https://alpha.art/t/G7ZogcqgXRbQTr6UHeTped1Jap27RGEBgQiogfKnc4dk
@@ -374,7 +375,6 @@ id,price,moonRank,storeURL
 3694,333,68,https://alpha.art/t/Bo8YDCH5bmaKZMJcLi8vsCPbGCXRgePJpVycBmMG7rYB
 3697,6.5,9571,https://alpha.art/t/CKPYPu34oxShkGEeGAosR5gm3EiQVyiABCjw3PQdRJ9u
 3703,33.33,2700,https://alpha.art/t/14QTmkf7rPxAp7uZkxMmAceMSyYxEg4qKB2axCafFNTJ
-3713,6.3,2979,https://alpha.art/t/B21SybETPKFxAyPZBtFqGqdrN782Fsj9KAkRvXaXi8GV
 3718,10.69,6213,https://alpha.art/t/KnmGpiEhG59PyTZ7hiHbMsCuGgHvaXBT6KZPavt6rXv
 3719,20.33,1696,https://alpha.art/t/8tq8CY3br2nMDzbS9KNLfHPLo6V9rvHmKecowYPpKR8E
 3724,12,3205,https://alpha.art/t/AEd17cB7NCkfAseHeECDaksvpWwiHRkY9gXrzRzg4nos
@@ -623,6 +623,7 @@ id,price,moonRank,storeURL
 5092,24.4,8976,https://alpha.art/t/9Q1oYXaRYAFnJbkibqtFdb7ej7BrtxJeXwFjagQp5w4D
 5097,150,378,https://alpha.art/t/2Jq3SU121gGq1k1jjH3cwdkTD2FVcWv3xSVQTmuyb5tw
 5098,33.33,986,https://alpha.art/t/13Q5srRV5ov7tXaATCtDHXnqsaKPiw6EjKFxh4oxWf3y
+5104,7,7690,https://alpha.art/t/4JaviDG41y5Cw7H5iWgH2J6xJWVnvrwehgaMmqyQWyyU
 5106,18,4722,https://alpha.art/t/iDV3tdF43L4rA7p3KSCPsKHzL5k1PhSXpyq9SnfT5n6
 5108,11,3632,https://alpha.art/t/2vwBTh23d5TTzLTdmgj6ov9fHCAD3aSqEtzbJW9tRC89
 5109,33.33,364,https://alpha.art/t/F52qahkmtskQANVWvucLfSzZdZWAEt249mjUH6cnzVMa
@@ -934,7 +935,6 @@ id,price,moonRank,storeURL
 6740,5.89,7644,https://alpha.art/t/CHF2XFczLFyFGFrBKJh2yuVEzj6VhNBwSAGjyRXaS6Zg
 6742,15.1,3298,https://alpha.art/t/5Yq67fKLe2uhLG1N72eD2a28BLv5g1aZPsSWxUWy32Wu
 6744,30,4326,https://alpha.art/t/5RyGQv7BbW6rxwkx2w4WcFRQqf3vEfBJqE1wXkSyJJTE
-6749,6.3,6574,https://alpha.art/t/B6wosXdjn9UAr1DF6rz1dZKzxmD51WbqE39nMAagHLgX
 6751,33.33,1662,https://alpha.art/t/4miit8Y1T5GPJYs7pBiEHLeMZbyCeH6aZSzUgvp8Fyse
 6754,45,1850,https://alpha.art/t/9ZfQRSKX1vrGED2GDRLLPGTzVrnmag71N4ZXSTJoEs4X
 6768,12.8,6489,https://alpha.art/t/AMNzU8uPUZnacPS8XCvwxTorBDAi9hAP4wQyaFmKPLP2
