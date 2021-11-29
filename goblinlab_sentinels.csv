@@ -1,5 +1,4 @@
 id,price,moonRank,storeURL
-Sentinel 7977,0.18,8905,https://magiceden.io/item-details/1337JpGjnUPCG5yQfxT6S8KZCtfaSELgddoHeHHBpg5x
 Sentinel 552,0.195,6962,https://magiceden.io/item-details/sNtM1xvy7WJyLzcvWQnT2XvfZDDgdLVNeTruorSiXLx
 Sentinel 2394,0.199,7174,https://magiceden.io/item-details/SntnBMx19jJkQc7HeC2NxnFtLieUQtBu2TmrWkNvbSH
 Sentinel 8518,0.2,6836,https://magiceden.io/item-details/Snt571UL8o9riimbpN1nZ9834FC3mFSwp1GVWaGvi6w
@@ -32,6 +31,7 @@ Sentinel 8093,0.29,5827,https://magiceden.io/item-details/SntcpH1myNYQqR13ctBmPL
 Sentinel 4483,0.29,4761,https://magiceden.io/item-details/sNtnrBsDpcprqu4aGfAm5tgXPd668gjb6qHnYv4dYaH
 Sentinel 48,0.29,8930,https://magiceden.io/item-details/snThuUk81GprH4YK1jHyi7zrhfmrAsGB7ABPBnXJnpE
 Sentinel 6882,0.29,5725,https://magiceden.io/item-details/SnT3hq1bX72eZab1ymnAnqXrc9tkqjTpuSTyzXqC85e
+Sentinel 1286,0.3,7415,https://magiceden.io/item-details/SNtXN88mm4kM1o2St7K1358Mm35B7nirDatg2AaXtSh
 Sentinel 4967,0.3,3805,https://magiceden.io/item-details/SntVrHS4UtuP1ENSSp64jaFkCECSwCZXMqW92yJk45Y
 Sentinel 104,0.3,3911,https://magiceden.io/item-details/snTgQSUcthge6WX3Nb9BzbHY163C4LX2FHXjX2y4Zdp
 Sentinel 434,0.3,7956,https://magiceden.io/item-details/snTF5YvgVPC9cQ7qyRXVYCZvNRDhB4kSG3yPdV1eTZh
@@ -105,6 +105,7 @@ Sentinel 7511,0.45,8727,https://magiceden.io/item-details/SntuPnX11D5YnX6PraaVaC
 Sentinel 1859,0.479,3405,https://magiceden.io/item-details/SNtVYzCP5YaG9qzgAE1D38ab6sPQsBWhXcrwnqyiHvN
 Sentinel 8847,0.48,5590,https://magiceden.io/item-details/SntqeUpKmCYvBT1RGPMHTLQuQL62sTKSLi7WGsZPTPp
 Sentinel 5564,0.48,4698,https://magiceden.io/item-details/sNtPHSHdkwN6VQqLuUwLEKyeXkbUfXk3Vy98a6you7g
+Sentinel 2466,0.49,916,https://magiceden.io/item-details/SNtXJttDtcKpYkZXUwwvZJRTJSuA47wxoPmUCRpy9BH
 Sentinel 2091,0.49,4842,https://magiceden.io/item-details/SnTpQeTsYKDxp8xt6uAVCKir9tiiZyPPy5w26efUwM1
 Sentinel 8271,0.49,4321,https://magiceden.io/item-details/sNTzbjNdC5X86eBPh1bYonTiAdoo3t5KbsFTYR3Lvdj
 Sentinel 6469,0.49,581,https://magiceden.io/item-details/sNTXqhYPVXGzwrAj9CwyWxRTAx1d6Y6CTo67QX4jJSV
@@ -115,7 +116,6 @@ Sentinel 5628,0.49,6494,https://magiceden.io/item-details/sNtaudfgM2KhY6z8sH6x2a
 Sentinel 2932,0.49,2731,https://magiceden.io/item-details/sNTkMDMTpoMRXvA5ucQkANDUjGws9fwe7r8sMs9TF3Z
 Sentinel 6838,0.49,8874,https://magiceden.io/item-details/SntkEquiTgYeqnxgRjP45LQWDPukPjEpmvHdXx8Axrp
 Sentinel 2190,0.499,7172,https://magiceden.io/item-details/snTQC2QDUMz9uwE9LU3QwYyvkvbMUcg6uC2kzcnbaJb
-Sentinel 2466,0.5,916,https://magiceden.io/item-details/SNtXJttDtcKpYkZXUwwvZJRTJSuA47wxoPmUCRpy9BH
 Sentinel 3762,0.5,8870,https://magiceden.io/item-details/sNtR67i1JTuoRZwGqHa56Un2c8wSqTwPgFdDG3iyFTD
 Sentinel 6805,0.5,832,https://magiceden.io/item-details/SnTga63W3rYUuhS88MbRX69wuk92yZgvoiNZPA6hxhj
 Sentinel 3913,0.5,7661,https://magiceden.io/item-details/SNTzoWANr1s9Uiy2Rm3Eq2NEabdC1rEor7KfJj4wfDC
@@ -222,7 +222,6 @@ Sentinel 6895,0.7,1558,https://magiceden.io/item-details/snTiX8Wog3WqqFZtyfCcHJ5
 Sentinel 2946,0.7,4958,https://magiceden.io/item-details/sNtV8Xe1YqPmwwrrGEF1VJwT4BriGujRnc2wBVeQzFi
 Sentinel 1616,0.7,1510,https://magiceden.io/item-details/snT91W7Yx5vqcqrFT8tBJswGw7romcP3vZUBgvEqmJX
 Sentinel 2049,0.7,2626,https://magiceden.io/item-details/snTbnzwy4PaumNSH81Qdmytfz3ESLDS6AJppgik3CZt
-Sentinel 4545,0.7,7858,https://magiceden.io/item-details/SNTtinoxAUHbnAAHWE1MAjfEtpPZKWTug8HkCqH2Tcn
 Sentinel 6126,0.7,4449,https://magiceden.io/item-details/SntfhnxszVMDxBvWqKQ6dkhi5DRgaUnSPtTNrnjvqfv
 Sentinel 107,0.7,5688,https://magiceden.io/item-details/1337PxPsDuv4EmWRUw4uKWbqGnsmkbquRiuiGsLLcRX5
 Sentinel 7756,0.7,5618,https://magiceden.io/item-details/SntdUkbSse3y1GMuRRG4RrcR9qasusvTN9DQ8rrnwHH
@@ -499,3 +498,4 @@ Sentinel 3465,2,5582,https://magiceden.io/item-details/sNTNJkdxTZpB6EAVTek1h49mB
 Sentinel 2513,2,2789,https://magiceden.io/item-details/snT4iKNMRMGS9c3WxFWEf1xa33F3tkdK6wv32MoxKqr
 Sentinel 1423,2,202,https://magiceden.io/item-details/snTE8LxvprpMrWTxeRmRJmfNejN37dHmgnUpsri4mA9
 Sentinel 4562,2,7459,https://magiceden.io/item-details/sNTgCaRKsFpQzrK2n7K2q2bG3MCAki8u91DxySLFBKB
+Sentinel 667,2,2231,https://magiceden.io/item-details/SntbdFkQcSAuTCbc6Mpj5H2Tb5FQEixgzY2to5KVW8e
