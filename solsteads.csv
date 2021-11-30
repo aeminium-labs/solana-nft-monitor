@@ -212,7 +212,7 @@ id,price,moonRank,storeURL
 329 Sierra Avenue,75,2424,https://magiceden.io/item-details/26R9ccMfb8sztBHU3tTxj25iKyQUBTisqEY5UtcZ792c
 330 Grime Lane,99,1228,https://solanart.io/search/?token=Fb4uXctcvceawc2ScXYD2SpsKVw2a3StqG4JwfWKk1gR
 333 Solana Vista Drive,125,467,https://magiceden.io/item-details/DvKwdpafurCtkpdsFezQdcCQyMh4WwvHgDKkog1PFKLh
-334 Delray Circle,12.4,2144,https://magiceden.io/item-details/9TkiVH4abhRVYFNoVrVhWXZxZBZhDoc6zxM4qDcV3AFw
+334 Delray Circle,9.5,2144,https://magiceden.io/item-details/9TkiVH4abhRVYFNoVrVhWXZxZBZhDoc6zxM4qDcV3AFw
 337 First Avenue,230,1535,https://solanart.io/search/?token=D77ecojKkVB25ab2mggQQuLmWQnkhzXCBqYTboWVmWhj
 339 Pico Street,15,2233,https://magiceden.io/item-details/5joWtqXsBXADpUmNb7KpAmC4sGqbvcUq11mR2wsPj5vF
 339 Delray Circle,21,2253,https://alpha.art/t/3GcGaCMb3sWEb5f812Vooe5fwsnoTkrGMt7qEkCaoY7G
@@ -251,6 +251,7 @@ id,price,moonRank,storeURL
 376 Lynwood Avenue,22,157,https://magiceden.io/item-details/BWBJRXYWdgv6q6aj1uX3EdKGo9CtxSkFt2nENufeNkG1
 376 Grime Lane,24,2469,https://magiceden.io/item-details/HmA4XYy4DfEwzdVuYuYA6299z3Cse8nKhwdHnDZehyib
 377 Pico Street,58,1559,https://alpha.art/t/8kM1UwsCsyd6ZTywyjyhn9yd4X6eRLkwaoKqLsnqoY5v
+379 Lynwood Avenue,12,1127,https://magiceden.io/item-details/9cvJ3uMwyShMYvyAkjLUALYXzsmtHbHuGZc9CEqBsHPh
 382 Lynwood Avenue,28,822,https://solanart.io/search/?token=2er3icUFJfomDbYPrrSErKMg59UHWWtS6nGuniC1Dy9o
 384 Pico Street,39.9,1433,https://alpha.art/t/FyyFBsvuu2kqKd9vEsDNR6bioKpB9JNdMBmJGtugzDHr
 385 First Avenue,17,1855,https://solanart.io/search/?token=FpUoPEFryvzRcjHcHUD4oefMAvju9CxshsM146nUSaD1
@@ -350,7 +351,6 @@ id,price,moonRank,storeURL
 497 Lamport Lane,20,990,https://magiceden.io/item-details/ESx6SD7iWp974Khq6kbFPPmvQGW74HMfoZazFM5oTKLA
 498 Lamport Lane,12,552,https://magiceden.io/item-details/HtyNfBXfuiD8W9xf35trrZ7ugofppv4pQW14aauGxqst
 516 Dahlia Drive,19,331,https://solanart.io/search/?token=DnvprUnvRGo4J9NU2Ne5rUbSaAhFWSbG23grq7WJ5pmP
-522 Dahlia Drive,9.69,1626,https://magiceden.io/item-details/HK2ww1aRJxhwXiiEzTtyrx9EYUDegT4zqtBz3S27bxSh
 530 Dahlia Drive,99,209,https://solanart.io/search/?token=HduFWGUPB8wrriPi7EiedP4fjvew19HL3oCCq9rtJBTY
 532 Dahlia Drive,99,884,https://solanart.io/search/?token=Ca7D2UZywV9iTTdNwbtkmVueNFZRajmfdVwh467Z4i43
 537 Jane Jacobs Way,148,247,https://solanart.io/search/?token=7nSWm6spVGZMVnRYhaPb9xuwUhRcG85975GiFZSnFYAa
@@ -434,10 +434,11 @@ id,price,moonRank,storeURL
 666 Poplar Street,666,1538,https://solanart.io/search/?token=ErNZu4uMNWbrxanQB1cVcPLmGF19aUdCQhL2kAR3HmDP
 667 Poplar Street,78,133,https://solanart.io/search/?token=FfMin1tJBPvAmLaqDpsMGTWu85q3dYANK1Qy4efQeyGj
 668 Poplar Street,44,1639,https://alpha.art/t/A25hscJgEjr5bxrgKrP9RcPtgnspCCC3FqXjTPBfpf1R
+669 Helix Avenue,13,1332,https://magiceden.io/item-details/91W1Rhzz3yCsvj38xDLJjbx7Wxwxq5MVPppQ4H8kTSsU
 670 Ramsey Street,69.88,1921,https://magiceden.io/item-details/5xVES2pMVt1so2KcD4rT5mxUy1WSQdUb2E2JQZMQKk4N
 670 Helix Avenue,57,1512,https://solanart.io/search/?token=3dWxcZSP1kZcKHijdcTvbwioqDwsMw8K1VCvadLbGV3P
 679 Helix Avenue,99,639,https://solanart.io/search/?token=Dhu99MUG6dLQdMVwPfKNutsFFyaDaV3uKtYAtjcCy63j
-680 Rip Street,18,1857,https://magiceden.io/item-details/5MS6hkik2YnEY8nW7qvsMMqx3r9g5BnHqUkL4wZ7BjNn
+680 Rip Street,10,1857,https://magiceden.io/item-details/5MS6hkik2YnEY8nW7qvsMMqx3r9g5BnHqUkL4wZ7BjNn
 687 Ramsey Street,99,605,https://solanart.io/search/?token=EhkyBme2HehF3Rha9n2yiEL4QYg8o9Hw8Wk8YUrvHEgw
 689 Ramsey Street,99,42,https://alpha.art/t/3o1iytTt95XyoZPf2bFNYVDTCdx3HKJcV4omhBhB81Hy
 691 Rip Street,50,1218,https://solanart.io/search/?token=GnF5ZepNRFsgia2kg8U4rnN8jNoj57k8TEtVchkwyckq
