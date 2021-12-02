@@ -790,3 +790,18 @@ jobs:
           downloaded_filename: astral_apes__alphaart.json
           axios_config: .github/alpha_axios_configs/astral_apes.json
           postprocess: ./postprocess/alphaart.ts
+
+      - name: monkey_kingdom - Fetch Magic Eden data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://api-mainnet.magiceden.io/rpc/getListedNFTsByQuery?q=%7B%22%24match%22%3A%7B%22collectionSymbol%22%3A%22monkey_kingdom%22%7D%2C%22%24sort%22%3A%7B%22takerAmount%22%3A1%2C%22createdAt%22%3A-1%7D%7D
+          downloaded_filename: monkey_kingdom__magiceden.json
+          postprocess: ./postprocess/magiceden.ts
+
+      - name: monkey_kingdom - Fetch Alpha Art data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://apis.alpha.art/api/v1/collection
+          downloaded_filename: monkey_kingdom__alphaart.json
+          axios_config: .github/alpha_axios_configs/monkey_kingdom.json
+          postprocess: ./postprocess/alphaart.ts
