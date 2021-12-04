@@ -1,0 +1,7 @@
+
+      - name: <%= collection[:moonrank] %> - Fetch Exchange Art data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://api.exchange.art/v1/public/tokens?limit=10000&sort=price-asc&from=0&filters={%22tokenListingTypes%22:[%22listed%22],%22collections%22:[%22<%= collection[:exchange_art] %>%22]}&view=collection
+          downloaded_filename: <%= collection[:moonrank] %>__exchangeart.json
+          postprocess: ./postprocess/exchangeart.ts

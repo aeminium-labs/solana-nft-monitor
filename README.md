@@ -1,6 +1,6 @@
 # Solana NFT Monitor
 
-Monitors Solana NFT projects at **MagicEden**, **Solanart** and **Alpha Art** marketplaces and updates data every 20min.
+Monitors Solana NFT projects at **MagicEden**, **Solanart**, **Alpha Art** and **Exchange Art** marketplaces and updates data every 20min.
 
 Browse all data at https://flatgithub.com/pgaspar/solana-nft-monitor and use "Data File" picker to select one of the available collections.
 
@@ -21,11 +21,11 @@ Thanks!
 
 ### The add_collection.rb script
 
-I added a very rough Ruby script that'll generate the required files. You just need to give it the collection identifiers for Moonrank, Magic Eden, Solanart and Alpha Art (in that order):
+I added a very rough Ruby script that'll generate the required files. You just need to give it the collection identifiers for Moonrank, Magic Eden, Solanart, Alpha Art and Exchange Art (in that order):
 
 ```shell
-# ruby scripts/add_collection.rb <moonrank_id> <magiceden_id> <solanart_id> <alphaart_id>
-$ ruby scripts/add_collection.rb towerdao the_tower thetower the-tower
+# ruby scripts/add_collection.rb <moonrank_id> <magiceden_id> <solanart_id> <alphaart_id> <exchangeart_id>
+$ ruby scripts/add_collection.rb towerdao the_tower thetower the-tower Tower
 ```
 
 You can find these identifiers by looking at the URLs:
@@ -34,14 +34,15 @@ You can find these identifiers by looking at the URLs:
 * https://magiceden.io/marketplace/the_tower
 * https://solanart.io/collections/thetower
 * https://alpha.art/collection/the-tower
+* https://exchange.art/collections/Tower
 
 If a collection is not available in one of the marketplaces, set their identifier to `""`:
 
 ```shell
-$ ruby scripts/add_collection.rb crypto_cultists crypto_cultist "" ""
+$ ruby scripts/add_collection.rb crypto_cultists crypto_cultist "" "" ""
 ```
 
-This would skip Solanart and Alpha Art for the Crypto Cultists collection, for example.
+This would skip Solanart, Alpha Art and Exchange Art for the Crypto Cultists collection, for example.
 
 ### About `.github/moonrank`
 

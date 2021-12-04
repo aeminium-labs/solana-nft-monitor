@@ -3,7 +3,7 @@ require "json"
 
 # Call like this:
 #
-#   ruby scripts/add_collection.rb <moonrank_id> <magiceden_id> <solanart_id> <alphaart_id>
+#   ruby scripts/add_collection.rb <moonrank_id> <magiceden_id> <solanart_id> <alphaart_id> <exchangeart_id>
 #
 
 # Get ids from the console command and do some cleanup
@@ -11,7 +11,8 @@ collection = {
   moonrank: ARGV[0],
   magic_eden: ARGV[1],
   solanart: ARGV[2],
-  alpha_art: ARGV[3]
+  alpha_art: ARGV[3],
+  exchange_art: ARGV[4]
 }
 collection.transform_values! do |id|
   id == "" ? nil : id

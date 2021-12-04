@@ -19,12 +19,16 @@ solanart_workflow_template = ERB.new(File.read(solanart_workflow_template_filena
 alpha_art_workflow_template_filename = File.join(File.dirname(__FILE__), "../templates/alpha_art_workflow.yml.erb")
 alpha_art_workflow_template = ERB.new(File.read(alpha_art_workflow_template_filename))
 
+exchange_art_workflow_template_filename = File.join(File.dirname(__FILE__), "../templates/exchange_art_workflow.yml.erb")
+exchange_art_workflow_template = ERB.new(File.read(exchange_art_workflow_template_filename))
+
 # Fill in the workflow contents based on the stored collections
 collections.each do |collection|
   collection.transform_keys!(&:to_sym)
   main_workflow += magic_eden_workflow_template.result_with_hash(collection: collection) if collection[:magic_eden]
   main_workflow += solanart_workflow_template.result_with_hash(collection: collection) if collection[:solanart]
   main_workflow += alpha_art_workflow_template.result_with_hash(collection: collection) if collection[:alpha_art]
+  main_workflow += exchange_art_workflow_template.result_with_hash(collection: collection) if collection[:exchange_art]
 end
 
 # Save the new workflow

@@ -13,3 +13,4 @@ assignees: ''
 **Magic Eden URL:** Add the Magic Eden page here, or delete this line if the collection isn't listed there.
 **Solanart URL:** Add the Solanart page here, or delete this line if the collection isn't listed there.
 **Alpha Art URL:** Add the Alpha Art page here, or delete this line if the collection isn't listed there.
+**Exchange Art URL:** Add the Exchange Art page here, or delete this line if the collection isn't listed there.
