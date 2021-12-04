@@ -5,8 +5,13 @@ require "open-uri"
 
 data = {}
 
-URI.open("https://moonrank.app/mints/#{ARGV[0]}") do |moonrank_data|
-  data = JSON.parse moonrank_data.read
+begin
+  URI.open("https://moonrank.app/mints/#{ARGV[0]}") do |moonrank_data|
+    data = JSON.parse moonrank_data.read
+  end
+rescue OpenURI::HTTPError
+  puts "❗️❗️❗️ Could not get MoonRank for #{ARGV[0]}! Make sure you rank the collection manually."
+  return
 end
 
 processed_data = data["mints"].map do |m|
