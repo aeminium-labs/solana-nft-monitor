@@ -114,6 +114,7 @@ id,price,moonRank,storeURL
 1005,252,974,https://solanart.io/search/?token=3LmWFqJFZqtGdHqUjXPBwvHN3dWFBi1BwD8RuwivP9jA
 1014,40,2694,https://solanart.io/search/?token=Eb8phqF6LQE7F4GWW96cw1NdfdtzTXw2FcFNtBTzwqxB
 1018,89,4810,https://solanart.io/search/?token=uPjaTptgxBgMLXGa3msX5YYP5uYob2nAm7rBF29w4yR
+1048,27.4,7941,https://solanart.io/search/?token=BVuPTVAhJ6WoHCGrk5McxY3kRDbkXy8LzeVZgdLgKmCi
 1051,40,2652,https://magiceden.io/item-details/89dNpUQFWnXf1kxRPutG6kAwqhPtCKiJi6B3eE758ypa
 1052,50,4973,https://solanart.io/search/?token=5Rucd5f27MkkwbNtB8L1ycxvohaEKWM9SnCrd9Uupskv
 1054,42.5,7342,https://solanart.io/search/?token=4Wf6GZMmBQPaDqCq4E66e5ryzYubG78QSqFidbd8mREY
@@ -249,6 +250,7 @@ id,price,moonRank,storeURL
 2097,38.799999,7932,https://solanart.io/search/?token=7sjkW6KGcsMBy1uQ1SQMYausydGzjvT2Ucq8H8mRAHcX
 2130,25.99,4072,https://solanart.io/search/?token=C3TBcFsNdcQNVA1yjiPu95AmjCQd3DrJjRaRCeM5NUTL
 2136,25,4975,https://solanart.io/search/?token=9CBUnik8nXTWjs71F8aqBZJ2tyg9YuB9vHirKT8NpHzx
+2141,26,6983,https://solanart.io/search/?token=5GagmQh2gBFLwsaSd7pfhuLoFPmSu8LunmDZGmBGMo9E
 2147,30,7558,https://solanart.io/search/?token=7x8jqiuw2hTmA9Xk9ofoqhGw2yaCWcQA9yPpEoZ3ve3
 2193,78,5761,https://solanart.io/search/?token=CuYVtsV47B6wZZuMNmU1Bi3qSevb2kVhHChmi3PF4BzX
 2198,155,2087,https://solanart.io/search/?token=BoLSnwqaYrFEjX8CaizyJPmjw3GHK5u3QK4bap8TSASh
@@ -999,7 +1001,6 @@ id,price,moonRank,storeURL
 8173,57,5286,https://magiceden.io/item-details/4bctEECbDjk4NLgdAi9StbyHkAg3ngvK1oh5xScZFCCW
 8174,25,3901,https://solanart.io/search/?token=Gdg6e7NXXDLFbGKoifkcKmn5d5xNBXTiFBR94buA2TzX
 8176,50,900,https://magiceden.io/item-details/2wee6txZbyDiup22Fkd1d85ThfpT8Zcjy6cnP92S3RWK
-8188,5000,13,https://solanart.io/search/?token=1cersTmeR1sRL4W978HZ7rrE1SvtbfjoL82xdrtEpPw
 8194,27,7878,https://solanart.io/search/?token=8JxiRg7fnYtEt1TpgqiNSL1xrwmxtT6ZHeV11NdFmgRx
 8195,120,2149,https://solanart.io/search/?token=9XozfiP3z9KCTsLyoHVWRFP4nv6X8MmRS74cgkGqcket
 8196,50,5306,https://solanart.io/search/?token=DJh6kHEyQxZMTzseM8d6K6nTyz6FZ9z2adcRqS41QfTq
@@ -1119,7 +1120,6 @@ id,price,moonRank,storeURL
 9074,125,1277,https://solanart.io/search/?token=2NLbs24sNgoQq79wXTubLfJAHV7oPXC6vSkNJH59jv5a
 9081,31.69,4813,https://magiceden.io/item-details/66GSc97SMHaAw7ky1MDYqL1Cxqmob3pZJGZKJw1u4PZG
 9088,24,5174,https://solanart.io/search/?token=A5pJzo6vbDk5KyK5b7ew2Y7QyX8V3SAXBDiWKmsRZApG
-9100,5000,470,https://solanart.io/search/?token=8nDhgr4fSLWEyJtfW5iMgkFdn3P2apdL7pRuTuoqEmP1
 9109,44.900002,1559,https://solanart.io/search/?token=58EWzPKXJcSS2KcHJ36GZ2G27GcnuGoX9XQp5oor73MF
 9114,200,1922,https://solanart.io/search/?token=6KQTSAFCKC58x41hU55DgR39bGNkgJJzn96DRYLZ5fa9
 9124,150,288,https://solanart.io/search/?token=J54TpJRyakizKkVJLBa8uMpMzagMPyuBEPetmQH5tHWN
@@ -1248,9 +1248,11 @@ TSM FTX Aurorian,3100,,https://solanart.io/search/?token=CifYuqCQkmDSA5uvaJJWBwC
 5354,5354,7873,https://solanart.io/search/?token=DUdNEdfeSPubYMjWndcUncjRS6tLepRcRvjQugvzGypa
 6207,8888,831,https://solanart.io/search/?token=Hhss6FsQVH9n2qJDEscNcVs7Jhjk6gtMcaz11NECtPzv
 6594,10000,3955,https://solanart.io/search/?token=CGPzab1KVgJyciYyVzM9vwqWMoKhpuK4gPhDTxUKxgm
+8188,5000,13,https://solanart.io/search/?token=1cersTmeR1sRL4W978HZ7rrE1SvtbfjoL82xdrtEpPw
 8326,99999,1546,https://solanart.io/search/?token=65ZACZ5o1hmiBzCUW2M1SQEJK6MhioUBYEpPWjaqny5W
 8409,9999,3772,https://solanart.io/search/?token=GoZXf9fQjC13h89dNfpVs9Zha8ArUegT8cqFfe1MW5cu
 8769,15001,9291,https://solanart.io/search/?token=2n861Rn47YVzZxUoYKQbWGuwr5Uz6yjSHEbxDQfLgjxx
+9100,5000,470,https://solanart.io/search/?token=8nDhgr4fSLWEyJtfW5iMgkFdn3P2apdL7pRuTuoqEmP1
 9315,9999,459,https://solanart.io/search/?token=DQAqvxL9oiaHmXtKEdSFu1c9uKq6o8YkCbuikK7r3Ft2
 Aurorian Helios 9,13888,,https://solanart.io/search/?token=DZzaY1rGA8M32W2npYH4Z69APaVBWJmw19s86SEWFKMm
 Aurorian Helios 5,18900,,https://solanart.io/search/?token=6myDDf3kCvMkeiTVxNaNsG2ULys2VFdLMW78oX29drfD
