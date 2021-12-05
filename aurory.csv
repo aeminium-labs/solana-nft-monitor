@@ -3,7 +3,6 @@ id,price,moonRank,storeURL
 34,220,2026,https://solanart.io/search/?token=75XF2eSBwM4712Lq12Nx7HoidNdweGMKcxr1pBRyQY7p
 43,65,722,https://solanart.io/search/?token=pDPXxLQCqNrAQQpi4x5Um3zc8zxVaVaD3WWCa5mW8RQ
 78,999,341,https://solanart.io/search/?token=FeVV93jve8j8UnL8yHnXFHot3mvfsx2ZnbTSXWaGEjXg
-82,29,3394,https://alpha.art/t/AQdYqZgBEwuF7H1mZBmq1EV4PSXd2XSu6sPvz9Y9Gwhz
 94,80,4573,https://solanart.io/search/?token=EGVvQKDAKhM6v4JVGswsMiPc3zsiKXtMTJ6N5QwRUfxB
 99,188.88,3596,https://magiceden.io/item-details/575QQZZXzSRoYhkMNib7ycapsGoC7wSJcuRm1ze8h7AE
 105,99,5757,https://solanart.io/search/?token=DuhghNwXjdQ5xoQZ2Sc4WQwWHg2ybbrNn1N6k1cvWNNg
@@ -100,6 +99,7 @@ id,price,moonRank,storeURL
 896,99,7787,https://solanart.io/search/?token=GbTcdqDeGHWnVZKAzAQnSEhxwEr8sbzTgf8NsrdtNEXx
 925,169.690002,126,https://solanart.io/search/?token=8PWcnqLqxUsCPzMFCeChYZo4FyRxKhTzsQEVw9sTgyWR
 927,200,3693,https://solanart.io/search/?token=HhJ7QohTJjW9QXwLYW9oJ7ogx2SWGY3pRhLeadtnFm16
+931,300,2748,https://solanart.io/search/?token=8yw4bFWH3JVsnZvYH5ovHYGsZD6dqbHZMbcdCd9jaCr8
 950,760,497,https://solanart.io/search/?token=7aydbso5HsMKpZhL8mZQrCvXyXKNnAQLi2WVbytjAkSd
 960,180,1817,https://solanart.io/search/?token=GG3PrAFHR1oVn7VazKhrFnWio59kNVhTfBZHmDzFgmjK
 976,200,3319,https://solanart.io/search/?token=7LWr32uo2hoqKyojeAReZeosJiVKi8pGYtrMdRcoTMzJ
@@ -505,6 +505,7 @@ id,price,moonRank,storeURL
 4213,390,150,https://solanart.io/search/?token=2dtJBp5hKTFxpukfuADLSyyRWvQoLzjTiKvftkoLY3od
 4230,95,2872,https://solanart.io/search/?token=AdyfgPwvso6TVuaHgwiAHHr3bcHEZLyn71ST8x1JUYue
 4245,99,4349,https://solanart.io/search/?token=DXBqpvNpWZj9yXE7dYMknGUhz8gaTh7D9Deo1v6iWkT4
+4249,77,2936,https://solanart.io/search/?token=5ms3XFkfEC91Q1Xpfjh2bSJAFrtuVcFjeUKAfnvr2Nii
 4260,55,9782,https://solanart.io/search/?token=CapSKP7ehV6wazphknUVeFt5uhXbc9GUHhoVbxkrr7Nn
 4264,65,9485,https://solanart.io/search/?token=BHnJKd4CC9R1XrPB7dAFeABawGs39wFj7Yp8zZhYMn2A
 4273,777.77002,7547,https://solanart.io/search/?token=Ht68mFh8J7FURUGRhBHTZD2EwmrXLNyuikqEiFsrZHGg
@@ -1023,7 +1024,6 @@ id,price,moonRank,storeURL
 8299,115,1854,https://solanart.io/search/?token=HZcdvZjBveRTNW75mYau6ZKHdYuE8gzheuVteCMyogBh
 8307,200,462,https://solanart.io/search/?token=4nhhLfVGNusL6Aj4RFbA8Xsiy7pJvgQQbPpVz4nDGRWw
 8316,299,4940,https://solanart.io/search/?token=7C3KryynVT65NzLDLzQcKBxF4xmXLWGoR3JpptNsaAaJ
-8326,99999,1546,https://solanart.io/search/?token=65ZACZ5o1hmiBzCUW2M1SQEJK6MhioUBYEpPWjaqny5W
 8341,82,5544,https://solanart.io/search/?token=H3PKtyK1KcSWqkiMf8MFJ5jLS6Sh3wA7rb8ECSm8YwaE
 8350,969.690002,554,https://solanart.io/search/?token=Hih2RPd4fR1uyEt76TsyVbbv1nmF9Bbk4oa4ZYXG5UTs
 8370,59,3730,https://solanart.io/search/?token=FeXh6W2zZSrwocCZKdRuj8qMcp9zTq4xuczknK6GUWXX
@@ -1244,6 +1244,7 @@ id,price,moonRank,storeURL
 TSM FTX Aurorian,3100,,https://solanart.io/search/?token=CifYuqCQkmDSA5uvaJJWBwC7DPT3RtXEkfhvxAbnfmrD
 Aurorian Helios 9,13888,,https://solanart.io/search/?token=DZzaY1rGA8M32W2npYH4Z69APaVBWJmw19s86SEWFKMm
 Aurorian Helios 5,18900,,https://solanart.io/search/?token=6myDDf3kCvMkeiTVxNaNsG2ULys2VFdLMW78oX29drfD
+82,29,3394,https://alpha.art/t/AQdYqZgBEwuF7H1mZBmq1EV4PSXd2XSu6sPvz9Y9Gwhz
 202,21.1,4548,https://alpha.art/t/4yKcQqQ6BvJ8tk6rkvJVLMkLSnsBXZqvaNUvxTqKDTEZ
 856,21.05,6752,https://alpha.art/t/9C2oEf5UK21hXTbd3D4npoLrvS7v3Qg8HDp7JrEs1LAb
 1263,42,6222,https://alpha.art/t/42MZZoyk1RcyHAgmuBj62DBFEoMCghSofhfDLpYCwyeq
@@ -1278,6 +1279,7 @@ Aurorian Helios 5,18900,,https://solanart.io/search/?token=6myDDf3kCvMkeiTVxNaNs
 7849,55,5492,https://alpha.art/t/ADGoMpqB9iyCbbuNR51fhj8ofpm1hwztKpPxCeC8YC4f
 7883,21.5,7087,https://alpha.art/t/DEjYBiGWijXWgPD97v62GHJfnB1qovWo1hKX768G4Uqa
 7907,27.5,6168,https://alpha.art/t/AoxxmpPueGFSpzytnpAn4pyx9ouV9rENeZbwcTn3fS41
+8326,99999,1546,https://solanart.io/search/?token=65ZACZ5o1hmiBzCUW2M1SQEJK6MhioUBYEpPWjaqny5W
 8443,42,2725,https://alpha.art/t/5PRQ4wo3nmK5S1d49Zm6VQ4AZ4EyGGAtguQbv5VKWcm5
 8538,34.69,1591,https://alpha.art/t/8QyynuQyfv6YfKyC1mAtwXHMsk7Qf8shUzxyqSwCmE4D
 8623,60,6404,https://alpha.art/t/FHi5GNuWsKrbZtsPEmy6JBU9gL13g7HCtJnnJCsMzVnh
