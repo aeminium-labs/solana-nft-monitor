@@ -835,11 +835,18 @@ jobs:
           downloaded_filename: solana_cat_business__magiceden.json
           postprocess: ./postprocess/magiceden.ts
 
-      - name: arab_punkz - Fetch Exchange Art data
+      - name: arabpunkz - Fetch Magic Eden data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://api-mainnet.magiceden.io/rpc/getListedNFTsByQuery?q=%7B%22%24match%22%3A%7B%22collectionSymbol%22%3A%22arabpunkz%22%7D%2C%22%24sort%22%3A%7B%22takerAmount%22%3A1%2C%22createdAt%22%3A-1%7D%7D
+          downloaded_filename: arabpunkz__magiceden.json
+          postprocess: ./postprocess/magiceden.ts
+
+      - name: arabpunkz - Fetch Exchange Art data
         uses: githubocto/flat@v3
         with:
           http_url: https://api.exchange.art/v1/public/tokens?limit=10000&sort=price-asc&from=0&filters={%22tokenListingTypes%22:[%22listed%22],%22collections%22:[%22ArabPunkz%22]}&view=collection
-          downloaded_filename: arab_punkz__exchangeart.json
+          downloaded_filename: arabpunkz__exchangeart.json
           postprocess: ./postprocess/exchangeart.ts
 
       - name: spookyz - Fetch Magic Eden data
