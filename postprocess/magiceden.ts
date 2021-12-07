@@ -21,6 +21,7 @@ type ParsedData = {
   id: string;
   price: number;
   moonRank?: string;
+  score?: number;
   storeURL: string;
 };
 
@@ -44,12 +45,17 @@ try {
       id: String(row.id),
       price: parseFloat(String(row.price)),
       moonRank: String(row.moonRank),
+      score: parseFloat(String(row.score)),
       storeURL: String(row.storeURL),
-    }
+    };
   });
 
-  csvData = csvData.filter((item) => { return !item.storeURL.includes("magiceden"); });
-} catch(NotFound) {};
+  csvData = csvData.filter((item) => {
+    return !item.storeURL.includes("magiceden");
+  });
+} catch (NotFound) {}
+
+let minPrice = Infinity;
 
 // Step 3: Filter specific data we want to keep
 const enhancedData: Array<ParsedData> = data.results
@@ -60,6 +66,10 @@ const enhancedData: Array<ParsedData> = data.results
     }
     const storeURL = `https://magiceden.io/item-details/${item.mintAddress}`;
 
+    if (item.price < minPrice) {
+      minPrice = item.price;
+    }
+
     return {
       id,
       price: item.price,
@@ -69,8 +79,20 @@ const enhancedData: Array<ParsedData> = data.results
   })
   .filter(Boolean);
 
-// Step 4: Update the original CSV with the new data
-csvData.push(...enhancedData);
+// Step 4: Calculate scores
+const dataWithScore = enhancedData.map((item) => {
+  const { id, price, moonRank, storeURL } = item;
+  return {
+    id,
+    price,
+    moonRank,
+    score: (price - minPrice) * 100 + parseInt(moonRank || ""),
+    storeURL,
+  };
+});
+
+// Step 5: Update the original CSV with the new data
+csvData.push(...dataWithScore);
 csvData.sort((a, b) => parseInt(a.id) - parseInt(b.id));
 
 console.log("Processed Items:", enhancedData.length);
