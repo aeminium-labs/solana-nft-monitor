@@ -22,6 +22,7 @@ type ParsedData = {
   id: string;
   price: number;
   moonRank?: string;
+  score?: number;
   storeURL: string;
 };
 
@@ -45,12 +46,15 @@ try {
       id: String(row.id),
       price: parseFloat(String(row.price)),
       moonRank: String(row.moonRank),
+      score: parseFloat(String(row.score)),
       storeURL: String(row.storeURL),
-    }
+    };
   });
 
-  csvData = csvData.filter((item) => { return !item.storeURL.includes("alpha.art"); });
-} catch(NotFound) {};
+  csvData = csvData.filter((item) => {
+    return !item.storeURL.includes("alpha.art");
+  });
+} catch (NotFound) {}
 
 // Step 2.5: Fetch all other result pages (Alpha Art paginates)
 let allTokens = data.tokens || [];
@@ -61,8 +65,12 @@ while (data.nextPage) {
     body: JSON.stringify({ token: data.nextPage }),
   }).then((res) => res.json());
 
-  if (data.tokens) { allTokens.push(...data.tokens) };
+  if (data.tokens) {
+    allTokens.push(...data.tokens);
+  }
 }
+
+let minPrice = Infinity;
 
 // Step 3: Filter specific data we want to keep
 const enhancedData: Array<ParsedData> = allTokens
@@ -73,17 +81,34 @@ const enhancedData: Array<ParsedData> = allTokens
     }
     const storeURL = `https://alpha.art/t/${item.mintId}`;
 
+    const itemPrice = parseInt(item.price) / 1000000000;
+    if (itemPrice < minPrice) {
+      minPrice = itemPrice;
+    }
+
     return {
       id,
-      price: parseInt(item.price) / 1000000000,
+      price: itemPrice,
       moonRank: moonrank[id],
       storeURL,
     };
   })
   .filter(Boolean);
 
-// Step 4: Update the original CSV with the new data
-csvData.push(...enhancedData);
+// Step 5: Calculate scores
+const dataWithScore = enhancedData.map((item) => {
+  const { id, price, moonRank, storeURL } = item;
+  return {
+    id,
+    price,
+    moonRank,
+    score: (price - minPrice) * 100 + parseInt(moonRank || ""),
+    storeURL,
+  };
+});
+
+// Step 6: Update the original CSV with the new data
+csvData.push(...dataWithScore);
 csvData.sort((a, b) => parseInt(a.id) - parseInt(b.id));
 
 console.log("Processed Items:", enhancedData.length);

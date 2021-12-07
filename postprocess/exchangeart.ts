@@ -21,6 +21,7 @@ type ParsedData = {
   id: string;
   price: number;
   moonRank?: string;
+  score?: number;
   storeURL: string;
 };
 
@@ -44,12 +45,17 @@ try {
       id: String(row.id),
       price: parseFloat(String(row.price)),
       moonRank: String(row.moonRank),
+      score: parseFloat(String(row.score)),
       storeURL: String(row.storeURL),
-    }
+    };
   });
 
-  csvData = csvData.filter((item) => { return !item.storeURL.includes("exchange.art"); });
-} catch(NotFound) {};
+  csvData = csvData.filter((item) => {
+    return !item.storeURL.includes("exchange.art");
+  });
+} catch (NotFound) {}
+
+let minPrice = Infinity;
 
 // Step 3: Filter specific data we want to keep
 const enhancedData: Array<ParsedData> = data.tokens
@@ -60,17 +66,35 @@ const enhancedData: Array<ParsedData> = data.tokens
     }
     const storeURL = `https://exchange.art/single/${item.mintKey}`;
 
+    const itemPrice = item.lastListedPrice / 1000000000;
+
+    if (itemPrice < minPrice) {
+      minPrice = itemPrice;
+    }
+
     return {
       id,
-      price: item.lastListedPrice / 1000000000,
+      price: itemPrice,
       moonRank: moonrank[id],
       storeURL,
     };
   })
   .filter(Boolean);
 
-// Step 4: Update the original CSV with the new data
-csvData.push(...enhancedData);
+// Step 4: Calculate scores
+const dataWithScore = enhancedData.map((item) => {
+  const { id, price, moonRank, storeURL } = item;
+  return {
+    id,
+    price,
+    moonRank,
+    score: (price - minPrice) * 100 + parseInt(moonRank || ""),
+    storeURL,
+  };
+});
+
+// Step 5: Update the original CSV with the new data
+csvData.push(...dataWithScore);
 csvData.sort((a, b) => parseInt(a.id) - parseInt(b.id));
 
 console.log("Processed Items:", enhancedData.length);
