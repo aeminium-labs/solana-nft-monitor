@@ -23,12 +23,25 @@ export async function cleanCSV({
     const rawData: Array<Record<string, unknown>> = await readCSV(fileName);
 
     const csvData = rawData.map((row) => {
+      const { id, price, moonRank, storeURL, ...rest } = row;
+      const score = rest["💎 score (%)"];
+      delete rest["💎 score (%)"];
+
+      const attributes =
+        Object.keys(rest).reduce<Record<string, string>>((acc, key) => {
+          return {
+            ...acc,
+            [key]: String(rest[key]),
+          };
+        }, {}) || {};
+
       return {
-        id: String(row.id),
-        price: parseFloat(String(row.price)),
-        moonRank: parseInt(String(row.moonRank)),
-        "💎 score (%)": parseFloat(String(row["💎 score (%)"])),
-        storeURL: String(row.storeURL),
+        id: String(id),
+        price: parseFloat(String(price)),
+        moonRank: parseInt(String(moonRank)),
+        "💎 score (%)": parseFloat(String(score)),
+        storeURL: String(storeURL),
+        ...attributes,
       };
     });
 
@@ -53,9 +66,10 @@ export async function parseData<T>({
   getUrl: (item: T) => string;
   getPrice: (item: T) => number;
 }): Promise<Array<BaseData>> {
-  const moonrank: Record<string, string> = await readJSON(
-    `.github/moonrank/${collection}.json`
-  );
+  const moonrank: Record<
+    string,
+    { rank: string; attributes: Array<[string, string]> }
+  > = await readJSON(`.github/moonrank/${collection}.json`);
 
   return data.map((item) => {
     let id = getID(item);
@@ -65,11 +79,27 @@ export async function parseData<T>({
     const storeURL = getUrl(item);
     const itemPrice = getPrice(item);
 
+    let attributes: Record<string, string> = {};
+
+    if (moonrank[id]?.attributes) {
+      const sortedAttributes = moonrank[id].attributes.sort((a, b) =>
+        a[0].toLocaleLowerCase().localeCompare(b[0].toLocaleLowerCase())
+      );
+
+      attributes = sortedAttributes.reduce((acc, [key, value]) => {
+        return {
+          ...acc,
+          [key.toLocaleLowerCase()]: value.toLocaleLowerCase(),
+        };
+      }, attributes);
+    }
+
     return {
       id,
       price: itemPrice,
-      moonRank: parseInt(moonrank[id] || ""),
+      moonRank: parseInt(moonrank[id]?.rank || ""),
       storeURL,
+      ...attributes,
     };
   });
 }
@@ -99,7 +129,7 @@ export function addScore({
 
   // Calculate scores and update data
   return items.map((item) => {
-    const { id, price, moonRank, storeURL } = item;
+    const { id, price, moonRank, storeURL, ...rest } = item;
     const priceScore = (price - minPrice) * 0.2;
     const rankScore = (moonRank / maxRank) * 0.8;
     const scorePercentage = (1 - (priceScore + rankScore) / 2) * 100;
@@ -112,6 +142,7 @@ export function addScore({
       moonRank,
       "💎 score (%)": roundedScore > 0 ? roundedScore : 0,
       storeURL,
+      ...rest,
     };
   });
 }
