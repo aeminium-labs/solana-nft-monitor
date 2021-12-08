@@ -7,7 +7,7 @@ import {
 export type BaseData = {
   id: string;
   price: number;
-  moonRank?: string;
+  moonRank: number;
   score?: number;
   storeURL: string;
 };
@@ -15,6 +15,7 @@ export type BaseData = {
 export type ParsedData = {
   items: Array<BaseData>;
   minPrice: number;
+  maxRank: number;
 };
 
 export async function cleanCSV({
@@ -31,7 +32,7 @@ export async function cleanCSV({
       return {
         id: String(row.id),
         price: parseFloat(String(row.price)),
-        moonRank: String(row.moonRank),
+        moonRank: parseInt(String(row.moonRank)),
         score: parseFloat(String(row.score)),
         storeURL: String(row.storeURL),
       };
@@ -62,6 +63,7 @@ export async function parseData<T>({
     `.github/moonrank/${collection}.json`
   );
   let minPrice = Infinity;
+  let maxRank = 0;
 
   const items: Array<BaseData> = data.map((item) => {
     let id = getID(item);
@@ -75,10 +77,15 @@ export async function parseData<T>({
       minPrice = itemPrice;
     }
 
+    const rank = parseInt(moonrank[id] || "");
+    if (rank > maxRank) {
+      maxRank = rank;
+    }
+
     return {
       id,
       price: itemPrice,
-      moonRank: moonrank[id],
+      moonRank: rank,
       storeURL,
     };
   });
@@ -86,6 +93,7 @@ export async function parseData<T>({
   return {
     items,
     minPrice,
+    maxRank,
   };
 }
 
@@ -98,7 +106,7 @@ export function addScore(data: ParsedData): Array<BaseData> {
       price,
       moonRank,
       score:
-        (price - data.minPrice) * 1000 + (parseInt(moonRank || "") * 0.4 - 0.4),
+        ((price - data.minPrice) * 200 + (moonRank / data.maxRank) * 500) / 2,
       storeURL,
     };
   });
