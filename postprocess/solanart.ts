@@ -1,114 +1,34 @@
-// Helper library written for useful postprocessing tasks with Flat Data
-// Has helper functions for manipulating csv, txt, json, excel, zip, and image files
-import {
-  readJSON,
-  writeCSV,
-  readCSV,
-  removeFile,
-} from "https://deno.land/x/flat@0.0.13/mod.ts";
+import { readJSON, removeFile } from "https://deno.land/x/flat@0.0.13/mod.ts";
+import { addScore, cleanCSV, parseData, writeData } from "./utils.ts";
 
 type RawData = {
   id: number;
   // deno-lint-ignore camelcase
   token_add: string;
   price: number;
-  // deno-lint-ignore camelcase
-  for_sale: number;
-  // deno-lint-ignore camelcase
-  link_img: string;
   name: string;
-  escrowAdd: string;
-  // deno-lint-ignore camelcase
-  seller_address: string;
-  attributes: string;
-  skin: null;
-  type: string;
-  ranking: null;
-  lastSoldPrice: null | number;
 };
 
-type ParsedData = {
-  id: string;
-  price: number;
-  moonRank?: string;
-  score?: number;
-  storeURL: string;
-};
-
-// Step 1: Read the downloaded_filename JSON
 const filename = Deno.args[0];
 const collection = filename.split("__")[0];
 const data: Array<RawData> = await readJSON(filename);
-const moonrank: Record<string, string> = await readJSON(
-  `.github/moonrank/${collection}.json`
-);
-
-// Step 2: Read the existing CSV file, if it exists, and remove old solanart entries
-let csvData: Array<ParsedData> = [];
 const csvFilename = `${collection}.csv`;
 
-try {
-  const rawData: Array<Record<string, unknown>> = await readCSV(csvFilename);
+// 1 - Clean old entries
+const csvData = await cleanCSV({ fileName: csvFilename, market: "solanart" });
 
-  csvData = rawData.map((row) => {
-    return {
-      id: String(row.id),
-      price: parseFloat(String(row.price)),
-      moonRank: String(row.moonRank),
-      score: parseFloat(String(row.score)),
-      storeURL: String(row.storeURL),
-    };
-  });
-
-  csvData = csvData.filter((item) => {
-    return !item.storeURL.includes("solanart");
-  });
-} catch (NotFound) {}
-
-let minPrice = Infinity;
-
-// Step 3: Filter specific data we want to keep
-const enhancedData: Array<ParsedData> = data
-  .map((item) => {
-    let id = item.name;
-    if (id.includes("#")) {
-      id = id.split("#")[1];
-    }
-    const storeURL = `https://solanart.io/search/?token=${item.token_add}`;
-
-    if (item.price < minPrice) {
-      minPrice = item.price;
-    }
-
-    return {
-      id,
-      price: item.price,
-      moonRank: moonrank[id],
-      storeURL,
-    };
-  })
-  .filter(Boolean);
-
-// Step 4: Calculate scores
-const dataWithScore = enhancedData.map((item) => {
-  const { id, price, moonRank, storeURL } = item;
-  return {
-    id,
-    price,
-    moonRank,
-    score: (price - minPrice) * 100 + parseInt(moonRank || ""),
-    storeURL,
-  };
+// 2 - Parse data
+const parsedData = await parseData<RawData>({
+  collection,
+  data,
+  getID: (item) => item.name,
+  getPrice: (item) => item.price,
+  getUrl: (item) => `https://solanart.io/search/?token=${item.token_add}`,
 });
 
-// Step 5: Update the original CSV with the new data
-csvData.push(...dataWithScore);
-csvData.sort((a, b) => parseInt(a.id) - parseInt(b.id));
+// 4 - Add scores
+const dataWithScore = addScore(parsedData);
 
-console.log("Processed Items:", enhancedData.length);
-console.log("Total Items in CSV:", csvData.length);
-
-await writeCSV(csvFilename, csvData);
-console.log("Wrote data");
-
+// 5 - Save data and cleanup file
+await writeData({ fileName: csvFilename, csvData, data: dataWithScore });
 await removeFile(filename);
