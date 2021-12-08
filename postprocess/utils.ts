@@ -8,7 +8,7 @@ export type BaseData = {
   id: string;
   price: number;
   moonRank: number;
-  score?: number;
+  "💎 score (%)"?: number;
   storeURL: string;
 };
 
@@ -33,7 +33,7 @@ export async function cleanCSV({
         id: String(row.id),
         price: parseFloat(String(row.price)),
         moonRank: parseInt(String(row.moonRank)),
-        score: parseFloat(String(row.score)),
+        "💎 score (%)": parseFloat(String(row["💎 score (%)"])),
         storeURL: String(row.storeURL),
       };
     });
