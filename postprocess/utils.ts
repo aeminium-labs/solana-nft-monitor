@@ -110,7 +110,7 @@ export function addScore(data: ParsedData): Array<BaseData> {
       id,
       price,
       moonRank,
-      score: roundedScore > 0 ? roundedScore : 0,
+      "💎 score (%)": roundedScore > 0 ? roundedScore : 0,
       storeURL,
     };
   });
