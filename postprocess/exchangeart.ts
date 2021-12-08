@@ -32,8 +32,11 @@ const parsedData = await parseData<Item>({
 });
 
 // 4 - Add scores
-const dataWithScore = addScore(parsedData);
+const dataWithScore = addScore({ data: parsedData, csvData });
 
 // 5 - Save data and cleanup file
-await writeData({ fileName: csvFilename, csvData, data: dataWithScore });
+await writeData({
+  fileName: csvFilename,
+  data: dataWithScore,
+});
 await removeFile(filename);

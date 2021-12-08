@@ -12,12 +12,6 @@ export type BaseData = {
   storeURL: string;
 };
 
-export type ParsedData = {
-  items: Array<BaseData>;
-  minPrice: number;
-  maxRank: number;
-};
-
 export async function cleanCSV({
   fileName,
   market,
@@ -58,14 +52,12 @@ export async function parseData<T>({
   getID: (item: T) => string;
   getUrl: (item: T) => string;
   getPrice: (item: T) => number;
-}): Promise<ParsedData> {
+}): Promise<Array<BaseData>> {
   const moonrank: Record<string, string> = await readJSON(
     `.github/moonrank/${collection}.json`
   );
-  let minPrice = Infinity;
-  let maxRank = 0;
 
-  const items: Array<BaseData> = data.map((item) => {
+  return data.map((item) => {
     let id = getID(item);
     if (id.includes("#")) {
       id = id.split("#")[1];
@@ -73,36 +65,44 @@ export async function parseData<T>({
     const storeURL = getUrl(item);
     const itemPrice = getPrice(item);
 
-    if (itemPrice < minPrice) {
-      minPrice = itemPrice;
-    }
-
-    const rank = parseInt(moonrank[id] || "");
-    if (rank > maxRank) {
-      maxRank = rank;
-    }
-
     return {
       id,
       price: itemPrice,
-      moonRank: rank,
+      moonRank: parseInt(moonrank[id] || ""),
       storeURL,
     };
   });
-
-  return {
-    items,
-    minPrice,
-    maxRank,
-  };
 }
 
-export function addScore(data: ParsedData): Array<BaseData> {
-  return data.items.map((item) => {
+export function addScore({
+  data,
+  csvData,
+}: {
+  data: Array<BaseData>;
+  csvData: Array<BaseData>;
+}): Array<BaseData> {
+  const items = [...csvData, ...data];
+
+  // Calculate minPrice and maxRank for scoring
+  let minPrice = Infinity;
+  let maxRank = 0;
+
+  items.forEach((item) => {
+    if (item.price < minPrice) {
+      minPrice = item.price;
+    }
+
+    if (item.moonRank > maxRank) {
+      maxRank = item.moonRank;
+    }
+  });
+
+  // Calculate scores and update data
+  return items.map((item) => {
     const { id, price, moonRank, storeURL } = item;
-    const priceScore = (price - data.minPrice) * 0.2;
-    const rankScore = (moonRank / data.maxRank) * 0.8;
-    const scorePercentage = (1 - (priceScore + rankScore / 2)) * 100;
+    const priceScore = (price - minPrice) * 0.2;
+    const rankScore = (moonRank / maxRank) * 0.8;
+    const scorePercentage = (1 - (priceScore + rankScore) / 2) * 100;
     const roundedScore =
       Math.round((scorePercentage + Number.EPSILON) * 100) / 100;
 
@@ -118,19 +118,16 @@ export function addScore(data: ParsedData): Array<BaseData> {
 
 export async function writeData({
   fileName,
-  csvData,
   data,
 }: {
   fileName: string;
-  csvData: Array<BaseData>;
   data: Array<BaseData>;
 }) {
-  csvData.push(...data);
-  csvData.sort((a, b) => parseInt(a.id) - parseInt(b.id));
+  data.sort((a, b) => parseInt(a.id) - parseInt(b.id));
 
   console.log("Processed Items:", data.length);
-  console.log("Total Items in CSV:", csvData.length);
+  console.log("Total Items in CSV:", data.length);
 
-  await writeCSV(fileName, csvData);
+  await writeCSV(fileName, data);
   console.log("Wrote data");
 }
