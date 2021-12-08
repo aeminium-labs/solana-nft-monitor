@@ -106,7 +106,7 @@ export function addScore(data: ParsedData): Array<BaseData> {
       price,
       moonRank,
       score:
-        ((price - data.minPrice) * 200 + (moonRank / data.maxRank) * 500) / 2,
+        ((price - data.minPrice) * 200 + (moonRank / data.maxRank) * 800) / 2,
       storeURL,
     };
   });
