@@ -100,13 +100,17 @@ export async function parseData<T>({
 export function addScore(data: ParsedData): Array<BaseData> {
   return data.items.map((item) => {
     const { id, price, moonRank, storeURL } = item;
+    const priceScore = (price - data.minPrice) * 0.2;
+    const rankScore = (moonRank / data.maxRank) * 0.8;
+    const scorePercentage = (1 - (priceScore + rankScore / 2)) * 100;
+    const roundedScore =
+      Math.round((scorePercentage + Number.EPSILON) * 100) / 100;
 
     return {
       id,
       price,
       moonRank,
-      score:
-        ((price - data.minPrice) * 200 + (moonRank / data.maxRank) * 800) / 2,
+      score: roundedScore > 0 ? roundedScore : 0,
       storeURL,
     };
   });
