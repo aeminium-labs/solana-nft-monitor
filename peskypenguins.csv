@@ -111,6 +111,7 @@ id,price,moonRank,score,storeURL
 1344,14,1460,NaN,https://magiceden.io/item-details/66AR3PHQNJjBsqBFFjLRMYCN8uGDyBVunEQyMb5tSXeN
 1365,11,6959,NaN,https://magiceden.io/item-details/5wTaNMUQ3pD7hN6UprVuuSsJq98m2zeZWDLHxu5tVp8t
 1389,14.1,4316,NaN,https://magiceden.io/item-details/5XnF4KSACJpJYCUyMDsPiK496NJTcoo1p1LtouM8i6Da
+1392,7.76,677,NaN,https://magiceden.io/item-details/35JiJCuGQxiof6eujwU8yWZwZA98Z9h7fgHhMSp38foQ
 1418,7,3332,,https://alpha.art/t/H6EQA1iqzt3vafEx61Pg6cTtEQ4eeirqhB2kEu9tM1t8
 1426,5.6922,6895,NaN,https://magiceden.io/item-details/8cVGfxyeAHBPAwzhyuop14bhE5Lvmhk6YH8zRp8upmGB
 1448,9.99,6861,NaN,https://magiceden.io/item-details/CdjyM9rwxR7qtMETai8JXxwW9XEbr2yDuuXPaUcQ8UVu
@@ -258,7 +259,6 @@ id,price,moonRank,score,storeURL
 3073,49.99,2675,,https://alpha.art/t/B7xzSM5yHCGWfcWcCySJUMJ1yuPogZCpfL6FQuesrGLW
 3095,20,4849,,https://alpha.art/t/5r1bHjw6PhsqdzHuFJLnhq9q1rjRs9ErbmWroGzBUa3Z
 3100,24.99,2950,,https://alpha.art/t/91DQ3wUNSDuRo8XnYL4v3N7Hp8dW17XqkWb7TG8qVq1A
-3107,5,5605,NaN,https://magiceden.io/item-details/BBn6cBe6dhjkLTZRtqG5AkoJ95cLzwpGyXzVJT5PziFm
 3108,5.34,6826,NaN,https://magiceden.io/item-details/EQDEPxS5rrz1cy6J74aV7rFqra3yxs2BS5GbAS67Q8fA
 3118,5.5,2972,,https://alpha.art/t/DXd8zShvXfqcY2xh597nu6tkVFe81jyRZwJQXZwNqshf
 3138,7.8,4958,NaN,https://magiceden.io/item-details/5v8eWZiWZX5EQTyHkgj7YevKnPVsXcbmFtTuK3LZ5kVz
@@ -449,6 +449,7 @@ id,price,moonRank,score,storeURL
 5028,49.99,3696,,https://alpha.art/t/B21eBTb1LrQFbEBhT5t3bTWBhFu6FaB2vXvTPYd9UYEb
 5040,15,2487,NaN,https://magiceden.io/item-details/9FMFEutoSPcc9ThdMmBFysCbf7Tz59s3AhT1NksxLRdj
 5064,9.9,588,,https://alpha.art/t/2Y67rSscZUXk7vGf1QXwNncHgc2hMKkqd4YLjyDjYKER
+5072,15,5014,NaN,https://magiceden.io/item-details/5v8m2whZ9FbQuRdmdeCGmy95w9usXbg2i4Xr7yycQKQU
 5073,12.69,741,NaN,https://magiceden.io/item-details/3MNh88WizfojmatDE4AF4c2vnJA628vPvK9TV61fo8PL
 5083,15,3166,NaN,https://magiceden.io/item-details/BN7Fe4cUxrPcnR5PcjnaUQ6z43kqAVup475dBSv7JL7F
 5086,16,5090,,https://alpha.art/t/Cjc9UDcgkdQwxuqQDEZ8q9EEoE6kpsufv3Nbyzz9QP6q
@@ -492,7 +493,6 @@ id,price,moonRank,score,storeURL
 5517,7,5925,NaN,https://magiceden.io/item-details/9UDg63oGjh7ZBqnbNaWJ1pF8ViMpHDUB3Y2sVU7H7t9W
 5523,110,438,,https://alpha.art/t/6sB1ZSxvbU98T1kQUCCniWBP4Szi9p9i8cwy2sUwLbDf
 5539,14.6,6494,NaN,https://magiceden.io/item-details/F8YGM3Ejkz3C1DsmYDGpYJV9VF9Sm7EtabJCBhbs8NVf
-5554,5,5370,NaN,https://magiceden.io/item-details/GJWLQm9FiNVERSRtsVhCNqwWfAmDd7qzzSCfpQTppshs
 5569,12,5718,NaN,https://magiceden.io/item-details/9VXUh1YFA8QEsyAE4TK1KFF9M5TUZGUq9hfu7aR7k9Lo
 5572,8,5822,NaN,https://magiceden.io/item-details/3VmD7suxEViwm9kbfvjiJL4nH2XxkQt52yMCcyFeWoL4
 5584,23,2999,,https://alpha.art/t/4y4VkHLzbEbHTSi1c7inWz442wM7QhrMx9wBG671FBS3
@@ -581,6 +581,7 @@ id,price,moonRank,score,storeURL
 6427,15,1260,,https://alpha.art/t/6mj37GUtWmvCJi9hFRki8MqFW2j3s1bMxUzTMrrM4TqR
 6439,9.69,6198,,https://alpha.art/t/5XLpueN9nfWxYF7h1dLHTukyTqUzcaCdVgk2hnDGC1fV
 6442,10,2641,NaN,https://magiceden.io/item-details/24Mi44cg9tSHY1ZEoJoVW2h4PbZnuWGMFqVJGZjryXXk
+6454,9,3997,,https://alpha.art/t/8XheXPteG3UnV1EPXiqFCn58VvYeo8JW6jVXEms3gDcC
 6456,12,8034,NaN,https://magiceden.io/item-details/52Hbe9tcKMwz7TkymWBwCq2YB3dPLuzxDyJSos5S7cYK
 6468,23,7387,,https://alpha.art/t/DqczkXV3rbCEpPT3CjtyXNPDfXHGW73Tv3x2GAsd6R5u
 6470,35,7412,,https://alpha.art/t/5A5mroyV9jtz77nHuMhnpMTS6VjV7Sv86UTWTWD9HJo2
@@ -778,7 +779,6 @@ id,price,moonRank,score,storeURL
 8527,11.5,2860,NaN,https://magiceden.io/item-details/DhFiGhWz5NB6S6T9HFi5MUJrMBTqAnHRgcQFfGBEHBzN
 8530,7.99,7942,NaN,https://magiceden.io/item-details/9sCjSYJvWD7RgSWaDNzggtxxSoGypC247CvjPm3acduU
 8531,7.5,1895,NaN,https://magiceden.io/item-details/7kTkjCbMGXsd92TV24YsuGeReAFs8bTNeg3iMPiEdQqg
-8548,5.5,5796,,https://alpha.art/t/4a8gjxyEaS5Qi8N6Lq2F5CLPCbt3F6QzX1BgdVf4L583
 8554,6.269,2233,NaN,https://magiceden.io/item-details/7y8cFg6LZ21kgGHxPWNb7XLrKKjzoD9JrPQLSQz38BKq
 8574,33,7683,,https://alpha.art/t/4fhBvmsTuEFhQUyPtpFasjQgxhLE4MXnpAHmwj3fsaDi
 8577,15,4843,NaN,https://magiceden.io/item-details/2rjNM8GTnuZmBnnoTQ3goTXSTtvb9enfqJ1DYtvgY5Uc
