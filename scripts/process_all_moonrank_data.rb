@@ -32,9 +32,9 @@ collections.each do |collection|
 
     processed_attributes = m["rank_explain"].map do |a|
       [a["attribute"], a["value"]]
-    end
-  
-    [id, { :rank => rank, :attributes => processed_attributes}]
+    end.sort_by { |a, v| a.downcase }
+
+    [id, {rank: rank, attributes: processed_attributes.to_h}]
   end
 
   processed_data.sort_by! { |a, b| a.to_i }
