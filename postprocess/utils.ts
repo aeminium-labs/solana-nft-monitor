@@ -128,6 +128,13 @@ export async function writeData({
   console.log("Processed Items:", data.length);
   console.log("Total Items in CSV:", data.length);
 
-  await writeCSV(fileName, data);
+  if (data.length > 0) {
+    await writeCSV(fileName, data);
+  } else {
+    // Handle cases where we get 0 results. writeCSV gets headers from dictionary
+    // keys, so since there are no objects, we pass the headers directly
+    await writeCSV(fileName, "id,price,moonRank,💎 score (%),storeURL");
+  }
+
   console.log("Wrote data");
 }
