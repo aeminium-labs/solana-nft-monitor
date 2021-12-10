@@ -141,11 +141,6 @@ export async function writeData({
   fileName: string;
   data: Array<BaseData>;
 }) {
-  if (data.length === 0) {
-    console.log("No items to process!");
-    return;
-  }
-
   data.sort((a, b) => parseInt(a.id) - parseInt(b.id));
 
   console.log("Processed Items:", data.length);
