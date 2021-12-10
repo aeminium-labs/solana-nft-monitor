@@ -7,8 +7,8 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 22 Jump Street,450,58,0,https://magiceden.io/item-details/JeWWEnRzghAdQw2QirKhYv2JcmkMtRDbzj8VDPPU6p5,City,Blue,22,Art Deco,,,Glass,,Lavender,Tin,Stormy,Jump Street
 26 Teeps Lane,55,239,0,https://solanart.io/search/?token=BYU2nPnLzWjRihRRxLykdk4zweACtQLXFp7JLd28nrwd,Treehouse,Green,26,Cottage,,,Occult,Rain,Yellow,Patio,Day,Teeps Lane
 30 Rosa Street,72,1941,0,https://solanart.io/search/?token=9i2PvYje2t61PsjXpwR7ddDRLHvQLTgg7qnd7qN3h247,City,Green,30,Modern,,,Glass,,Mix,Food,Day,Rosa Street
-31 Supple Circle,15,1039,3.18,https://solanart.io/search/?token=2THxhMcDbB1WA2X4aJfDwLKzSiRsB5HvYWYUj2UJnEfB,Desert,Yellow,31,Mansion,,,Glass,Rain,Red,Skylight,Day,Supple Circle
 31 Stewart Avenue,15,1949,0,https://magiceden.io/item-details/AfrKtbMi2zbgMfgiDYo8SHBWwiC7kJgskRQFou4d7YN6,Mountain,Red,31,Art Deco,Brick,Yellow,Shuttered,,Pale green,Shingle,Day,Stewart Avenue
+31 Supple Circle,15,1039,3.18,https://solanart.io/search/?token=2THxhMcDbB1WA2X4aJfDwLKzSiRsB5HvYWYUj2UJnEfB,Desert,Yellow,31,Mansion,,,Glass,Rain,Red,Skylight,Day,Supple Circle
 32 Supple Circle,22.2,1203,0,https://magiceden.io/item-details/4mbH8KP43wmWXJt2s3KwLv4K84KYcqf5ZFa9ctU1VMs4,Woods,Lavender,32,Modern,,Pale green,Rounded,,Yellow,Shingle,Day,Supple Circle
 34 Teeps Lane,89,177,0,https://solanart.io/search/?token=Fwb5z3dnwwdzH78SuekvAEg8QacDhY3GZhRj8mSDxZWg,Underwater,Dark green,34,Modern,,,Glass,,Dark green,Skylight,,Teeps Lane
 35 Supple Circle,16,1354,0,https://solanart.io/search/?token=5pxSLwHninoVXQGYpq47mSkP6cowNHKvpN7PqfeqtCGZ,City,Green,35,Cottage,,,Glass,,Mix,Food,Night,Supple Circle
@@ -22,15 +22,15 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 46 Teeps Lane,14,815,16.81,https://magiceden.io/item-details/BajsYrQXspXoavahD2NHQTg6u2V1ukorv6bvXCXMUTSj,Arctic,Green,46,Modern,Brick,Green,Rounded,,Pale green,Patio,Day,Teeps Lane
 47 Stewart Avenue,30,1680,0,https://solanart.io/search/?token=2p1YVTzuuX3zgNS97LK5BWvrcinW2QQK84qucjahWMgF,Desert,Red,47,Cottage,,Green,Rounded,,Green,Skylight,Night,Stewart Avenue
 48 Supple Circle,19.5,1994,0,https://magiceden.io/item-details/BMeYUjkKcxaWzyGxmh3qE1Rfv5pDvP83HGLUqdNFrsFE,Desert,Yellow,48,Cottage,Vines,Green,Shuttered,,Yellow,Tin,Day,Supple Circle
-49 Teeps Lane,159,497,0,https://solanart.io/search/?token=Av2NPCQCWKtVqoNBe5xdvecRM2RfxjeHGvWwDsttngt8,Treehouse,Green,49,Cottage,Vines,Blue,Rounded,,Lavender,Skylight,Day,Teeps Lane
 49 Rosa Street,18.8,1653,0,https://magiceden.io/item-details/5N4uNk8Ri5vr8aEvSdmEW8ZY3N1KbSeEnRCA3KnR2das,Beach,Yellow,49,Modern,Vines,Yellow,Shuttered,,Blue,Skylight,Day,Rosa Street
+49 Teeps Lane,159,497,0,https://solanart.io/search/?token=Av2NPCQCWKtVqoNBe5xdvecRM2RfxjeHGvWwDsttngt8,Treehouse,Green,49,Cottage,Vines,Blue,Rounded,,Lavender,Skylight,Day,Teeps Lane
 50 Supple Circle,13,842,26.37,https://solanart.io/search/?token=F8Jndu1yaEXBZQn8tZJ6GXWg4KnfWKMo9Eg6u121e1hn,Desert,Red,50,Art Deco,Brick,Green,Rounded,,Pale green,Shingle,Night,Supple Circle
 52 Ape Lane,90,577,0,https://alpha.art/t/BJ9DepuotJjRATGokjD1gLbX553U16rnNU6r8Wz2BwT3,Field,Lavender,52,Mansion,,Red,Shuttered,,Mix,Grass,Night,Ape Lane
 53 Supple Circle,35,1750,0,https://magiceden.io/item-details/A1Mnp77BPGSeg3dadAPfpU6kBxKCKGtuHe6hxnqF54rC,Desert,Green,53,Mansion,,Pale green,Shuttered,,Red,Skylight,Day,Supple Circle
 53 Stewart Avenue,80,2400,0,https://magiceden.io/item-details/DgWyovA3uJw11Jh1rTJ4pBpg4Pzp5Zc9ZN95q5vyADXv,Field,Blue,53,Modern,Vines,,Glass,,Blue,Shingle,Day,Stewart Avenue
 53 King Street,666,72,0,https://magiceden.io/item-details/EPAawrc3iaB4uXJSqsmW75VTCJaFzm7KEidXHHdpJUQc,Underwater,Dark green,53,Cottage,,,Occult,,Red,Haunted,,King Street
-55 Supple Circle,50,101,0,https://solanart.io/search/?token=DPBVKcUi23pUeKjh2PRZNc42HTepXK8oPWgUfYkS4cgT,Arctic,Dark green,55,Modern,Brick,,Glass,Snow,Yellow,Tin,Day,Supple Circle
 55 Rosa Street,99,1570,0,https://magiceden.io/item-details/6o7Jsk5caZHSs1Qt6weHt3ZZj6jujGC4foSHr2USju4a,City,Red,55,Cottage,,Red,Rounded,,Pale green,Patio,Night,Rosa Street
+55 Supple Circle,50,101,0,https://solanart.io/search/?token=DPBVKcUi23pUeKjh2PRZNc42HTepXK8oPWgUfYkS4cgT,Arctic,Dark green,55,Modern,Brick,,Glass,Snow,Yellow,Tin,Day,Supple Circle
 56 Teeps Lane,89,898,0,https://solanart.io/search/?token=HZV2rKkdpdb3ZxE15w3CE5iAi8jW991Fj4y3ApBGPpTu,Mountain,Blue,56,Art Deco,Brick,Green,Rounded,,Green,Haunted,Day,Teeps Lane
 57 King Street,20,1235,0,https://alpha.art/t/2oXN35FuNVbakRJbmdCEedTxzAeUugtF3StpK2KnQCFi,Beach,Yellow,57,Modern,,,Occult,,Mix,Grass,Day,King Street
 58 Stewart Avenue,23,863,0,https://solanart.io/search/?token=D4EZ311sNE5FwuBcDR2dQFfvp3yHbvMAGyiu8hQ8NCzC,Mountain,Dark green,58,Modern,,Yellow,Shuttered,,Green,Shingle,Stormy,Stewart Avenue
@@ -42,20 +42,20 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 61 Teeps Lane,19,439,0,https://magiceden.io/item-details/FCJujk5cVZ74eP2ztv3gVYb7Q7Lr6BGouMsCgPBaeYJP,Treehouse,Yellow,61,Cottage,Brick,Yellow,Shuttered,,Lavender,Skylight,Night,Teeps Lane
 61 King Street,50,2014,0,https://magiceden.io/item-details/BG7SeGcMbTfgomEFS8XdniMnf3scQzBhWze8QKvVGFxF,Desert,Yellow,61,Modern,Brick,Blue,Shuttered,,Blue,Tin,Day,King Street
 62 Rosa Street,22,1876,0,https://solanart.io/search/?token=gcCuDqwE8bJpSEH2jWEMzBY3TgPZn6FRMPTa5gn7nSk,City,Blue,62,Cottage,Vines,Pale green,Shuttered,,Mix,Grass,Day,Rosa Street
-63 Wall Street,88,1105,0,https://solanart.io/search/?token=CzvT6bifiQmpYZqwjrcKhJJK6h9GN26FFqUzXVv22zPR,Volcanic,Yellow,63,Art Deco,,Yellow,Rounded,,Mix,Mushroom,Day,Wall Street
-63 Rosa Street,95,760,0,https://solanart.io/search/?token=BtFQ6A5Z6XPsEan7Tue1nZCFKn1cbkML13otBT85qwdK,City,Blue,63,Modern,,Green,Shuttered,Rain,Mix,Grass,Night,Rosa Street
 63 Abbey Road,30,377,0,https://magiceden.io/item-details/Gq7r185eJA9ydimhShuLf78Eyr7VBYyHNDBpayzj4U8s,Beach,Red,63,Cottage,Brick,,Crystal,Rain,Blue,Tin,Night,Abbey Road
 63 King Street,70,574,0,https://magiceden.io/item-details/5iVrqunToye8e9y2XDayS7WbWNJiSgpBcMCMSPNgHKoN,Arctic,Dark green,63,Modern,Brick,Dark green,Shuttered,,Blue,Shingle,Day,King Street
+63 Wall Street,88,1105,0,https://solanart.io/search/?token=CzvT6bifiQmpYZqwjrcKhJJK6h9GN26FFqUzXVv22zPR,Volcanic,Yellow,63,Art Deco,,Yellow,Rounded,,Mix,Mushroom,Day,Wall Street
+63 Rosa Street,95,760,0,https://solanart.io/search/?token=BtFQ6A5Z6XPsEan7Tue1nZCFKn1cbkML13otBT85qwdK,City,Blue,63,Modern,,Green,Shuttered,Rain,Mix,Grass,Night,Rosa Street
 64 King Street,19,2408,0,https://alpha.art/t/9ixnGeXArFnsmKuheMcNSKDj2gLE8aCLbdWYddSkyA1L,Field,Blue,64,Cottage,Brick,Yellow,Shuttered,,Green,Shingle,Day,King Street
 66 Ligma Lane,320,406,0,https://alpha.art/t/FeLEwuyePwV1GwinUGckzRwtJyd3xFQyEguwjKRqex4t,Beach,Blue,66,Modern,,Pale green,Rounded,,Dark green,Tin,Day,Ligma Lane
 67 Ape Lane,44.200001,2435,0,https://solanart.io/search/?token=5v9ejU8xtksDokeB8UoNvssKCSpWjgagbiPXMnC4k4Nt,Field,Red,67,Cottage,,Red,Shuttered,,Mix,Grass,Day,Ape Lane
 68 Ape Lane,175,858,0,https://solanart.io/search/?token=7R911JG23yX7K9ZQhcqZgxHXwcpUznWNYsCkKy41gPww,Underwater,Yellow,68,Modern,Vines,,Glass,,Blue,Patio,,Ape Lane
 69 Teeps Lane,15,712,8.47,https://solanart.io/search/?token=6wqPH535CVSs6epECJAnBPJwYYdLay9KapYprbS35hYz,Woods,Red,69,Art Deco,Brick,Red,Shuttered,,Yellow,Shingle,Stormy,Teeps Lane
 69 Abbey Road,169,1380,0,https://solanart.io/search/?token=9uC68Ww8UPhX1eGyzSMF5tECTYLXP29BEs8QbAtZdyKp,Field,Red,69,Modern,Vines,Red,Rounded,,Mix,Food,Day,Abbey Road
+70 Supple Circle,7,1099,82.21,https://magiceden.io/item-details/88XoKBroiShT38dTRYsACtvAvDSPwQUTJZipWm7n3EBt,Beach,Dark green,70,Cottage,,Blue,Shuttered,Rain,Mix,Grass,Day,Supple Circle
 70 Rosa Street,54,2112,0,https://solanart.io/search/?token=DY79dcBszRaRP1wRdmzh8TTf2fd5G2nh5JrDSRGKJL8A,Desert,Blue,70,Modern,Brick,,Crystal,,Red,Skylight,Day,Rosa Street
 70 Ape Lane,69,2063,0,https://solanart.io/search/?token=2jXKGyJshPvCnVDFwU1HdkZYv1gBqxnr2m54fNkxQeKb,Field,Red,70,Mansion,Vines,Yellow,Rounded,,Red,Shingle,Day,Ape Lane
 70 King Street,70,1864,0,https://alpha.art/t/A35jg3fXhBxTDUTE2YX1JEf9fYTFubVr5QS1nCSpB39A,Field,Yellow,70,Cottage,Vines,,Glass,,Pale green,Patio,Day,King Street
-70 Supple Circle,7,1099,82.21,https://magiceden.io/item-details/88XoKBroiShT38dTRYsACtvAvDSPwQUTJZipWm7n3EBt,Beach,Dark green,70,Cottage,,Blue,Shuttered,Rain,Mix,Grass,Day,Supple Circle
 71 Wall Street,58,2030,0,https://solanart.io/search/?token=3NUq61KttFZeLhSKzqM1s9wV1SnNw4mTb87H4P3myMAg,City,Lavender,71,Modern,,Yellow,Rounded,,Green,Shingle,Day,Wall Street
 72 King Street,29.690001,770,0,https://solanart.io/search/?token=2ew8kTc1HS8NPLxd3CcggmeN9AkRH3NgAtyDaczoU4G7,Underwater,Blue,72,Cottage,Vines,Blue,Rounded,,Yellow,Skylight,,King Street
 73 Stewart Avenue,69.419998,2471,0,https://solanart.io/search/?token=6wtFQjzoNxJZAequ2KTXWf1QDCpCTmnxh1xzmcdcgFn8,Field,Blue,73,Cottage,,Green,Shuttered,,Blue,Shingle,Day,Stewart Avenue
@@ -71,8 +71,8 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 83 Supple Circle,32,2456,0,https://alpha.art/t/72iXNfbPQNqgcmYHFXGQEqnqBCjMczRzXwrHKcV2sRBB,Field,Green,83,Cottage,,Green,Rounded,,Blue,Shingle,Day,Supple Circle
 84 Rosa Street,12,2311,12.59,https://solanart.io/search/?token=9VNM9r3xxvypMm4EGKCAKcX7SgwK4RmeHWfHUSxBAsc8,Field,Blue,84,Cottage,Vines,Blue,Rounded,,Blue,Tin,Day,Rosa Street
 84 Stewart Avenue,15,2314,0,https://solanart.io/search/?token=6AsLUDsj4Wt6CRsk62E6Hj9V4yv1LTt7aqGAESBhg8yx,Field,Blue,84,Cottage,,,Occult,,Green,Skylight,Day,Stewart Avenue
-86 Rosa Street,25,2021,0,https://solanart.io/search/?token=91J6tbGKqQDif4ouzHrMCen2Ns3SzttCmDbhu6FXSf5B,Mountain,Yellow,86,Modern,Brick,,Crystal,,Yellow,Shingle,Day,Rosa Street
 86 Wall Street,12,2117,15.73,https://magiceden.io/item-details/41wJ4x9DnHpJWDU9k3JTHf4WuFvW4c4oajvHD5CHZS5L,Beach,Red,86,Cottage,Brick,Red,Shuttered,,Green,Patio,Day,Wall Street
+86 Rosa Street,25,2021,0,https://solanart.io/search/?token=91J6tbGKqQDif4ouzHrMCen2Ns3SzttCmDbhu6FXSf5B,Mountain,Yellow,86,Modern,Brick,,Crystal,,Yellow,Shingle,Day,Rosa Street
 87 King Street,29.5,795,0,https://magiceden.io/item-details/6e7QjvNMCLNseaVgeGpiHaBrAiCRN7eKzGEWKaRvUEvT,Desert,Yellow,87,Cottage,Vines,Blue,Shuttered,,Red,Skylight,Stormy,King Street
 89 Supple Circle,10,1775,41.27,https://magiceden.io/item-details/3kxHaAYo8fnUshngRoRPPvLfuUSN8EaqXAaBeX14hFuL,Field,Red,89,Cottage,,Yellow,Shuttered,,Pale green,Patio,Sunset,Supple Circle
 91 Supple Circle,12,1452,26.5,https://solanart.io/search/?token=Fwhj5RoWvbjyxm5JnFdPQiYsyEUQRiqU3pczGEUSX2HD,Treehouse,Lavender,91,Cottage,Brick,Red,Rounded,,Green,Tin,Day,Supple Circle
@@ -84,17 +84,17 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 97 Rosa Street,1000,24,0,https://solanart.io/search/?token=397tLwKiqBjZtLoyrUGVwns9kb7ub7RaW2MEVxF7bdQz,Field,Gold,97,Cottage,Gold,Gold,Gold,,Gold,Gold,Day,Rosa Street
 99 Stewart Avenue,39,318,0,https://magiceden.io/item-details/ebZNgv1HerjfiCHcTTp1waDNKNWeuQoBnv6wyPN6haE,Volcanic,Red,99,Modern,,,Occult,,Blue,Tin,Sunset,Stewart Avenue
 100 Stewart Avenue,39.5,1784,0,https://alpha.art/t/Cr3yaF4Wfd1UzMedMyppT6A2CiZm7rWuKNAuGVbkwLCz,Mountain,Lavender,100,Modern,,Green,Shuttered,,Green,Skylight,Day,Stewart Avenue
-101 Supple Circle,699,6,0,https://solanart.io/search/?token=8cgfVaeatEuDEaQ17A8Xj58eh8dPcER4y6Kzvh2MJVVK,Arctic,Gold,101,Cottage,Gold,Gold,Gold,Snow,Gold,Gold,Day,Supple Circle
 101 Wall Street,29,647,0,https://magiceden.io/item-details/98GLTBrwcHdj5T4sgM67RJPcMM6Z9Gq9uvVcVSm18EVF,Field,Dark green,101,Cottage,,Blue,Shuttered,Rain,Dark green,Patio,Day,Wall Street
+101 Supple Circle,699,6,0,https://solanart.io/search/?token=8cgfVaeatEuDEaQ17A8Xj58eh8dPcER4y6Kzvh2MJVVK,Arctic,Gold,101,Cottage,Gold,Gold,Gold,Snow,Gold,Gold,Day,Supple Circle
 102 Stewart Avenue,45,946,0,https://magiceden.io/item-details/8hovXczJ2Defp7ZGBCB7JtpHvZuDqjMiiKoWgASt6GG8,Underwater,Red,102,Art Deco,Brick,Blue,Shuttered,,Pale green,Shingle,,Stewart Avenue
 104 Stewart Avenue,1337,603,0,https://solanart.io/search/?token=Fk8XJ2GWRonekXWxBPuehtYp3XUPjM3v13xPMigcEdec,Arctic,Green,104,Mansion,,,Crystal,,Mix,Food,Day,Stewart Avenue
 104 Teeps Lane,2500,1138,0,https://solanart.io/search/?token=BP82oh47uBRUbTJY5H7rAfePTgdQE7U1y5V4ZYhFVus,Field,Yellow,104,Modern,,Blue,Shuttered,,Lavender,Patio,Night,Teeps Lane
 107 Teeps Lane,9.98,2274,33.39,https://magiceden.io/item-details/6ftCaZwMpgxQswtA62KS9gkgDCe3DCZwciaHecEcv6Ra,Desert,Blue,107,Art Deco,,,Crystal,,Blue,Shingle,Day,Teeps Lane
-108 Teeps Lane,19,2221,0,https://solanart.io/search/?token=AR1gxyfhWiDAeqxT1TQ5uRwXV15tJkgGgBhBBWR77fE7,City,Red,108,Modern,Brick,Red,Shuttered,,Blue,Skylight,Day,Teeps Lane
 108 Rosa Street,13.75,1388,10.03,https://magiceden.io/item-details/2nwXHdGTx2FMHz29csKeSQneKKyVRxfcS5ACbrgPJLaa,Underwater,Green,108,Modern,,Yellow,Shuttered,,Green,Tin,,Rosa Street
+108 Teeps Lane,19,2221,0,https://solanart.io/search/?token=AR1gxyfhWiDAeqxT1TQ5uRwXV15tJkgGgBhBBWR77fE7,City,Red,108,Modern,Brick,Red,Shuttered,,Blue,Skylight,Day,Teeps Lane
+109 Teeps Lane,9.99,1606,44.1,https://magiceden.io/item-details/E8LLH9NaYquF3n9gUkLny4LfkxkEEwNPcZW8H1ARRJJN,Desert,Yellow,109,Cottage,Vines,,Glass,,Dark green,Skylight,Day,Teeps Lane
 109 Stewart Avenue,17,1696,0,https://solanart.io/search/?token=9foSE3yABY8EhFchXgVFC8bQMBUm8jr7dTbXeZCnCa7B,Woods,Red,109,Modern,Vines,Pale green,Rounded,,Red,Skylight,Day,Stewart Avenue
 109 Ape Lane,120,901,0,https://solanart.io/search/?token=94GDFygpwUcRMYZhfjQSKXyxhe6N3gfzSVXg8gXXwMCf,Underwater,Blue,109,Modern,Vines,Red,Rounded,,Red,Patio,,Ape Lane
-109 Teeps Lane,9.99,1606,44.1,https://magiceden.io/item-details/E8LLH9NaYquF3n9gUkLny4LfkxkEEwNPcZW8H1ARRJJN,Desert,Yellow,109,Cottage,Vines,,Glass,,Dark green,Skylight,Day,Teeps Lane
 110 Supple Circle,11,1661,33.11,https://solanart.io/search/?token=CVvQdS5NsAbx3Fq92q7k5r9V7ntEJqFTF8AQnsSinPGr,Beach,Red,110,Art Deco,Brick,,Crystal,,Red,Patio,Day,Supple Circle
 116 Supple Circle,17,1230,0,https://magiceden.io/item-details/2CJdMG6PaMT4AWtcecbjFfWFFRxePM6EknuU4MMcyeJv,City,Red,116,Cottage,Vines,,Crystal,,Yellow,Patio,Night,Supple Circle
 118 Stewart Avenue,9,2288,42.96,https://magiceden.io/item-details/DSsjmLaucivccjhcFHWPiJcsDFxps3P8MMg3jJsQEPrP,Field,Blue,118,Cottage,Vines,Yellow,Shuttered,,Yellow,Tin,Day,Stewart Avenue
@@ -114,8 +114,8 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 162 Stewart Avenue,44,1002,0,https://solanart.io/search/?token=6fJAVc2jjwR9Z2K6viiw1Vi3isy27cSUaQP3WCvGwjG5,Treehouse,Red,162,Modern,Vines,Green,Rounded,,Green,Skylight,Day,Stewart Avenue
 164 Canal Street,60,661,0,https://solanart.io/search/?token=DyVqaNKA8RyF2eDmFAUndriqtQxMrSTe3ms7sZwW2EYe,Field,Blue,164,Art Deco,,,Crystal,,Mix,Food,Night,Canal Street
 188 Canal Street,19.690001,1383,0,https://solanart.io/search/?token=4CTvBNwNKKCNRNJKivkE9opqXYKznrGq6nj2Pt4JXSF3,Volcanic,Blue,188,Cottage,,Red,Shuttered,,Blue,Shingle,Day,Canal Street
-194 Baker Street,28,472,0,https://solanart.io/search/?token=4dmg2D4kfG92rUVQ58unEMRA8ZXCToo68spKKzfwu9XN,Underwater,Red,194,Modern,Vines,Pale green,Shuttered,,Green,Tin,,Baker Street
 194 Canal Street,150,965,0,https://magiceden.io/item-details/5WEF6E5L29QLch51D2syyiihQRja7hVGMxemtMuAJnCz,Field,Red,194,Mansion,Brick,Yellow,Shuttered,,Lavender,Tin,Day,Canal Street
+194 Baker Street,24,472,0,https://solanart.io/search/?token=4dmg2D4kfG92rUVQ58unEMRA8ZXCToo68spKKzfwu9XN,Underwater,Red,194,Modern,Vines,Pale green,Shuttered,,Green,Tin,,Baker Street
 195 Canal Street,11.1,1623,32.73,https://alpha.art/t/DYVyykmgGJs7wC1Gb3XFZvRv4jN5AUzhrJQjkr4Po3qd,City,Green,195,Modern,,Green,Shuttered,,Mix,Grass,Day,Canal Street
 197 Baker Street,20,171,0,https://magiceden.io/item-details/AKWJxLX7hkfzoTvAUFAxCB21tDcXd6J3dMEeWL98u3ht,Desert,Dark green,197,Modern,Vines,Yellow,Rounded,Rain,Red,Shingle,Night,Baker Street
 198 Canal Street,10,715,58.43,https://solanart.io/search/?token=9nYgqcFFKha3unuGHRMSE8V1pDuPsHj8figkDsgKjEsK,Beach,Lavender,198,Cottage,Vines,,Crystal,,Blue,Tin,Day,Canal Street
@@ -124,11 +124,11 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 206 Canal Street,120,344,0,https://solanart.io/search/?token=33LTbtZqiTT9rpFs3dYHX3Heer474VgeePCHDbD9yLaC,Woods,Blue,206,Cottage,Brick,,Glass,,Lavender,Patio,Night,Canal Street
 209 Canal Street,10,2398,31.18,https://magiceden.io/item-details/DhKQQX8FotUYy2ad7NQ55YcPUm7afnwCt6HtwwDhFxbr,Field,Yellow,209,Cottage,,Blue,Shuttered,,Green,Tin,Day,Canal Street
 212 Delray Circle,500,5,0,https://magiceden.io/item-details/BwLHaAgP1rnUcesTL2RnGT6PsgKsgdPPqwRUSXSmhPXP,Mountain,Gold,212,Art Deco,Gold,Gold,Gold,Snow,Gold,Gold,Day,Delray Circle
-216 Baker Street,25,2369,0,https://solanart.io/search/?token=Bet4EbF54pKg3WJVnq4SMDS1wTrRLyPRyNRzKq1TrbpJ,Desert,Red,216,Cottage,,Yellow,Rounded,,Green,Shingle,Day,Baker Street
 216 Bit Boulevard,75,1478,0,https://magiceden.io/item-details/AkYaPNQ7i2Qvf2ATmj2uT3i97Ym7GyizccdfbnEGVDo9,Mountain,Yellow,216,Mansion,,,Glass,,Mix,Grass,Day,Bit Boulevard
+216 Baker Street,25,2369,0,https://solanart.io/search/?token=Bet4EbF54pKg3WJVnq4SMDS1wTrRLyPRyNRzKq1TrbpJ,Desert,Red,216,Cottage,,Yellow,Rounded,,Green,Shingle,Day,Baker Street
 217 Baker Street,20,1271,0,https://magiceden.io/item-details/54V37iBkdMDJBr5ybDTWbe53C1Wm6ox5BUQTnnhig4tz,Treehouse,Blue,217,Modern,Brick,,Glass,,Yellow,Tin,Day,Baker Street
-218 Delray Circle,42,1300,0,https://solanart.io/search/?token=DkZncKFu9VnmFg7XBeT1tiVn3rFFSQe7Cs7MQWjaM2cW,Treehouse,Yellow,218,Modern,Brick,Lavender,Rounded,,Yellow,Shingle,Day,Delray Circle
 218 Baker Street,16.99,2336,0,https://magiceden.io/item-details/f2ALqVTUgaTpUo7Q1rz8G9N2CQgxu8Cy87QCfUBoqhy,Field,Yellow,218,Cottage,Vines,Red,Shuttered,,Green,Shingle,Day,Baker Street
+218 Delray Circle,42,1300,0,https://solanart.io/search/?token=DkZncKFu9VnmFg7XBeT1tiVn3rFFSQe7Cs7MQWjaM2cW,Treehouse,Yellow,218,Modern,Brick,Lavender,Rounded,,Yellow,Shingle,Day,Delray Circle
 219 Bit Boulevard,69,764,0,https://magiceden.io/item-details/DM4RHDkZDxmopc4PC57VMt8JDZS73ASSBZbqvgYqtd67,Treehouse,Red,219,Art Deco,Brick,,Glass,,Dark green,Tin,Day,Bit Boulevard
 222 Bit Boulevard,25,681,0,https://solanart.io/search/?token=98wxz1tkTjzx5ir97qH91NhcqePXA7X3WWhWfjCf88vV,Mountain,Yellow,222,Cottage,Vines,Green,Rounded,,Yellow,Haunted,Day,Bit Boulevard
 226 Baker Street,19.5,1940,0,https://magiceden.io/item-details/Ckr1T6w9FvwyUh2cWHsZrzQJuvqAbchAZPZMB13viYog,City,Green,226,Cottage,,Blue,Shuttered,,Mix,Food,Day,Baker Street
@@ -139,8 +139,8 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 234 Bit Boulevard,60,2166,0,https://solanart.io/search/?token=Di2otapZgiQnz43dkBtNq8aQSp8vANhMbv6RBZT2pxBA,Mountain,Red,234,Cottage,,Blue,Shuttered,,Blue,Skylight,Day,Bit Boulevard
 234 Baker Street,12.3,1097,29.24,https://alpha.art/t/C4Te8vH4CKpQvz3yng1mpsi4A8jQuX4uGvuJ4F7i9tYp,Desert,Blue,234,Modern,Vines,,Glass,,Dark green,Tin,Day,Baker Street
 235 Bit Boulevard,53.42,260,0,https://alpha.art/t/ASo7gPNXZwmvxAAoLxRJQu3AHuab1SF4bz3QtBohE1qr,Mountain,Red,235,Mansion,,,Crystal,,Pale green,Skylight,Stormy,Bit Boulevard
-238 Baker Street,39.974998,2318,0,https://solanart.io/search/?token=HkKAcWpWs9u9vUiECd4X2c2xbjaCw3nuWhBSu3VCLb46,City,Green,238,Cottage,,Red,Rounded,,Red,Shingle,Day,Baker Street
 238 Bit Boulevard,14,1231,10.07,https://magiceden.io/item-details/8gB8zxhxxLNanXPmiLDeokSiNXhg8iMx7JvAHu6VREka,Field,Blue,238,Art Deco,Vines,Green,Rounded,,Dark green,Skylight,Day,Bit Boulevard
+238 Baker Street,39.974998,2318,0,https://solanart.io/search/?token=HkKAcWpWs9u9vUiECd4X2c2xbjaCw3nuWhBSu3VCLb46,City,Green,238,Cottage,,Red,Rounded,,Red,Shingle,Day,Baker Street
 240 Privet Drive,111.690002,1745,0,https://solanart.io/search/?token=BWMLxBT4FUy6DMff8yE7e4edtNChXbisoawNNETzeFJh,City,Yellow,240,Cottage,Brick,Blue,Shuttered,,Red,Patio,Day,Privet Drive
 241 Delray Circle,8,2167,54.92,https://magiceden.io/item-details/AmMtJiRGr7DddiukFUDUwo72Vtd5WpPcjccmZ5XezoeR,Mountain,Green,241,Art Deco,,Yellow,Rounded,,Green,Shingle,Day,Delray Circle
 244 Bit Boulevard,13,259,35.81,https://magiceden.io/item-details/B2onMguskbAe2zdcegKR7GRx4uivX17ozPtparKC8qdi,Beach,Yellow,244,Cottage,Brick,,Occult,Rain,Dark green,Tin,Day,Bit Boulevard
@@ -153,8 +153,8 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 253 Bit Boulevard,30,1013,0,https://solanart.io/search/?token=83UmTbAdnQKChXVDgMVjFkvUAg76ZnFRo3io1CQgQkGL,City,Red,253,Mansion,,Blue,Shuttered,,Pale green,Haunted,Day,Bit Boulevard
 256 Privet Drive,95,1707,0,https://magiceden.io/item-details/9VQocfxEbouBNeYqoG1jaxV5yFfwnyeg4ngSxbXe9pmH,Desert,Yellow,256,Modern,Brick,Blue,Shuttered,,Yellow,Skylight,Day,Privet Drive
 259 Pico Street,25,604,0,https://solanart.io/search/?token=J97AKVjezDyU8nkTBL1o4kNUfwmNwBvv89aHkUxzH2fT,Desert,Green,259,Art Deco,Vines,Red,Rounded,,Red,Skylight,Night,Pico Street
-260 Pico Street,14,228,26.31,https://solanart.io/search/?token=98F3kkbTXYuodEiAQJQ2gunQBm9iQ7jhAoXa6a6u6MCZ,Desert,Blue,260,Mansion,Vines,,Glass,,Mix,Grass,Sunset,Pico Street
 260 Privet Drive,47.55,203,0,https://magiceden.io/item-details/9P72y4dggNoEqz6krgrxoWa88LfMEmRUuMCf4yMRnAvz,Underwater,Red,260,Modern,Brick,,Crystal,,Yellow,Skylight,,Privet Drive
+260 Pico Street,14,228,26.31,https://solanart.io/search/?token=98F3kkbTXYuodEiAQJQ2gunQBm9iQ7jhAoXa6a6u6MCZ,Desert,Blue,260,Mansion,Vines,,Glass,,Mix,Grass,Sunset,Pico Street
 261 Privet Drive,40,544,0,https://alpha.art/t/GWyBveH778vjrYYYLJWM5gDzen3ECP6CnSKjz9SVtEut,Underwater,Red,261,Modern,Brick,,Glass,,Blue,Tin,,Privet Drive
 262 Bit Boulevard,7.77,2313,54.86,https://solanart.io/search/?token=9CxYyGWDGizouKmvdfKRtSzzqwKarVxw7bf3vC3UrvxX,Mountain,Blue,262,Cottage,,Blue,Shuttered,,Pale green,Shingle,Day,Bit Boulevard
 267 Delray Circle,19,1413,0,https://solanart.io/search/?token=EWqMcLcjx2fQ7NxfCyUaaxweCBffYL9xxbGf5FRbxs6F,Underwater,Green,267,Modern,Brick,Yellow,Shuttered,,Green,Shingle,,Delray Circle
@@ -173,25 +173,25 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 289 Delray Circle,13,806,26.95,https://magiceden.io/item-details/J8koPGTkihwsEtXAzjkKCWKzC6QJb8m3TTaG9tDVsbYq,Desert,Yellow,289,Mansion,Vines,Pale green,Rounded,,Mix,Grass,Day,Delray Circle
 294 Bit Boulevard,52,1577,0,https://magiceden.io/item-details/6K9d6DVrW8yxVyjrUKtznrsWw8wHyDeywwDiWAPiAwAf,Volcanic,Blue,294,Cottage,,Yellow,Rounded,,Red,Skylight,Day,Bit Boulevard
 296 Pico Street,8.33,1498,62.45,https://solanart.io/search/?token=BJsXoLudQqTE7KXWa6gSqNbq3KQQvyNpJ6FMiSUTDF9c,Mountain,Red,296,Art Deco,Brick,Yellow,Shuttered,,Dark green,Shingle,Day,Pico Street
-303 Delray Circle,16,348,4.37,https://alpha.art/t/4MdbfXbX2PfKK1F9zVCC6AgqPvLhYRg447soYCgz7ZP4,Desert,Pale green,303,Art Deco,Vines,Pale green,Shuttered,,Green,Tin,Day,Delray Circle
 303 Pico Street,7.5,1907,64.13,https://magiceden.io/item-details/2Y8Zazas4HDPtvXRWGTyYj7iTjyZSfSZBYNY819Lgfyw,Woods,Green,303,Cottage,,Red,Shuttered,,Mix,Food,Day,Pico Street
+303 Delray Circle,16,348,4.37,https://alpha.art/t/4MdbfXbX2PfKK1F9zVCC6AgqPvLhYRg447soYCgz7ZP4,Desert,Pale green,303,Art Deco,Vines,Pale green,Shuttered,,Green,Tin,Day,Delray Circle
 304 Bit Boulevard,50,465,0,https://solanart.io/search/?token=6mhspWAabvaYBsngVn74574NnwB9MtkuEfV9rwxdCXsn,Field,Lavender,304,Modern,,,Crystal,,Yellow,Tin,Stormy,Bit Boulevard
 308 First Avenue,33.33,651,0,https://magiceden.io/item-details/CzxkiYKEx91V459vGMhuuAzvU6gzZrv4S7b1kLw7yuP9,Underwater,Yellow,308,Modern,Vines,Green,Shuttered,,Red,Skylight,,First Avenue
 309 Pico Street,43,932,0,https://solanart.io/search/?token=Dz1uNV15hyvh7nXniSBe7pR8i2s6fEqzVke4NNqg1ASL,Underwater,Blue,309,Art Deco,,Yellow,Rounded,,Yellow,Tin,,Pico Street
-313 Delray Circle,55,103,0,https://solanart.io/search/?token=6Bmm1zWoWbXwdXR7NrEBSX4VsMXYt2nLeYrBW5riJedL,Mountain,Green,313,Art Deco,Brick,Pale green,Shuttered,Snow,Mix,Food,Day,Delray Circle
 313 Bit Boulevard,12.99,1897,9.39,https://magiceden.io/item-details/Hqaw5Y1pK8F8DxZBAPGLmPcvxZyunFFxnrjBTogHNFCu,Volcanic,Yellow,313,Modern,,Green,Shuttered,,Green,Patio,Day,Bit Boulevard
-314 Pico Street,150,1776,0,https://solanart.io/search/?token=Gz3K7DWpmDGPJ6eoM5ixMZCKBq9LMWQZnpRHbBoeczNF,Volcanic,Red,314,Modern,,Yellow,Shuttered,,Mix,Grass,Day,Pico Street
+313 Delray Circle,55,103,0,https://solanart.io/search/?token=6Bmm1zWoWbXwdXR7NrEBSX4VsMXYt2nLeYrBW5riJedL,Mountain,Green,313,Art Deco,Brick,Pale green,Shuttered,Snow,Mix,Food,Day,Delray Circle
 314 First Avenue,15,2468,0,https://magiceden.io/item-details/5bgQP4wFn3SB2KxYHCXtzBfmn81oaPi55LokZ2htC1dG,Field,Blue,314,Cottage,,Red,Rounded,,Blue,Shingle,Day,First Avenue
+314 Pico Street,150,1776,0,https://solanart.io/search/?token=Gz3K7DWpmDGPJ6eoM5ixMZCKBq9LMWQZnpRHbBoeczNF,Volcanic,Red,314,Modern,,Yellow,Shuttered,,Mix,Grass,Day,Pico Street
 315 Pico Street,22,1355,0,https://solanart.io/search/?token=FKqkvYcHuscdndLzuzsgvdARmfUvffHSZ4pY4opEKtco,Volcanic,Red,315,Cottage,Brick,Pale green,Shuttered,,Red,Patio,Day,Pico Street
 316 Sierra Avenue,55,909,0,https://solanart.io/search/?token=95eLxNUqJ5pvgEYQhSJMT3SrTeq9fRAvYzResT1rQrdq,City,Yellow,316,Art Deco,Brick,Blue,Rounded,,Blue,Shingle,Stormy,Sierra Avenue
 317 Bit Boulevard,33,1222,0,https://alpha.art/t/6YVUgmXHsvgAFZavCnPrrzdeN3AAoNTs2YKD6f9VvpUL,City,Green,317,Cottage,Brick,Lavender,Rounded,,Green,Shingle,Night,Bit Boulevard
 318 Delray Circle,8.99,1938,48.73,https://alpha.art/t/AnSpZgiABNaQ29QVgcdezbFG4cc8TwkCyyvRGUX7X6Qt,Field,Blue,318,Cottage,,Yellow,Rounded,Rain,Yellow,Skylight,Day,Delray Circle
 320 First Avenue,28,1873,0,https://magiceden.io/item-details/AioWnsBvm6MkfeQLEwfTYYAuMY6JmBJsKzTxKERkZWW5,Beach,Green,320,Modern,,Lavender,Rounded,,Blue,Patio,Day,First Avenue
 321 Solana Vista Drive,88.320999,1224,0,https://solanart.io/search/?token=26cefiUyQ9ANhgGwEd69cS4WCPXeHm3DsXVzuXhjnCJ1,City,Dark green,321,Cottage,Brick,Red,Shuttered,,Yellow,Shingle,Day,Solana Vista Drive
-323 First Avenue,65,1372,0,https://solanart.io/search/?token=BTjRJHXAgxwStVvV95DRZG7ChDKGGK9dUgCSQGAEYeet,Woods,Yellow,323,Mansion,,Blue,Shuttered,,Yellow,Shingle,Sunset,First Avenue
 323 Lynwood Avenue,17,2269,0,https://magiceden.io/item-details/EQQVJbZv7hBeZdKGVzzvTe1Q7VJHhN52DwJhntrezrEm,Desert,Red,323,Art Deco,,Yellow,Rounded,,Red,Patio,Day,Lynwood Avenue
-325 Sierra Avenue,65,140,0,https://solanart.io/search/?token=7TC9rT5G2DCCopUWmqeL86mBES2sqA6aEtBpFzMjbos2,Arctic,Lavender,325,Cottage,Brick,Pale green,Rounded,,Green,Tin,Stormy,Sierra Avenue
+323 First Avenue,65,1372,0,https://solanart.io/search/?token=BTjRJHXAgxwStVvV95DRZG7ChDKGGK9dUgCSQGAEYeet,Woods,Yellow,323,Mansion,,Blue,Shuttered,,Yellow,Shingle,Sunset,First Avenue
 325 Lynwood Avenue,15,1888,0,https://magiceden.io/item-details/EFKKncsqmobMSpkegeGEDgCnRMTYkXtyZ8vfre2KY2KY,Beach,Lavender,325,Cottage,,Blue,Shuttered,,Pale green,Shingle,Day,Lynwood Avenue
+325 Sierra Avenue,65,140,0,https://solanart.io/search/?token=7TC9rT5G2DCCopUWmqeL86mBES2sqA6aEtBpFzMjbos2,Arctic,Lavender,325,Cottage,Brick,Pale green,Rounded,,Green,Tin,Stormy,Sierra Avenue
 326 First Avenue,21.5,2458,0,https://solanart.io/search/?token=FioDnu6aTsAi75ytL3AJN9KyBTPZmY44bBDjYFQh65db,Field,Blue,326,Cottage,,Red,Rounded,,Blue,Patio,Day,First Avenue
 326 Solana Vista Drive,69.690002,1711,0,https://solanart.io/search/?token=EEPePjrjA5xAnPwkfguHES8BunUeiCWjruAYoKFNR3kN,City,Yellow,326,Cottage,,,Glass,,Red,Skylight,Day,Solana Vista Drive
 327 Lynwood Avenue,13.5,1123,16.82,https://solanart.io/search/?token=C2onQV5s69pQHZM5JkHZrtxHrLjLzjNyobnEFasHbkPV,City,Red,327,Mansion,,Dark green,Shuttered,,Pale green,Patio,Day,Lynwood Avenue
@@ -199,36 +199,36 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 329 Sierra Avenue,75,2424,0,https://magiceden.io/item-details/26R9ccMfb8sztBHU3tTxj25iKyQUBTisqEY5UtcZ792c,City,Yellow,329,Cottage,,Yellow,Rounded,,Green,Tin,Day,Sierra Avenue
 332 Pico Street,33,200,0,https://solanart.io/search/?token=3GdyYmiGzcVma5z2LHKkD6vmsbisFmBh13iyyymzZyGK,Woods,Red,332,Modern,Vines,,Crystal,Rain,Red,Haunted,Day,Pico Street
 333 Solana Vista Drive,33.334206,467,0,https://solanart.io/search/?token=DvKwdpafurCtkpdsFezQdcCQyMh4WwvHgDKkog1PFKLh,Field,Yellow,333,Modern,Brick,,Crystal,,Green,Patio,Night,Solana Vista Drive
-339 Delray Circle,21,2253,0,https://alpha.art/t/3GcGaCMb3sWEb5f812Vooe5fwsnoTkrGMt7qEkCaoY7G,Beach,Blue,339,Cottage,,Blue,Shuttered,,Pale green,Tin,Day,Delray Circle
 339 Pico Street,15,2233,0,https://magiceden.io/item-details/5joWtqXsBXADpUmNb7KpAmC4sGqbvcUq11mR2wsPj5vF,Field,Red,339,Cottage,Brick,,Crystal,,Blue,Patio,Day,Pico Street
-340 Grime Lane,7.49,2436,55.67,https://solanart.io/search/?token=2RfMqv3EmpLf8kpHZSZzYbomC8YZRYf5za2GeUZAdHj6,Field,Red,340,Cottage,,Green,Rounded,,Green,Patio,Day,Grime Lane
+339 Delray Circle,21,2253,0,https://alpha.art/t/3GcGaCMb3sWEb5f812Vooe5fwsnoTkrGMt7qEkCaoY7G,Beach,Blue,339,Cottage,,Blue,Shuttered,,Pale green,Tin,Day,Delray Circle
 340 Sierra Avenue,133.7,1024,0,https://magiceden.io/item-details/5vVCBZiot9bvViHNW1faBGe11V2Q9EY4WMm2vdEdAsgY,Desert,Yellow,340,Modern,,Red,Rounded,,Blue,Haunted,Night,Sierra Avenue
+340 Grime Lane,7.49,2436,55.67,https://solanart.io/search/?token=2RfMqv3EmpLf8kpHZSZzYbomC8YZRYf5za2GeUZAdHj6,Field,Red,340,Cottage,,Green,Rounded,,Green,Patio,Day,Grime Lane
 341 Lynwood Avenue,15,2113,0,https://magiceden.io/item-details/4LJ2irx29oLfNvMxrzsEG33AJfR88aubndsUFpW9BQ7E,Woods,Blue,341,Cottage,Brick,Blue,Shuttered,,Red,Patio,Day,Lynwood Avenue
 342 Lynwood Avenue,16.299999,1551,0,https://solanart.io/search/?token=24ipB8MhnxuQpLMtAUJerMrq1Kj9oWtGJCWPE7KB4zGx,Field,Blue,342,Cottage,,Dark green,Shuttered,,Yellow,Shingle,Night,Lynwood Avenue
 343 Delray Circle,50,100,0,https://magiceden.io/item-details/HoNjFqdziEUBdLnNZgQdGo5FJfuLARJP3Qw3T59BQgeh,Arctic,Blue,343,Modern,Brick,Lavender,Rounded,Snow,Blue,Shingle,Day,Delray Circle
 345 Delray Circle,13.2,2446,0,https://magiceden.io/item-details/3vJGDYF7C2gXPT37KKe9qsv7DAuqYycoyTEAHf4CfNnp,City,Yellow,345,Cottage,,Blue,Shuttered,,Blue,Tin,Day,Delray Circle
 345 First Avenue,40,38,0,https://magiceden.io/item-details/6tbMeKJSzWdMC2E45WDE86pJDaWsWCX1k6zqdrMFyZZP,Mountain,Yellow,345,Mansion,,Red,Rounded,Snow,Red,Haunted,Stormy,First Avenue
 345 Sierra Avenue,69.69,528,0,https://magiceden.io/item-details/Do4GiV5efGj5TWcAT4nCy5oZBA9aASa98wAeyZksunrB,City,Dark green,345,Mansion,,Red,Shuttered,,Pale green,Tin,Night,Sierra Avenue
-347 Lynwood Avenue,50,1378,0,https://solanart.io/search/?token=9N7DVs2xFpUjaiZaoEYABXfG4UyQXsSbeUdoeMEqmCM3,City,Blue,347,Mansion,,,Crystal,,Blue,Tin,Day,Lynwood Avenue
 347 Delray Circle,34.7,1073,0,https://magiceden.io/item-details/4xdv8p4EgmWK9hGwRw7nxYf8nw96UzBjoCMNVj9A5oU8,Desert,Blue,347,Cottage,,Yellow,Shuttered,Rain,Green,Shingle,Night,Delray Circle
+347 Lynwood Avenue,50,1378,0,https://solanart.io/search/?token=9N7DVs2xFpUjaiZaoEYABXfG4UyQXsSbeUdoeMEqmCM3,City,Blue,347,Mansion,,,Crystal,,Blue,Tin,Day,Lynwood Avenue
 348 Pico Street,30,1290,0,https://solanart.io/search/?token=8b7aABUm3tzR8Rm9NAbfvpVYAhVdzxGBkhgySbpKZaf7,Beach,Blue,348,Cottage,Vines,,Glass,,Green,Skylight,Night,Pico Street
 349 First Avenue,1069,61,0,https://magiceden.io/item-details/AGZ42yFuVqKTsj8pzyrLqirq5iqqj2mkc1FLMHUaxwpX,Arctic,Green,349,Art Deco,Brick,Pale green,Shuttered,Snow,Pale green,Shingle,Day,First Avenue
-350 Lynwood Avenue,99,389,0,https://solanart.io/search/?token=8TSL81MR4c6zVzYyEWXrrnCDu3jKLZcFfE5kAbzPhkzy,Underwater,Dark green,350,Cottage,,,Occult,,Green,Skylight,,Lynwood Avenue
 350 Sierra Avenue,99,2324,0,https://magiceden.io/item-details/9pim623nsf1gcYM2C3D3v9jvkMCGQKuAYFBtLEfTcjfo,Field,Red,350,Cottage,Brick,Pale green,Shuttered,,Green,Skylight,Day,Sierra Avenue
-351 Delray Circle,8,1862,59.86,https://solanart.io/search/?token=2WZiCXLzYEU7B13KxtN6TR6aa5AzeU2iMCMmAuHVpmyv,Mountain,Red,351,Cottage,,Blue,Shuttered,,Yellow,Tin,Night,Delray Circle
+350 Lynwood Avenue,99,389,0,https://solanart.io/search/?token=8TSL81MR4c6zVzYyEWXrrnCDu3jKLZcFfE5kAbzPhkzy,Underwater,Dark green,350,Cottage,,,Occult,,Green,Skylight,,Lynwood Avenue
 351 Sierra Avenue,15,1557,0,https://magiceden.io/item-details/DAyUCAQ2hogzRp9DSTpN8TaKhSBP33WaqsJTbzMuxNYf,City,Blue,351,Modern,Brick,Blue,Rounded,,Lavender,Tin,Day,Sierra Avenue
+351 Delray Circle,8,1862,59.86,https://solanart.io/search/?token=2WZiCXLzYEU7B13KxtN6TR6aa5AzeU2iMCMmAuHVpmyv,Mountain,Red,351,Cottage,,Blue,Shuttered,,Yellow,Tin,Night,Delray Circle
 354 Pico Street,420.690002,2422,0,https://solanart.io/search/?token=69BgJHaavQL1YpsH13sNCxUJZa7uPCWEU1q47VxwdNox,Field,Blue,354,Modern,,Yellow,Shuttered,,Pale green,Shingle,Day,Pico Street
 358 First Avenue,49,1358,0,https://solanart.io/search/?token=2trir5XzeEE28zAbXYZtTDpig3LGpLiwUeRE7QpXxpsC,Underwater,Blue,358,Art Deco,,Blue,Shuttered,,Blue,Shingle,,First Avenue
 360 First Avenue,1000,1353,0,https://magiceden.io/item-details/9sFovvHvWZfM9KK7w9y1MQVyHcuBvwUxSpmPoWzCbKzC,Field,Blue,360,Cottage,,Red,Rounded,,Mix,Mushroom,Sunset,First Avenue
 362 First Avenue,20,447,0,https://solanart.io/search/?token=7bXf2NoNqcbEpRwMLoXLNQ5pBWMR4UM8y3uwWQvWkx5G,Treehouse,Yellow,362,Art Deco,,Blue,Shuttered,,Dark green,Shingle,Stormy,First Avenue
 363 Lynwood Avenue,28.9,2194,0,https://alpha.art/t/3PYWZEa6KbVV6t7EMVvp3i4Z26QXwzRQLbfhocw7XeHh,Mountain,Blue,363,Modern,,Red,Rounded,,Green,Patio,Day,Lynwood Avenue
-368 Grime Lane,15.99,2444,0,https://alpha.art/t/7SkzZRmL96tT5Jd3GfDmgToUFQMsCwXnYh2nwVzN4f5W,Field,Blue,368,Modern,,Yellow,Shuttered,,Red,Tin,Day,Grime Lane
 368 First Avenue,33,1872,0,https://magiceden.io/item-details/8ck3UkRMwCLGYDTqpHkdDzZ5XNx8nN7MaK76Hm1DC3T1,Field,Yellow,368,Cottage,,Blue,Shuttered,,Mix,Food,Night,First Avenue
+368 Grime Lane,15.99,2444,0,https://alpha.art/t/7SkzZRmL96tT5Jd3GfDmgToUFQMsCwXnYh2nwVzN4f5W,Field,Blue,368,Modern,,Yellow,Shuttered,,Red,Tin,Day,Grime Lane
 372 First Avenue,29.99,2168,0,https://magiceden.io/item-details/GBgBhQ6JWYCiePix3Sv8y3yZ5FpQT9dAUFLDmP2d2Hyj,Field,Blue,372,Modern,Brick,Green,Rounded,,Blue,Skylight,Day,First Avenue
 376 Lynwood Avenue,20,157,0,https://magiceden.io/item-details/BWBJRXYWdgv6q6aj1uX3EdKGo9CtxSkFt2nENufeNkG1,Mountain,Red,376,Cottage,Brick,Dark green,Shuttered,Snow,Green,Patio,Day,Lynwood Avenue
 376 Grime Lane,24,2469,0,https://magiceden.io/item-details/HmA4XYy4DfEwzdVuYuYA6299z3Cse8nKhwdHnDZehyib,Field,Blue,376,Cottage,,Red,Shuttered,,Blue,Shingle,Day,Grime Lane
-377 Pico Street,58,1559,0,https://alpha.art/t/8kM1UwsCsyd6ZTywyjyhn9yd4X6eRLkwaoKqLsnqoY5v,Field,Blue,377,Modern,Brick,Yellow,Shuttered,,Blue,Haunted,Day,Pico Street
 377 Lynwood Avenue,125,37,0,https://magiceden.io/item-details/4AFR9MX4MkSRSTyoe7FviLC34ZtfTHMY4k8JZxa3eSgq,Volcanic,Blue,377,Cottage,,Dark green,Rounded,Volcanic eruption,Mix,Grass,Day,Lynwood Avenue
+377 Pico Street,58,1559,0,https://alpha.art/t/8kM1UwsCsyd6ZTywyjyhn9yd4X6eRLkwaoKqLsnqoY5v,Field,Blue,377,Modern,Brick,Yellow,Shuttered,,Blue,Haunted,Day,Pico Street
 382 Lynwood Avenue,28,822,0,https://solanart.io/search/?token=2er3icUFJfomDbYPrrSErKMg59UHWWtS6nGuniC1Dy9o,Mountain,Yellow,382,Cottage,Vines,Lavender,Shuttered,,Blue,Patio,Night,Lynwood Avenue
 384 Pico Street,39.9,1433,0,https://alpha.art/t/FyyFBsvuu2kqKd9vEsDNR6bioKpB9JNdMBmJGtugzDHr,Mountain,Lavender,384,Cottage,Vines,Red,Rounded,,Blue,Skylight,Day,Pico Street
 385 First Avenue,17,1855,0,https://solanart.io/search/?token=FpUoPEFryvzRcjHcHUD4oefMAvju9CxshsM146nUSaD1,Field,Blue,385,Cottage,,,Occult,,Dark green,Tin,Day,First Avenue
@@ -236,8 +236,8 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 387 Grime Lane,21.95,1726,0,https://magiceden.io/item-details/DgbqKrn9Ke8CA1s5gfJpP871qvjGsF3owyYQ8vHHJESL,City,Blue,387,Cottage,,Green,Rounded,,Green,Tin,Sunset,Grime Lane
 387 Sierra Avenue,150,1730,0,https://magiceden.io/item-details/7A4iLWaykhbZ6xpTZRpuBk1dWhVkqE7nzsgbad8a3nR5,Field,Red,387,Modern,,,Glass,,Mix,Food,Night,Sierra Avenue
 390 First Avenue,111,589,0,https://solanart.io/search/?token=9kRjLm7UCf4WvET6udjmxwEhaXCpj9LLVEDmbRVLoGJw,Underwater,Yellow,390,Art Deco,Brick,,Occult,,Green,Tin,,First Avenue
-391 Grime Lane,17.5,1151,0,https://solanart.io/search/?token=HC2rr6SHcx8igu3Ec4TgyKBLF5yCa3Kn6DBsE8MJUxWA,Desert,Green,391,Cottage,,Green,Shuttered,,Pale green,Patio,Sunset,Grime Lane
 391 Bamboo Boulevard,13,1370,17.82,https://magiceden.io/item-details/FhPR5jpjUa8uJxrJrrsJ8r2aRrmPVnsvwNn4DAu8U2Kk,Woods,Red,391,Mansion,Vines,Blue,Rounded,,Red,Tin,Day,Bamboo Boulevard
+391 Grime Lane,17.5,1151,0,https://solanart.io/search/?token=HC2rr6SHcx8igu3Ec4TgyKBLF5yCa3Kn6DBsE8MJUxWA,Desert,Green,391,Cottage,,Green,Shuttered,,Pale green,Patio,Sunset,Grime Lane
 392 Lamport Lane,24.98,201,0,https://solanart.io/search/?token=66fufXXTMQFYeGvSATfYWJW3TaQC4FBMsRsuedmAntbx,Desert,Red,392,Mansion,Vines,,Occult,,Mix,Food,Night,Lamport Lane
 394 First Avenue,100,1682,0,https://solanart.io/search/?token=BWusSA3kVNrX1Zso6AdSBNJoNmp5aLT9qZCg2msmPRcv,Field,Blue,394,Art Deco,,Green,Shuttered,Rain,Green,Tin,Day,First Avenue
 397 Sierra Avenue,420,532,0,https://solanart.io/search/?token=EZZc2Ukt1XMh6da6NmCBbmTV7PcTjm2hciTtFuNXJFm5,Volcanic,Blue,397,Modern,Vines,Yellow,Rounded,,Blue,Shingle,Sunset,Sierra Avenue
@@ -251,36 +251,36 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 402 First Avenue,4020,20,0,https://magiceden.io/item-details/3gM7z8MqKQU4fUNqawFWxj6QtqdpdjJWoAQtFn42P3QM,Beach,Gold,402,Art Deco,Gold,Gold,Gold,,Gold,Gold,Day,First Avenue
 403 Bamboo Boulevard,180,2105,0,https://solanart.io/search/?token=4hoto4yhBeZvYsD5cax4uvAUNFp3EEcqcDumRULf25jQ,Woods,Red,403,Modern,,,Occult,,Green,Shingle,Day,Bamboo Boulevard
 403 Evergreen Terrace,225,1061,0,https://solanart.io/search/?token=4xBK3aQ2cmnAGexh9bzurUkq7AxUSboYF9qpLKhFAdaM,Desert,Yellow,403,Modern,,Red,Rounded,,Mix,Food,Day,Evergreen Terrace
-404 Blockchain Drive,404,1701,0,https://solanart.io/search/?token=At8gtH4qhFgAM6C2b7PNmAmyapLVF8ZSDvAUQQfBMQxL,Field,Yellow,404,Art Deco,Vines,,Glass,,Yellow,Shingle,Day,Blockchain Drive
 404 Grime Lane,14.75,1810,0,https://magiceden.io/item-details/G3Nog5BQFfG2MKyLvEMF1HrP366yJpLDdpXTb8ank5Qm,Field,Yellow,404,Art Deco,Vines,Blue,Shuttered,Rain,Blue,Shingle,Day,Grime Lane
-407 Evergreen Terrace,180,529,0,https://alpha.art/t/AU5yZHmVE8DSYEkoBS3p7phowypqsKZy6u2mo8TB1T4Y,Arctic,Dark green,407,Art Deco,,Red,Shuttered,,Blue,Shingle,Day,Evergreen Terrace
+404 Blockchain Drive,404,1701,0,https://solanart.io/search/?token=At8gtH4qhFgAM6C2b7PNmAmyapLVF8ZSDvAUQQfBMQxL,Field,Yellow,404,Art Deco,Vines,,Glass,,Yellow,Shingle,Day,Blockchain Drive
 407 Blockchain Drive,65,833,0,https://magiceden.io/item-details/2K7d7PuWWJMG9YT4wfFTUtNzKvp766VnhJ7qRxUnvhmD,Field,Blue,407,Modern,Brick,Pale green,Rounded,,Red,Tin,Night,Blockchain Drive
 407 Bamboo Boulevard,200,25,0,https://magiceden.io/item-details/EUdTFgGup5T6XtWWNHySYpmQyy1ARYX332x5FFGvhBuH,Field,Gold,407,Modern,Gold,Gold,Gold,,Gold,Gold,Day,Bamboo Boulevard
+407 Evergreen Terrace,180,529,0,https://alpha.art/t/AU5yZHmVE8DSYEkoBS3p7phowypqsKZy6u2mo8TB1T4Y,Arctic,Dark green,407,Art Deco,,Red,Shuttered,,Blue,Shingle,Day,Evergreen Terrace
 409 Bamboo Boulevard,20,1187,0,https://magiceden.io/item-details/FZ5pJFUHU5C7TNdiez1LbqmaebUJbtnzXdHFAQDQruQb,Desert,Red,409,Modern,Vines,,Crystal,Rain,Blue,Tin,Day,Bamboo Boulevard
 411 Blaze Boulevard,9.9,1790,42.02,https://alpha.art/t/HctiCTYBP7M9GB9adcAKCzJ1oHE5DZ42rvt4mVQ7WRJt,Field,Blue,411,Art Deco,,Green,Shuttered,,Mix,Mushroom,Day,Blaze Boulevard
 413 Blockchain Drive,59,784,0,https://magiceden.io/item-details/HNP9LgEz5zq5Lj1GiGL5pCNwo3yaKdPvX1bkVCa6knzD,Underwater,Green,413,Modern,,Green,Shuttered,,Red,Shingle,,Blockchain Drive
 413 Lamport Lane,150,1046,0,https://magiceden.io/item-details/DQsjFxtRARSpT2LzRJQdjpBF5x33fXsgPCZiX1d1eMrP,Field,Yellow,413,Mansion,,Lavender,Rounded,Rain,Yellow,Tin,Day,Lamport Lane
-416 Lamport Lane,29,936,0,https://solanart.io/search/?token=HcQuT8vpU38idhKQGLKPuo7oKF8kGQMfSXvDfKtKuFbD,Treehouse,Blue,416,Cottage,Brick,Green,Rounded,,Pale green,Tin,Night,Lamport Lane
 416 Blaze Boulevard,89,1890,0,https://magiceden.io/item-details/EK4w7DT1AcDVv5wTDbKVLYZrj28TwiEVV8Fn4XbuS18,Desert,Blue,416,Cottage,,Blue,Shuttered,Rain,Red,Shingle,Day,Blaze Boulevard
+416 Lamport Lane,29,936,0,https://solanart.io/search/?token=HcQuT8vpU38idhKQGLKPuo7oKF8kGQMfSXvDfKtKuFbD,Treehouse,Blue,416,Cottage,Brick,Green,Rounded,,Pale green,Tin,Night,Lamport Lane
+418 Lamport Lane,14.5,2161,0,https://magiceden.io/item-details/8cai85UBBdhEV7xYuthMLfQGxdeLN4KEqw41AdLe9xZR,City,Yellow,418,Modern,,,Glass,,Blue,Shingle,Night,Lamport Lane
 418 Blaze Boulevard,20,213,0,https://solanart.io/search/?token=A1gyHXuGgErm6LNA3LcV2bbTEhrSbRRjYrZSRpvi4mdv,Woods,Dark green,418,Modern,,Dark green,Shuttered,Rain,Yellow,Skylight,Day,Blaze Boulevard
 418 Grand Avenue,25,1330,0,https://solanart.io/search/?token=CBTBpGHU9FBrgNFLt9qhBFEnCGoFNYjPMoBznuEZdN67,Woods,Red,418,Cottage,,Yellow,Shuttered,Rain,Yellow,Tin,Day,Grand Avenue
-418 Lamport Lane,14.5,2161,0,https://magiceden.io/item-details/8cai85UBBdhEV7xYuthMLfQGxdeLN4KEqw41AdLe9xZR,City,Yellow,418,Modern,,,Glass,,Blue,Shingle,Night,Lamport Lane
 419 Blockchain Drive,49,653,0,https://magiceden.io/item-details/7GB1JrcSY9CxPKtADDMg5UBMbdFkiLXs3XmuNeUgwK5m,Desert,Yellow,419,Art Deco,Brick,,Crystal,,Dark green,Tin,Day,Blockchain Drive
-420 Dahlia Drive,420,2289,0,https://solanart.io/search/?token=5jt7Xya3pgHJ79ri3dsyrZr5MgskfTVDyt5iE5KNJbzV,Treehouse,Green,420,Cottage,Brick,Yellow,Shuttered,,Red,Shingle,Day,Dahlia Drive
 420 Blockchain Drive,142.01,2076,0,https://magiceden.io/item-details/DUy9Ank1NV5hSAX8YoEEJmVfCzY8iHWN5QdgqCHEqJAc,Field,Yellow,420,Cottage,,Red,Shuttered,,Mix,Grass,Day,Blockchain Drive
 420 Blaze Boulevard,420.69,62,0,https://magiceden.io/item-details/EaddwKJ4fQAYstNuYd5tpd7PVNyYK9vf11fSEanwuKgV,Mountain,Blue,420,Modern,Vines,,Crystal,Snow,Green,Patio,Night,Blaze Boulevard
+420 Dahlia Drive,420,2289,0,https://solanart.io/search/?token=5jt7Xya3pgHJ79ri3dsyrZr5MgskfTVDyt5iE5KNJbzV,Treehouse,Green,420,Cottage,Brick,Yellow,Shuttered,,Red,Shingle,Day,Dahlia Drive
 421 Blaze Boulevard,42,1480,0,https://alpha.art/t/AX6r4GPPFRSXdAsxdwLjTstxoTdJakRw9v6WdbKwx4DR,City,Blue,421,Cottage,Brick,Yellow,Rounded,,Green,Tin,Night,Blaze Boulevard
 422 Grime Lane,45,1854,0,https://magiceden.io/item-details/2p8PGE3L5kSzLHZikjdh7D6oQbuYTjvhpfasKUfXskUV,Volcanic,Yellow,422,Cottage,,Yellow,Rounded,,Mix,Grass,Day,Grime Lane
 422 Evergreen Terrace,169,330,0,https://magiceden.io/item-details/9fD1KbaehCCP64xZ5kixSrXrPYiZ38bpRbRQnNkB6kvV,Woods,Yellow,422,Modern,Brick,,Glass,,Blue,Haunted,Day,Evergreen Terrace
 423 Blaze Boulevard,100,1816,0,https://solanart.io/search/?token=2Am6vbxwM9a5WgG6qmc6uhuUjzCkio32VTwbK9oZ6mQX,Beach,Blue,423,Art Deco,Brick,Yellow,Rounded,,Yellow,Shingle,Day,Blaze Boulevard
-424 First Avenue,2888,12,0,https://solanart.io/search/?token=BhK7X7m3PBTbWext9vxqubr8LU3KnPmPnCS9b7tv1iqn,Underwater,Gold,424,Modern,Gold,Gold,Gold,,Gold,Gold,,First Avenue
 424 Blaze Boulevard,78,976,0,https://magiceden.io/item-details/A3zCgr1ZVo9ZHxGgkMr6Ki49K6dnW8u21iTEvuQDXL5H,Desert,Red,424,Modern,Brick,,Crystal,,Red,Patio,Night,Blaze Boulevard
+424 First Avenue,2888,12,0,https://solanart.io/search/?token=BhK7X7m3PBTbWext9vxqubr8LU3KnPmPnCS9b7tv1iqn,Underwater,Gold,424,Modern,Gold,Gold,Gold,,Gold,Gold,,First Avenue
 426 Mint Mile,450,88,0,https://alpha.art/t/HGG9qEsfcA8jyKJwHierUoRruC7GoxMGTQRgnPiVGeae,Woods,Lavender,426,Mansion,Vines,,Occult,,Mix,Mushroom,Day,Mint Mile
-429 Blockchain Drive,45,1258,0,https://solanart.io/search/?token=ETjJsnq93dJX3do1HuTMCgV88mEndh5kFHFjgU8vYK8B,Mountain,Yellow,429,Cottage,Vines,Yellow,Rounded,,Yellow,Patio,Day,Blockchain Drive
 429 Grime Lane,10,2273,33.21,https://magiceden.io/item-details/B3yyaozpWfsFr8bPycT3P5mZ26TjhUypqVidqjKRf97q,Desert,Blue,429,Art Deco,,,Crystal,,Pale green,Shingle,Day,Grime Lane
+429 Blockchain Drive,45,1258,0,https://solanart.io/search/?token=ETjJsnq93dJX3do1HuTMCgV88mEndh5kFHFjgU8vYK8B,Mountain,Yellow,429,Cottage,Vines,Yellow,Rounded,,Yellow,Patio,Day,Blockchain Drive
+430 Lamport Lane,25,1449,0,https://magiceden.io/item-details/G5mVihYsKJfwHvjuDbf8rz8E8oZsDLcR9yk328P9NYrS,Arctic,Red,430,Mansion,,Yellow,Rounded,,Red,Patio,Day,Lamport Lane
 430 Block Hills Drive,10,1898,39.28,https://solanart.io/search/?token=6uasM1dBiysdCNhiKsM9aQGXceLH27rRQTurTuVvUu1N,Woods,Red,430,Cottage,,,Occult,,Green,Shingle,Day,Block Hills Drive
 430 Evergreen Terrace,21,781,0,https://solanart.io/search/?token=6mQ3Nhmye2rKy8pAoTmttDCEdNpq7W6c4BRGUyrFuFLw,Field,Yellow,430,Cottage,Brick,Yellow,Rounded,,Red,Tin,Night,Evergreen Terrace
-430 Lamport Lane,25,1449,0,https://magiceden.io/item-details/G5mVihYsKJfwHvjuDbf8rz8E8oZsDLcR9yk328P9NYrS,Arctic,Red,430,Mansion,,Yellow,Rounded,,Red,Patio,Day,Lamport Lane
 431 Blaze Boulevard,420.690002,2080,0,https://solanart.io/search/?token=HrW8qAYjoZBMbfPvsSfxZDMmCwbKH7HZAMQ2fp5xnWrq,Woods,Red,431,Modern,Brick,Red,Rounded,,Red,Shingle,Day,Blaze Boulevard
 432 Blaze Boulevard,125,1311,0,https://solanart.io/search/?token=3Q8dMFe5LXcno9viNkdk3Bwp5N9Lq8uwUgjqtB7N7cLJ,Beach,Red,432,Cottage,,Green,Rounded,,Blue,Tin,Night,Blaze Boulevard
 433 Lamport Lane,30,1181,0,https://solanart.io/search/?token=G79ZVpcws1VkSh3wWX99MEbhBcmsn8jhgZ6W2xL3Npc8,Beach,Dark green,433,Modern,Vines,Yellow,Shuttered,,Pale green,Patio,Day,Lamport Lane
@@ -290,29 +290,29 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 438 Sierra Avenue,11.5,2122,20.65,https://solanart.io/search/?token=2JHNS5XQn9QQ88Sy9Ccu81PnnrHzFtjwFZDhPmU5nPXF,Woods,Red,438,Modern,,Pale green,Rounded,,Red,Tin,Day,Sierra Avenue
 438 Block Hills Drive,99,2138,0,https://solanart.io/search/?token=9aNvjW3xqAVVzWT2PwStBTQu7pgBDptATaW5kFUiwy5n,Beach,Blue,438,Cottage,Brick,Yellow,Rounded,,Green,Shingle,Day,Block Hills Drive
 439 First Avenue,126.900002,187,0,https://solanart.io/search/?token=H1Zw2nHFDpQAq3RgWv6LZrwBjXUCmy6nSM3S4GzdFbkz,Arctic,Red,439,Cottage,,,Glass,Snow,Mix,Mushroom,Day,First Avenue
+442 Grime Lane,25,1308,0,https://magiceden.io/item-details/GJWVMAwe61hySjgxsk1SfAepucNngKR6nWfz68XiXQyn,Desert,Blue,442,Cottage,Vines,,Glass,,Pale green,Shingle,Sunset,Grime Lane
 442 Sierra Avenue,45,910,0,https://solanart.io/search/?token=AFLvm28xZbScZhWJJw9Kf93rgqwNTFVsm5xKnAPQwKXp,Volcanic,Dark green,442,Art Deco,,Green,Rounded,,Red,Tin,Day,Sierra Avenue
 442 Grand Avenue,50,1660,0,https://alpha.art/t/7QYMVNfxA6yH8zUYo3MH8bG1Gg4o8YVRGVNx55Gm4y6u,Mountain,Red,442,Cottage,Brick,Blue,Shuttered,,Dark green,Shingle,Day,Grand Avenue
-442 Grime Lane,25,1308,0,https://magiceden.io/item-details/GJWVMAwe61hySjgxsk1SfAepucNngKR6nWfz68XiXQyn,Desert,Blue,442,Cottage,Vines,,Glass,,Pale green,Shingle,Sunset,Grime Lane
 443 Grand Avenue,42,817,0,https://solanart.io/search/?token=A8jbqtzw7YkPnRNkAuR9LWKWiV6qGPZ9naykgX5MfjkR,Arctic,Blue,443,Cottage,,,Crystal,,Blue,Skylight,Night,Grand Avenue
 443 Grime Lane,50,2306,0,https://solanart.io/search/?token=JvtkHKyjp9DwMUVeR4yh1kMisGgxribVq1NcvoS7sUB,Beach,Yellow,443,Modern,,Green,Shuttered,,Mix,Grass,Day,Grime Lane
-444 Lamport Lane,11.75,1597,26.65,https://alpha.art/t/ANXEYQwweSK5cjXEaJXjJL15q6rBd2GD8kZf5aS5Hvcp,Underwater,Green,444,Cottage,,Yellow,Shuttered,,Blue,Skylight,,Lamport Lane
 444 Block Hills Drive,39,1513,0,https://magiceden.io/item-details/BhNAAFk8MbMw29BdueRHbyUuyPGoSRQh9nXqZGhnjGMG,Field,Red,444,Cottage,Brick,Lavender,Rounded,,Dark green,Shingle,Day,Block Hills Drive
-445 Sierra Avenue,40,1516,0,https://solanart.io/search/?token=3DxfXRUmev6yWxhnGRfKJjPbAfh7ScK2D58bvYNVY7yg,Beach,Green,445,Modern,Brick,,Glass,Rain,Yellow,Shingle,Day,Sierra Avenue
-445 Block Hills Drive,33.33,2050,0,https://alpha.art/t/GmahoBSm8eGqarmNtSJRcinAgNhgVy1439R5mMwu4V3K,Mountain,Red,445,Art Deco,,,Glass,,Blue,Shingle,Day,Block Hills Drive
+444 Lamport Lane,11.75,1597,26.65,https://alpha.art/t/ANXEYQwweSK5cjXEaJXjJL15q6rBd2GD8kZf5aS5Hvcp,Underwater,Green,444,Cottage,,Yellow,Shuttered,,Blue,Skylight,,Lamport Lane
 445 Dahlia Drive,11,2438,20.53,https://magiceden.io/item-details/7EVDzKXibB8eFFp3pWeCiGEJejYV8wa23d6izHBFBTPj,City,Yellow,445,Cottage,,Yellow,Shuttered,,Mix,Grass,Day,Dahlia Drive
 445 Grime Lane,19,70,0,https://magiceden.io/item-details/DES9nfw2EjENqdg6bgZBMVT5KYVqnfrSW9yHgdSVTimW,Woods,Lavender,445,Modern,,Lavender,Rounded,Rain,Pale green,Patio,Sunset,Grime Lane
+445 Sierra Avenue,40,1516,0,https://solanart.io/search/?token=3DxfXRUmev6yWxhnGRfKJjPbAfh7ScK2D58bvYNVY7yg,Beach,Green,445,Modern,Brick,,Glass,Rain,Yellow,Shingle,Day,Sierra Avenue
+445 Block Hills Drive,33.33,2050,0,https://alpha.art/t/GmahoBSm8eGqarmNtSJRcinAgNhgVy1439R5mMwu4V3K,Mountain,Red,445,Art Deco,,,Glass,,Blue,Shingle,Day,Block Hills Drive
 448 Bamboo Boulevard,18.5,1751,0,https://solanart.io/search/?token=51TRRoU6AdivqszFChWLzPnzTAY2C3vrVgi3sBAVMKqy,City,Yellow,448,Art Deco,,Green,Rounded,,Mix,Food,Day,Bamboo Boulevard
 448 Lamport Lane,66.666,210,0,https://solanart.io/search/?token=AqMRn4qo8d1DH7qnerwz6kbEjQ5LHX8hSWPoXYHxQeFy,City,Lavender,448,Cottage,Brick,Green,Shuttered,Rain,Yellow,Shingle,Stormy,Lamport Lane
-450 Grand Avenue,30,757,0,https://solanart.io/search/?token=HTPMSqV5WnfR7vcGP2XmCkfn6jQshmd1u4ee3PMJHosF,City,Green,450,Modern,Brick,Blue,Shuttered,,Mix,Grass,Night,Grand Avenue
 450 First Avenue,11.5,1341,33.29,https://magiceden.io/item-details/4mj1cPAcVGR5pmZLjgwRGBQUbUHoei8JQ5LCYhyzvfsC,Arctic,Yellow,450,Art Deco,,Pale green,Rounded,,Green,Skylight,Day,First Avenue
+450 Grand Avenue,30,757,0,https://solanart.io/search/?token=HTPMSqV5WnfR7vcGP2XmCkfn6jQshmd1u4ee3PMJHosF,City,Green,450,Modern,Brick,Blue,Shuttered,,Mix,Grass,Night,Grand Avenue
 452 Grime Lane,7.3,2388,58.34,https://magiceden.io/item-details/2Apvz2PpJ8PEvCnKkDY98AzJ2U6eohrhTbZQw7Rkhf4W,Field,Yellow,452,Modern,Brick,Blue,Shuttered,,Green,Tin,Day,Grime Lane
 455 Lamport Lane,43,711,0,https://solanart.io/search/?token=2nwffPJnMnUvSqaVZP9hkXA6rdGrZXaHraDfKf5t8PVS,Beach,Yellow,455,Modern,,,Crystal,Rain,Mix,Grass,Day,Lamport Lane
 456 Grime Lane,666,109,0,https://solanart.io/search/?token=6xqQ6DEdTc9nyaHPv69Ni749pR95eS5kNcWiqkAZCKyZ,City,Red,456,Modern,Brick,,Occult,Rain,Lavender,Tin,Night,Grime Lane
 460 Grime Lane,11,1650,33.29,https://magiceden.io/item-details/6BnzWPmAUrfhtbSi8e3JUEEa47CnD3juzS5NpJLvvQzF,Arctic,Yellow,460,Modern,,Pale green,Shuttered,,Green,Shingle,Day,Grime Lane
 461 Dahlia Drive,30,630,0,https://solanart.io/search/?token=7FaXyYR8PdJrvq3WsXitZzixyMa9AMzCrmpNq6zzdgLo,Mountain,Red,461,Cottage,,Red,Shuttered,Snow,Blue,Tin,Day,Dahlia Drive
 466 Dahlia Drive,33,1254,0,https://magiceden.io/item-details/4BWDAYc3U9NGzyQSACxrarTcfKE3xNzhZqHKWgt6n39q,Beach,Yellow,466,Cottage,,Lavender,Rounded,Rain,Blue,Shingle,Day,Dahlia Drive
-471 Dahlia Drive,44,283,0,https://solanart.io/search/?token=8B1ASQ6WDJ8vB8CmXhdZhjqRRGQhgpWKZk4JUEqNfBXj,Volcanic,Blue,471,Mansion,,Yellow,Rounded,,Red,Shingle,Sunset,Dahlia Drive
 471 Lamport Lane,69,1753,0,https://magiceden.io/item-details/28CPm7sJvpzyKRfiuZjPLwe55zHpKJuFUSZXtLSn239g,Mountain,Green,471,Modern,,Green,Shuttered,,Blue,Patio,Day,Lamport Lane
+471 Dahlia Drive,44,283,0,https://solanart.io/search/?token=8B1ASQ6WDJ8vB8CmXhdZhjqRRGQhgpWKZk4JUEqNfBXj,Volcanic,Blue,471,Mansion,,Yellow,Rounded,,Red,Shingle,Sunset,Dahlia Drive
 472 Dahlia Drive,28.99,1287,0,https://solanart.io/search/?token=65sxRrbzvkbMmEwE4xk85wLVu94gwpEVhnDAUic4G71y,Desert,Green,472,Mansion,Vines,Blue,Rounded,,Blue,Shingle,Day,Dahlia Drive
 472 Lamport Lane,65,1928,0,https://solanart.io/search/?token=4LHoPgWqDxoyRSfYu35uLUnvpPwcJGiJRiJ8qkjQWHgu,Desert,Blue,472,Modern,,Lavender,Rounded,,Red,Shingle,Day,Lamport Lane
 487 Lamport Lane,54,71,0,https://alpha.art/t/9xw4NPdvvBeRx16RgKUnVHV9WKSe9HNnK6vPsFb2Un7c,City,Yellow,487,Modern,Vines,Pale green,Shuttered,Rain,Mix,Mushroom,Sunset,Lamport Lane
@@ -359,35 +359,35 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 620 Dahlia Drive,1999,525,0,https://solanart.io/search/?token=BQdSvm4kyzkHnVFvFqWV8mkaHMXkTubMqdgMLJzhhefd,Beach,Yellow,620,Mansion,,,Crystal,,Dark green,Tin,Night,Dahlia Drive
 621 Rip Street,9.95,1491,46.36,https://alpha.art/t/EuEFSSeGXWEAGz7cnUwhfsSrfmJhU3GRfNpPDyMaasCa,Woods,Blue,621,Modern,,Pale green,Rounded,,Mix,Grass,Day,Rip Street
 622 Cluster Lane,97.989998,615,0,https://solanart.io/search/?token=r5HNcawUSc8Fxv2YZPP4i4SrcfG7mtzw5VPpxsnjhbV,Volcanic,Green,622,Cottage,Vines,Blue,Shuttered,,Mix,Grass,Day,Cluster Lane
-624 Poplar Street,27.49,2119,0,https://solanart.io/search/?token=7X23wtZANxt9sg4vPugGYD8er94yN43vNMp5W6dr5PEM,Beach,Red,624,Cottage,,Red,Shuttered,,Mix,Grass,Day,Poplar Street
 624 Cluster Lane,25,837,0,https://magiceden.io/item-details/FWFGTc1fXvJqzRucPHDjkHojFB1eQWUdBxTaqw7yRzHE,City,Yellow,624,Modern,Vines,,Occult,,Yellow,Skylight,Day,Cluster Lane
+624 Poplar Street,27.49,2119,0,https://solanart.io/search/?token=7X23wtZANxt9sg4vPugGYD8er94yN43vNMp5W6dr5PEM,Beach,Red,624,Cottage,,Red,Shuttered,,Mix,Grass,Day,Poplar Street
 625 Cluster Lane,149,141,0,https://solanart.io/search/?token=6eZ8KByaBnwscuCfNzcbr2jK69VtjU4wirGCjUc38Zyj,Arctic,Yellow,625,Mansion,,Red,Shuttered,,Mix,Mushroom,Night,Cluster Lane
 627 Dip Drive,23,943,0,https://magiceden.io/item-details/5ppcjWgmqcWzvSEcUUvtpPjJHoTFSKPHQzrE42gx2CHM,City,Red,627,Modern,Brick,,Glass,,Mix,Mushroom,Night,Dip Drive
 627 Cluster Lane,72,1236,0,https://magiceden.io/item-details/JATfH1CoECndpjcSXrdV5JLFzUc9mJXJ9atV3a3PZHiC,Arctic,Green,627,Modern,Brick,Blue,Rounded,,Red,Shingle,Day,Cluster Lane
-630 Helix Avenue,45,168,0,https://alpha.art/t/9e2UGD26z79VSS4iAH7Y9UTuTREXDKaw5eMeNpfKEFTi,Mountain,Pale green,630,Modern,,Yellow,Rounded,,Mix,Food,Night,Helix Avenue
 630 Clipping Drive,12,998,33.84,https://magiceden.io/item-details/AW7sVKq5pA4skL2pgDzN5d7RmENbv5vodPD9S8E76d5Q,Beach,Blue,630,Modern,Vines,Red,Rounded,,Yellow,Patio,Night,Clipping Drive
+630 Helix Avenue,45,168,0,https://alpha.art/t/9e2UGD26z79VSS4iAH7Y9UTuTREXDKaw5eMeNpfKEFTi,Mountain,Pale green,630,Modern,,Yellow,Rounded,,Mix,Food,Night,Helix Avenue
 632 Helix Avenue,7,2460,60.18,https://solanart.io/search/?token=DEFzM4RZq26Wr6URfjfjWTZGjoZvVgsCrgH47YXXsoZc,Desert,Blue,632,Cottage,,,Crystal,,Red,Shingle,Day,Helix Avenue
 634 Epoch Avenue,85,1393,0,https://solanart.io/search/?token=DztdM2PhCCoRZg65vqxE8vEeVo3LKgnHW2huTyj7ieMj,Field,Green,634,Art Deco,,Lavender,Shuttered,,Green,Shingle,Night,Epoch Avenue
 634 Rip Street,95,1017,0,https://solanart.io/search/?token=GweDw2XbnhUu7kbq5XH3cCYqVtmCjxZCWhKo8G58PDrz,City,Blue,634,Mansion,,Yellow,Shuttered,Rain,Blue,Skylight,Day,Rip Street
 636 Helix Avenue,18,2236,0,https://magiceden.io/item-details/Ekt7Z9DXrCBYCAnfWw8uYLsSYQHjHHFJqJo577tidsjE,City,Yellow,636,Art Deco,,,Crystal,,Blue,Tin,Day,Helix Avenue
 638 Dip Drive,25,2373,0,https://solanart.io/search/?token=6sLrno63PVLGisCf5xqEeeRaRGKS9otUxHyjtRanZFVy,Field,Red,638,Cottage,,,Crystal,,Yellow,Skylight,Day,Dip Drive
-639 Epoch Avenue,76.69,2283,0,https://alpha.art/t/EW6V6nmx8bHUFhDhiMD1iFXsYR7mfDSKVyAgakbENgxG,Field,Yellow,639,Cottage,,Pale green,Rounded,,Red,Tin,Day,Epoch Avenue
 639 Dahlia Drive,108,551,0,https://magiceden.io/item-details/4XnpbBLb7ywK7qZ6qyTj1DVq2N5am8m7caubEMZbvH8v,Beach,Yellow,639,Cottage,,,Glass,Rain,Blue,Skylight,Sunset,Dahlia Drive
+639 Epoch Avenue,76.69,2283,0,https://alpha.art/t/EW6V6nmx8bHUFhDhiMD1iFXsYR7mfDSKVyAgakbENgxG,Field,Yellow,639,Cottage,,Pale green,Rounded,,Red,Tin,Day,Epoch Avenue
+640 Rip Street,25,2228,0,https://magiceden.io/item-details/Df3mcKx2S8Y2wpVCqhxgLeFSsBLJvEdpGMYtGHvEv8ij,Mountain,Red,640,Modern,,,Glass,,Green,Tin,Day,Rip Street
 640 Poplar Street,145,471,0,https://solanart.io/search/?token=EWAnk5roh45xLaJezjimswQWyPKZmPAfV1aGCvkYKqwm,Underwater,Green,640,Mansion,Brick,,Crystal,,Yellow,Shingle,,Poplar Street
 640 Epoch Avenue,169.69,262,0,https://alpha.art/t/8D5Jhp7qXgryyXVaZefP99Ji4dCbBH3L66CjHoXTZEL9,Desert,Yellow,640,Mansion,Vines,Red,Shuttered,,Lavender,Skylight,Night,Epoch Avenue
-640 Rip Street,25,2228,0,https://magiceden.io/item-details/Df3mcKx2S8Y2wpVCqhxgLeFSsBLJvEdpGMYtGHvEv8ij,Mountain,Red,640,Modern,,,Glass,,Green,Tin,Day,Rip Street
+641 Helix Avenue,9.5,1508,50.59,https://magiceden.io/item-details/Hr4dz5KEaWszFo7RxEmKL8DSuTvcrfZXCGhWhqKE4KoK,Woods,Blue,641,Art Deco,,Red,Shuttered,,Green,Patio,Sunset,Helix Avenue
 641 Clipping Drive,11,2265,23.33,https://solanart.io/search/?token=Cck6zK97CW2KVbNqNXfw6NS2ZPmF1GHsGKm26qJ2mzNW,Woods,Yellow,641,Cottage,Vines,Blue,Rounded,,Blue,Shingle,Day,Clipping Drive
 641 Dahlia Drive,25,818,0,https://solanart.io/search/?token=3sza4wwpyB9WvEkonARbqa1AWfGu8hE9YZ611cnfzx8c,Underwater,Red,641,Mansion,Brick,Pale green,Shuttered,,Green,Shingle,,Dahlia Drive
 641 Dip Drive,230,432,0,https://solanart.io/search/?token=41kyAZLwYmcU6LK6uVhhaDV6FjCFmZZSmX5vsPJvB35z,Woods,Dark green,641,Cottage,Vines,,Glass,,Mix,Mushroom,Night,Dip Drive
-641 Helix Avenue,9.5,1508,50.59,https://magiceden.io/item-details/Hr4dz5KEaWszFo7RxEmKL8DSuTvcrfZXCGhWhqKE4KoK,Woods,Blue,641,Art Deco,,Red,Shuttered,,Green,Patio,Sunset,Helix Avenue
 642 Dip Drive,15,1103,2.14,https://solanart.io/search/?token=FbPGoeuM8Gk4wCYvdA1FuDhrjbdjjgJXCMEmm4WbXbez,City,Red,642,Cottage,Brick,,Crystal,Rain,Yellow,Shingle,Day,Dip Drive
 644 Rip Street,50,2204,0,https://solanart.io/search/?token=4aoYyhBFs1fn2gvQ3H22WckUpUVngkwtpJ4ujWL138uZ,Beach,Blue,644,Cottage,,Blue,Shuttered,,Red,Patio,Day,Rip Street
 646 Clipping Drive,75,791,0,https://magiceden.io/item-details/9rZZfgQguHFLSYYRPstPyeb8PqmgVJ9pi7qKk6PzaxgS,City,Yellow,646,Art Deco,,Green,Shuttered,Rain,Blue,Shingle,Night,Clipping Drive
 650 Ramsey Street,25,1182,0,https://solanart.io/search/?token=Gqro16bUnRJa6BqEbnNYTKbTeJuEpguqNxHLr5Z5TjT5,Treehouse,Blue,650,Art Deco,,,Glass,,Blue,Patio,Day,Ramsey Street
 652 Dip Drive,69,349,0,https://solanart.io/search/?token=EzGcN2EjwJRqc19p4HPiFXTnsWp2tGKn1AZnBmt4ALiv,Field,Blue,652,Mansion,Vines,,Glass,Rain,Red,Tin,Night,Dip Drive
 656 Clipping Drive,19,2061,0,https://solanart.io/search/?token=HWezyP1KAqafGUF2wrbE3RYJP6mbvQXcE6udutFkpNvU,Beach,Yellow,656,Cottage,Vines,Blue,Rounded,,Green,Tin,Day,Clipping Drive
-658 Dahlia Drive,88,1410,0,https://alpha.art/t/9WLCqgYrwkXMkUQ9frMbiDNq3FEoTaxMQgBZHGxXjiz6,Desert,Red,658,Cottage,Vines,Blue,Shuttered,Rain,Red,Patio,Day,Dahlia Drive
 658 Epoch Avenue,13,1414,17.11,https://magiceden.io/item-details/Cdz8gobYbvtz7isG1sc7wZwqwgbAuqpAgYHqCbCEzLDk,Field,Yellow,658,Cottage,Brick,,Crystal,,Green,Patio,Night,Epoch Avenue
+658 Dahlia Drive,88,1410,0,https://alpha.art/t/9WLCqgYrwkXMkUQ9frMbiDNq3FEoTaxMQgBZHGxXjiz6,Desert,Red,658,Cottage,Vines,Blue,Shuttered,Rain,Red,Patio,Day,Dahlia Drive
 660 Clipping Drive,200,960,0,https://magiceden.io/item-details/8tdAhw3P9zyAa1iTyUZ4BLCCNhQqhoqN93RnxvXnDv4K,Underwater,Blue,660,Cottage,,Red,Shuttered,,Mix,Mushroom,,Clipping Drive
 661 Rip Street,75,1867,0,https://solanart.io/search/?token=B1VwgvauJvVuzTeqit8Bt4EpMHUAnUPSV1veuY6YSY9T,City,Yellow,661,Cottage,Vines,,Glass,,Mix,Grass,Day,Rip Street
 663 Dahlia Drive,45,736,0,https://magiceden.io/item-details/837Rt6EwPh9GKoeZaXLvXijtD9uoFHj7k9MbdvJx3ivw,Underwater,Red,663,Art Deco,,,Glass,,Mix,Mushroom,,Dahlia Drive
@@ -396,8 +396,8 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 667 Poplar Street,78,133,0,https://solanart.io/search/?token=FfMin1tJBPvAmLaqDpsMGTWu85q3dYANK1Qy4efQeyGj,Woods,Red,667,Mansion,Vines,Green,Rounded,Rain,Green,Tin,Night,Poplar Street
 668 Poplar Street,44,1639,0,https://alpha.art/t/A25hscJgEjr5bxrgKrP9RcPtgnspCCC3FqXjTPBfpf1R,Field,Blue,668,Modern,,Green,Shuttered,,Blue,Shingle,Stormy,Poplar Street
 669 Helix Avenue,8,1332,68.44,https://magiceden.io/item-details/91W1Rhzz3yCsvj38xDLJjbx7Wxwxq5MVPppQ4H8kTSsU,Mountain,Lavender,669,Cottage,Brick,Blue,Shuttered,,Mix,Mushroom,Day,Helix Avenue
-670 Helix Avenue,57,1512,0,https://solanart.io/search/?token=3dWxcZSP1kZcKHijdcTvbwioqDwsMw8K1VCvadLbGV3P,Field,Blue,670,Art Deco,,Yellow,Shuttered,,Mix,Grass,Sunset,Helix Avenue
 670 Ramsey Street,69.88,1921,0,https://magiceden.io/item-details/5xVES2pMVt1so2KcD4rT5mxUy1WSQdUb2E2JQZMQKk4N,City,Blue,670,Cottage,Vines,Yellow,Shuttered,,Blue,Tin,Day,Ramsey Street
+670 Helix Avenue,57,1512,0,https://solanart.io/search/?token=3dWxcZSP1kZcKHijdcTvbwioqDwsMw8K1VCvadLbGV3P,Field,Blue,670,Art Deco,,Yellow,Shuttered,,Mix,Grass,Sunset,Helix Avenue
 681 Poplar Street,42.69,512,0,https://magiceden.io/item-details/BpiBh3Cnr363oSeqB3WceSGcPC1vhTZA4qZaCqm6wrRV,Field,Yellow,681,Modern,Vines,,Occult,,Yellow,Tin,Stormy,Poplar Street
 684 Ramsey Street,17.5,1511,0,https://solanart.io/search/?token=8hcrtdHj5DVs5BRBmQnimj3n2gdEaorKC5ADM4rg4Qvn,Treehouse,Red,684,Cottage,,,Glass,,Red,Shingle,Day,Ramsey Street
 687 Epoch Avenue,15,877,5.8,https://solanart.io/search/?token=C6iBXf5k3PZxYqiwbX23GBpmsg1RRfdEijpXHuSCqPhm,City,Red,687,Mansion,,Blue,Shuttered,,Mix,Grass,Night,Epoch Avenue
@@ -407,8 +407,8 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 697 Helix Avenue,20,1272,0,https://magiceden.io/item-details/4xdzbUXCHFQPcz54LcPEhTMZ71SQY9a9YRuj19MT2zDm,Treehouse,Blue,697,Art Deco,Brick,,Crystal,,Green,Patio,Day,Helix Avenue
 699 Rip Street,24.5,227,0,https://solanart.io/search/?token=BALkiyxesS9go3DyA9wTtyeH6iJKAEh5wTCp6KfnEwWx,Desert,Green,699,Mansion,Brick,Blue,Rounded,,Red,Skylight,Stormy,Rip Street
 701 Rip Street,19.3,2059,0,https://alpha.art/t/2Z9U6MRGp7x4MBVxo4BLdHUD8XW4xUpBkUvuCPCEQMXF,Field,Dark green,701,Cottage,,Yellow,Shuttered,,Yellow,Skylight,Day,Rip Street
-704 Clipping Drive,50,740,0,https://solanart.io/search/?token=2tpnwPisnXw4yFzf7isVtAQykVGJrWVQ4BnVwcFHHygv,Field,Green,704,Art Deco,,Blue,Rounded,Rain,Mix,Food,Day,Clipping Drive
 704 Epoch Avenue,10.5,1937,33.64,https://magiceden.io/item-details/HUbrq5V9WTQtAngUhsUcKrou6wS62KKZZRJX7gGm1rXf,Woods,Red,704,Modern,Brick,Yellow,Rounded,,Green,Shingle,Day,Epoch Avenue
+704 Clipping Drive,50,740,0,https://solanart.io/search/?token=2tpnwPisnXw4yFzf7isVtAQykVGJrWVQ4BnVwcFHHygv,Field,Green,704,Art Deco,,Blue,Rounded,Rain,Mix,Food,Day,Clipping Drive
 707 Clipping Drive,18,1723,0,https://solanart.io/search/?token=8LNT69RcQLwb6r249WY1srmiNBSt422Luz7Nn2PFwvLN,Field,Blue,707,Cottage,Brick,,Occult,,Pale green,Shingle,Day,Clipping Drive
 708 Clipping Drive,200,1336,0,https://solanart.io/search/?token=4F46QGPrvQfKbxyu8jgBxcfJmUamqS6xt2HHSQuPY69P,Beach,Blue,708,Modern,Vines,Yellow,Shuttered,,Mix,Mushroom,Day,Clipping Drive
 708 Rip Street,87,223,0,https://alpha.art/t/E39RtBxPzJPZhYjjYifMA1EvifzYsLu2LvPxRqFADYyC,Arctic,Blue,708,Cottage,,Dark green,Rounded,,Mix,Food,Night,Rip Street
@@ -435,8 +435,8 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 821 Battle Street,54,488,0,https://solanart.io/search/?token=CvXNgtwpfaeZDaJY5Rd5nxkJHQPjzZZQT9e6HX17TVWM,City,Red,821,Cottage,Vines,Green,Shuttered,,Mix,Food,Night,Battle Street
 822 Battle Street,200,1131,0,https://solanart.io/search/?token=G5S2RbcPbhjLFs9CEq2DNqiRcDjFzowhp2znTUYUW33Y,Field,Yellow,822,Mansion,Vines,,Occult,,Blue,Shingle,Day,Battle Street
 825 Battle Street,58,1630,0,https://solanart.io/search/?token=51Jw53d3bEPx1mdiBsr9WhtX72k3i4wnwfoBVpzqAH8i,City,Yellow,825,Mansion,,,Glass,,Yellow,Shingle,Day,Battle Street
-826 Broadway,34,969,0,https://alpha.art/t/9A3rUKP5ywcHZE4e6eAZJHCD1gq8eM7JwvFBMMS4N5xi,Woods,Dark green,826,Modern,,Blue,Rounded,,Yellow,Skylight,Day,Broadway
 826 Battle Street,123.6942069,508,0,https://magiceden.io/item-details/CRe5chuWqBTK7ydX3UphDVWAoUjZh5fBWpJTyxAf5uq8,City,Yellow,826,Mansion,Vines,Pale green,Shuttered,,Dark green,Patio,Day,Battle Street
+826 Broadway,34,969,0,https://alpha.art/t/9A3rUKP5ywcHZE4e6eAZJHCD1gq8eM7JwvFBMMS4N5xi,Woods,Dark green,826,Modern,,Blue,Rounded,,Yellow,Skylight,Day,Broadway
 828 Broadway,29,369,0,https://solanart.io/search/?token=2LZLWyUxxwFBP42q6zxgzYq9snayPogHwVVKGVGMLkeD,Underwater,Yellow,828,Modern,Brick,Pale green,Shuttered,,Red,Tin,,Broadway
 828 Battle Street,1337,513,0,https://solanart.io/search/?token=JUaEhGcqJLVNT7vsotf4oTsCvwWsN396Pk63AnAAHNU,Underwater,Blue,828,Mansion,Brick,Blue,Rounded,,Green,Shingle,,Battle Street
 831 Broadway,50.42069,962,0,https://alpha.art/t/391x7V3EKDzFknxtrLu33x2J47vATbzFRJTUbT5qYfDS,Treehouse,Yellow,831,Cottage,Brick,Yellow,Shuttered,,Green,Skylight,Day,Broadway
