@@ -1,668 +1,7328 @@
 {
-  "1": 443,
-  "2": 133,
-  "3": 259,
-  "4": 589,
-  "5": 348,
-  "6": 61,
-  "7": 540,
-  "8": 70,
-  "9": 650,
-  "10": 470,
-  "11": 7,
-  "12": 138,
-  "13": 25,
-  "14": 240,
-  "15": 428,
-  "16": 227,
-  "17": 640,
-  "18": 114,
-  "19": 664,
-  "20": 407,
-  "21": 123,
-  "22": 364,
-  "23": 502,
-  "24": 2,
-  "25": 612,
-  "26": 572,
-  "27": 241,
-  "28": 16,
-  "29": 460,
-  "30": 419,
-  "31": 455,
-  "32": 146,
-  "33": 67,
-  "34": 565,
-  "35": 558,
-  "36": 51,
-  "37": 448,
-  "38": 365,
-  "39": 659,
-  "40": 663,
-  "41": 225,
-  "42": 161,
-  "43": 660,
-  "44": 363,
-  "45": 562,
-  "46": 410,
-  "47": 233,
-  "48": 85,
-  "49": 469,
-  "50": 395,
-  "51": 620,
-  "52": 185,
-  "53": 508,
-  "54": 380,
-  "55": 152,
-  "56": 437,
-  "57": 627,
-  "58": 614,
-  "59": 55,
-  "60": 68,
-  "61": 242,
-  "62": 654,
-  "63": 596,
-  "64": 546,
-  "65": 293,
-  "66": 474,
-  "67": 602,
-  "68": 441,
-  "69": 566,
-  "70": 496,
-  "71": 549,
-  "72": 389,
-  "73": 498,
-  "74": 54,
-  "75": 356,
-  "76": 120,
-  "77": 571,
-  "78": 510,
-  "79": 309,
-  "80": 6,
-  "81": 90,
-  "82": 504,
-  "83": 121,
-  "84": 523,
-  "85": 611,
-  "86": 76,
-  "87": 551,
-  "88": 211,
-  "89": 401,
-  "90": 584,
-  "91": 445,
-  "92": 93,
-  "93": 641,
-  "94": 383,
-  "95": 461,
-  "96": 632,
-  "97": 613,
-  "98": 402,
-  "99": 392,
-  "100": 165,
-  "101": 357,
-  "102": 550,
-  "103": 591,
-  "104": 166,
-  "105": 170,
-  "106": 476,
-  "107": 12,
-  "108": 532,
-  "109": 449,
-  "110": 116,
-  "111": 292,
-  "112": 280,
-  "113": 98,
-  "114": 330,
-  "115": 183,
-  "116": 358,
-  "117": 582,
-  "118": 415,
-  "119": 132,
-  "120": 458,
-  "121": 199,
-  "122": 26,
-  "123": 422,
-  "124": 126,
-  "125": 382,
-  "126": 305,
-  "127": 258,
-  "128": 594,
-  "129": 182,
-  "130": 236,
-  "131": 14,
-  "132": 605,
-  "133": 610,
-  "134": 424,
-  "135": 361,
-  "136": 420,
-  "137": 606,
-  "138": 232,
-  "139": 212,
-  "140": 503,
-  "141": 238,
-  "142": 480,
-  "143": 463,
-  "144": 581,
-  "145": 53,
-  "146": 379,
-  "147": 263,
-  "148": 478,
-  "149": 359,
-  "150": 237,
-  "151": 341,
-  "152": 509,
-  "153": 440,
-  "154": 649,
-  "155": 112,
-  "156": 533,
-  "157": 647,
-  "158": 411,
-  "159": 513,
-  "160": 31,
-  "161": 536,
-  "162": 648,
-  "163": 452,
-  "164": 226,
-  "165": 398,
-  "166": 642,
-  "167": 481,
-  "168": 345,
-  "169": 418,
-  "170": 425,
-  "171": 525,
-  "172": 247,
-  "173": 270,
-  "174": 593,
-  "175": 644,
-  "176": 10,
-  "177": 230,
-  "178": 429,
-  "179": 472,
-  "180": 609,
-  "181": 286,
-  "182": 35,
-  "183": 256,
-  "184": 432,
-  "185": 342,
-  "186": 506,
-  "187": 493,
-  "188": 184,
-  "189": 295,
-  "190": 18,
-  "191": 142,
-  "192": 337,
-  "193": 530,
-  "194": 477,
-  "195": 285,
-  "196": 631,
-  "197": 537,
-  "198": 615,
-  "199": 499,
-  "200": 522,
-  "201": 515,
-  "202": 221,
-  "203": 271,
-  "204": 658,
-  "205": 195,
-  "206": 661,
-  "207": 651,
-  "208": 655,
-  "209": 595,
-  "210": 328,
-  "211": 548,
-  "212": 662,
-  "213": 86,
-  "214": 49,
-  "215": 300,
-  "216": 284,
-  "217": 125,
-  "218": 159,
-  "219": 545,
-  "220": 393,
-  "221": 543,
-  "222": 281,
-  "223": 400,
-  "224": 462,
-  "225": 423,
-  "226": 274,
-  "227": 190,
-  "228": 585,
-  "229": 69,
-  "230": 327,
-  "231": 578,
-  "232": 598,
-  "233": 527,
-  "234": 409,
-  "235": 207,
-  "236": 351,
-  "237": 229,
-  "238": 153,
-  "239": 629,
-  "240": 332,
-  "241": 626,
-  "242": 218,
-  "243": 268,
-  "244": 102,
-  "245": 252,
-  "246": 652,
-  "247": 579,
-  "248": 334,
-  "249": 406,
-  "250": 175,
-  "251": 521,
-  "252": 202,
-  "253": 387,
-  "254": 298,
-  "255": 331,
-  "256": 164,
-  "257": 405,
-  "258": 111,
-  "259": 360,
-  "260": 11,
-  "261": 156,
-  "262": 289,
-  "263": 457,
-  "264": 456,
-  "265": 228,
-  "266": 397,
-  "267": 354,
-  "268": 82,
-  "269": 412,
-  "270": 33,
-  "271": 653,
-  "272": 203,
-  "273": 135,
-  "274": 172,
-  "275": 169,
-  "276": 306,
-  "277": 273,
-  "278": 459,
-  "279": 317,
-  "280": 623,
-  "281": 63,
-  "282": 243,
-  "283": 319,
-  "284": 601,
-  "285": 302,
-  "286": 559,
-  "287": 490,
-  "288": 105,
-  "289": 665,
-  "290": 488,
-  "291": 384,
-  "292": 638,
-  "293": 349,
-  "294": 528,
-  "295": 38,
-  "296": 78,
-  "297": 560,
-  "298": 167,
-  "299": 526,
-  "300": 197,
-  "301": 275,
-  "302": 608,
-  "303": 205,
-  "304": 104,
-  "305": 43,
-  "306": 516,
-  "307": 535,
-  "308": 539,
-  "309": 346,
-  "310": 304,
-  "311": 637,
-  "312": 590,
-  "313": 196,
-  "314": 36,
-  "315": 223,
-  "316": 30,
-  "317": 29,
-  "318": 50,
-  "319": 564,
-  "320": 465,
-  "321": 486,
-  "322": 451,
-  "323": 265,
-  "324": 103,
-  "325": 485,
-  "326": 574,
-  "327": 140,
-  "328": 534,
-  "329": 439,
-  "330": 604,
-  "331": 435,
-  "332": 288,
-  "333": 307,
-  "334": 394,
-  "335": 282,
-  "336": 290,
-  "337": 308,
-  "338": 426,
-  "339": 479,
-  "340": 453,
-  "341": 163,
-  "342": 404,
-  "343": 368,
-  "344": 65,
-  "345": 616,
-  "346": 385,
-  "347": 538,
-  "348": 248,
-  "349": 592,
-  "350": 150,
-  "351": 603,
-  "352": 181,
-  "353": 52,
-  "354": 473,
-  "355": 569,
-  "356": 314,
-  "357": 517,
-  "358": 28,
-  "359": 403,
-  "360": 40,
-  "361": 588,
-  "362": 257,
-  "363": 157,
-  "364": 656,
-  "365": 344,
-  "366": 137,
-  "367": 326,
-  "368": 95,
-  "369": 561,
-  "370": 377,
-  "371": 254,
-  "372": 136,
-  "373": 542,
-  "374": 58,
-  "375": 59,
-  "376": 21,
-  "377": 325,
-  "378": 198,
-  "379": 174,
-  "380": 246,
-  "381": 557,
-  "382": 518,
-  "383": 118,
-  "384": 416,
-  "385": 553,
-  "386": 73,
-  "387": 635,
-  "388": 143,
-  "389": 367,
-  "390": 468,
-  "391": 272,
-  "392": 524,
-  "393": 370,
-  "394": 494,
-  "395": 62,
-  "396": 214,
-  "397": 131,
-  "398": 20,
-  "399": 618,
-  "400": 316,
-  "401": 643,
-  "402": 84,
-  "403": 155,
-  "404": 204,
-  "405": 107,
-  "406": 554,
-  "407": 577,
-  "408": 446,
-  "409": 417,
-  "410": 399,
-  "411": 454,
-  "412": 352,
-  "413": 501,
-  "414": 106,
-  "415": 213,
-  "416": 151,
-  "417": 64,
-  "418": 81,
-  "419": 413,
-  "420": 556,
-  "421": 115,
-  "422": 244,
-  "423": 19,
-  "424": 189,
-  "425": 260,
-  "426": 60,
-  "427": 89,
-  "428": 514,
-  "429": 27,
-  "430": 378,
-  "431": 388,
-  "432": 315,
-  "433": 482,
-  "434": 187,
-  "435": 74,
-  "436": 375,
-  "437": 583,
-  "438": 278,
-  "439": 576,
-  "440": 519,
-  "441": 600,
-  "442": 586,
-  "443": 427,
-  "444": 617,
-  "445": 171,
-  "446": 391,
-  "447": 294,
-  "448": 318,
-  "449": 231,
-  "450": 500,
-  "451": 529,
-  "452": 624,
-  "453": 264,
-  "454": 34,
-  "455": 311,
-  "456": 299,
-  "457": 489,
-  "458": 224,
-  "459": 56,
-  "460": 41,
-  "461": 436,
-  "462": 99,
-  "463": 71,
-  "464": 323,
-  "465": 235,
-  "466": 657,
-  "467": 57,
-  "468": 329,
-  "469": 145,
-  "470": 338,
-  "471": 134,
-  "472": 353,
-  "473": 333,
-  "474": 261,
-  "475": 113,
-  "476": 158,
-  "477": 160,
-  "478": 8,
-  "479": 414,
-  "480": 376,
-  "481": 200,
-  "482": 44,
-  "483": 267,
-  "484": 555,
-  "485": 464,
-  "486": 283,
-  "487": 296,
-  "488": 48,
-  "489": 450,
-  "490": 320,
-  "491": 587,
-  "492": 262,
-  "493": 217,
-  "494": 72,
-  "495": 495,
-  "496": 46,
-  "497": 310,
-  "498": 381,
-  "499": 209,
-  "500": 434,
-  "501": 266,
-  "502": 179,
-  "503": 374,
-  "504": 336,
-  "505": 3,
-  "506": 239,
-  "507": 646,
-  "508": 467,
-  "509": 531,
-  "510": 324,
-  "511": 186,
-  "512": 636,
-  "513": 497,
-  "514": 343,
-  "515": 630,
-  "516": 491,
-  "517": 621,
-  "518": 634,
-  "519": 45,
-  "520": 597,
-  "521": 110,
-  "522": 390,
-  "523": 79,
-  "524": 291,
-  "525": 75,
-  "526": 13,
-  "527": 408,
-  "528": 149,
-  "529": 80,
-  "530": 492,
-  "531": 301,
-  "532": 251,
-  "533": 430,
-  "534": 573,
-  "535": 250,
-  "536": 276,
-  "537": 180,
-  "538": 77,
-  "539": 520,
-  "540": 313,
-  "541": 147,
-  "542": 22,
-  "543": 483,
-  "544": 96,
-  "545": 210,
-  "546": 129,
-  "547": 505,
-  "548": 568,
-  "549": 1,
-  "550": 487,
-  "551": 447,
-  "552": 466,
-  "553": 339,
-  "554": 442,
-  "555": 88,
-  "556": 130,
-  "557": 563,
-  "558": 139,
-  "559": 371,
-  "560": 201,
-  "561": 619,
-  "562": 219,
-  "563": 541,
-  "564": 144,
-  "565": 15,
-  "566": 222,
-  "567": 124,
-  "568": 206,
-  "569": 645,
-  "570": 39,
-  "571": 249,
-  "572": 507,
-  "573": 178,
-  "574": 628,
-  "575": 208,
-  "576": 633,
-  "577": 575,
-  "578": 24,
-  "579": 191,
-  "580": 347,
-  "581": 547,
-  "582": 101,
-  "583": 4,
-  "584": 580,
-  "585": 119,
-  "586": 335,
-  "587": 253,
-  "588": 128,
-  "589": 122,
-  "590": 215,
-  "591": 245,
-  "592": 109,
-  "593": 32,
-  "594": 431,
-  "595": 117,
-  "596": 369,
-  "597": 350,
-  "598": 666,
-  "599": 127,
-  "600": 279,
-  "601": 168,
-  "602": 475,
-  "603": 373,
-  "604": 220,
-  "605": 177,
-  "606": 47,
-  "607": 366,
-  "608": 607,
-  "609": 66,
-  "610": 396,
-  "611": 188,
-  "612": 421,
-  "613": 23,
-  "614": 321,
-  "615": 193,
-  "616": 484,
-  "617": 37,
-  "618": 287,
-  "619": 625,
-  "620": 91,
-  "621": 303,
-  "622": 386,
-  "623": 277,
-  "624": 355,
-  "625": 83,
-  "626": 438,
-  "627": 544,
-  "628": 192,
-  "629": 154,
-  "630": 9,
-  "631": 234,
-  "632": 322,
-  "633": 567,
-  "634": 312,
-  "635": 141,
-  "636": 639,
-  "637": 433,
-  "638": 94,
-  "639": 471,
-  "640": 622,
-  "641": 17,
-  "642": 162,
-  "643": 511,
-  "644": 372,
-  "645": 194,
-  "646": 97,
-  "647": 173,
-  "648": 148,
-  "649": 552,
-  "650": 92,
-  "651": 100,
-  "652": 216,
-  "653": 570,
-  "654": 269,
-  "655": 42,
-  "656": 599,
-  "657": 108,
-  "658": 444,
-  "659": 87,
-  "660": 255,
-  "661": 362,
-  "662": 512,
-  "663": 176,
-  "664": 297,
-  "665": 340,
-  "666": 5
+  "1": {
+    "rank": 443,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Stray bunny",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "2": {
+    "rank": 133,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake white",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Bored",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "3": {
+    "rank": 259,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Spiral",
+      "Flair": "Lightning",
+      "Mouth": "Teeth",
+      "Smoke": "None"
+    }
+  },
+  "4": {
+    "rank": 589,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "5": {
+    "rank": 348,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake white",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "6": {
+    "rank": 61,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Worm",
+      "Eyes": "Watery",
+      "Flair": "Scribbles",
+      "Mouth": "Fangs",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "7": {
+    "rank": 540,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "8": {
+    "rank": 70,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Watery",
+      "Flair": "None",
+      "Mouth": "Teeth",
+      "Smoke": "Toxic"
+    }
+  },
+  "9": {
+    "rank": 650,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "10": {
+    "rank": 470,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat",
+      "Eyes": "Spiral",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "11": {
+    "rank": 7,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny white",
+      "Eyes": "Bored",
+      "Flair": "Scribbles",
+      "Mouth": "Teeth",
+      "Smoke": "Mint"
+    }
+  },
+  "12": {
+    "rank": 138,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Bat",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "Toxic"
+    }
+  },
+  "13": {
+    "rank": 25,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Bat white",
+      "Eyes": "Watery",
+      "Flair": "Lightning",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "14": {
+    "rank": 240,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Teeth",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "15": {
+    "rank": 428,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Bat",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "16": {
+    "rank": 227,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Worm",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Teeth",
+      "Smoke": "None"
+    }
+  },
+  "17": {
+    "rank": 640,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "18": {
+    "rank": 114,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake",
+      "Eyes": "Bored",
+      "Flair": "Scribbles",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "19": {
+    "rank": 664,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "20": {
+    "rank": 407,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Bat",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "21": {
+    "rank": 123,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat white",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Bored",
+      "Smoke": "Mint"
+    }
+  },
+  "22": {
+    "rank": 364,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Bored",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "23": {
+    "rank": 502,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Stray bunny",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "24": {
+    "rank": 2,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Worm white",
+      "Eyes": "Watery",
+      "Flair": "Scribbles",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "25": {
+    "rank": 612,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Watery",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "26": {
+    "rank": 572,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "27": {
+    "rank": 241,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Stray bunny",
+      "Eyes": "Watery",
+      "Flair": "Rain",
+      "Mouth": "Bored",
+      "Smoke": "None"
+    }
+  },
+  "28": {
+    "rank": 16,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Stray bunny white",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Teeth",
+      "Smoke": "Toxic"
+    }
+  },
+  "29": {
+    "rank": 460,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny",
+      "Eyes": "Watery",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "30": {
+    "rank": 419,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Worm",
+      "Eyes": "Watery",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "31": {
+    "rank": 455,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Worm",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "32": {
+    "rank": 146,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "Scribbles",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "33": {
+    "rank": 67,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Teeth",
+      "Smoke": "Toxic"
+    }
+  },
+  "34": {
+    "rank": 565,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Stray bunny",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "35": {
+    "rank": 558,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Worm",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "36": {
+    "rank": 51,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Stray bunny white",
+      "Eyes": "Flaming",
+      "Flair": "Scribbles",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "37": {
+    "rank": 448,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Stray bunny",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "38": {
+    "rank": 365,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Stray bunny",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "39": {
+    "rank": 659,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "40": {
+    "rank": 663,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "41": {
+    "rank": 225,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "Toxic"
+    }
+  },
+  "42": {
+    "rank": 161,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Stray bunny",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "Toxic"
+    }
+  },
+  "43": {
+    "rank": 660,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "44": {
+    "rank": 363,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake",
+      "Eyes": "Watery",
+      "Flair": "Lightning",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "45": {
+    "rank": 562,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "46": {
+    "rank": 410,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny",
+      "Eyes": "Watery",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "47": {
+    "rank": 233,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Snake",
+      "Eyes": "Watery",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "48": {
+    "rank": 85,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny white",
+      "Eyes": "Flaming",
+      "Flair": "Scribbles",
+      "Mouth": "Bored",
+      "Smoke": "Mint"
+    }
+  },
+  "49": {
+    "rank": 469,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Bored",
+      "Smoke": "Mint"
+    }
+  },
+  "50": {
+    "rank": 395,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake",
+      "Eyes": "Bored",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "51": {
+    "rank": 620,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "52": {
+    "rank": 185,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Worm",
+      "Eyes": "Watery",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "Toxic"
+    }
+  },
+  "53": {
+    "rank": 508,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Stray bunny",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "54": {
+    "rank": 380,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny",
+      "Eyes": "Watery",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "55": {
+    "rank": 152,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Snake",
+      "Eyes": "Spiral",
+      "Flair": "Lightning",
+      "Mouth": "Bored",
+      "Smoke": "None"
+    }
+  },
+  "56": {
+    "rank": 437,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny",
+      "Eyes": "Watery",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "57": {
+    "rank": 627,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "58": {
+    "rank": 614,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Bat",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "59": {
+    "rank": 55,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Bat",
+      "Eyes": "Watery",
+      "Flair": "Rain",
+      "Mouth": "Bored",
+      "Smoke": "Toxic"
+    }
+  },
+  "60": {
+    "rank": 68,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Worm",
+      "Eyes": "Spiral",
+      "Flair": "Scribbles",
+      "Mouth": "Teeth",
+      "Smoke": "Mint"
+    }
+  },
+  "61": {
+    "rank": 242,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake white",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "62": {
+    "rank": 654,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "63": {
+    "rank": 596,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "64": {
+    "rank": 546,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "65": {
+    "rank": 293,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Bored",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "66": {
+    "rank": 474,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Stray bunny",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "67": {
+    "rank": 602,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "68": {
+    "rank": 441,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Bat",
+      "Eyes": "Watery",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "69": {
+    "rank": 566,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Bored",
+      "Smoke": "Mint"
+    }
+  },
+  "70": {
+    "rank": 496,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "71": {
+    "rank": 549,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Bat",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "72": {
+    "rank": 389,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Bat",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Bored",
+      "Smoke": "Mint"
+    }
+  },
+  "73": {
+    "rank": 498,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Bored",
+      "Smoke": "None"
+    }
+  },
+  "74": {
+    "rank": 54,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Worm",
+      "Eyes": "Spiral",
+      "Flair": "Scribbles",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "75": {
+    "rank": 356,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Bored",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "76": {
+    "rank": 120,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "Scribbles",
+      "Mouth": "Fangs",
+      "Smoke": "Toxic"
+    }
+  },
+  "77": {
+    "rank": 571,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "78": {
+    "rank": 510,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Bored",
+      "Smoke": "None"
+    }
+  },
+  "79": {
+    "rank": 309,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Bat",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Teeth",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "80": {
+    "rank": 6,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Bat white",
+      "Eyes": "Watery",
+      "Flair": "None",
+      "Mouth": "Teeth",
+      "Smoke": "None"
+    }
+  },
+  "81": {
+    "rank": 90,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Bat",
+      "Eyes": "Flaming",
+      "Flair": "Scribbles",
+      "Mouth": "Teeth",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "82": {
+    "rank": 504,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Bat",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "83": {
+    "rank": 121,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Spiral",
+      "Flair": "Lightning",
+      "Mouth": "Bored",
+      "Smoke": "Toxic"
+    }
+  },
+  "84": {
+    "rank": 523,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Bat",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "85": {
+    "rank": 611,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "86": {
+    "rank": 76,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Stray bunny white",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "87": {
+    "rank": 551,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "88": {
+    "rank": 211,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Snake",
+      "Eyes": "Bored",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "89": {
+    "rank": 401,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Teeth",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "90": {
+    "rank": 584,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "91": {
+    "rank": 445,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Worm",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "92": {
+    "rank": 93,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Bat white",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "93": {
+    "rank": 641,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "94": {
+    "rank": 383,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Watery",
+      "Flair": "None",
+      "Mouth": "Bored",
+      "Smoke": "Mint"
+    }
+  },
+  "95": {
+    "rank": 461,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Watery",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "96": {
+    "rank": 632,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Bat",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "97": {
+    "rank": 613,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "98": {
+    "rank": 402,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Bat",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Teeth",
+      "Smoke": "None"
+    }
+  },
+  "99": {
+    "rank": 392,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat",
+      "Eyes": "Bored",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "100": {
+    "rank": 165,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Stray bunny white",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Bored",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "101": {
+    "rank": 357,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Bat",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "102": {
+    "rank": 550,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Bat",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "103": {
+    "rank": 591,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "104": {
+    "rank": 166,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Stray bunny",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "105": {
+    "rank": 170,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Watery",
+      "Flair": "Rain",
+      "Mouth": "Bored",
+      "Smoke": "Toxic"
+    }
+  },
+  "106": {
+    "rank": 476,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Snake",
+      "Eyes": "Watery",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "107": {
+    "rank": 12,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Worm",
+      "Eyes": "Bored",
+      "Flair": "Lightning",
+      "Mouth": "Bored",
+      "Smoke": "Toxic"
+    }
+  },
+  "108": {
+    "rank": 532,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Bored",
+      "Smoke": "Mint"
+    }
+  },
+  "109": {
+    "rank": 449,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "110": {
+    "rank": 116,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Stray bunny",
+      "Eyes": "Spiral",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "111": {
+    "rank": 292,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Snake",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Teeth",
+      "Smoke": "None"
+    }
+  },
+  "112": {
+    "rank": 280,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Stray bunny",
+      "Eyes": "Flaming",
+      "Flair": "Scribbles",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "113": {
+    "rank": 98,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Worm",
+      "Eyes": "Watery",
+      "Flair": "Scribbles",
+      "Mouth": "Bored",
+      "Smoke": "None"
+    }
+  },
+  "114": {
+    "rank": 330,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Worm",
+      "Eyes": "Bored",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "115": {
+    "rank": 183,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Snake white",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "116": {
+    "rank": 358,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Stray bunny",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Bored",
+      "Smoke": "None"
+    }
+  },
+  "117": {
+    "rank": 582,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "118": {
+    "rank": 415,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Bat",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Bored",
+      "Smoke": "None"
+    }
+  },
+  "119": {
+    "rank": 132,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Bat",
+      "Eyes": "Watery",
+      "Flair": "None",
+      "Mouth": "Bored",
+      "Smoke": "Mint"
+    }
+  },
+  "120": {
+    "rank": 458,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Bored",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "121": {
+    "rank": 199,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Stray bunny",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "122": {
+    "rank": 26,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Stray bunny white",
+      "Eyes": "Spiral",
+      "Flair": "Lightning",
+      "Mouth": "Fangs",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "123": {
+    "rank": 422,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat",
+      "Eyes": "Watery",
+      "Flair": "Lightning",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "124": {
+    "rank": 126,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Bat",
+      "Eyes": "Bored",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "125": {
+    "rank": 382,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Teeth",
+      "Smoke": "Mint"
+    }
+  },
+  "126": {
+    "rank": 305,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny white",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "127": {
+    "rank": 258,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake white",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "128": {
+    "rank": 594,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Bored",
+      "Smoke": "None"
+    }
+  },
+  "129": {
+    "rank": 182,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny",
+      "Eyes": "Watery",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Toxic"
+    }
+  },
+  "130": {
+    "rank": 236,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Bat",
+      "Eyes": "Watery",
+      "Flair": "None",
+      "Mouth": "Teeth",
+      "Smoke": "None"
+    }
+  },
+  "131": {
+    "rank": 14,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Snake white",
+      "Eyes": "Spiral",
+      "Flair": "Scribbles",
+      "Mouth": "Bored",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "132": {
+    "rank": 605,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "133": {
+    "rank": 610,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "134": {
+    "rank": 424,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Worm",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "135": {
+    "rank": 361,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Stray bunny",
+      "Eyes": "Watery",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "136": {
+    "rank": 420,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Teeth",
+      "Smoke": "None"
+    }
+  },
+  "137": {
+    "rank": 606,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Spiral",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "138": {
+    "rank": 232,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Stray bunny",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "139": {
+    "rank": 212,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake white",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "140": {
+    "rank": 503,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat",
+      "Eyes": "Watery",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "141": {
+    "rank": 238,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Bat",
+      "Eyes": "Bored",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "142": {
+    "rank": 480,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat",
+      "Eyes": "Flaming",
+      "Flair": "Scribbles",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "143": {
+    "rank": 463,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Bat",
+      "Eyes": "Watery",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "144": {
+    "rank": 581,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Stray bunny",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "145": {
+    "rank": 53,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Snake",
+      "Eyes": "Watery",
+      "Flair": "None",
+      "Mouth": "Teeth",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "146": {
+    "rank": 379,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Watery",
+      "Flair": "None",
+      "Mouth": "Bored",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "147": {
+    "rank": 263,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "Scribbles",
+      "Mouth": "Bored",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "148": {
+    "rank": 478,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Stray bunny",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "149": {
+    "rank": 359,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Teeth",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "150": {
+    "rank": 237,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny",
+      "Eyes": "Watery",
+      "Flair": "Rain",
+      "Mouth": "Bored",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "151": {
+    "rank": 341,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Bored",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "152": {
+    "rank": 509,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "153": {
+    "rank": 440,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Watery",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "154": {
+    "rank": 649,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "155": {
+    "rank": 112,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Teeth",
+      "Smoke": "Mint"
+    }
+  },
+  "156": {
+    "rank": 533,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Worm",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "157": {
+    "rank": 647,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "158": {
+    "rank": 411,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Snake",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Bored",
+      "Smoke": "None"
+    }
+  },
+  "159": {
+    "rank": 513,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Bat",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "160": {
+    "rank": 31,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Bat",
+      "Eyes": "Bored",
+      "Flair": "Lightning",
+      "Mouth": "Bored",
+      "Smoke": "Mint"
+    }
+  },
+  "161": {
+    "rank": 536,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat",
+      "Eyes": "Watery",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "162": {
+    "rank": 648,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "163": {
+    "rank": 452,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Toxic"
+    }
+  },
+  "164": {
+    "rank": 226,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Snake",
+      "Eyes": "Watery",
+      "Flair": "None",
+      "Mouth": "Bored",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "165": {
+    "rank": 398,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Snake",
+      "Eyes": "Watery",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "166": {
+    "rank": 642,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "167": {
+    "rank": 481,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake",
+      "Eyes": "Watery",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "168": {
+    "rank": 345,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Worm",
+      "Eyes": "Watery",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "169": {
+    "rank": 418,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "Toxic"
+    }
+  },
+  "170": {
+    "rank": 425,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Bat",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Bored",
+      "Smoke": "Mint"
+    }
+  },
+  "171": {
+    "rank": 525,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Worm",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "172": {
+    "rank": 247,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Bored",
+      "Flair": "Lightning",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "173": {
+    "rank": 270,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Stray bunny",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Bored",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "174": {
+    "rank": 593,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "175": {
+    "rank": 644,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Bat",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "176": {
+    "rank": 10,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Snake white",
+      "Eyes": "Bored",
+      "Flair": "None",
+      "Mouth": "Bored",
+      "Smoke": "Mint"
+    }
+  },
+  "177": {
+    "rank": 230,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Snake",
+      "Eyes": "Bored",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "178": {
+    "rank": 429,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny white",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "179": {
+    "rank": 472,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Stray bunny",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "180": {
+    "rank": 609,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "181": {
+    "rank": 286,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Worm",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "182": {
+    "rank": 35,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Stray bunny white",
+      "Eyes": "Watery",
+      "Flair": "Scribbles",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "183": {
+    "rank": 256,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Stray bunny",
+      "Eyes": "Spiral",
+      "Flair": "Lightning",
+      "Mouth": "Fangs",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "184": {
+    "rank": 432,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Bored",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "185": {
+    "rank": 342,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Bored",
+      "Smoke": "Toxic"
+    }
+  },
+  "186": {
+    "rank": 506,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Worm",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "187": {
+    "rank": 493,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Spiral",
+      "Flair": "Lightning",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "188": {
+    "rank": 184,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Bat",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Bored",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "189": {
+    "rank": 295,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Snake",
+      "Eyes": "Bored",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "190": {
+    "rank": 18,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake white",
+      "Eyes": "Bored",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "Toxic"
+    }
+  },
+  "191": {
+    "rank": 142,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Bat",
+      "Eyes": "Spiral",
+      "Flair": "Lightning",
+      "Mouth": "Teeth",
+      "Smoke": "Mint"
+    }
+  },
+  "192": {
+    "rank": 337,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Bat",
+      "Eyes": "Flaming",
+      "Flair": "Scribbles",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "193": {
+    "rank": 530,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Stray bunny",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "194": {
+    "rank": 477,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "195": {
+    "rank": 285,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Teeth",
+      "Smoke": "Mint"
+    }
+  },
+  "196": {
+    "rank": 631,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Worm",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "197": {
+    "rank": 537,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Bat",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "198": {
+    "rank": 615,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "199": {
+    "rank": 499,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Worm",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "200": {
+    "rank": 522,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake",
+      "Eyes": "Spiral",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "201": {
+    "rank": 515,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Bat",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "202": {
+    "rank": 221,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat white",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "203": {
+    "rank": 271,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Stray bunny",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "204": {
+    "rank": 658,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "205": {
+    "rank": 195,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Worm",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Bored",
+      "Smoke": "None"
+    }
+  },
+  "206": {
+    "rank": 661,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "207": {
+    "rank": 651,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "208": {
+    "rank": 655,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "209": {
+    "rank": 595,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Watery",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "210": {
+    "rank": 328,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake white",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "211": {
+    "rank": 548,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "212": {
+    "rank": 662,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "213": {
+    "rank": 86,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny white",
+      "Eyes": "Bored",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "214": {
+    "rank": 49,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Bat white",
+      "Eyes": "Flaming",
+      "Flair": "Scribbles",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "215": {
+    "rank": 300,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "Toxic"
+    }
+  },
+  "216": {
+    "rank": 284,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny white",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "217": {
+    "rank": 125,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Teeth",
+      "Smoke": "None"
+    }
+  },
+  "218": {
+    "rank": 159,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Worm",
+      "Eyes": "Bored",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "219": {
+    "rank": 545,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Bored",
+      "Smoke": "None"
+    }
+  },
+  "220": {
+    "rank": 393,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "Toxic"
+    }
+  },
+  "221": {
+    "rank": 543,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Bored",
+      "Smoke": "None"
+    }
+  },
+  "222": {
+    "rank": 281,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Worm",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Teeth",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "223": {
+    "rank": 400,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Bat",
+      "Eyes": "Watery",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "224": {
+    "rank": 462,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Bored",
+      "Smoke": "None"
+    }
+  },
+  "225": {
+    "rank": 423,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Snake",
+      "Eyes": "Watery",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "226": {
+    "rank": 274,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Stray bunny",
+      "Eyes": "Watery",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "227": {
+    "rank": 190,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Bat",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Toxic"
+    }
+  },
+  "228": {
+    "rank": 585,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Bored",
+      "Smoke": "None"
+    }
+  },
+  "229": {
+    "rank": 69,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Worm",
+      "Eyes": "Watery",
+      "Flair": "Lightning",
+      "Mouth": "Teeth",
+      "Smoke": "Mint"
+    }
+  },
+  "230": {
+    "rank": 327,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Bat",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Teeth",
+      "Smoke": "None"
+    }
+  },
+  "231": {
+    "rank": 578,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Bored",
+      "Smoke": "None"
+    }
+  },
+  "232": {
+    "rank": 598,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "233": {
+    "rank": 527,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "234": {
+    "rank": 409,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat",
+      "Eyes": "Spiral",
+      "Flair": "Lightning",
+      "Mouth": "Bored",
+      "Smoke": "None"
+    }
+  },
+  "235": {
+    "rank": 207,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Worm",
+      "Eyes": "Spiral",
+      "Flair": "Lightning",
+      "Mouth": "Bored",
+      "Smoke": "Mint"
+    }
+  },
+  "236": {
+    "rank": 351,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Bat",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "237": {
+    "rank": 229,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Bat",
+      "Eyes": "Watery",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "238": {
+    "rank": 153,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny white",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Teeth",
+      "Smoke": "None"
+    }
+  },
+  "239": {
+    "rank": 629,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "240": {
+    "rank": 332,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "Toxic"
+    }
+  },
+  "241": {
+    "rank": 626,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "242": {
+    "rank": 218,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat",
+      "Eyes": "Spiral",
+      "Flair": "Lightning",
+      "Mouth": "Fangs",
+      "Smoke": "Toxic"
+    }
+  },
+  "243": {
+    "rank": 268,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Bored",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "244": {
+    "rank": 102,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Stray bunny white",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Toxic"
+    }
+  },
+  "245": {
+    "rank": 252,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Snake",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Bored",
+      "Smoke": "None"
+    }
+  },
+  "246": {
+    "rank": 652,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "247": {
+    "rank": 579,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "248": {
+    "rank": 334,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Stray bunny",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "249": {
+    "rank": 406,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Worm",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "250": {
+    "rank": 175,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Snake white",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "251": {
+    "rank": 521,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Bored",
+      "Smoke": "Mint"
+    }
+  },
+  "252": {
+    "rank": 202,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Bat",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "Toxic"
+    }
+  },
+  "253": {
+    "rank": 387,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Stray bunny",
+      "Eyes": "Watery",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "254": {
+    "rank": 298,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Stray bunny",
+      "Eyes": "Watery",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "255": {
+    "rank": 331,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny white",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "256": {
+    "rank": 164,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Bat white",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "257": {
+    "rank": 405,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "258": {
+    "rank": 111,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Stray bunny",
+      "Eyes": "Watery",
+      "Flair": "None",
+      "Mouth": "Teeth",
+      "Smoke": "Mint"
+    }
+  },
+  "259": {
+    "rank": 360,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Watery",
+      "Flair": "Lightning",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "260": {
+    "rank": 11,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Stray bunny white",
+      "Eyes": "Watery",
+      "Flair": "Scribbles",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "261": {
+    "rank": 156,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Worm",
+      "Eyes": "Flaming",
+      "Flair": "Scribbles",
+      "Mouth": "Bored",
+      "Smoke": "None"
+    }
+  },
+  "262": {
+    "rank": 289,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Worm",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Bored",
+      "Smoke": "Mint"
+    }
+  },
+  "263": {
+    "rank": 457,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "264": {
+    "rank": 456,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Teeth",
+      "Smoke": "None"
+    }
+  },
+  "265": {
+    "rank": 228,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Stray bunny",
+      "Eyes": "Bored",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "266": {
+    "rank": 397,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Bat",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Bored",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "267": {
+    "rank": 354,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Snake",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Bored",
+      "Smoke": "Mint"
+    }
+  },
+  "268": {
+    "rank": 82,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Snake",
+      "Eyes": "Spiral",
+      "Flair": "Lightning",
+      "Mouth": "Teeth",
+      "Smoke": "None"
+    }
+  },
+  "269": {
+    "rank": 412,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Toxic"
+    }
+  },
+  "270": {
+    "rank": 33,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Snake white",
+      "Eyes": "Watery",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "271": {
+    "rank": 653,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "272": {
+    "rank": 203,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Watery",
+      "Flair": "Lightning",
+      "Mouth": "Bored",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "273": {
+    "rank": 135,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Snake white",
+      "Eyes": "Watery",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "274": {
+    "rank": 172,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat",
+      "Eyes": "Bored",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "Toxic"
+    }
+  },
+  "275": {
+    "rank": 169,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake white",
+      "Eyes": "Watery",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "276": {
+    "rank": 306,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Stray bunny",
+      "Eyes": "Flaming",
+      "Flair": "Scribbles",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "277": {
+    "rank": 273,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Bat",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Teeth",
+      "Smoke": "Mint"
+    }
+  },
+  "278": {
+    "rank": 459,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Bored",
+      "Smoke": "None"
+    }
+  },
+  "279": {
+    "rank": 317,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Stray bunny",
+      "Eyes": "Spiral",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "280": {
+    "rank": 623,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Bored",
+      "Smoke": "Mint"
+    }
+  },
+  "281": {
+    "rank": 63,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake white",
+      "Eyes": "Bored",
+      "Flair": "None",
+      "Mouth": "Bored",
+      "Smoke": "Mint"
+    }
+  },
+  "282": {
+    "rank": 243,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Teeth",
+      "Smoke": "None"
+    }
+  },
+  "283": {
+    "rank": 319,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Teeth",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "284": {
+    "rank": 601,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Bored",
+      "Smoke": "Mint"
+    }
+  },
+  "285": {
+    "rank": 302,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Worm",
+      "Eyes": "Watery",
+      "Flair": "None",
+      "Mouth": "Bored",
+      "Smoke": "Mint"
+    }
+  },
+  "286": {
+    "rank": 559,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "287": {
+    "rank": 490,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Watery",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "288": {
+    "rank": 105,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Bat",
+      "Eyes": "Watery",
+      "Flair": "Rain",
+      "Mouth": "Teeth",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "289": {
+    "rank": 665,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "290": {
+    "rank": 488,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Worm",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "291": {
+    "rank": 384,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Snake",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Bored",
+      "Smoke": "Mint"
+    }
+  },
+  "292": {
+    "rank": 638,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "293": {
+    "rank": 349,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat",
+      "Eyes": "Bored",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "294": {
+    "rank": 528,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Watery",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "295": {
+    "rank": 38,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Snake white",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Bored",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "296": {
+    "rank": 78,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Stray bunny white",
+      "Eyes": "Bored",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "297": {
+    "rank": 560,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "298": {
+    "rank": 167,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Worm",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "Toxic"
+    }
+  },
+  "299": {
+    "rank": 526,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "300": {
+    "rank": 197,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny",
+      "Eyes": "Bored",
+      "Flair": "Rain",
+      "Mouth": "Bored",
+      "Smoke": "None"
+    }
+  },
+  "301": {
+    "rank": 275,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Snake",
+      "Eyes": "Watery",
+      "Flair": "Lightning",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "302": {
+    "rank": 608,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Bat",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "303": {
+    "rank": 205,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Bored",
+      "Flair": "Scribbles",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "304": {
+    "rank": 104,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Bored",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "Toxic"
+    }
+  },
+  "305": {
+    "rank": 43,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Bat",
+      "Eyes": "Watery",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "Toxic"
+    }
+  },
+  "306": {
+    "rank": 516,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Bored",
+      "Smoke": "None"
+    }
+  },
+  "307": {
+    "rank": 535,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Bored",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "308": {
+    "rank": 539,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Bat",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "309": {
+    "rank": 346,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Stray bunny",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "310": {
+    "rank": 304,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Bat",
+      "Eyes": "Watery",
+      "Flair": "Rain",
+      "Mouth": "Bored",
+      "Smoke": "Mint"
+    }
+  },
+  "311": {
+    "rank": 637,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "312": {
+    "rank": 590,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "313": {
+    "rank": 196,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Worm",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "Toxic"
+    }
+  },
+  "314": {
+    "rank": 36,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Worm white",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "315": {
+    "rank": 223,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Stray bunny",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Teeth",
+      "Smoke": "None"
+    }
+  },
+  "316": {
+    "rank": 30,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Snake white",
+      "Eyes": "Bored",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "317": {
+    "rank": 29,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake white",
+      "Eyes": "Bored",
+      "Flair": "Rain",
+      "Mouth": "Teeth",
+      "Smoke": "Mint"
+    }
+  },
+  "318": {
+    "rank": 50,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny",
+      "Eyes": "Bored",
+      "Flair": "Scribbles",
+      "Mouth": "Bored",
+      "Smoke": "None"
+    }
+  },
+  "319": {
+    "rank": 564,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat",
+      "Eyes": "Watery",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "320": {
+    "rank": 465,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Watery",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "321": {
+    "rank": 486,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Teeth",
+      "Smoke": "Mint"
+    }
+  },
+  "322": {
+    "rank": 451,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Stray bunny",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "323": {
+    "rank": 265,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake white",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "324": {
+    "rank": 103,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Worm",
+      "Eyes": "Flaming",
+      "Flair": "Scribbles",
+      "Mouth": "Bored",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "325": {
+    "rank": 485,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Bat",
+      "Eyes": "Watery",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "326": {
+    "rank": 574,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Bored",
+      "Smoke": "Mint"
+    }
+  },
+  "327": {
+    "rank": 140,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Stray bunny",
+      "Eyes": "Watery",
+      "Flair": "None",
+      "Mouth": "Bored",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "328": {
+    "rank": 534,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Bat",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "329": {
+    "rank": 439,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Bored",
+      "Smoke": "Mint"
+    }
+  },
+  "330": {
+    "rank": 604,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Stray bunny",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "331": {
+    "rank": 435,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Bat",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "332": {
+    "rank": 288,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Flaming",
+      "Flair": "Scribbles",
+      "Mouth": "Bored",
+      "Smoke": "None"
+    }
+  },
+  "333": {
+    "rank": 307,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Worm",
+      "Eyes": "Watery",
+      "Flair": "Lightning",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "334": {
+    "rank": 394,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny white",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "335": {
+    "rank": 282,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "Scribbles",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "336": {
+    "rank": 290,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Stray bunny white",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "337": {
+    "rank": 308,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "Toxic"
+    }
+  },
+  "338": {
+    "rank": 426,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Worm",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "339": {
+    "rank": 479,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Bat",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Bored",
+      "Smoke": "Mint"
+    }
+  },
+  "340": {
+    "rank": 453,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat",
+      "Eyes": "Bored",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "341": {
+    "rank": 163,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Stray bunny white",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "342": {
+    "rank": 404,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake white",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "343": {
+    "rank": 368,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "Scribbles",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "344": {
+    "rank": 65,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Worm white",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "345": {
+    "rank": 616,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "346": {
+    "rank": 385,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Stray bunny",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Bored",
+      "Smoke": "Mint"
+    }
+  },
+  "347": {
+    "rank": 538,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Worm",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "348": {
+    "rank": 248,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake",
+      "Eyes": "Spiral",
+      "Flair": "Scribbles",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "349": {
+    "rank": 592,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "350": {
+    "rank": 150,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny white",
+      "Eyes": "Spiral",
+      "Flair": "Lightning",
+      "Mouth": "Bored",
+      "Smoke": "None"
+    }
+  },
+  "351": {
+    "rank": 603,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "352": {
+    "rank": 181,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny white",
+      "Eyes": "Bored",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "353": {
+    "rank": 52,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "Scribbles",
+      "Mouth": "Teeth",
+      "Smoke": "Toxic"
+    }
+  },
+  "354": {
+    "rank": 473,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Stray bunny",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "355": {
+    "rank": 569,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Bored",
+      "Smoke": "None"
+    }
+  },
+  "356": {
+    "rank": 314,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Bat",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "357": {
+    "rank": 517,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Bat",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "358": {
+    "rank": 28,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Worm",
+      "Eyes": "Spiral",
+      "Flair": "Scribbles",
+      "Mouth": "Bored",
+      "Smoke": "Toxic"
+    }
+  },
+  "359": {
+    "rank": 403,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Spiral",
+      "Flair": "Scribbles",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "360": {
+    "rank": 40,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Snake",
+      "Eyes": "Watery",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "Toxic"
+    }
+  },
+  "361": {
+    "rank": 588,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Bat",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "362": {
+    "rank": 257,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat",
+      "Eyes": "Spiral",
+      "Flair": "Scribbles",
+      "Mouth": "Fangs",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "363": {
+    "rank": 157,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Bat",
+      "Eyes": "Spiral",
+      "Flair": "Lightning",
+      "Mouth": "Teeth",
+      "Smoke": "None"
+    }
+  },
+  "364": {
+    "rank": 656,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "365": {
+    "rank": 344,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Teeth",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "366": {
+    "rank": 137,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake",
+      "Eyes": "Bored",
+      "Flair": "Scribbles",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "367": {
+    "rank": 326,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Stray bunny",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "368": {
+    "rank": 95,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Snake white",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Bored",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "369": {
+    "rank": 561,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Bat",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "370": {
+    "rank": 377,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Bat",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Teeth",
+      "Smoke": "Mint"
+    }
+  },
+  "371": {
+    "rank": 254,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Stray bunny",
+      "Eyes": "Spiral",
+      "Flair": "Lightning",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "372": {
+    "rank": 136,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Teeth",
+      "Smoke": "Toxic"
+    }
+  },
+  "373": {
+    "rank": 542,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "374": {
+    "rank": 58,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Bat",
+      "Eyes": "Watery",
+      "Flair": "Scribbles",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "375": {
+    "rank": 59,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Stray bunny white",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Toxic"
+    }
+  },
+  "376": {
+    "rank": 21,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Bat white",
+      "Eyes": "Bored",
+      "Flair": "None",
+      "Mouth": "Bored",
+      "Smoke": "None"
+    }
+  },
+  "377": {
+    "rank": 325,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat",
+      "Eyes": "Watery",
+      "Flair": "Lightning",
+      "Mouth": "Fangs",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "378": {
+    "rank": 198,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat white",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "379": {
+    "rank": 174,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Snake",
+      "Eyes": "Bored",
+      "Flair": "None",
+      "Mouth": "Bored",
+      "Smoke": "Mint"
+    }
+  },
+  "380": {
+    "rank": 246,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Stray bunny white",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "381": {
+    "rank": 557,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Bored",
+      "Smoke": "None"
+    }
+  },
+  "382": {
+    "rank": 518,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Bat",
+      "Eyes": "Watery",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "383": {
+    "rank": 118,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Bat",
+      "Eyes": "Watery",
+      "Flair": "Rain",
+      "Mouth": "Bored",
+      "Smoke": "Mint"
+    }
+  },
+  "384": {
+    "rank": 416,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Teeth",
+      "Smoke": "Mint"
+    }
+  },
+  "385": {
+    "rank": 553,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Stray bunny",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "386": {
+    "rank": 73,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Worm",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Teeth",
+      "Smoke": "Toxic"
+    }
+  },
+  "387": {
+    "rank": 635,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "388": {
+    "rank": 143,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Worm",
+      "Eyes": "Spiral",
+      "Flair": "Scribbles",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "389": {
+    "rank": 367,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake white",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "390": {
+    "rank": 468,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Worm",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "391": {
+    "rank": 272,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake white",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "392": {
+    "rank": 524,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake",
+      "Eyes": "Watery",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "393": {
+    "rank": 370,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Stray bunny",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "394": {
+    "rank": 494,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Stray bunny",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "395": {
+    "rank": 62,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Stray bunny white",
+      "Eyes": "Spiral",
+      "Flair": "Lightning",
+      "Mouth": "Fangs",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "396": {
+    "rank": 214,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Worm",
+      "Eyes": "Spiral",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "397": {
+    "rank": 131,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Bored",
+      "Flair": "Rain",
+      "Mouth": "Teeth",
+      "Smoke": "Mint"
+    }
+  },
+  "398": {
+    "rank": 20,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm white",
+      "Eyes": "Watery",
+      "Flair": "None",
+      "Mouth": "Bored",
+      "Smoke": "None"
+    }
+  },
+  "399": {
+    "rank": 618,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "400": {
+    "rank": 316,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Stray bunny",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "401": {
+    "rank": 643,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "402": {
+    "rank": 84,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake white",
+      "Eyes": "Bored",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "403": {
+    "rank": 155,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny white",
+      "Eyes": "Bored",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "404": {
+    "rank": 204,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Snake",
+      "Eyes": "Spiral",
+      "Flair": "Lightning",
+      "Mouth": "Bored",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "405": {
+    "rank": 107,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Worm",
+      "Eyes": "Spiral",
+      "Flair": "Scribbles",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "406": {
+    "rank": 554,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "407": {
+    "rank": 577,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "408": {
+    "rank": 446,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake",
+      "Eyes": "Watery",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "409": {
+    "rank": 417,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Bat",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "410": {
+    "rank": 399,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake",
+      "Eyes": "Watery",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "411": {
+    "rank": 454,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Bat",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "412": {
+    "rank": 352,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Spiral",
+      "Flair": "Lightning",
+      "Mouth": "Bored",
+      "Smoke": "Mint"
+    }
+  },
+  "413": {
+    "rank": 501,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Watery",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "414": {
+    "rank": 106,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Worm",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Bored",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "415": {
+    "rank": 213,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake",
+      "Eyes": "Spiral",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "Toxic"
+    }
+  },
+  "416": {
+    "rank": 151,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake",
+      "Eyes": "Watery",
+      "Flair": "Lightning",
+      "Mouth": "Teeth",
+      "Smoke": "Mint"
+    }
+  },
+  "417": {
+    "rank": 64,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Bat",
+      "Eyes": "Flaming",
+      "Flair": "Scribbles",
+      "Mouth": "Bored",
+      "Smoke": "Mint"
+    }
+  },
+  "418": {
+    "rank": 81,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny",
+      "Eyes": "Bored",
+      "Flair": "None",
+      "Mouth": "Teeth",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "419": {
+    "rank": 413,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Fangs",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "420": {
+    "rank": 556,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "421": {
+    "rank": 115,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Bat",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "Toxic"
+    }
+  },
+  "422": {
+    "rank": 244,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Bat",
+      "Eyes": "Flaming",
+      "Flair": "Scribbles",
+      "Mouth": "Fangs",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "423": {
+    "rank": 19,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Snake",
+      "Eyes": "Bored",
+      "Flair": "Scribbles",
+      "Mouth": "Teeth",
+      "Smoke": "None"
+    }
+  },
+  "424": {
+    "rank": 189,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Snake",
+      "Eyes": "Watery",
+      "Flair": "None",
+      "Mouth": "Teeth",
+      "Smoke": "Mint"
+    }
+  },
+  "425": {
+    "rank": 260,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake white",
+      "Eyes": "Watery",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "426": {
+    "rank": 60,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Bat",
+      "Eyes": "Bored",
+      "Flair": "Rain",
+      "Mouth": "Teeth",
+      "Smoke": "Mint"
+    }
+  },
+  "427": {
+    "rank": 89,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Worm",
+      "Eyes": "Watery",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "428": {
+    "rank": 514,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Worm",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "429": {
+    "rank": 27,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm white",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Bored",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "430": {
+    "rank": 378,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Bored",
+      "Smoke": "Mint"
+    }
+  },
+  "431": {
+    "rank": 388,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake white",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "432": {
+    "rank": 315,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake white",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "433": {
+    "rank": 482,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Worm",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "434": {
+    "rank": 187,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Worm",
+      "Eyes": "Watery",
+      "Flair": "Rain",
+      "Mouth": "Teeth",
+      "Smoke": "None"
+    }
+  },
+  "435": {
+    "rank": 74,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Bored",
+      "Flair": "Lightning",
+      "Mouth": "Teeth",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "436": {
+    "rank": 375,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Teeth",
+      "Smoke": "Mint"
+    }
+  },
+  "437": {
+    "rank": 583,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Worm",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "438": {
+    "rank": 278,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Worm",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "439": {
+    "rank": 576,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Watery",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "440": {
+    "rank": 519,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Spiral",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "441": {
+    "rank": 600,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Worm",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "442": {
+    "rank": 586,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "443": {
+    "rank": 427,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat",
+      "Eyes": "Flaming",
+      "Flair": "Scribbles",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "444": {
+    "rank": 617,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "445": {
+    "rank": 171,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Bat white",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "446": {
+    "rank": 391,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Bored",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "447": {
+    "rank": 294,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Watery",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "Toxic"
+    }
+  },
+  "448": {
+    "rank": 318,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake white",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "449": {
+    "rank": 231,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake",
+      "Eyes": "Bored",
+      "Flair": "Lightning",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "450": {
+    "rank": 500,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "451": {
+    "rank": 529,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat",
+      "Eyes": "Watery",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "452": {
+    "rank": 624,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "453": {
+    "rank": 264,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Stray bunny",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "454": {
+    "rank": 34,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat white",
+      "Eyes": "Bored",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "455": {
+    "rank": 311,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Stray bunny",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "456": {
+    "rank": 299,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat",
+      "Eyes": "Bored",
+      "Flair": "None",
+      "Mouth": "Bored",
+      "Smoke": "None"
+    }
+  },
+  "457": {
+    "rank": 489,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Bat",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "458": {
+    "rank": 224,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat",
+      "Eyes": "Watery",
+      "Flair": "Lightning",
+      "Mouth": "Bored",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "459": {
+    "rank": 56,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Bored",
+      "Flair": "Scribbles",
+      "Mouth": "Bored",
+      "Smoke": "Mint"
+    }
+  },
+  "460": {
+    "rank": 41,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Worm",
+      "Eyes": "Bored",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "Toxic"
+    }
+  },
+  "461": {
+    "rank": 436,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny",
+      "Eyes": "Spiral",
+      "Flair": "Lightning",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "462": {
+    "rank": 99,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Snake white",
+      "Eyes": "Watery",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "463": {
+    "rank": 71,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny white",
+      "Eyes": "Watery",
+      "Flair": "Scribbles",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "464": {
+    "rank": 323,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "Scribbles",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "465": {
+    "rank": 235,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Snake white",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "466": {
+    "rank": 657,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "467": {
+    "rank": 57,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake white",
+      "Eyes": "Spiral",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "Toxic"
+    }
+  },
+  "468": {
+    "rank": 329,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Snake",
+      "Eyes": "Watery",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "469": {
+    "rank": 145,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake white",
+      "Eyes": "Watery",
+      "Flair": "Rain",
+      "Mouth": "Bored",
+      "Smoke": "None"
+    }
+  },
+  "470": {
+    "rank": 338,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake white",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "471": {
+    "rank": 134,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Bat white",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "472": {
+    "rank": 353,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Bat",
+      "Eyes": "Watery",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "473": {
+    "rank": 333,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake",
+      "Eyes": "Spiral",
+      "Flair": "Lightning",
+      "Mouth": "Bored",
+      "Smoke": "Mint"
+    }
+  },
+  "474": {
+    "rank": 261,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Bat",
+      "Eyes": "Watery",
+      "Flair": "None",
+      "Mouth": "Bored",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "475": {
+    "rank": 113,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake white",
+      "Eyes": "Flaming",
+      "Flair": "Scribbles",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "476": {
+    "rank": 158,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny white",
+      "Eyes": "Watery",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "477": {
+    "rank": 160,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Bat white",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "478": {
+    "rank": 8,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm white",
+      "Eyes": "Watery",
+      "Flair": "Scribbles",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "479": {
+    "rank": 414,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Bored",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "480": {
+    "rank": 376,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Toxic"
+    }
+  },
+  "481": {
+    "rank": 200,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Worm",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "482": {
+    "rank": 44,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Bat white",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "483": {
+    "rank": 267,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Bat",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "484": {
+    "rank": 555,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake",
+      "Eyes": "Watery",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "485": {
+    "rank": 464,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "486": {
+    "rank": 283,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Worm",
+      "Eyes": "Watery",
+      "Flair": "Lightning",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "487": {
+    "rank": 296,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Bored",
+      "Smoke": "None"
+    }
+  },
+  "488": {
+    "rank": 48,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Worm white",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "489": {
+    "rank": 450,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Spiral",
+      "Flair": "Lightning",
+      "Mouth": "Bored",
+      "Smoke": "None"
+    }
+  },
+  "490": {
+    "rank": 320,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Bat",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Bored",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "491": {
+    "rank": 587,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Spiral",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "492": {
+    "rank": 262,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Bat",
+      "Eyes": "Bored",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "493": {
+    "rank": 217,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Stray bunny",
+      "Eyes": "Watery",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "494": {
+    "rank": 72,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Bat",
+      "Eyes": "Spiral",
+      "Flair": "Scribbles",
+      "Mouth": "Bored",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "495": {
+    "rank": 495,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Snake",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "496": {
+    "rank": 46,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Stray bunny white",
+      "Eyes": "Flaming",
+      "Flair": "Scribbles",
+      "Mouth": "Bored",
+      "Smoke": "Mint"
+    }
+  },
+  "497": {
+    "rank": 310,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Teeth",
+      "Smoke": "Mint"
+    }
+  },
+  "498": {
+    "rank": 381,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Bored",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "499": {
+    "rank": 209,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat",
+      "Eyes": "Watery",
+      "Flair": "Lightning",
+      "Mouth": "Teeth",
+      "Smoke": "None"
+    }
+  },
+  "500": {
+    "rank": 434,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Worm",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "501": {
+    "rank": 266,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Bat",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "Toxic"
+    }
+  },
+  "502": {
+    "rank": 179,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Worm",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Bored",
+      "Smoke": "Toxic"
+    }
+  },
+  "503": {
+    "rank": 374,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Bat",
+      "Eyes": "Watery",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "504": {
+    "rank": 336,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Teeth",
+      "Smoke": "None"
+    }
+  },
+  "505": {
+    "rank": 3,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Stray bunny white",
+      "Eyes": "Flaming",
+      "Flair": "Scribbles",
+      "Mouth": "Teeth",
+      "Smoke": "Toxic"
+    }
+  },
+  "506": {
+    "rank": 239,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Bat",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "507": {
+    "rank": 646,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "508": {
+    "rank": 467,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Bored",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "509": {
+    "rank": 531,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake",
+      "Eyes": "Watery",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "510": {
+    "rank": 324,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Spiral",
+      "Flair": "Lightning",
+      "Mouth": "Teeth",
+      "Smoke": "None"
+    }
+  },
+  "511": {
+    "rank": 186,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake white",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Teeth",
+      "Smoke": "Mint"
+    }
+  },
+  "512": {
+    "rank": 636,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Bat",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "513": {
+    "rank": 497,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Watery",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "514": {
+    "rank": 343,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Bored",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "515": {
+    "rank": 630,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "516": {
+    "rank": 491,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Bored",
+      "Smoke": "Mint"
+    }
+  },
+  "517": {
+    "rank": 621,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "518": {
+    "rank": 634,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Bored",
+      "Smoke": "None"
+    }
+  },
+  "519": {
+    "rank": 45,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Stray bunny",
+      "Eyes": "Watery",
+      "Flair": "Scribbles",
+      "Mouth": "Bored",
+      "Smoke": "None"
+    }
+  },
+  "520": {
+    "rank": 597,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "521": {
+    "rank": 110,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake white",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Teeth",
+      "Smoke": "Mint"
+    }
+  },
+  "522": {
+    "rank": 390,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat",
+      "Eyes": "Spiral",
+      "Flair": "Scribbles",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "523": {
+    "rank": 79,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Stray bunny",
+      "Eyes": "Watery",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Toxic"
+    }
+  },
+  "524": {
+    "rank": 291,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Worm",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Bored",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "525": {
+    "rank": 75,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Bat white",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "526": {
+    "rank": 13,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Bat white",
+      "Eyes": "Watery",
+      "Flair": "Scribbles",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "527": {
+    "rank": 408,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny",
+      "Eyes": "Spiral",
+      "Flair": "Lightning",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "528": {
+    "rank": 149,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Stray bunny",
+      "Eyes": "Watery",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "Toxic"
+    }
+  },
+  "529": {
+    "rank": 80,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat white",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Teeth",
+      "Smoke": "Mint"
+    }
+  },
+  "530": {
+    "rank": 492,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "531": {
+    "rank": 301,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat",
+      "Eyes": "Spiral",
+      "Flair": "Scribbles",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "532": {
+    "rank": 251,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake",
+      "Eyes": "Bored",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "533": {
+    "rank": 430,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Teeth",
+      "Smoke": "Mint"
+    }
+  },
+  "534": {
+    "rank": 573,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Bat",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "535": {
+    "rank": 250,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake white",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "536": {
+    "rank": 276,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Worm",
+      "Eyes": "Watery",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "537": {
+    "rank": 180,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Worm",
+      "Eyes": "Bored",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "538": {
+    "rank": 77,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Stray bunny",
+      "Eyes": "Flaming",
+      "Flair": "Scribbles",
+      "Mouth": "Scary",
+      "Smoke": "Toxic"
+    }
+  },
+  "539": {
+    "rank": 520,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Teeth",
+      "Smoke": "Mint"
+    }
+  },
+  "540": {
+    "rank": 313,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Bored",
+      "Flair": "Lightning",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "541": {
+    "rank": 147,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Bat",
+      "Eyes": "Bored",
+      "Flair": "None",
+      "Mouth": "Bored",
+      "Smoke": "Mint"
+    }
+  },
+  "542": {
+    "rank": 22,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Bat white",
+      "Eyes": "Watery",
+      "Flair": "None",
+      "Mouth": "Teeth",
+      "Smoke": "Mint"
+    }
+  },
+  "543": {
+    "rank": 483,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Bat",
+      "Eyes": "Spiral",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "544": {
+    "rank": 96,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat white",
+      "Eyes": "Spiral",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "545": {
+    "rank": 210,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny white",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Bored",
+      "Smoke": "None"
+    }
+  },
+  "546": {
+    "rank": 129,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Stray bunny white",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Bored",
+      "Smoke": "None"
+    }
+  },
+  "547": {
+    "rank": 505,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake",
+      "Eyes": "Watery",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "548": {
+    "rank": 568,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Bat",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "549": {
+    "rank": 1,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Stray bunny white",
+      "Eyes": "Bored",
+      "Flair": "Scribbles",
+      "Mouth": "Teeth",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "550": {
+    "rank": 487,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "551": {
+    "rank": 447,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny white",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "552": {
+    "rank": 466,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake white",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "553": {
+    "rank": 339,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Bat",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "554": {
+    "rank": 442,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Teeth",
+      "Smoke": "Mint"
+    }
+  },
+  "555": {
+    "rank": 88,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Stray bunny white",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Bored",
+      "Smoke": "Mint"
+    }
+  },
+  "556": {
+    "rank": 130,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Bat",
+      "Eyes": "Watery",
+      "Flair": "Lightning",
+      "Mouth": "Teeth",
+      "Smoke": "Mint"
+    }
+  },
+  "557": {
+    "rank": 563,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "558": {
+    "rank": 139,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Snake",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Teeth",
+      "Smoke": "Mint"
+    }
+  },
+  "559": {
+    "rank": 371,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Stray bunny",
+      "Eyes": "Watery",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "560": {
+    "rank": 201,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Bat",
+      "Eyes": "Watery",
+      "Flair": "Scribbles",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "561": {
+    "rank": 619,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "562": {
+    "rank": 219,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Stray bunny",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "Toxic"
+    }
+  },
+  "563": {
+    "rank": 541,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Spiral",
+      "Flair": "Lightning",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "564": {
+    "rank": 144,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Bat",
+      "Eyes": "Watery",
+      "Flair": "Lightning",
+      "Mouth": "Teeth",
+      "Smoke": "None"
+    }
+  },
+  "565": {
+    "rank": 15,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Bat white",
+      "Eyes": "Flaming",
+      "Flair": "Scribbles",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "566": {
+    "rank": 222,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Worm",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Bored",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "567": {
+    "rank": 124,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny",
+      "Eyes": "Watery",
+      "Flair": "Scribbles",
+      "Mouth": "Fangs",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "568": {
+    "rank": 206,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Worm",
+      "Eyes": "Watery",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "569": {
+    "rank": 645,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "570": {
+    "rank": 39,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Stray bunny",
+      "Eyes": "Spiral",
+      "Flair": "Lightning",
+      "Mouth": "Bored",
+      "Smoke": "Toxic"
+    }
+  },
+  "571": {
+    "rank": 249,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Worm",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Teeth",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "572": {
+    "rank": 507,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat",
+      "Eyes": "Watery",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "573": {
+    "rank": 178,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Teeth",
+      "Smoke": "Toxic"
+    }
+  },
+  "574": {
+    "rank": 628,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "575": {
+    "rank": 208,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny white",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Bored",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "576": {
+    "rank": 633,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "577": {
+    "rank": 575,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "578": {
+    "rank": 24,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Stray bunny",
+      "Eyes": "Watery",
+      "Flair": "Scribbles",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "579": {
+    "rank": 191,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Stray bunny",
+      "Eyes": "Watery",
+      "Flair": "None",
+      "Mouth": "Bored",
+      "Smoke": "Mint"
+    }
+  },
+  "580": {
+    "rank": 347,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Teeth",
+      "Smoke": "None"
+    }
+  },
+  "581": {
+    "rank": 547,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Fangs",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "582": {
+    "rank": 101,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm white",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "583": {
+    "rank": 4,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Bat white",
+      "Eyes": "Spiral",
+      "Flair": "Lightning",
+      "Mouth": "Fangs",
+      "Smoke": "Toxic"
+    }
+  },
+  "584": {
+    "rank": 580,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat",
+      "Eyes": "Watery",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "585": {
+    "rank": 119,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Bored",
+      "Flair": "Lightning",
+      "Mouth": "Teeth",
+      "Smoke": "Mint"
+    }
+  },
+  "586": {
+    "rank": 335,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Watery",
+      "Flair": "Scribbles",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "587": {
+    "rank": 253,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Bat",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Bored",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "588": {
+    "rank": 128,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Stray bunny",
+      "Eyes": "Bored",
+      "Flair": "Lightning",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "589": {
+    "rank": 122,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Watery",
+      "Flair": "Rain",
+      "Mouth": "Bored",
+      "Smoke": "Toxic"
+    }
+  },
+  "590": {
+    "rank": 215,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Bat white",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "591": {
+    "rank": 245,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake white",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "592": {
+    "rank": 109,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Bat",
+      "Eyes": "Watery",
+      "Flair": "Scribbles",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "593": {
+    "rank": 32,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Bored",
+      "Flair": "Scribbles",
+      "Mouth": "Teeth",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "594": {
+    "rank": 431,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Bored",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "595": {
+    "rank": 117,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Stray bunny",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "Toxic"
+    }
+  },
+  "596": {
+    "rank": 369,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Stray bunny",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "597": {
+    "rank": 350,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Bat",
+      "Eyes": "Watery",
+      "Flair": "None",
+      "Mouth": "Bored",
+      "Smoke": "None"
+    }
+  },
+  "598": {
+    "rank": 666,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "599": {
+    "rank": 127,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Worm",
+      "Eyes": "Bored",
+      "Flair": "None",
+      "Mouth": "Bored",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "600": {
+    "rank": 279,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Bored",
+      "Smoke": "Toxic"
+    }
+  },
+  "601": {
+    "rank": 168,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Bored",
+      "Flair": "Rain",
+      "Mouth": "Bored",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "602": {
+    "rank": 475,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "603": {
+    "rank": 373,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Worm",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "604": {
+    "rank": 220,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Stray bunny",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "Toxic"
+    }
+  },
+  "605": {
+    "rank": 177,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "Scribbles",
+      "Mouth": "Fangs",
+      "Smoke": "Toxic"
+    }
+  },
+  "606": {
+    "rank": 47,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Stray bunny white",
+      "Eyes": "Watery",
+      "Flair": "Scribbles",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "607": {
+    "rank": 366,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Worm",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Teeth",
+      "Smoke": "None"
+    }
+  },
+  "608": {
+    "rank": 607,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Watery",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "609": {
+    "rank": 66,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Stray bunny white",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "610": {
+    "rank": 396,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Stray bunny",
+      "Eyes": "Watery",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "611": {
+    "rank": 188,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Watery",
+      "Flair": "Scribbles",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "612": {
+    "rank": 421,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Stray bunny",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "613": {
+    "rank": 23,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Bat white",
+      "Eyes": "Bored",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "614": {
+    "rank": 321,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Snake",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "615": {
+    "rank": 193,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Bat",
+      "Eyes": "Bored",
+      "Flair": "Rain",
+      "Mouth": "Bored",
+      "Smoke": "None"
+    }
+  },
+  "616": {
+    "rank": 484,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Bored",
+      "Smoke": "None"
+    }
+  },
+  "617": {
+    "rank": 37,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Snake",
+      "Eyes": "Spiral",
+      "Flair": "Scribbles",
+      "Mouth": "Bored",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "618": {
+    "rank": 287,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Teeth",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "619": {
+    "rank": 625,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Bat",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "620": {
+    "rank": 91,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Bat",
+      "Eyes": "Watery",
+      "Flair": "Rain",
+      "Mouth": "Bored",
+      "Smoke": "Toxic"
+    }
+  },
+  "621": {
+    "rank": 303,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Worm",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "622": {
+    "rank": 386,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Watery",
+      "Flair": "Lightning",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "623": {
+    "rank": 277,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Bored",
+      "Smoke": "Toxic"
+    }
+  },
+  "624": {
+    "rank": 355,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Bat",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Bored",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "625": {
+    "rank": 83,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake white",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Bored",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "626": {
+    "rank": 438,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Watery",
+      "Flair": "Lightning",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "627": {
+    "rank": 544,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Snake",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "628": {
+    "rank": 192,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Spiral",
+      "Flair": "Lightning",
+      "Mouth": "Fangs",
+      "Smoke": "Toxic"
+    }
+  },
+  "629": {
+    "rank": 154,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake white",
+      "Eyes": "Spiral",
+      "Flair": "Lightning",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "630": {
+    "rank": 9,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Stray bunny white",
+      "Eyes": "Spiral",
+      "Flair": "Scribbles",
+      "Mouth": "Teeth",
+      "Smoke": "Mint"
+    }
+  },
+  "631": {
+    "rank": 234,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat white",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "632": {
+    "rank": 322,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat",
+      "Eyes": "Bored",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "633": {
+    "rank": 567,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Bat",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "634": {
+    "rank": 312,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Bored",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "635": {
+    "rank": 141,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat",
+      "Eyes": "Spiral",
+      "Flair": "Lightning",
+      "Mouth": "Bored",
+      "Smoke": "Toxic"
+    }
+  },
+  "636": {
+    "rank": 639,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "637": {
+    "rank": 433,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "638": {
+    "rank": 94,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Stray bunny white",
+      "Eyes": "Flaming",
+      "Flair": "Scribbles",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "639": {
+    "rank": 471,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Bored",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "640": {
+    "rank": 622,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "641": {
+    "rank": 17,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm white",
+      "Eyes": "Flaming",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Toxic"
+    }
+  },
+  "642": {
+    "rank": 162,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny white",
+      "Eyes": "Flaming",
+      "Flair": "Scribbles",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "643": {
+    "rank": 511,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Bored",
+      "Smoke": "Mint"
+    }
+  },
+  "644": {
+    "rank": 372,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Bat",
+      "Eyes": "Spiral",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "645": {
+    "rank": 194,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Stray bunny white",
+      "Eyes": "Flaming",
+      "Flair": "Rain",
+      "Mouth": "Bored",
+      "Smoke": "Mint"
+    }
+  },
+  "646": {
+    "rank": 97,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Snake white",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "647": {
+    "rank": 173,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny white",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Bored",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "648": {
+    "rank": 148,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Bat",
+      "Eyes": "Bored",
+      "Flair": "None",
+      "Mouth": "Bored",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "649": {
+    "rank": 552,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Bored",
+      "Smoke": "None"
+    }
+  },
+  "650": {
+    "rank": 92,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Stray bunny",
+      "Eyes": "Spiral",
+      "Flair": "Scribbles",
+      "Mouth": "Teeth",
+      "Smoke": "Mint"
+    }
+  },
+  "651": {
+    "rank": 100,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Snake",
+      "Eyes": "Bored",
+      "Flair": "None",
+      "Mouth": "Teeth",
+      "Smoke": "Mint"
+    }
+  },
+  "652": {
+    "rank": 216,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Stray bunny",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "653": {
+    "rank": 570,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Watery",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "None"
+    }
+  },
+  "654": {
+    "rank": 269,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake",
+      "Eyes": "Watery",
+      "Flair": "None",
+      "Mouth": "Teeth",
+      "Smoke": "None"
+    }
+  },
+  "655": {
+    "rank": 42,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Stray bunny white",
+      "Eyes": "Spiral",
+      "Flair": "None",
+      "Mouth": "Fangs",
+      "Smoke": "Toxic"
+    }
+  },
+  "656": {
+    "rank": 599,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Bat",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Fangs",
+      "Smoke": "Mint"
+    }
+  },
+  "657": {
+    "rank": 108,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Bat",
+      "Eyes": "Spiral",
+      "Flair": "Rain",
+      "Mouth": "Bored",
+      "Smoke": "Toxic"
+    }
+  },
+  "658": {
+    "rank": 444,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Flaming",
+      "Flair": "Scribbles",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "659": {
+    "rank": 87,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake",
+      "Eyes": "Flaming",
+      "Flair": "Lightning",
+      "Mouth": "Teeth",
+      "Smoke": "Toxic"
+    }
+  },
+  "660": {
+    "rank": 255,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Snake",
+      "Eyes": "Spiral",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "Mint"
+    }
+  },
+  "661": {
+    "rank": 362,
+    "attributes": {
+      "Background": "Raspberry",
+      "Body": "Worm",
+      "Eyes": "Spiral",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "662": {
+    "rank": 512,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Snake",
+      "Eyes": "Spiral",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "663": {
+    "rank": 176,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Stray bunny",
+      "Eyes": "Spiral",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "None"
+    }
+  },
+  "664": {
+    "rank": 297,
+    "attributes": {
+      "Background": "Ice",
+      "Body": "Snake",
+      "Eyes": "Watery",
+      "Flair": "None",
+      "Mouth": "Bored",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "665": {
+    "rank": 340,
+    "attributes": {
+      "Background": "Candy",
+      "Body": "Worm",
+      "Eyes": "Watery",
+      "Flair": "Lightning",
+      "Mouth": "Scary",
+      "Smoke": "Cotton candy"
+    }
+  },
+  "666": {
+    "rank": 5,
+    "attributes": {
+      "Background": "Fire",
+      "Body": "Worm",
+      "Eyes": "Bored",
+      "Flair": "Scribbles",
+      "Mouth": "Bored",
+      "Smoke": "Cotton candy"
+    }
+  }
 }
