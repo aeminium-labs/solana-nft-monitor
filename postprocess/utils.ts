@@ -68,7 +68,7 @@ export async function parseData<T>({
 }): Promise<Array<BaseData>> {
   const moonrank: Record<
     string,
-    { rank: string; attributes: Array<[string, string]> }
+    { rank: string; attributes: Record<string, string> }
   > = await readJSON(`.github/moonrank/${collection}.json`);
 
   return data.map((item) => {
@@ -79,20 +79,7 @@ export async function parseData<T>({
     const storeURL = getUrl(item);
     const itemPrice = getPrice(item);
 
-    let attributes: Record<string, string> = {};
-
-    if (moonrank[id]?.attributes) {
-      const sortedAttributes = moonrank[id].attributes.sort((a, b) =>
-        a[0].toLocaleLowerCase().localeCompare(b[0].toLocaleLowerCase())
-      );
-
-      attributes = sortedAttributes.reduce((acc, [key, value]) => {
-        return {
-          ...acc,
-          [key.toLocaleLowerCase()]: value.toLocaleLowerCase(),
-        };
-      }, attributes);
-    }
+    const attributes = moonrank[id]?.attributes || {};
 
     return {
       id,
@@ -154,6 +141,11 @@ export async function writeData({
   fileName: string;
   data: Array<BaseData>;
 }) {
+  if (data.length === 0) {
+    console.log("No items to process!");
+    return;
+  }
+
   data.sort((a, b) => parseInt(a.id) - parseInt(b.id));
 
   console.log("Processed Items:", data.length);
