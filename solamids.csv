@@ -1,5 +1,4 @@
 id,price,moonRank,💎 score (%),storeURL
-01-R088-M,0.44,3294,72.94,https://magiceden.io/item-details/FmMcccrBoFPWzLN6GTYyPcry6znATyBULXE4VHqvXsr8
 01-L061-S,0.75,4158,62.75,https://magiceden.io/item-details/DwUti6sTj24bYkTYniSDQcwXBTuMPwjbKHGBprzK1V5A
 01-R097-S,0.77,4640,58.59,https://magiceden.io/item-details/9eWHN5s3M7gLY1GJchZgJ1nojLYP18KoTm5ZU7RjUQeH
 01-L169-L,0.8,3945,64,https://magiceden.io/item-details/F1KKMNzcNZ8hPzN7VwAjQSGRf5TthbVBorFUXkJmdTiS
@@ -38,6 +37,7 @@ id,price,moonRank,💎 score (%),storeURL
 01-L119-L,3,2714,52.11,https://magiceden.io/item-details/3dawifAr2qU7eeyp1jxQ4vp1RnWyJz4PLpFPk6CEjjim
 01-R142-S,3.5,2503,48.84,https://magiceden.io/item-details/7FbWSseedgpa7n6WTpTWXnyEXzG8U7HX7XzoZxem1waq
 01-L052-M,5,73,53.8,https://magiceden.io/item-details/ADnMYZ2edhStS2nSuuHAx1ScSoUrEV7g7UfwqkEamABT
+01-L178-M,5.2,1815,37.49,https://magiceden.io/item-details/2DoFSC7N25odeHwWvioqoWdnXuf4t1xXKuVV7mX5ufm7
 01-R008-S,1,2053,77.54,https://alpha.art/t/GtfBKTj8fwCrj38yMyC97McbneA8fxT8gbKcSzqdjUUE
 01-R021-S,1.6,3141,62.6,https://alpha.art/t/CchALWfCWLw2U88YB6b3VHqkEXhqRudJhMwrPpKabe1m
 02-R008-S,0.44,4150,65.91,https://magiceden.io/item-details/6guqYfyRYGtHK83mvAA3yYAMx2GJPfqucCUU1WLDo57G
@@ -218,7 +218,6 @@ id,price,moonRank,💎 score (%),storeURL
 05-L086-S,3.5,4279,34.25,https://magiceden.io/item-details/5ZuL8XPAVQ13LZbgobHrCmmwNrEYZ1tcA8KZjjZLqYN3
 05-L072-S,3.88,1383,54.24,https://magiceden.io/item-details/NoosWHkBjBso1iFYC7eaCT2dkjSUSseCAn8EJhtk5Dz
 05-L019-S,5,4203,19.88,https://magiceden.io/item-details/Hoaqx9ifSZ3Gs2sWYsPf1n96hRFBxAiaMoUh8wC1XheD
-05-L005-M,6,1880,28.96,https://magiceden.io/item-details/EunzE4hTrTidjwGPKN5aNjaGqC2LKjFetc3TuPDpdewL
 05-L027-S,0.85,4439,59.44,https://alpha.art/t/BoRQStgo251ob8AMjR4Nip9dCGu5fe1aUJsgtQdRpvhX
 05-R011-S,2.5,4202,44.89,https://alpha.art/t/DpA8XZfynZHyFxnPcbsg4tRxhXuxYB9UCM4R2QBnCRsK
 05-R074-L,16.989999999,2912,0,https://alpha.art/t/Bgm5zRJxthkayKHyUXHJbMAnEMutxaUZtQEdPKEa63uD
@@ -287,6 +286,7 @@ id,price,moonRank,💎 score (%),storeURL
 07-L061-L,6,2353,25.07,https://magiceden.io/item-details/74rey6itC7AxCqXhqKsp4bJqX7832jeNy859xTFQq6TS
 08-L007-S,0.45,3806,68.64,https://magiceden.io/item-details/ErjmDoGcJXtfY2Ms3VdCGJtsn9HLQnsqHjd2oPr74JCV
 08-R002-S,0.5,3024,74.56,https://magiceden.io/item-details/9BwVySnbBK7svx87pPMM9ic3iQi43jqZbrDtMmWmmiy3
+08-L114-M,0.57,3833,67.22,https://magiceden.io/item-details/94YSYDAkkKt27ZTmaRiiTv4YviNZssTqoemf9ZCU1bUR
 08-R083-S,0.65,1189,88.13,https://magiceden.io/item-details/Bkng5gCujr1YtjN5vaYpCCWvE7JjUWBNkgU6cxRByNqh
 08-R042-S,0.65,4100,64.22,https://magiceden.io/item-details/2hZjpVc4cydwkQXf7MkKT8LqQuE6mL3uExoCeSFtLvNE
 08-L097-L,0.7,4552,60.01,https://magiceden.io/item-details/AAQxSN197oDTpDCFMC5tTBTViUakMbBfTxxBq6TNrBPG
@@ -462,14 +462,15 @@ id,price,moonRank,💎 score (%),storeURL
 14-L021-M,5.1,4194,18.95,https://magiceden.io/item-details/Brg9PnThGiXpMubKCjXfpAWVKXYwrMddzNtDxY7aopZa
 14-L023-XL,6,1018,36.04,https://magiceden.io/item-details/GfGyMvpgrWYFfBGLdnrsdv6xLzgML1ifdERYbyXxKtiK
 15-L040-S,0.55,3595,69.37,https://magiceden.io/item-details/39E7LH7dhcjDRuSZ5TUVEUkEaKgXfWwCNPxZsG6tzxVH
+15-R016-S,0.77,4709,58.02,https://magiceden.io/item-details/Bk1QHSDzJGaDmHoQQsNxWkqYthg4a6XkSrzVSVGCY8NT
 15-R078-S,0.79,1029,88.05,https://magiceden.io/item-details/8bFphbk7ETJ8wFK6sovi7cbyJd1hJCgZacEY4tbJd8qY
 15-L027-M,0.8,1921,80.62,https://magiceden.io/item-details/FNkWGcerJwP7UdJg5FCc1wQ3zWV4YGXYaFzjgYRqYoGU
 15-L074-M,0.89,869,88.36,https://magiceden.io/item-details/FaboMer8JbZXD5fYFnnuDqyUMc2tFYdkJEkm53ubd5rV
 15-R059-S,0.9,2203,77.31,https://magiceden.io/item-details/C8TviHuDzFWWaB7uFbLUkXNiHRtJiNQBfbPC8VLVhpDQ
-15-L055-XL,1,1401,82.89,https://magiceden.io/item-details/CRmTEnyMPnpocdCnGLbokuS36ut4TbwnQdXRS53kMmJN
 15-L034-S,1,3708,63.94,https://magiceden.io/item-details/475GG3Rynv1TQTmNrZf5XuuAYpiCJGvMWkqjcRVaPrEy
 15-R058-S,1.1,3479,64.83,https://magiceden.io/item-details/5a8xNm6yfyFJzxenZ6Sa2LbMSLDCUdFzw5JUKCsLmEvF
 15-R022-S,1.25,4182,57.55,https://magiceden.io/item-details/9GmFMaSnmdjb8Amdnh9bYrcwte3ZqLham1FcdWDFuExb
+15-R057-M,1.35,3482,62.3,https://magiceden.io/item-details/7w9sWcNKYDAFbN1go8Y8TqksuoxBxqBnRMPDVmkcoSZ8
 15-L012-S,1.5,4068,55.99,https://magiceden.io/item-details/4X7PoVWkCa7FYjncZqKV911eaAJbvePJnxUYY9NzuSrY
 15-L073-M,1.5,1198,79.56,https://magiceden.io/item-details/GA1CmqxBBPx7XAJWovoBGktJkBpCcGzU8mrKaSL5g6u8
 15-L024-S,1.5,3474,60.87,https://magiceden.io/item-details/Dcb8VPFUF4HdJaiLWNJggNcoHawSXxAiL6HqXzTB2tUh
@@ -526,8 +527,8 @@ id,price,moonRank,💎 score (%),storeURL
 18-L039-L,4.44,1072,51.2,https://magiceden.io/item-details/G5gsBVaqA7K9UWKfaWE1ouzGRtsPNU67so7Y22FRq1ET
 18-R032-S,5.5,1818,34.47,https://magiceden.io/item-details/5DXz3xTDcwCoAzpZQrUQtkj1nXYm6J6De7mk9hDqVg4y
 18-L040-S,6,210,42.68,https://magiceden.io/item-details/4YKevMTNV96s4e3r6d4ZMEEj9PRxVRsgzv72KV9qArMt
-18-R021-XL,6,1457,32.43,https://magiceden.io/item-details/E71xU6e1EtXRrv99kX5ZK7D8mvoj8ynToaK7XxKf7TaT
 19-R006-S,1.25,503,87.77,https://magiceden.io/item-details/EevSwbta4hAWrgft9d7wdvZBwXGTNT8SdycEbkq7bosf
+19-L002-S,1.49,3246,62.84,https://magiceden.io/item-details/HkJYh7ZXNxUBbcTWqTwXJAisVSwwWMRcrzBGrgbifoDf
 19-L041-S,1.5,1913,73.69,https://magiceden.io/item-details/EsNn35pPkopC62VHbU7LxBdGZs2asZZ9fF4DjwvBvMHt
 19-L004-S,3,2812,51.3,https://magiceden.io/item-details/8VemVwKYtmoDVQo9jcx8oespDezzkN8YRLeChY8CcWY9
 19-L039-M,4,157,63.11,https://magiceden.io/item-details/9byL7UjFhneAGeSV3r7dC1p8jSA9LABErGV4unQSyxNk
@@ -550,4 +551,3 @@ id,price,moonRank,💎 score (%),storeURL
 21-L018-S,3.5,1016,61.06,https://magiceden.io/item-details/8APuNhxmkmHasm1GrsiC5zrqM42VBetZdBNTqjfAH3gS
 21-L024-S,4,2761,41.72,https://magiceden.io/item-details/FW19Bfrzm2PBMPFk2iSycz9UT7z9bHJ5W25WXCeM7Wgt
 21-L002-S,6,2816,21.27,https://magiceden.io/item-details/5HpHDyQcNQHUXQZiumvArBBgZ4d6BchuhP96UXoBAMVq
-21-R006-S,6.2,1612,29.16,https://magiceden.io/item-details/AZ2dd2ttREx6fdEy9cM5FiMqMUrJnoCtXKQfw3kfkSzx
