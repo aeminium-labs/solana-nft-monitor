@@ -80,7 +80,7 @@ id,price,moonRank,💎 score (%),storeURL,Cheek,Chest,Earpiece,Gradient,Headdres
 0521,1.15,1477,84.42,https://solanart.io/search/?token=CivcH1u7CkaNwoBmUQ8oCYRVPsKYbU3Uj4w3Gjo64k9Z,Strata-T,Bandolier,Vib-Cap,No,Mo-Exhaust,Eagle,Analogue,Nosedive,Stage 3,AmoraTech: Capacitor,Discplate,Baseon
 0529,6,38,46.32,https://magiceden.io/item-details/7pgpeJgCQCBSbVnMeQHq89AAHBUpte1UMn4gpiFBz76B,W-Kit,Bandolier,None,Yes,Ridge,Knight,Flux,Automatonic,Stage 1,V Phase,Rotary,Inner Rim
 0530,2.2,1018,77.24,https://solanart.io/search/?token=CMnx8mWgEfe1aSk4hks12ZjfzSgjZfNrMycLQQq3xmNy,W-Kit,Mondrimod,Caps,No,Splitter,Billed,Conrad,Terraform,Stage 2,BHSG,Rotary,Interlocked Baseon
-0535,2,5150,49.4,https://magiceden.io/item-details/FbBALPqA1UYGRiZKpuch2xegy3WkyhTaNtN7ufp1wEAu,FE-TT,Mondrimod,Magnesium,No,Ridge,Knight,Analogue,Binary,Stage 1,Brazier,Clockwork,Inner Rim
+0535,0.7,5150,62.4,https://magiceden.io/item-details/FbBALPqA1UYGRiZKpuch2xegy3WkyhTaNtN7ufp1wEAu,FE-TT,Mondrimod,Magnesium,No,Ridge,Knight,Analogue,Binary,Stage 1,Brazier,Clockwork,Inner Rim
 0541,4,3320,42.61,https://magiceden.io/item-details/82X6eqDGga8F7XRUbrkmB3CdwcfoWgoGCopUn5KKWFsk,FE-TT,Mondrimod,Hermes,No,Ridge,Knight,Protector,Hyperflora,Stage 1,Oni,Discplate,Shockwave
 0544,3,1033,69.13,https://magiceden.io/item-details/HxR8d7mR3eXxT5g2Q5rWvipX3SMyiGHuiuiEVUCJ7Tdq,AmoraTech: S Curve,Bandolier,Caps,Yes,Mo-Exhaust,Exhibit,Exposed,Blackbird,Stage 1,None,Clockwork,Shockwave
 0546,1.5,3916,63.31,https://magiceden.io/item-details/7UJc2nMWxdbBvSTDJ4kyBeFpWFiYxVeruZVML5Jqv1D5,Odin,Uniplate,Grievance,No,Fin,Knight,C1-Standard,Antimatter,Stage 1,Equalizer,Armguards,Control Panel
@@ -230,7 +230,7 @@ id,price,moonRank,💎 score (%),storeURL,Cheek,Chest,Earpiece,Gradient,Headdres
 1630,10,2340,0,https://solanart.io/search/?token=79pVQuqkSNDZWCg2gK2uZ9q8dgvNx8FYhEH7i8bwZixZ,Odin,Notched,Transmitters,No,Ridge,Invader,Saturn,Blaze,Stage 1,Amphibian,Ergopads,Baseon
 1631,1.3,5116,56.64,https://magiceden.io/item-details/CSvejWEmoqSc474nYKVoivW8zdyf7z5BzaYUeRfKvFZu,Revival,Uniplate,Contracaps,No,Duofin,Dovetail,Analogue,Wolverine,Stage 1,Brazier,Clockwork,Inner Rim
 1637,5,2879,35.8,https://solanart.io/search/?token=CbQeX5sptMis2UCMHeKTZTCrhWQtH32QpFHisKFbdG7Z,Negative T,H Standard,Caps,No,AmoraTech: Beacon,Eagle,Cyltanks,New Eon,Stage 1,Space Gill,Orbital Band,Interlocked Baseon
-1646,2,404,83.67,https://solanart.io/search/?token=7cKy5fKoyqDQ75MBbcu3r8pzNdskRvkiWik9Ayjp5xcB,FE-TT,Uniplate,Magnesium,Yes,AmoraTech: Beacon,Seer,Commando,Saigo,Stage 2,Space Gill,Epaulettes,Control Panel
+1646,1.2,404,91.67,https://solanart.io/search/?token=7cKy5fKoyqDQ75MBbcu3r8pzNdskRvkiWik9Ayjp5xcB,FE-TT,Uniplate,Magnesium,Yes,AmoraTech: Beacon,Seer,Commando,Saigo,Stage 2,Space Gill,Epaulettes,Control Panel
 1650,1.5,5074,54.95,https://solanart.io/search/?token=7qFsjDfQ3gLojt5tC6gLoBMzXhRzyfnYBD1mLeKh1a6a,RB-T,Bandolier,Periscope,No,Fin,Prometheus,Cyltanks,Forest Midnight,Stage 1,BHSG,Epaulettes,Control Panel
 1654,3.4,3759,45.44,https://magiceden.io/item-details/BkQ6HPGSuxXdNkmMSKdS2o6K8pHJqVFtSKAtHdCquxgx,Negative T,Shawl,Transmitters,No,None,Shogun,Second Wind,Sarsen,Stage 1,Tri-Factor,Epaulettes,Inner Rim
 1656,1.7,4871,54.41,https://solanart.io/search/?token=BFEehPQN2EHXLMiiAAizjCaWD8t3ffJ3vHazfBWEAm1g,Aero V,H Standard,Hermes,No,Splitter,Dash,C1-Standard,Atlas,Stage 1,Maverick,Epaulettes,Control Panel
@@ -270,14 +270,13 @@ id,price,moonRank,💎 score (%),storeURL,Cheek,Chest,Earpiece,Gradient,Headdres
 1931,1.5,3113,69.11,https://magiceden.io/item-details/Awf31Ce96FXKXAi9XSENAmHXo1MJFRSzoU9deNHZjyug,Knox Vision,Notched,Frequency,No,Fin,Center Stem,Analogue,Patriot,Stage 1,Space Gill,Rotary,Shockwave
 1943,2,837,80.55,https://magiceden.io/item-details/12L55dPpjLbgNaCaoxiFuaqf1s8wbn3vJ3EYnvqsqdVu,Lunular,Shawl,Hermes,Yes,None,Billed,Exposed,Dystopian Rust,Stage 3,Space Gill,Armguards,Baseon
 1957,2.49,1521,70.71,https://magiceden.io/item-details/G8mnYZKgJxXXz7WvhZRbLeXBYyVYV9y4tJREkMokiV3Q,Revival,Uniplate,Vib-Cap,No,Fin,Ergo,Mandibles,Mace,Stage 1,AmoraTech: Ventilator,Armguards,Inner Rim
-1959,1.7,4228,59.06,https://magiceden.io/item-details/AbRtFCBU4iQgEeoyjBcq3VCFfaa4DmDjUftHRhouP4ud,Arc-50,Mondrimod,Magnesium,No,Mo-Exhaust,Outlaw,Mandibles,Stellar Nova,Stage 1,Brazier,Discplate,Inner Rim
+1959,1.6,4228,60.06,https://magiceden.io/item-details/AbRtFCBU4iQgEeoyjBcq3VCFfaa4DmDjUftHRhouP4ud,Arc-50,Mondrimod,Magnesium,No,Mo-Exhaust,Outlaw,Mandibles,Stellar Nova,Stage 1,Brazier,Discplate,Inner Rim
 1971,1.2,4078,65.14,https://solanart.io/search/?token=G9HyZJKd7eN62LnHF375PSHPop56SfqphpsXDrSeShx1,Necro,Mondrimod,Transmitters,No,Fin,Ergo,C1-Standard,Everlong,Stage 1,Equalizer,Discplate,Shockwave
 1982,2.35,5485,43.48,https://magiceden.io/item-details/EvaGMat17qWg6gQNge2UBddBmU2uSct14XCRJqXLvQTk,FE-TT,Shawl,Transmitters,No,None,Flush,Commando S,Anomaly,Stage 1,BHSG,Armguards,Interlocked Baseon
 1990,3,4703,42.63,https://solanart.io/search/?token=J3sdwL9D4huPAHyDreu4z5zidYVt9yqRtSihqJLGhZqg,Revival,H Standard,Frequency,No,Ridge,Speedster,Analogue,Forest Midnight,Stage 1,The Beak,Armguards,Inner Rim
 2011,1.4,2449,74.9,https://magiceden.io/item-details/T5HzsS4273WZAg7Hgw8b3xABVVPzfkB3CV3HzuPoUhv,Negative T,H Standard,Hermes,No,Fin,Duplate,Analogue,Moonage,Stage 1,V Phase,Ergopads,Interlocked Baseon
 2013,1.1111,2708,75.92,https://magiceden.io/item-details/2cBPwJcJfkUAGUzsM3emecUfzvJqBWQ2SGHgDtnUTfHr,Imperium,Shawl,Hermes,No,Mo-Exhaust,Prometheus,Exposed,Starborn,Stage 3,Maverick,Cape,Inner Rim
 2016,0.659,2584,81.34,https://magiceden.io/item-details/D7h1xdkc5pMC8x3fdQj6YHYARwurxVKVwcfX4Qs2yEzb,Odin,H Standard,Magnesium,Yes,None,Flush,Mandibles,Starborn,Stage 1,The Iron Lung,Orbital Band,Interlocked Baseon
-2020,0.659,3663,73.55,https://magiceden.io/item-details/3UjkHHW1f6pEFdH9xZVUNPwhKXUF4Fuv1JixQniG2FGC,Imperium,Uniplate,Crank,No,Splitter,Seer,Conrad,Waters of June,Stage 1,The Iron Lung,Rotary,Baseon
 2022,1.1,2794,75.41,https://magiceden.io/item-details/8Cff2YmzWU2PTkLMBgULcd3dGSnvaUEtpnmYVekCivxj,Strata-T,Mondrimod,Grievance,Yes,None,Blockpath,Strype,Purple Haze,Stage 1,The Iron Lung,Ergopads,Interlocked Baseon
 2038,2.3,4168,53.49,https://solanart.io/search/?token=2wg2ssc5XYHKdpHwPFFMQPZNXjdgv3gGrVzHmeQGNdX2,Negative T,Mondrimod,Vib-Cap,No,Mo-Exhaust,Flush,Clasp,Sage's Garden,Stage 1,None,Ergopads,Control Panel
 2044,0.9,894,91.13,https://magiceden.io/item-details/HuE3psqEANdNdsY8yqTeiERimZuign7kL7CDMx2UnsoL,Lunular,Bandolier,Frequency,No,Amygdalac,Invader,Mandibles,Odin,Stage 3,V Phase,Rotary,Inner Rim
@@ -509,7 +508,7 @@ id,price,moonRank,💎 score (%),storeURL,Cheek,Chest,Earpiece,Gradient,Headdres
 3373,1.8,3772,61.35,https://magiceden.io/item-details/4pSPdgLAMpfd4aUqJX2c6sFKQCqA28tGEisA8NMVoxrj,Lunular,Mondrimod,Plugin,No,Amygdalac,Blockpath,Mandibles,Powder,Stage 1,Maverick,Cape,Shockwave
 3374,0.95,5399,58.1,https://magiceden.io/item-details/85dYFJNWLj5TySsZJm8ShuDJUnbibN4qxySBwxs3JTrd,Big Dipper,H Standard,Vib-Cap,No,None,Blockpath,Analogue,Burgundy Mist,Stage 1,The Iron Lung,Epaulettes,Shockwave
 3377,3,3945,48.1,https://solanart.io/search/?token=4Qc99rkjd3iPBA2HF3eXtr7aTUdPwR3Ls3cp7hXfUFAY,W-Kit,Mondrimod,Grievance,No,Bi-Nocs,Ergo,C1-Standard,Krypton,Stage 1,Equalizer,Orbital Band,Shockwave
-3383,2,668,81.77,https://solanart.io/search/?token=84PSP3uWNRRbXqUMHAQiJrLR35krz5uRGhF7MJcZK5zZ,Big Dipper,H Standard,Crank,Yes,None,Knight,TK,Nosedive,Stage 3,The Iron Lung,Cape,Control Panel
+3383,1.56,668,86.17,https://solanart.io/search/?token=84PSP3uWNRRbXqUMHAQiJrLR35krz5uRGhF7MJcZK5zZ,Big Dipper,H Standard,Crank,Yes,None,Knight,TK,Nosedive,Stage 3,The Iron Lung,Cape,Control Panel
 3389,10,396,3.73,https://solanart.io/search/?token=6Mkjw2jCJA5yaj3VSmW5D8UWgTFomrpWBvqrHLthFavp,Strata-T,Mondrimod,Periscope,No,Duofin,AmoraTech: Crown,TK,Iris,Stage 2,Brazier,Ergopads,Inner Rim
 3391,5,390,53.77,https://solanart.io/search/?token=FE5Bx3kGENScsY3Yrtkc3u8cwZ3omsrtZdjXJMqRqszn,Necro,Bandolier,Crank,No,Mo-Exhaust,RB-Fume,Clasp,Starlit Confectionary,Stage 3,AmoraTech: Capacitor,Ergopads,Shockwave
 3393,4,5314,28.21,https://magiceden.io/item-details/DHBVBmwqoVUwdZq7TjAea1dTGyqDyRHDgKeGfqxyZ7rF,FE-TT,Bandolier,Crank,No,Duofin,Code,Cyltanks,Wyvern's Envy,Stage 1,Bowie Recycler,Armguards,Inner Rim
@@ -542,7 +541,6 @@ id,price,moonRank,💎 score (%),storeURL,Cheek,Chest,Earpiece,Gradient,Headdres
 3541,1.25,3275,70.44,https://magiceden.io/item-details/2ScKBHcYxkCZm3psSjm7zd74JjEj1JcvzNVykymM4oHJ,Imperium,H Standard,Grievance,No,Mo-Exhaust,Billed,Commando S,Dimension,Stage 1,The Beak,Orbital Band,Interlocked Baseon
 3547,0.77,4089,69.36,https://magiceden.io/item-details/2593cu8HYRMHrEYAEvNYQgjvqCLei2rLNsCfh2FKePwT,Big Dipper,Notched,Contracaps,No,AmoraTech: Beacon,Uniring,C1-Standard,Muddy Depths,Stage 1,Amphibian,Clockwork,Shockwave
 3554,5,2308,39.92,https://magiceden.io/item-details/GVJS1Y7yPkEpzndgVokhQxSAQboBqhn7jC8m737Jv9kc,AmoraTech: S Curve,Uniplate,Plugin,No,None,Shogun,Commando,Blaze,Stage 1,Amphibian,Epaulettes,Interlocked Baseon
-3555,0.72,2522,81.18,https://solanart.io/search/?token=DsqF6rkiVvhcGebZY6Y7yLuRbNAJEPEPdnW52GjjZFqD,W-Kit,Mondrimod,Magnesium,No,Duofin,Dovetail,Strype,Iris,Stage 1,V Phase,Ergopads,Interlocked Baseon
 3556,1.4,4083,63.1,https://solanart.io/search/?token=CXZVrPhym7vnCexUcGhRvzq7GT9DKkwT4PWEZPyvcbVL,Arc-50,Mondrimod,Grievance,No,Bull,Billed,Analogue,Lifeblood,Stage 1,BHSG,Discplate,Interlocked Baseon
 3558,86,4731,0,https://magiceden.io/item-details/Ey9eawWXoQ7EHsi5XSipahZa551pPaJxot5NnH6gBgDv,Solaris Class U,Mondrimod,Magnesium,No,None,Uniring,Skirt,Orient,Stage 1,Oni,Rotary,Inner Rim
 3559,1.5,2075,76.61,https://magiceden.io/item-details/2kYo2541u71N1nm9dqwf1HyPWfyvJReRVs7uGRLkWtJY,Aero V,Shawl,Vib-Cap,No,Fin,Eagle,Exposed,Hyperflux,Stage 2,AmoraTech: Ventilator,Rotary,Shockwave
@@ -700,7 +698,6 @@ Jorgen the Tall,9999.990234,1,0,https://solanart.io/search/?token=HuZiWbdcaUHw96
 1629,6.4,3213,19.39,https://alpha.art/t/Hg9wnzSnPzLDYGWqqn5fw7k3SzqqLkPauM8JaS9cjP2R,Vizs,Bandolier,Contracaps,No,Bull,Speedster,Exposed,Stellar Nova,Stage 1,None,Rotary,Interlocked Baseon
 2088,15,1584,0,https://alpha.art/t/7fShZC3rshrdH2UbYc72fAiPUwzk1d9h42c11YW2VCnF,Reach,Uniplate,Magnesium,Yes,Ridge,Speedster,AmoraTech: J,Purple Haze,Stage 1,Support Cannisters,Discplate,Baseon
 2163,1.5,3876,63.6,https://alpha.art/t/3qBhHSgcjDjTp73QiBGB24cNMty5JoQT4D57Cv9ktahB,AmoraTech: S Curve,Bandolier,Periscope,No,AmoraTech: Beacon,Eagle,Skirt,Novum,Stage 1,Tri-Factor,Cape,Control Panel
-2378,3.33,491,69.74,https://alpha.art/t/2HiAcBjuuGTepJhLRmrgFrwDqkYZu3BtZ4Rxa8caaGCk,Vizs,H Standard,Caps,Yes,Ridge,Dash,Commando,Antimatter,Stage 1,AmoraTech: Capacitor,Rotary,Baseon
 2394,4,5025,30.3,https://alpha.art/t/6c2UE1A9g5E1Nr5UkA9bUo3ZjXGGXtbFNS6QAjhFAS83,Strata-T,Mondrimod,Contracaps,No,Splitter,Duplate,Commando,Baoab,Stage 1,Amphibian,Armguards,Inner Rim
 2926,1.09,2725,76.01,https://alpha.art/t/7WUPqU3cWW89JPPCSsZNmDQieeYJ5iYFSiRtZ1P9q6eF,Revival,Mondrimod,Contracaps,No,None,Eagle,Strype,Novum,Stage 3,Bowie Recycler,Epaulettes,Baseon
 3278,1.2,4560,61.66,https://alpha.art/t/GuxWZkiXXHL2RCDSCz8NjcqZJdgmyhcEZStmJJXLoLUS,Revival,Uniplate,Periscope,No,Amygdalac,Exhibit,Exposed,Raider,Stage 1,Equalizer,Armguards,Baseon
@@ -711,7 +708,6 @@ Jorgen the Tall,9999.990234,1,0,https://solanart.io/search/?token=HuZiWbdcaUHw96
 3727,2,1658,74.62,https://alpha.art/t/7795YpF8e1SemN49zp8zK1nkttN4yFYarbbQuXz84gG2,Aero V,Shawl,Hermes,No,Mo-Exhaust,Speedster,Exposed,Cryonic,Stage 3,Amphibian,Clockwork,Shockwave
 4044,0.95,4244,66.44,https://alpha.art/t/AD25SqVGXuiVUm8Dsb7LR4KwYqdL1r15iUceQFBjNh7z,Arc-50,Notched,Transmitters,No,Fin,AmoraTech: Crown,Conquistador,Regyel,Stage 1,Tri-Factor,Armguards,Shockwave
 4095,0.9,4365,66.07,https://alpha.art/t/7Bn8cgasFkNZjdvsxjefSq14nE1AJFzortZL8pkJPC9G,Aero V,Shawl,Caps,No,AmoraTech: Beacon,Code,Commando,Parsec,Stage 1,Amphibian,Discplate,Inner Rim
-4107,0.8,3374,74.22,https://alpha.art/t/9rNQDMLcffAYhRfk2hvu9nUxjjYvxc33Lkf5huLyTh7W,Revival,Bandolier,Hermes,No,Mo-Exhaust,Speedster,Semicurve,Vermillion Radar,Stage 1,Brazier,Cape,Inner Rim
 4198,0.9,1388,87.57,https://alpha.art/t/HWUZBBTsfBYTzFWWouPouykWq5iaQXgAUMtuVJ9Vzz5G,Odin,Bandolier,Periscope,No,Fin,Dovetail,TK,Harvest Moon,Stage 3,The Iron Lung,Cape,Inner Rim
 4202,1.9,534,83.73,https://alpha.art/t/PeB5uSNKEM6ijiZZVkqqNmYviUk81VVmhcF6o7EBR2r,Lunular,Uniplate,Crank,No,AmoraTech: Beacon,Ergo,Semicurve,Junipero,Stage 3,Oni,Rotary,Control Panel
 4237,0.8,5489,58.95,https://alpha.art/t/GAfkJV5ouuLaPaucVt7VVJk3LY3sZPTAFkNe9jbsexDs,Big Dipper,Bandolier,Periscope,No,None,Seer,Conrad,Zenith,Stage 1,The Iron Lung,Rotary,Inner Rim
