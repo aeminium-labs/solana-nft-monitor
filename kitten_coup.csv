@@ -4,6 +4,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothing,Face,Hat
 27,0.2,1077,79.86,https://magiceden.io/item-details/BP8LTpP9H81grZBJ4esq2AmMrd75seQe9fTYykmqdTQ7,Violet,Blue Kitten Skin,Epaulette Black,Sleepy,Blue Cap
 32,0.2,1827,66.18,https://magiceden.io/item-details/DVt38gb7vJcgN8oCZ2CKatpF7tVR1AXibcJZJGzN1MB5,Green,Blue Kitten Skin,Yellow Hoodie,Sus,Ninja Mask
 33,0.5,333,90.43,https://magiceden.io/item-details/752Pf4efcuif5USkK7BAHk7rkDppa2f4WtC9VRU8Ga2w,Pink,Blue Kitten Skin,Knight,Sad,Ape Mask
+38,3,1796,38.74,https://magiceden.io/item-details/GTLM2ZNvJbKfjTWLhuHJR9hDqsLX3FFfZXvNyCEiMwyf,Green,Blue Kitten Skin,Yellow Overalls,Happy,Pink Flower
 39,0.25,1921,63.96,https://magiceden.io/item-details/DC3c6JSX7Rmkti8Uu8kNcWYqXuD8Hdd99ygkKWcuAyDY,Blue,Blue Kitten Skin,Flannel Red,Sleepy,Pirate Hat
 40,0.45,360,90.43,https://magiceden.io/item-details/EGaHs277nZiWwUYquQVY3vU8Ju6rY69DXHG3wPECDgs,Blue,Blue Kitten Skin,Mononoke,Sus,Space Helmet
 43,0.2,2181,59.72,https://magiceden.io/item-details/A4XwvwnfSctLTmV9jVPARdt1S3ynHU1gqiYqoDfzLdMJ,Beige,Blue Kitten Skin,Flannel Black,Sus,Red Apple
@@ -58,7 +59,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothing,Face,Hat
 273,0.44,481,88.33,https://magiceden.io/item-details/V2BT4QQREoE2i9bh9crPb3FP5RXmTMC75mPHbueXQjk,Purple,Blue Kitten Skin,Star Shirt,Hearts,Purple Butterfly
 275,0.5,2097,58.25,https://magiceden.io/item-details/HS3ceM1qfPwiRKtZeP7ofBLdpQDRQV9FZo8LvBuUhNC1,Beige,Blue Kitten Skin,Yellow Hoodie,Sus,Ninja Mask
 276,1.69,455,76.3,https://magiceden.io/item-details/68r6HZ5w5SE8671MoCoaygw12MhR7sjG47bssCePWJ4n,Green,Blue Kitten Skin,Suit,Hearts,Rainbow Unicorn
-285,0.2,1074,79.91,https://magiceden.io/item-details/5sb8f3id5Gt61DwhHtDXRaHMDkurweyDjeaouj9WpuZE,Beige,Blue Kitten Skin,HotDog,Happy,Frog Mask
+285,0.15,1074,80.41,https://magiceden.io/item-details/5sb8f3id5Gt61DwhHtDXRaHMDkurweyDjeaouj9WpuZE,Beige,Blue Kitten Skin,HotDog,Happy,Frog Mask
 287,0.495,1578,67.77,https://magiceden.io/item-details/2RaaBnLZ2U3bAsRUiHmNrkth6wMPczYo5zWgLsNFupwr,Blue,Blue Kitten Skin,Suit,Sad,TV Head Static
 288,0.35,414,90.45,https://magiceden.io/item-details/7TXaHGStatk5t8BaR5fEJRdjVAsB3WEJ3vn6jnPMhzXN,Orange,Blue Kitten Skin,Purple Sweater,Hearts,Naruto Bandana
 295,150,1871,0,https://magiceden.io/item-details/39fCjbqvDXdAowCt5RX3br8Wt9RH5vBqAeWHNmcZRuSw,Green,Blue Kitten Skin,Epaulette Black,Blue Shades,Pink Beret
@@ -85,7 +86,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothing,Face,Hat
 411,1.5,93,84.8,https://magiceden.io/item-details/6j98iy2omzFfgkEzxYfvpzMn1nowByNT4S2pYt1uDG6p,Orange,Blue Kitten Skin,Purple Sweater,The Cool Kitten,Candle Hat
 414,0.65,1387,69.7,https://magiceden.io/item-details/HLa3pMVKTdkP4d8wRousyTKahRi3Df2FNWekJzY3esz9,Beige,Blue Kitten Skin,Knight,Sad,Naruto Bandana
 421,0.32,1143,77.45,https://magiceden.io/item-details/CxmxNhXGvTLBoH14VfMsXFAMqhnXqYHPxXAiNZVLU5FX,Beige,Blue Kitten Skin,Flannel Black,Sad,Ape Mask
-426,1,169,88.42,https://alpha.art/t/Dc8xLWseWtXxKEsXwQU4PRdvnhnuqTLmoUrhMzyDNjGJ,Purple,Blue Kitten Skin,Yellow Overalls,Diddo,Pink Flower
 427,0.3,1284,75.08,https://magiceden.io/item-details/4sWEuY4ZBAwZ5pQvyxPgPWEgP4abiK1PFHmwe2nCmTJn,Pink,Blue Kitten Skin,Star Shirt,Happy,Red Apple
 428,0.45,721,83.85,https://magiceden.io/item-details/vBn6gXwWX1YphCqPQvMaMHwUt324CEcTpDFA8nZxLvb,Beige,Blue Kitten Skin,Green Sweater,Hearts,Pink Captains Hat
 431,0.38,1468,70.92,https://alpha.art/t/G1RCwkPizQuSpqP7v9fSoHxR4g3BTMPY8ahTLP7CXip4,Blue,Blue Kitten Skin,Pink Hoodie,Sleepy,Red Apple
@@ -158,6 +158,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothing,Face,Hat
 817,0.69,758,80.77,https://magiceden.io/item-details/9naG6CUw74tqqvnKKECSKK9yAJcrBYmH9Kph7U4cVtfx,Pink,Blue Kitten Skin,Red Bandana,Gamer Goggles,Pink Captains Hat
 821,0.5,1575,67.77,https://magiceden.io/item-details/Drphr7ewQ1Mdu47hbJqUUDBxHCKTYmwYQmunCtvnCnb4,Blue,Blue Kitten Skin,Star Shirt,Sus,Purple Butterfly
 827,0.75,1157,72.9,https://magiceden.io/item-details/BHG6BnN2o3XYXnjungSX2UjuVtcoL6n8wbVUuu8npbeq,Pink,Blue Kitten Skin,Suit,Devious,Gold Rings
+831,0.4,1811,64.47,https://magiceden.io/item-details/HCfMwLGuoANpxZrq4BHaBgxdoYZJVKWC77a3AYpyLcH,Orange,Blue Kitten Skin,Ninja,Happy,Ninja Mask
 833,0.8,1569,64.88,https://alpha.art/t/GwNeu44A4AaGkgdVKDfGWeZ96H8VGcBwAKmYx8yy1bQT,Beige,Blue Kitten Skin,Suit,Gamer Goggles,Pirate Hat
 834,0.35,1474,71.11,https://magiceden.io/item-details/8EpEorKkPUE2tMZZMVzCmyYs9u4brTmS4snB7vzjmCh7,Blue,Blue Kitten Skin,Yellow Hoodie,Hearts,Pirate Hat
 837,0.43,1856,63.35,https://alpha.art/t/7dusBw4dMHFMMoC5x5VKZLYFjeBVqxMmz1o39Z5uUmGK,Green,Blue Kitten Skin,Mononoke,Sad,Pink Flower
@@ -185,6 +186,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothing,Face,Hat
 967,0.65,467,86.48,https://magiceden.io/item-details/AAQgJTFafHMhTerKCwcU9JJfaLt4caYYKDvW5vQmYTh,Pink,Blue Kitten Skin,King,Happy,Candle Hat
 971,0.53,1046,77.12,https://magiceden.io/item-details/DADKenMfyCR19mUTPtF1ULZWZXxtmKSQ4TYJJZvxS6if,Green,Blue Kitten Skin,Flannel Red,Devious,Golden Apple
 973,0.5,471,87.91,https://magiceden.io/item-details/BCaMGUebYUcMTABY7mJqtgENoXUyAPz6qiRDowGkXQWB,Blue,Blue Kitten Skin,Pink Hoodie,Gamer Goggles,Naruto Bandana
+974,0.15,988,81.98,https://magiceden.io/item-details/CraC9JCuprMfvywXD6uHEHiB9aW6uRCzNuCTxiUt6LMu,Violet,Blue Kitten Skin,Flannel Black,Sus,Sushi Hat
 979,0.8,270,88.58,https://magiceden.io/item-details/3bKYG6TuGmZhTWF3qeDzumxLcaEod3uYSRJuVuhgqcMQ,Orange,Blue Kitten Skin,Black Ops,Gamer Goggles,Blue Cap
 981,0.38,948,80.41,https://alpha.art/t/BP75E5rVcYSV2zSVcALyUsmhpZ4ACCbRDBbaUCo7yRPz,Pink,Blue Kitten Skin,Suit,Cat Face,Purple Butterfly
 986,0.26,1291,75.35,https://magiceden.io/item-details/Ax76Re2Q5RavEhvMrR2Gc8m2hJGTuhaoKYQPyR6buZSu,Pink,Blue Kitten Skin,Star Shirt,Sleepy,Pink Captains Hat
@@ -197,6 +199,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothing,Face,Hat
 1008,1,35,90.86,https://magiceden.io/item-details/DQV3ZYwToiLqR2biEcjSfAzAFKKCZYttgyQwvht44mAY,Pink,Blue Kitten Skin,Gold Chain,Devious,Space Helmet
 1009,0.5,1676,65.93,https://magiceden.io/item-details/5eehJz8hBKNnwtCYdYsS73rmZ8EywKjCZieDeZ2mmpAE,Beige,Blue Kitten Skin,Epaulette Black,Blue Shades,Lizard Scales
 1016,3,906,54.97,https://magiceden.io/item-details/5Lk3kHZ7ge9bJqxAyeif39hs79YjAf2BPuTCn2HJ7m8b,Orange,Blue Kitten Skin,Flannel Red,Sad,Lizard Scales
+1017,0.15,1604,70.74,https://magiceden.io/item-details/J7yYXjuScp6YuQbxQwbm1TyqZ1AWCRF73K6rAmzf7yNe,Green,Blue Kitten Skin,Mononoke,Blue Shades,Purple Flower
 1031,0.2,1809,66.5,https://magiceden.io/item-details/BsWDAP9WUxp5sUGpxwosvk6CAzicw3xBBaomneKzwpH7,Blue,Blue Kitten Skin,Flannel Red,Sad,Red Bow
 1032,1,214,87.6,https://magiceden.io/item-details/F31BoAWtR3XAhqG8HT27RAxdv8qEtNqn3B96vvVfyyBe,Purple,Blue Kitten Skin,Black Ops,Hearts,Pink Flower
 1038,0.17,1467,73.04,https://magiceden.io/item-details/BWLfAhtSQSvGtcZvufSMVuaQV4XJWssr9B9AS8N9WBk6,Blue,Blue Kitten Skin,Flannel Red,Cat Face,Egg Mask
@@ -208,7 +211,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothing,Face,Hat
 1080,0.26,650,87.04,https://magiceden.io/item-details/BbmQ2XzEgxGfdhmZFnHZeurqPz1oJRLP8bkCerNEbF9K,Violet,Blue Kitten Skin,Pink Hoodie,Sad,Medieval Helmet
 1092,1,390,84.39,https://magiceden.io/item-details/6vmZX8JRvtFdJ3ppqe8vaLjC4XDfXu5SZibPEwBPdKPb,Green,Blue Kitten Skin,Red Overalls,Gamer Goggles,Egg Mask
 1102,0.26,2089,60.8,https://magiceden.io/item-details/BZdKj14UQQeeZ6sMSDAB4AjCoTu5QsvQTGbqLRVNtznx,Beige,Blue Kitten Skin,Flannel Red,Happy,Medieval Helmet
-1105,0.2,1777,67.09,https://magiceden.io/item-details/69ybg6yqeHvCZPgV4w2Bpg8n28xq6tzD8422AXB6cERL,Pink,Blue Kitten Skin,Flannel Red,Happy,Ninja Mask
+1105,0.15,1777,67.59,https://magiceden.io/item-details/69ybg6yqeHvCZPgV4w2Bpg8n28xq6tzD8422AXB6cERL,Pink,Blue Kitten Skin,Flannel Red,Happy,Ninja Mask
 1121,0.45,632,85.47,https://magiceden.io/item-details/4Bp9Z7tFAjreAvJGFiDQS6uGT24y2p6erwV6dvnXB6Sj,Pink,Blue Kitten Skin,HotDog,Devious,Purple Flower
 1129,0.19,1191,77.88,https://magiceden.io/item-details/AZck7WLXFv2vx7ztK5WavCcaxejAfTUba8fKpiKXEFDa,Green,Blue Kitten Skin,Yellow Overalls,Cat Face,Purple Butterfly
 1135,0.62,1167,74.01,https://magiceden.io/item-details/D3pWusgk76Z6UwouyTJxbfgB9WuqN9AxkuRgTB9As4gn,Pink,Blue Kitten Skin,Tiger,Sleepy,Red Bow
