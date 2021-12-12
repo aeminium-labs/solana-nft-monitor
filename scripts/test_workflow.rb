@@ -12,14 +12,21 @@ MARKETPLACE_FILTER_KEY = {
 }
 
 marketplace_filter = MARKETPLACE_FILTER_KEY[ARGV[0]&.to_sym]
+collection_filter = ARGV[1]
 puts "Applying #{marketplace_filter} filter!" if marketplace_filter
+puts "Running only for #{collection_filter}!" if collection_filter
 
 # This script tests the workflow and post processors by running them more or
 # less like how GitHub Actions would. This allows us to quickly see the affect
-# of changes to the postprocessors. You can pass in a marketplace filter as an
-# argument to the script. For example, to only run Alpha Art requests:
+# of changes to the postprocessors. You can pass in a marketplace and a
+# collection filter as arguments to the script. For example, to only run Alpha
+# Art requests:
 #
 #   ruby scripts/test_workflow.rb alpha_art
+#
+# And to run only for Arab Punkz:
+#
+#   ruby scripts/test_workflow.rb "" arabpunkz
 #
 
 workflow_filename = File.join(File.dirname(__FILE__), "../.github/workflows/flat.yml")
@@ -29,6 +36,7 @@ workflow_steps = workflow["jobs"]["scheduled"]["steps"].select { |step| step["us
 
 workflow_steps.each do |step|
   next if marketplace_filter && !step["name"].include?(marketplace_filter)
+  next if collection_filter && !step["name"].include?(collection_filter)
   puts "Processing: #{step["name"]}"
 
   args = step["with"]
