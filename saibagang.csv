@@ -2,6 +2,7 @@ id,price,moonRank,💎 score (%),storeURL,accessories,division,extra,eyes,hair,m
 2,4,1044,52.6,https://solanart.io/search/?token=5nV4neAis5azoSX8AgTZQskymDPmgUcycmG2q6ZZWpaG,studs,dregs,black katana,rage,red slicked back,side grin,robo arms,scars
 3,0.7,2552,72.02,https://magiceden.io/item-details/DXXB4Yvf6P6xkPLxuhWwePJ5cwaqKMkAnzSyc3GA2kN2,ball earings,industrial,none,black,black long,side grin,robo arms,cyan
 4,0.22,3820,65.41,https://magiceden.io/item-details/CTRKPzeEj1oCACqrug8SQEXZ5ToGcQ8DS8bDUeR2HTbo,none,dregs,black katana,black,blue spikey short,default,bruiser,implants
+15,0.21,4433,59.99,https://magiceden.io/item-details/Fv5r9iUhdYgvKMCF11pmuYNs7JWdaMHqVAzkco7fT6pe,none,portside,none,neon red,middle part yellow,default,saiba t shirt,scars
 28,0.88,2798,68.01,https://magiceden.io/item-details/6MhxqciSKeyt22CMjP34gWJfAntdtc8TBKde1Cy7Naeh,none,portside,none,black,white slicked back,shuriken mask,guardian,implants
 58,0.75,1971,76.76,https://magiceden.io/item-details/NpQpNVMBAnjAgtubm8wVoUQsPYp6atdjpqWpubEbBkC,none,industrial,black katana,implant,blue spikey short,radioactive mask,punk,cyan
 60,6,545,37.09,https://magiceden.io/item-details/4Yk8zWtBwh7bspwo68PFUyroM9m3ZcZqgMXKyRtVgdSZ,none,dregs,none,robotic,short blue,thugbirdz mask,rider,cyan
@@ -30,7 +31,6 @@ id,price,moonRank,💎 score (%),storeURL,accessories,division,extra,eyes,hair,m
 265,4.22,669,53.78,https://solanart.io/search/?token=EZF7EbaaHQ8d8rToA6zWy1eqHyT4c934ZSnXPx83hHeC,kunai,dregs,coil swords,neon red,blue top knot,viper mask,saiba hoodie,default
 268,1,1678,76.89,https://magiceden.io/item-details/7UAFjFfcKTDXtUMYcaa2sDJg6pmkLNXtVN6sGctt3N62,studs,dregs,black katana,emerald green,spikey red,cyber vampire,bruiser,default
 270,0.23,3711,66.29,https://solanart.io/search/?token=Hw6inrfrAewt82wXbm9NUqBssp5tLB88JaamXhh1xt87,blue neon bars,portside,none,neon red,short blue,cyber vampire,saiba t shirt,implants
-278,2.99,22,71.9,https://magiceden.io/item-details/3SqSZatfvo63LNHymCDYixPb63sk32kFnt6dwprC91p7,red neon bars,night,emerald blade,goggles,blue spikey short,cyber vampire,brawler,hemi
 280,5000,3000,0,https://solanart.io/search/?token=3DUX5uHZ9UoHdqK1x7nHRBCqGwSxDLSSCcsZXj2XFEi8,red neon bars,portside,neon katana,neon red,black top knot,lollipop,rider,gunmetal
 284,165,1303,0,https://solanart.io/search/?token=9SRvjN86GJsf2nH2mk7GZrDgaRNRcnwyBeZsZMjx4vH2,blue neon bars,night,black katana,neon blue,black bob,fearmonger mask,inquisitor,cyan
 294,0.9,3223,63.98,https://solanart.io/search/?token=3wXu41YwtiNuMMqG9Upn5fE9PmhFPjDoqLi6D2RiTFFG,blue neon bars,dregs,neon katana,black,red slicked back,cyber vampire,saiba hoodie,gunmetal
@@ -327,6 +327,7 @@ id,price,moonRank,💎 score (%),storeURL,accessories,division,extra,eyes,hair,m
 2066,3.69,866,57.3,https://magiceden.io/item-details/2Jz6PHJG2ec28mYY8EUYBBBM6dXanhLGUj5spztNdzJ9,studs,dregs,neon katana,neon blue,middle part black and white,cyber fangs,monk,cyan
 2068,0.69,2034,76.79,https://magiceden.io/item-details/2pK9wnDw9gpkJ5qa5sSmB4gbzfzutUwQSMauYYg2GPvS,none,portside,neon katana,augmented shades,short black and grey,cyber vampire,robo arms,cyan
 2070,50,50,0,https://solanart.io/search/?token=7WJQs3RntMRo91495ewzrSacuiJz7jvEeYnJ92Tnby2n,kunai,industrial,emerald blade,robotic,blue spikey short,cyber fangs,punk,scars
+2071,0.29,2129,79.93,https://magiceden.io/item-details/42fN7zGZdL4rCFy8ZPZgeLS7prrFMqhECsBRozLRZHUp,red neon bars,night,neon katana,black,short blue,cyber fangs,saiba hoodie,toxic
 2078,1.2,1906,72.84,https://magiceden.io/item-details/5evDxyAVGUEgPoC85567ayq1z1jqNCyHZvx7pK3b7gYB,studs,portside,none,rage,short blue,lollipop,brawler,default
 2083,2.22,2810,54.5,https://magiceden.io/item-details/DXt9KZd5Q4NiH4jscMNSzAcvhkj8RHgFiBb8fACm9H7p,none,industrial,none,neon blue,short white,default,robo arms,ambernetic
 2106,1.99,1807,65.83,https://solanart.io/search/?token=727MpgThpbMGMEDzasNCyCDu3bqCo94JaJrHnb9mUBtt,none,night,emerald blade,neon red,white slicked back,cyber fangs,adventure,default
@@ -504,12 +505,13 @@ id,price,moonRank,💎 score (%),storeURL,accessories,division,extra,eyes,hair,m
 2882,2,3387,51.51,https://magiceden.io/item-details/E3DadG3ztzZnanXT2oveiFdy9erkDw674FB1UNi337Ao,none,portside,black katana,emerald green,mohawk,lollipop,saiba t shirt,crimson
 2891,0.32,3389,68.29,https://solanart.io/search/?token=BbdkQXu2nsNp4zUaAkBfkryaANwYHQ1CNHzRexZbBFbR,none,night,neon katana,saiba x,short purple and black,default,punk,cyan
 2903,0.4,4112,60.98,https://solanart.io/search/?token=BhHPruvy2Eni6zMQoXK9VKz9P2cVB3oQ2g4KQDqU4fyb,none,dregs,neon katana,neon green,blue spikey short,lollipop,saiba t shirt,cyan
-2915,0.39,1561,84.05,https://magiceden.io/item-details/9TBcVPbqbytFLb7YFGtrUbBTBCVWuK5Ppby2fjmupj17,ball earings,industrial,none,neon red,black long,smoking,brawler,crimson
+2915,0.29,1561,85.05,https://magiceden.io/item-details/9TBcVPbqbytFLb7YFGtrUbBTBCVWuK5Ppby2fjmupj17,ball earings,industrial,none,neon red,black long,smoking,brawler,crimson
 2919,3,3041,44.62,https://magiceden.io/item-details/GAZSXJyiWaa9QecwFqRQ9tEFofkcBvbCg3NiuUCShPVX,blue neon bars,portside,black katana,neon green,middle part yellow,cyber fangs,robo arms,default
 2936,8888,260,0,https://solanart.io/search/?token=9SUUd3Rf8oRD262Et58njsp7cMpWrgMkuBGe8y9vSp6U,none,night,black katana,black and yellow,black long,shuriken mask,monk,crimson
 2939,5,468,47.79,https://solanart.io/search/?token=8kk3TFfnCeK14KqwTk4DHSDpXWChQLjpvWws5jdxfvjW,blue neon bars,night,black katana,neon blue,short purple and black,zomie mask,assassin,default
 2940,3,831,64.52,https://solanart.io/search/?token=22KHryJh7QzysxS9xnFNyqByMYcdXAnRi8DZWgtayGvp,none,dregs,emerald blade,candy,middle part black,cyber vampire,saiba hoodie,gunmetal
 2942,2.3,2365,57.71,https://solanart.io/search/?token=3eoNDoJ7YSRXuBdS4aowrHEfvJoWKKjNEbeoHFgoxvHg,blue neon bars,dregs,none,neon red,short white fade,default,lava,cyan
+2951,0.4,1171,87.46,https://magiceden.io/item-details/Ev6QstAatAoMur8ymHjgYyTcBMxymgjh1AxSXYuu591X,green neon bars,night,coil swords,black and yellow,middle part black and white,default,punk,scars
 2953,1.5,2896,60.93,https://magiceden.io/item-details/DfYqBvWPiaSR1rwPpqxCqm1uX5zakbxnet1kAJNWPciG,red neon bars,dregs,none,goggles,black bob,default,tech jacket,gunmetal
 2955,0.6,3438,65.05,https://solanart.io/search/?token=4G2SbmMMK85hUTPX9UvUveqzZPEShuxJuUzhkVP9wbgh,studs,dregs,none,black,black long,cyber vampire,robo arms,implants
 2957,1,2270,71.56,https://solanart.io/search/?token=259VX2FJqhxP8HnmmDFnViBA8BX6QD25LczbQQbckeeF,green neon bars,portside,none,neon blue green,middle part black and white,fearmonger mask,rider,cyan
@@ -640,7 +642,7 @@ id,price,moonRank,💎 score (%),storeURL,accessories,division,extra,eyes,hair,m
 3464,25,32,0,https://solanart.io/search/?token=4pnYTYCwMqEkiFzb2VN3ttiM939hPNmrDmWwbFwZyoe7,blue neon bars,portside,charge swords,neon blue,short purple and black,zomie mask,inquisitor,green tattoos
 3465,2.5,3763,43.12,https://solanart.io/search/?token=B3WnMraiMGb5a4XGpB8hxZgb5ThRYKLExRiuek3ZRN6n,kunai,dregs,none,neon green,middle part black,side grin,punk,default
 3466,9.95,690,0,https://solanart.io/search/?token=4s4LbxjUKkVMpqFDtRnQHesWrDtJfxptftGZdvmAUjMN,red neon bars,industrial,none,neon blue,blue top knot,assassin mask,saiba t shirt,striker
-3470,0.75,676,88.41,https://magiceden.io/item-details/GzZ6Npu49aEudxo28EdqXJQsS1EhbkgUtHKT8TazidJ9,ball earings,dregs,black katana,black,mohawk,lollipop,paladin,primal
+3470,0.55,676,90.41,https://magiceden.io/item-details/GzZ6Npu49aEudxo28EdqXJQsS1EhbkgUtHKT8TazidJ9,ball earings,dregs,black katana,black,mohawk,lollipop,paladin,primal
 3472,0.8,2837,68.46,https://solanart.io/search/?token=7tLis15KF47QH2AEZR7uH1KM3sJsRUti7gCrohxQRfcZ,blue neon bars,night,neon katana,black,red slicked back,oni mask,saiba t shirt,cyan
 3473,1.5,1118,76.93,https://solanart.io/search/?token=8gqbRCmiakQZaRwS4ALmWD3vPUuanEs1E7mPrLDgFps3,kunai,industrial,coil swords,neon red,mohawk,default,inquisitor,scars
 3474,0.95,2449,70.45,https://solanart.io/search/?token=8FYHrkGCS932uQSdZJngCCHkztXZ4BypMkkucbY9hRrq,blue neon bars,industrial,none,night vision,red slicked back,side grin,rider,cyan
@@ -672,7 +674,6 @@ id,price,moonRank,💎 score (%),storeURL,accessories,division,extra,eyes,hair,m
 3587,1,3246,62.78,https://magiceden.io/item-details/E5cAdgRqybCbc2q5GXUL8AcZiWcNbpFSkD5ne5X2skTj,blue neon bars,night,black katana,neon red,short white fade,default,robo arms,gunmetal
 3597,45,178,0,https://solanart.io/search/?token=B6JiB4ayeABFVMbg9uY1JfvsLTM4qiRHkzeqKfviWEs1,green neon bars,industrial,none,night vision,blue top knot,cyber fangs,assassin,toxic
 3600,15,3572,0,https://solanart.io/search/?token=4MPsMuLkqdjf15monWDq8i9Do1CSZhWVPyZUJ6Aqk69G,none,portside,none,neon red,black long,side grin,bruiser,crimson
-3615,0.85,505,88.95,https://magiceden.io/item-details/5aaCdRzsRpVvQye5TsVMDgigc4taHVdf7za7SKccV6UR,studs,night,double black katana,emerald green,middle part black and white,side grin,inquisitor,implants
 3616,2.5,2532,54.2,https://solanart.io/search/?token=Fgf84Ahbc3V7yvWDnfkq1vtBEEp9JZtnxdqzriQBMMKP,red neon bars,night,neon katana,black,short blue,cyber vampire,adventure,cyan
 3621,3,3147,43.67,https://solanart.io/search/?token=BDg1hi1fh6ntRRgKpdnBXMqYtLDV9WeSgGrp5eJFrnWJ,studs,night,black katana,black and yellow,short blue,default,punk,default
 3630,0.99,4067,55.49,https://solanart.io/search/?token=HrdADeZbwHwG9U1jQVCcKZxrQUXKfpwSjjnpnaoBo18f,blue neon bars,dregs,none,sapphire blue,short purple and black,default,rider,default
@@ -824,7 +825,6 @@ id,price,moonRank,💎 score (%),storeURL,accessories,division,extra,eyes,hair,m
 4131,1,3456,60.89,https://solanart.io/search/?token=D1MKJ1yzjFJHUG8RbdzMA9dw8iqQEEQ6djjH12Eyj4NM,none,industrial,black katana,black,white slicked back,lollipop,saiba t shirt,booster
 4133,20,4208,0,https://solanart.io/search/?token=A1jKsYRcvab3aPi3RyArypFBnSXTb1Jxo1MBeNMivGPJ,none,industrial,none,neon blue,spikey red,oni mask,punk,default
 4134,0.9999,2824,66.58,https://solanart.io/search/?token=6M6gZchmsWK3Qn4kgkpcZ4N3cR8qbMYUU8LaBEoNC9yM,blue neon bars,dregs,none,black,spikey red,fearmonger mask,adventure,implants
-4137,0.85,599,88.11,https://magiceden.io/item-details/EZwSkiSJ8E6V9L5CeH3MXdkGnMZK1mtw9eK7ojMsKwfp,kunai,night,none,night vision,short red and black,shuriken mask,punk,green tattoos
 4139,5,3657,19.08,https://magiceden.io/item-details/FUcZppGBdUymVF6r122JWWGTZ9VTruqUZKgF3EzF841f,none,dregs,none,sapphire blue,blue top knot,smoking,saiba t shirt,implants
 4142,140,477,0,https://solanart.io/search/?token=7DejFZcCVPQifVxCE6PJWK4e9CWbeiYNcLgVgvF8a3x8,none,industrial,double neon katanas,neon green,short red and black,radioactive mask,bruiser,purple tattoos
 4144,0.7,3458,63.87,https://solanart.io/search/?token=DDPYpDjtaFH5rBJ1N8skebs5vKURmVGobbTGt7L6RK7h,none,portside,none,sapphire blue,short white,side grin,robo arms,cyan
