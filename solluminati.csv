@@ -98,6 +98,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Costume,Eyes,Fact
 922,2.2,1185,75.55,https://magiceden.io/item-details/EfWSdBDkSK6jvjfvKcdFGhJ1VSrdpEnPfaz5vucNAf7S,None,New York,Admiral,Green,House of Degen,Ice,E Crucifix,Normal,Human Dark Skin
 940,1.915,976,80.68,https://magiceden.io/item-details/4xQfyUYjj6Vofcx1SmNEMvD8nmteHZRHPnQJnzw24MtL,Normal Glasses,London,Red Cloak,Demon,House of Degen,Vertical,Robot Eye Golden,Normal,Reptilianus
 951,2.7,3592,44.23,https://magiceden.io/item-details/HwjtGGsxEuFkuz6Tgj3xZQrxZawK97MUg23DUbrEMyeT,None,Red Brush,Black Cloak,Devil,House of Degen,Robot,Gold Skull,Normal,White Alien
+952,2,59,89.86,https://magiceden.io/item-details/49PGrDKZ98FYfG2X4TpMDPmoUwGzJJFa5AyKxPggLFXL,Small Roundglasses,Blue,Napoleon,Demon,Golden Circle,Demon,Owl,Normal,Reptilian Dino
 956,5,1324,46.03,https://magiceden.io/item-details/E5xfuNc7V6Wf5aHyGgqCL7Yd42DYvPcNE3tEY9j1gSqT,Classic Sunglasses,Marrakech,Hoodie,Green,Golden Circle,Robot,Bible,Neutral,Human-Tan-Skin
 967,2.5,2817,54.7,https://magiceden.io/item-details/2DbmQ2WfvRQfrsEUAofm2KkhKeuuWAZsKecYRchQELej,Normal Glasses,Grey,Solana Hoodie,Brown,Golden Circle,Red,Radar,Normal,Human Dark Skin
 996,2.5,2289,60.48,https://magiceden.io/item-details/5h4xAdjeUFVAtJ9n2y3u8TpimiDdCG6YLkLYhgDmnKVd,None,Red Dark,Academic,Demon,House of Degen,Robot,Compass,Normal,Reptilian Dino
@@ -212,7 +213,6 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Costume,Eyes,Fact
 2072,3,2850,49.34,https://magiceden.io/item-details/AJd6iZn9TFtLCHfzSVzMtRQ3p7S2wqs9eXjezuNj8GYV,None,Pyramid,Brown Mage,Devil,House of Degen,Robot,Owl,Wide Smile,Reptilianus
 2087,2.14,2458,62.23,https://magiceden.io/item-details/GHfmKJCLrCWRhfR91ow9irDGUPA33kRG7ici2WVjPyWN,None,Red Dark,Admiral,Devil,House of Degen,Black,Black Skull,Normal,Reptilian Alien
 2090,2.14,1431,73.46,https://magiceden.io/item-details/6eFqBCfQuzqUnrBNahrDMBo5pjwc5J7f9z56Qd9HXHUu,Normal Glasses,Blue,Brown Mage,Blue,Golden Circle,Robot,Pimpcane,Neutral,Human-Tan-Skin
-2102,1.9,2552,63.6,https://magiceden.io/item-details/9ycx3wV6wLMdxjWRBtFSeuuX7avzCWqQhF25acamRUF,Normal Glasses,Pyramid,Reaper,Green,Golden Circle,Robot Grey,Navigator,Neutral,Human Light Skin
 2103,2.99,965,70.05,https://magiceden.io/item-details/E1rZ9o5w3XAc3F8aM8v1dJJuGHnBhQgxaz3gacZDNsbJ,None,London,Black Cloak,Grey Cyborg,Golden Circle,Vertical,Pyramid,Smile,Human-Tan-Skin
 2128,1.9,3434,53.96,https://magiceden.io/item-details/7zM9MjTVPY4UDcXfRaj753hAexUDEFDPGwaXd2dCtAza,None,Blue Brush,Reaper,Devil,Skull & Bones,Black,Grey Skull,Neutral,Human Light Skin
 2132,2.39,1407,71.22,https://magiceden.io/item-details/CtipnMcsy9RREQJ8r3VatmaezhZwk1HfKezx5CnWymPC,Normal Glasses,Dark Green,Napoleon,Green,Golden Circle,Fatima,Radar,Neutral,Human Light Skin
@@ -312,7 +312,6 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Costume,Eyes,Fact
 3123,2.7,3419,46.12,https://magiceden.io/item-details/AWGWJHv8vo5oiNf3tRcAj63U8gP3Y9WHDcqAqdiKBeK6,None,Red Dark,Red Cloak,Devil,House of Degen,Robot Grey,Compass,Normal,Reptilian Dino
 3124,5,39,60.07,https://magiceden.io/item-details/ExEvzP28Z1GQiPsaDiW5JwhAxKTwF5zAH2MQrM8XkGpp,Rebel Bandana,London,Brown Mage,White Alien,Golden Circle,Fatima,Grey Skull,Sad,White Alien
 3148,2.9,2424,55,https://magiceden.io/item-details/54rimq9jHTFp8TJHmi2rXXruQnKYesmEWt1snUWnBHgs,None,New York,Hoodie,Earth,Skull & Bones,Sauron,Radar,Normal,Human Dark Skin
-3149,3,3260,44.86,https://magiceden.io/item-details/DvbqAsXhttL16DMC5oCExTKsw64mccJG8dMcdvGmTf2P,None,District Spaceship,Black Cloak,Brown,Skull & Bones,Fatima,Robot Eye Golden,Normal,Human Dark Skin
 3155,1.55,1135,82.59,https://magiceden.io/item-details/Ekht64Zdnwa82iMHFrUzUZLXo8RjGeaDKAgenjRLNEY2,None,Pyramid,Hoodie,Demon,Golden Circle,Robot Red,Black Skull,Sad,Reptilian Alien
 3157,4,1558,53.47,https://magiceden.io/item-details/4FTcKRCqwDCCKfykrhZmDzxHsApVPXMHGmVdeUiV4VkE,Normal Glasses,Dubai,Academic,Green,Skull & Bones,Ra,Navigator,Neutral,Human-Tan-Skin
 3159,1.5,2883,63.98,https://magiceden.io/item-details/7PTtwnbErLA8DBM6c2MB8DPqVDqnbLJ6fJf1TayEtfQs,None,Blue Brush,Priest,Devil,House of Degen,Red,Gold Skull,Normal,Reptilian Alien
