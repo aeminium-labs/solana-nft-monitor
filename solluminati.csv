@@ -96,6 +96,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Costume,Eyes,Fact
 1097,1.75,1338,79.9,https://magiceden.io/item-details/6gupoDZFKtAP17uFrNwUj5zx6VYAmKmHM1ZgmBsMsw2t,Classic Sunglasses,Beige,Black Cloak,Devil,Skull & Bones,Gender,None,Sad,Reptilian Alien
 1104,1.29,3666,59.1,https://magiceden.io/item-details/TXKkXVvF6Y9CFPXWLadZSEhZ5TFUFxz3dAp1qJerasf,None,Red Brush,Brown Mage,Devil,House of Degen,Robot Grey,Navigator,Normal,Human Dark Skin
 1113,2.5,3374,50.19,https://magiceden.io/item-details/GwhGhNyiHcVtH7pQdJoHdoZ4GYnjDFXXCeswE7d53JeR,None,Grey,Black Cloak,Green,Skull & Bones,Gender,Gold Skull,Neutral,Human Light Skin
+1115,1.25,2411,73.19,https://magiceden.io/item-details/2tazq47rEpiWBENeKihEM7rFziV9LLoKYmStcmiMarvE,None,Red Brush,Brown Mage,Devil,Skull & Bones,Black,Robot,Slightly Smile,Reptilian Alien
 1167,21,441,0,https://magiceden.io/item-details/5f9kRfcmXWxM1DBWF3dpo4DEaQBCSowGtfZ5DfTpn31k,None,Green,Suit,Fire,House of Degen,Ice,Gold Skull,Toothpick,Human Light Skin
 1172,2.97,416,77.76,https://magiceden.io/item-details/BMz9odQnWUR8JxhZrZN2JhEZAFH3STCTUsRxCz1hSvuN,None,Grey,Army,Reptilianus,Skull & Bones,Robot,Radar,Wide Smile,Reptilianus
 1176,3.5,130,75.58,https://magiceden.io/item-details/6rN7UP7T3AeLVABKyJVUyQE5NKeL7zPk1SWnf5Bawink,Carnival Mask,Pyramid,Hoodie,Heavy Makeup,Golden Circle,Red,Robot,Neutral,Human Light Skin
@@ -134,7 +135,6 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Costume,Eyes,Fact
 1401,3.5,374,72.92,https://magiceden.io/item-details/5M6GmXaMACitYzKu4zvbBgbij64yW2qcJgvHi656HbJN,Rebel Bandana,Pyramid,Black Cloak,Fire,Golden Circle,Sauron,Black Skull,Slightly Smile,Human Dark Skin
 1413,2.4,1567,70.9,https://magiceden.io/item-details/GirL8cw8QYkfTp83mrMSZnYErGqMVW76cbrqPaSN9AFt,None,Rio Favela,King2,Blind,Skull & Bones,Ra,Navigator,Neutral,Human-Tan-Skin
 1414,7.25,16,39.33,https://magiceden.io/item-details/9HnVMTNLkrGzxsaWuHHsHhR9fdBaRkfED87Sp7Kgq4gv,Black Rebel Bandana,Blue Brush,Black Cloak,Ice,Skull & Bones,Green,Robot Eye Golden,Slightly Smile,Blue Alien
-1416,10,412,7.5,https://magiceden.io/item-details/Gd8DjzsEr1ok6vJH6sd7kWPSzWarQW9Vvh7sJ1sL44Ly,Small Roundglasses,Blue Brush,Pimp,Brown,Golden Circle,Red,Compass,Slightly Smile,Human Light Skin
 1462,4,672,64.67,https://magiceden.io/item-details/4um2LNVqzmnHEeqJVMP2Ur4X7a5HwxxNjigiLmwFEsk7,None,Pyramid,Pirate,Devil,Skull & Bones,Golden,Owl,Sad,White Alien
 1469,2.2,535,84.16,https://magiceden.io/item-details/8zE5TqXJb5EnFphhonPAgs9hiKE18Hp1R1YG6qWSd4Z5,None,Rio Favela,Pimp,Devil,House of Degen,Red,Owl,Wide Smile,Blue Alien
 1475,33,37,0,https://magiceden.io/item-details/cujzN9uWTJWgprNXUc4vB8Sc7EqL3zfZgi8jBH8P1Nh,Skull Bandana,Grey,Pirate,Air,Golden Circle,Black,Grey Skull,Wide Smile,Human Light Skin
@@ -246,7 +246,6 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Costume,Eyes,Fact
 2654,2.4,3511,49.69,https://magiceden.io/item-details/Evb3m2FqypVaVY1Yw2UhEcCC2Pqsvs7eCykWZ39nHg4G,None,Beige,Brown Mage,Blue,Skull & Bones,Red,Owl,Normal,Human Dark Skin
 2655,8,1114,19.85,https://magiceden.io/item-details/3eugHZAH7NpVYDTLTWm9KSLGiQFqfsMCow5Fmgq1eGmz,None,Red Brush,Pimp,Sharingan,Golden Circle,Robot,Grey Skull,Normal,Reptilian Dino
 2670,5,2809,31.35,https://magiceden.io/item-details/C5YDTzpFkKx4dSwbaDy3rBph6zetUDX7MCQwLT2JzyvA,Classic Sunglasses,Red Brush,Black Cloak,Devil,House of Degen,Sauron,Grey Skull,Normal,Reptilianus
-2672,2.5,1280,73.03,https://magiceden.io/item-details/c55kMV6rPdgFB4XZvfHGp9jcncfhEkDwycBusoNi6AJ,Classic Sunglasses,Taj Mahal,Astronaut,Demon,House of Degen,Robot,Radar,Normal,Reptilianus
 2674,72,879,0,https://magiceden.io/item-details/JDZARZEnBpnbtCGSMWiZbxCj5fZm5wtmV6iARyxrcGgy,Classic Sunglasses,London,Solana Hoodie,Ice,House of Degen,Black,Pyramid,Normal,Reptilian Alien
 2676,6.969,11,42.19,https://magiceden.io/item-details/8mAfPnjbW1NS2XyPqivq5gr6dDngJnYq1qeY3YbTFu2a,Oni Mask,Dark Green,Tribal White,Brown,House of Degen,Fatima,Grey Skull,Smile,Human-Tan-Skin
 2679,1.89,3607,53.74,https://magiceden.io/item-details/5WKYDexUZoDAueUkZcky2oRoxH1zHUAxNxihtZVWnEkN,None,Taj Mahal,Brown Mage,Green,Skull & Bones,Robot,Radar,Neutral,Human-Tan-Skin
@@ -301,6 +300,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Costume,Eyes,Fact
 3306,2.49,2097,64.22,https://magiceden.io/item-details/2joGDdGCVv1zXS9gvLBf931xHcoBGtQvxKTR3Kh65tps,Normal Glasses,Dark Green,Pirate,Devil,Golden Circle,Earthquake,Compass,Normal,Human Dark Skin
 3316,2,3007,59.19,https://magiceden.io/item-details/7JKiawEcm1F6iuA6FvSvvYEGSdLcyPpqhKyiMhkNrF7u,None,Blue,Black Cloak,Crystal,Skull & Bones,Robot,Navigator,Normal,Reptilian Dino
 3323,2.1,2523,63.47,https://magiceden.io/item-details/94gHLcM7yq6ewasVaUDz9jnwJx9p8bjLxhdstWrKPdpP,None,Red Dark,Hoodie,Demon,House of Degen,Earthquake,Navigator,Slightly Smile,Human Light Skin
+3340,1.5,664,89.76,https://magiceden.io/item-details/95NtbC17YhiuhzBzigUjoPbV4VKMHmxqKMahsKYxX562,Pirate Patch,Pyramid,Suit,Blind,Golden Circle,Red,Owl,Neutral,Human Light Skin
 3348,1.6,2988,63.4,https://magiceden.io/item-details/B51c3c8jN95wt6xfqcd1m6pBexorYDnKYCi4bt64hLZT,None,Blue,Black Cloak,Green,Golden Circle,Sauron,None,Neutral,Human Light Skin
 3368,1.99,2532,64.47,https://magiceden.io/item-details/3TNuUEPPcYmbKVLLQekKfrqesU5xaNYRc8AVYuwjCYBU,None,Red Brush,King1,Devil,Golden Circle,Red,Navigator,Sad,Reptilianus
 3398,2.5,266,84.1,https://magiceden.io/item-details/2NuvGviRTfeYQGMNC8Ngv4NXmt9eKotMtikJE3w79WvS,Black Rebel Bandana,Blue Brush,Solana Hoodie,Yellow,Golden Circle,Robot Grey,Radar,Sad,White Alien
@@ -324,7 +324,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Costume,Eyes,Fact
 3606,1.99,3599,52.83,https://magiceden.io/item-details/3rMpFdZy7P9WUc4NcsceTW7vY2U42641KK238bmV1h8G,None,Red Brush,Hoodie,Devil,House of Degen,Robot,Grey Skull,Normal,Reptilian Dino
 3657,7.5,591,30.55,https://magiceden.io/item-details/8nt6tRxd1fJnW4ouq2rjifASUNtXX3Sm784stWQVntAA,Classic Sunglasses,Grey,Academic,Sith,House of Degen,Gender,Crucifix,Normal,Human Dark Skin
 3659,1.89,1357,78.29,https://magiceden.io/item-details/BABxZUFaGq7hTDqBvVUeU8gTYWMKoKgoYJjK7b4k6EEr,None,Marrakech,Hoodie,Air,House of Degen,Robot Grey,Pimpcane,Normal,Human Dark Skin
-3684,1.5,NaN,0,https://magiceden.io/item-details/BdVWRaM9jyvm6gL7ed8VpvoJar1shW31A3SRUntXSQSG,,,,,,,,,
+3684,1.26,NaN,0,https://magiceden.io/item-details/BdVWRaM9jyvm6gL7ed8VpvoJar1shW31A3SRUntXSQSG,,,,,,,,,
 3692,1.2,NaN,0,https://magiceden.io/item-details/EsJcxvCv6KMShtmgeNbLUXHGpe7PSAqZ6PZSza72SK3g,,,,,,,,,
 3700,1.3,NaN,0,https://magiceden.io/item-details/7CjskLRuyEXKP9QdDMhYAcWpcb4EzTzEtrJ4z7bdFNrh,,,,,,,,,
 3709,1.34,NaN,0,https://magiceden.io/item-details/BKvpS4EXFsLUbDGhzSWaqTGrezBQ6qEP7pzvDU2zKQsC,,,,,,,,,
@@ -350,16 +350,17 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Costume,Eyes,Fact
 4014,4.2,NaN,0,https://magiceden.io/item-details/E3bAp8rRUqJ3jP55s2ZYMfmrySrATG56H43ofCZ1K6Pw,,,,,,,,,
 4016,50,NaN,0,https://magiceden.io/item-details/BVFdqoZBwvPFJyhEsX1DWgn7ZNnjLqn2eHRTkjKp7Gf3,,,,,,,,,
 4021,2.22,NaN,0,https://magiceden.io/item-details/4smEZ3Jmjzx6LbK8BEpeTnHGPEF38xju23x5zqW2EWcU,,,,,,,,,
+4056,7.5,NaN,0,https://magiceden.io/item-details/5hpvCrChqpy5AXnYQBW4P4zmbUJVxz9SZgKDioyB6M4u,,,,,,,,,
 4058,3.5,NaN,0,https://magiceden.io/item-details/A9E6Uh6xqdnVzsoE94thaS8hoZQktXASZFTajnugqMVS,,,,,,,,,
 4073,1.84,NaN,0,https://magiceden.io/item-details/HPkN9sHuJeZEzUquv97ePzeBjT3E8pFGDVko84orw28a,,,,,,,,,
 4090,1.6,NaN,0,https://magiceden.io/item-details/G3pFVz5m8V4TRX5WTpMwbahZNtUAdKRYEbsNnV5F5oV3,,,,,,,,,
 4108,2.22,NaN,0,https://magiceden.io/item-details/A38A6tn4EkJ33wcL6LKCLHbZcG8nVKs2cxzJNDfSZEZN,,,,,,,,,
 4121,1.5,NaN,0,https://magiceden.io/item-details/EXgLUkVQ2GrCdknBgN4JwqVkgzLhXue3vfrNULrYT65Q,,,,,,,,,
 4151,1.24,NaN,0,https://magiceden.io/item-details/HMaBEjBFJ4LQhg9frXf3kyHhx4F7i5Dyr5CjNhrWxAVy,,,,,,,,,
+4181,1.22,NaN,0,https://magiceden.io/item-details/81MrEBBdEjDSFgjgSnYoyp5JY7mxrZJz3VRv8rv5fCdu,,,,,,,,,
 4183,1.6,NaN,0,https://magiceden.io/item-details/3rTSX5mXQ6Cv3MdBUyFXnmid6vw6UoDhio5hkRFi8NSR,,,,,,,,,
 4210,1.62,NaN,0,https://magiceden.io/item-details/2CN2NDNoCbuAXoZLvojDLZdsiBHiaGgSSWXg8go1yW9j,,,,,,,,,
 4221,2,NaN,0,https://magiceden.io/item-details/591Z2fzUzw3Pn39ybPgkCzoYoPVts1dyLsB34KdXJffQ,,,,,,,,,
 4224,2.4069,NaN,0,https://magiceden.io/item-details/HHtgryd99kpjykurz4tPhJuBxwUNG2zjekJqSfwRbvwx,,,,,,,,,
-4247,10,NaN,0,https://magiceden.io/item-details/Ck1hHShVQ3phGbiwYBNyewnvdKEzV9PFvWb8YEoevjvE,,,,,,,,,
-4251,1.25,NaN,0,https://magiceden.io/item-details/7agMSRb4MYHjoC7G1sVN8MCJ4KHC63ow8aXnxryJ4QoQ,,,,,,,,,
+4247,6.66,NaN,0,https://magiceden.io/item-details/Ck1hHShVQ3phGbiwYBNyewnvdKEzV9PFvWb8YEoevjvE,,,,,,,,,
 4284,1.4,NaN,0,https://magiceden.io/item-details/CggsdusdfKnrDPmYZT4HVHFy49aJFefxBwEjfQW3Suex,,,,,,,,,
