@@ -4,6 +4,17 @@ import {
   writeCSV,
 } from "https://deno.land/x/flat@0.0.13/mod.ts";
 
+export type CollectionItem = {
+  moonrank: string;
+  // deno-lint-ignore camelcase
+  magic_eden: string | null;
+  solanart: string | null;
+  // deno-lint-ignore camelcase
+  alpha_art: string | null;
+  // deno-lint-ignore camelcase
+  exchange_art: string | null;
+};
+
 export type BaseData = {
   id: string;
   price: number;
