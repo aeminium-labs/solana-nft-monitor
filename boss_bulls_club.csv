@@ -43,6 +43,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothing,Eyes,Head,Hol
 790,3.5,9809,25.74,https://solanart.io/search/?token=GYpgEA9oRhKfvhzxv7wJuYkzyQ4Mgj94knVihP4LAvpv,Blue,Marble,None,None,Normal Horns,None,None
 791,8,3535,5.85,https://magiceden.io/item-details/8SBn5YNfeGJEgtm6RAjaSMU63PGufqnR2rNCZg25ZjpK,Gray,Bronze,None,None,Zombie Ax,None,Cigarette
 795,7,4522,11.9,https://magiceden.io/item-details/536KSoJWkZznp5gSKssZXv1hLxf9qA7iXtDBzM1Dttiy,Yellow,Blonde Viking Tattoos,None,None,Normal Damaged Horn,Lightsaber Red,None
+802,9,3624,0,https://magiceden.io/item-details/ECYnghF85rbuDCFgv7pLpGfwwGbxysJTX5i6Trr3Piab,Gray,Bullminator Exposed,Shirt Black,None,Party Hat,None,None
 812,10,5806,0,https://solanart.io/search/?token=AVaJQf5RYdhMRnxm1HFf5X9AcAdAWNttF8XKTJbfiqVT,Gray,White,None,None,Marble Horns,None,Silver Combination V1
 817,5,6906,22.36,https://magiceden.io/item-details/FvZU12FwJxmkbt7WexTx72YyjDSgfzSkDrM2S5Mwj5Dm,Green Blue,Red Viking Tattoos,None,None,Two Tone Horns,None,Nose Ring Hex
 833,5,3700,35.19,https://magiceden.io/item-details/7SYuLb95SfAQY6uzPS35anMBCEfc4S1B77b2VMP1BWuj,Green Blue,Red Scars,Oriental Tunic Red,None,Normal Horns,None,Silver Combination V2
@@ -110,7 +111,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothing,Eyes,Head,Hol
 1220,8.8,4352,0,https://magiceden.io/item-details/Hr3BHLemY94pTMeEzL9wDQuU1N9Vu48TU5A732ui9Ag7,Green,Blonde Zombie,None,Bullminator Sunglasses,Basketball,None,None
 1221,15,1103,0,https://solanart.io/search/?token=4odFhnsz9he2bSzPUGfRsqbMwLboSYGXzTrMuwH5Fvt3,Red,Blonde Tattoos,Oriental Tunic Black,The One Sunglasses,Normal Horns,Stop Sign,None
 1224,25,4304,0,https://magiceden.io/item-details/7cnHWa26Xu7W7L8e6Ma2AcuYjtWB5U22XAC4zRBCkAyu,Light Blue,Red Scars,Police Uniform,None,Yellow Cap,None,None
-1231,3.999,1525,53.91,https://magiceden.io/item-details/GLtf5vzWrsGi4pjUbR7ZQbdh2SBDUmBpyWFVxZRgXCmb,Green Blue,Blonde Tattoos,Bikini Blue,Aviator,Viking Helmet,None,None
 1241,4,1520,53.92,https://magiceden.io/item-details/AgcAiv1rQUxvMYoLAccr8BREX66dEDDkJgEeKQ6KdVnv,Silver,White Viking Tattoos,None,Reading Glasses Black,Gray Benie,None,Gangster Toothpick
 1255,5,8078,17.67,https://magiceden.io/item-details/HGwAhgja8YRLXGhgLRw2LwQNi1XTPa39qLe5kQ661TF3,Purple,Blonde Zombie,None,Round Sunglasses,Normal Horns,None,None
 1261,4.9,5294,29.81,https://magiceden.io/item-details/6erdZDk5u13L2ZmWFZbqC4cYZvSp441MEav2VHZh8mv5,Red,Red Scars,None,Commander Monocle,Combat Horns,None,None
@@ -505,7 +505,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothing,Eyes,Head,Hol
 3363,6.5,2070,26.72,https://magiceden.io/item-details/39kSES6PHJ83aB68Twb3gSjCrVuFTdtKqW1P3x9uEwt6,Bronze,Red,None,Sunglasses,Gray Benie,Sword,None
 3379,4.5,4592,36.62,https://magiceden.io/item-details/GreAhggd5Kb58upi6VbWFnaEUhxE5t5WfFXaHURmqQ9s,Blue,Black Zombie,None,None,Two Tone Damaged Horn,None,Silver Combination V1
 3379,4,4592,41.62,https://solanart.io/search/?token=GreAhggd5Kb58upi6VbWFnaEUhxE5t5WfFXaHURmqQ9s,Blue,Black Zombie,None,None,Two Tone Damaged Horn,None,Silver Combination V1
-3382,4,8860,24.54,https://magiceden.io/item-details/GTmPWeBkXtwKBZH1vcyUBC5yHCTyP83YyqPfbv1PF5mT,Red,White Viking Tattoos,None,Aviator,Normal Horns,None,None
+3382,3.5,8860,29.54,https://magiceden.io/item-details/GTmPWeBkXtwKBZH1vcyUBC5yHCTyP83YyqPfbv1PF5mT,Red,White Viking Tattoos,None,Aviator,Normal Horns,None,None
 3392,8,873,16.51,https://solanart.io/search/?token=GiP3mcoEVMGbDP1Fdr1jFNQkw6vmvUg7FfxHDeNeA32i,Red,White Zombie,None,Protective Glasses Orange,Wizard Hat,Katana,None
 3397,100,582,0,https://magiceden.io/item-details/U8vfwGHsZ3rcYNyMAJvQZ952rJzFqX6eUZSBN48xiCh,Blue,Blonde Scars,Mecha Black Armor,None,Normal Horns,Katana,Nose Ring Horseshoe
 3422,1.84,5331,60.27,https://magiceden.io/item-details/H6dzyv4dBQj3mbVEvPHqt9FvAcPWkt1k6FtZKUErUb8B,Gray,White,None,None,Checkered Beret,Broom,None
@@ -568,13 +568,12 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothing,Eyes,Head,Hol
 3719,6.25,2930,25.77,https://magiceden.io/item-details/EcAcpzRHsMsadjrCk3hzjqEtgqWR6qzCrtPpbKBwEzj6,Green Blue,White,Clown Clothing,None,Two Tone Horns,Bullminator Shotgun,None
 3732,50,2781,0,https://magiceden.io/item-details/9h59qAm251vp4nW6z4TrZsbSWAX6gG1H8W6mrZbDgbUK,Light Green,Marble,Swat Uniform,None,Normal Horns,None,Gangster Toothpick
 3736,3.4,9808,26.75,https://magiceden.io/item-details/8CZsYiQZS2ffvLsD5uhWqzKhXYpHxAtqc3KVFb6FnWHH,Green,Bullminator,None,None,Normal Horns,None,None
-3742,12.99,202,0,https://magiceden.io/item-details/5yXuyDFQmfVnZCWQ1vk1q1TFWbBUx2nPfVJVQcJd8Be3,Gray,Black Scars,None,Commander Monocle,Combat Horns,Wizard Staff,Three Gold Earrings
+3742,10.5,202,0,https://magiceden.io/item-details/5yXuyDFQmfVnZCWQ1vk1q1TFWbBUx2nPfVJVQcJd8Be3,Gray,Black Scars,None,Commander Monocle,Combat Horns,Wizard Staff,Three Gold Earrings
 3745,5.5,1438,39.25,https://magiceden.io/item-details/3MypauAzpRSchRZPKKTU8kd44AyFLChS44YhJeTWm2H4,Bronze,Blonde,Clown Clothing,Pirate Eyepatch,Zombie Ax,None,None
 3747,40,44,0,https://magiceden.io/item-details/9acb34VLBZwRxuao6FTupJsQBVr8JKHFKZjFEfxH9nfC,Light Green,Bullminator,Gangster Clothing,Commander Monocle,Gray Cap,Sword,Two Silver Earrings
 3749,3.2,5101,47.59,https://magiceden.io/item-details/FMF4v7gv5gSCMYzQkVF3b9478K6TDoy3hiZA9BytKSQH,Bull of War,Black Zombie,None,None,Normal Horns,Stop Sign,None
 3754,7.99,7099,0,https://magiceden.io/item-details/3HkpcGRfG3m5sPS49SrkMdFg2PTeSGPCB8rELyWuo7jp,Orange,Taurus Light,None,None,Zombie Ax,None,None
 3756,3.9,7629,30.47,https://magiceden.io/item-details/HEYAvRubKBkK8p1Jx9s4uZ2X1Qkg2HQay6wPnezQD3RL,Green Blue,Bull of War,None,None,Old Beret,None,None
-3757,7,690,27.24,https://magiceden.io/item-details/5v73iVsCm35W5fekXz4VA9gStpGTNQsjEvZgLhucNXkW,Bull of War,Blonde,Bikini Blue,Commander Monocle,Cowboy Hat,None,None
 3763,2,9397,42.39,https://magiceden.io/item-details/EpgcYf5ogGpRVYDP6pQ7SSLPEmCEwX7T6n7VZHZaohka,Purple,Black,None,None,Gray Benie,None,None
 3774,9.9,3120,0,https://magiceden.io/item-details/5WMzCbZfUz7uSVPBekpoZR5p5hJYsZjnNZd3qR3EXP1c,Yellow,Blonde,TShirt Pink,Sunglasses,Chicago Cap,None,None
 3776,5,9481,12.06,https://magiceden.io/item-details/3tp5wQAzWEgqsP2NfsiFddavqaGFQm38nzrVWvKSXZrp,Bull of War,Red,None,None,Two Tone Horns,None,None
@@ -667,6 +666,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothing,Eyes,Head,Hol
 4234,3.6,7334,34.65,https://magiceden.io/item-details/FoQmggLQUNhxViXSwogvcFq8hQAXZkgGXPHdRdPtQm7C,Purple,Blonde Viking Tattoos,None,Over 9000 Visor,Normal Horns,None,None
 4239,4.9,7078,22.67,https://magiceden.io/item-details/4xtYQr2iC6nGuigQ4r7gVzy9ZuUBs8zP1ceo55ENH7uR,Light Blue,Mecha Black,None,None,Worker Helmet,None,None
 4240,200,2327,0,https://solanart.io/search/?token=13bPjaY21z5x5fbT57t75S49hcT7imrkVH1L2wFreJPo,Light Blue,Bulk,None,None,King Crown,None,Two Silver Earrings
+4247,1.89,4836,61.75,https://magiceden.io/item-details/8zNrhBCuJcwrrytsG5wq9rGuWvvTuYaCne5id61t7J5r,Light Blue,Red Tattoos,TShirt Pink,None,Yellow Cap,None,None
 4255,3.9,9696,22.2,https://magiceden.io/item-details/TjYoW9GYTcjgBnozvJXYZNCKnNAf1BCpQVNaTgX2G3Y,Yellow,Red Zombie,None,None,Normal Horns,None,None
 4261,4,4526,41.89,https://magiceden.io/item-details/HPLyvciDLvLQVhAcHm6UYySKUvK6xmdvq1XkvBhXzmwt,Green Blue,Red Tattoos,None,None,Bulk Horns,Lumberjack Axe,None
 4263,45,7863,0,https://magiceden.io/item-details/3fQUZFrjrstwJeU5q752suWrQ5nFS8jF8d38YbtQMMjc,Blue,Orange,Jedi Robe,None,Normal Horns,None,None
@@ -848,7 +848,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothing,Eyes,Head,Hol
 5130,2.87,5190,50.53,https://magiceden.io/item-details/2AZMu2ceJuJNiy45RRG5ct2PDsxKQR57WYm5JCmFRz21,Purple,Orange Viking Tattoos,TShirt Pink,None,Bulk Horns,None,None
 5130,9.372159,5190,0,https://solanart.io/search/?token=2AZMu2ceJuJNiy45RRG5ct2PDsxKQR57WYm5JCmFRz21,Purple,Orange Viking Tattoos,TShirt Pink,None,Bulk Horns,None,None
 5133,10,6764,0,https://magiceden.io/item-details/HNXc8rQfYTwav41aEVkxNvMc47tiXvPrX69Q43mWAWNg,Gray,Red Scars,Bullminator Jacket,None,Two Tone Horns,None,None
-5137,2.3,3572,62.7,https://magiceden.io/item-details/J9RZSsZWBc9M1TPYFR4uGjjsXjJTr6grJWD6S7WpJSsh,Yellow,Bulk,TShirt Black,None,Zombie Ax,None,None
+5137,2.2,3572,63.7,https://magiceden.io/item-details/J9RZSsZWBc9M1TPYFR4uGjjsXjJTr6grJWD6S7WpJSsh,Yellow,Bulk,TShirt Black,None,Zombie Ax,None,None
 5140,3.2,1364,62.54,https://magiceden.io/item-details/9RFCFtA7ocfVBBatY1h2xbJTLvepRt5Pkjy1JsnG5ocR,Purple,Marble,TShirt White,None,Basketball,Stop Sign,None
 5150,2.5,3380,61.47,https://magiceden.io/item-details/Hga85pAWyqDboj6FKCcxjCrk5WooaFaUr8zb4qtLAHCz,Blue,Black Tattoos,None,None,Normal Horns,Stop Sign,Gold Earring
 5152,5,3240,37.03,https://magiceden.io/item-details/4mfWRsZ1SjHCMFgcFn5CHvRyFw4M1SwjLomA7nHDtLLA,Green Blue,Orange Zombie,Gangster Clothing,Protective Glasses Orange,Normal Horns,None,None
@@ -1035,7 +1035,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothing,Eyes,Head,Hol
 6088,21,1107,0,https://magiceden.io/item-details/2erUBGHL56iieMm8ssuvbwWpnXaUccKfY7pxBH91V9Ja,Yellow,Red Viking Tattoos,Solana TShirt White,Commander Monocle,Normal Horns,None,Cowboy Straw
 6096,200,4537,0,https://magiceden.io/item-details/AXEUaXQ5n46R9YNh8sCzgjG7DbdycVyvj4Z11hCbnpAm,Light Green,Black Tattoos,Commander Uniform,Aviator,Normal Horns,None,None
 6097,5,7055,21.77,https://magiceden.io/item-details/C5qqq4Zx5Y4cqqD9vgkamjprhehmaaDGtkHzzb1oZ84q,Red,Red Scars,Worker Apron,None,Two Tone Horns,None,None
-6099,2,6351,54.58,https://magiceden.io/item-details/4nMWFRDnMhutbDPLzFKAAeESz2QupwgqwmV4t3u2CEbw,Yellow,Bullminator,None,Round Sunglasses,Cowboy Hat,None,None
+6099,1.85,6351,56.08,https://magiceden.io/item-details/4nMWFRDnMhutbDPLzFKAAeESz2QupwgqwmV4t3u2CEbw,Yellow,Bullminator,None,Round Sunglasses,Cowboy Hat,None,None
 6102,6,2706,29.17,https://magiceden.io/item-details/MqcTJMf2eTsbfeTwmMKwJbJL4duWdPSAzJofPBaGTYP,Green,Orange,Clown Clothing,Reading Glasses White,Commander Horns,None,None
 6104,1.99897,5008,59.97,https://magiceden.io/item-details/71sEsXb6aB1Zdaitnk7nnD4rGDJGmdQJAaPddzAAmJek,Orange,Blonde Viking Tattoos,None,Round Sunglasses,Normal Horns,None,Soldier Microphone
 6106,3.2,3706,53.17,https://magiceden.io/item-details/54fc4sjysVofK8ECMVwfWwDGFRrQV5mGFV1yDxwP3kZp,Gray,Orange Viking Tattoos,TShirt Red,Viper Color,Normal Horns,None,None
@@ -1084,9 +1084,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothing,Eyes,Head,Hol
 6311,5.8,3800,26.79,https://magiceden.io/item-details/AK3qJGvWBQqgCQdxzZWrxMvxT1abSbz926uBuuZ21jut,Light Red,White Scars,None,None,Party Hat,None,Three Gold Earrings
 6313,5,6486,24.04,https://magiceden.io/item-details/3RHgkHWebKwzvukCuoVFYAouTya2nrP1v4fGYkfG5EmT,Light Blue,Marble,None,None,Normal Horns,Swat Rifle,None
 6316,2.94,7776,39.48,https://magiceden.io/item-details/EFYxNDQX1f9YfjJN6iKNNMA4iP7EcmTahrrcgwMAsVTN,Light Red,Red Viking Tattoos,None,None,Bulladdin Hair,None,None
-6325,5.49,2064,36.84,https://magiceden.io/item-details/HqGyQVVkounzoxTfJ62DAVqQo1pyGhd6gYqbWrn1LXqZ,Yellow,Red Viking Tattoos,None,The One Sunglasses,Marble Horns,None,Nose Ring Silver
 6339,23,2456,0,https://solanart.io/search/?token=8Tje4M21pQ4bf1jR5nHRUy2GC4vcZqjDQ5xsAAbeBd4c,Orange,Orange Viking Tattoos,Basketball Jersey,Pirate Eyepatch,Cowboy Hat,None,None
-6345,3.99,1710,53.26,https://magiceden.io/item-details/BJGQ5Ss4sPS5ViKdCRnceqc2jnmyn489bh4ayoKZJAMa,Light Green,Red Scars,Commander Uniform,None,Two Tone Damaged Horn,None,Nose Ring Horseshoe
 6362,3,8606,35.56,https://magiceden.io/item-details/3d784Kd6Gfyy2BweCMH7vs8GA9n6kTDznnE6ddxDTuTE,Orange,Black Tattoos,None,None,Bronze Horns,None,None
 6372,3.98,4233,43.26,https://magiceden.io/item-details/EzZbQN6oEYwtStgmgSzuqn2Xi1hLxUUZKJccDdZrZV6P,Red,Bullminator,Polo Dark Blue,None,Pirate Hat,None,None
 6382,10,2491,0,https://solanart.io/search/?token=E4NJ982HfKKFQK8qeFCuaLdHGJzkqYxNXJBe4Wsk2xNE,Light Red,Silver,Cowboy Clothing,None,Normal Horns,None,Three Gold Earrings
@@ -1130,6 +1128,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothing,Eyes,Head,Hol
 6587,3.5,9767,25.91,https://solanart.io/search/?token=2REdF817zJ3MUzKf66SX2j9sc96Pgf8rjzrVEM11o5yG,Orange,Blonde Scars,None,None,Two Tone Horns,None,None
 6592,3,2368,60.52,https://magiceden.io/item-details/D2RZNXr3KhZzFoN2sNutGphaAisWgAm6nTYXzmM6YfQa,Gray,Black,None,The One Sunglasses,Red Cap,Katana,None
 6594,3.3,3438,53.24,https://magiceden.io/item-details/APjLZJFgzGKQtDF6tsHriVHKgAFoPpPWwWx6a5whigV2,Light Blue,Black Tattoos,None,None,Old Beret,Bullminator Shotgun,None
+6598,2.5,5959,51.15,https://magiceden.io/item-details/2QsznipsKzXZ1WVGrmcVKR3quM7w33mBoFyV42stzbQ8,Orange,Blonde,None,None,Gray Cap,None,Nose Ring Silver
 6599,150,1694,0,https://magiceden.io/item-details/CXh2Tvg1UUo8qVUtoQq6hZrbkJDh1nWMAzbq8JWYUASz,Blue,Blonde,Bullminator Jacket,None,Basketball,Guitar,None
 6605,12.5,4832,0,https://magiceden.io/item-details/AvWTzXxz5H1VDYWh1wMPcrdkr3eryt9dJKxroJpY6uEU,Orange,Orange Tattoos,None,Protective Glasses Orange,Sherlock Hat,None,None
 6611,14.64,925,0,https://magiceden.io/item-details/9supbwXzjuWxoUsnT4NKpD4AY7fwejW2SQyUD9678Zgr,Orange,Mecha Blue,The One Tunic,None,Orange Benie,Sword,None
@@ -1302,7 +1301,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothing,Eyes,Head,Hol
 7529,6.5,7977,3.08,https://magiceden.io/item-details/6kVMSHGYsVtLVPd9FBATtgqZDrN7adYQA56nRf1W7pY,Orange,Marble,None,None,Graduation Cap,None,None
 7532,3.69,3650,48.49,https://magiceden.io/item-details/EudRUmiSSPLSyAC2kapNcFdbpZeNTuZQs9E42AneiTt5,Green,White Zombie,None,None,Party Hat,Broom,None
 7544,3.5,6412,39.34,https://magiceden.io/item-details/GSLEHj3EL52L48PY4X1qMkKftiXybuXncqeFFzFVzeao,Yellow,Black,Basketball Jersey,None,Green Benie,None,None
-7545,2.5,5129,54.47,https://magiceden.io/item-details/85UMCBphKFadRLuhKogppKA7FhxQkUxdiCpDzUxBCQpc,Green,Red Viking Tattoos,Lumberjack Shirt,None,Basketball,None,None
 7551,5,4685,31.25,https://magiceden.io/item-details/FXcgSyNHek9zeRGVo9SoXGd2JbtpjnBG1tU3LYhkAqBB,Green Blue,Clown,Gangster Clothing,Sunglasses,Normal Horns,None,None
 7569,2.5,5901,51.38,https://magiceden.io/item-details/4LrT7JekzXsCFN82yPXMMNNigNe7JKxPkm9ESjseerqe,Purple,Red,Viking Clothing,None,Two Tone Damaged Horn,None,None
 7574,1.835,8512,47.58,https://magiceden.io/item-details/GPJZHCcKSJo6kv3XXPt3jF3kYfhC8CPT7CA5fR5Vv5gm,Gray,Red Scars,None,None,Bulladdin Hair,None,None
@@ -1357,7 +1355,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothing,Eyes,Head,Hol
 7867,30,6991,0,https://magiceden.io/item-details/Bper92gG7idD7sgg1QZN7fQBYni7ecyZp6GS4HecCfA3,Light Blue,Blonde Zombie,None,None,Bulk Horns,None,None
 7868,100,5390,0,https://magiceden.io/item-details/DTyTzW1nBf84Nkj2ogu54MYpnuL7NMtdQHwxGN8gDfg3,Green,Red,King Garment,None,Clown Hat,None,None
 7870,2.99,5520,48.01,https://magiceden.io/item-details/4HncRt1B2N4UWXZGjqMRiPuM5Rvu6pcpfELsgkj3Ahna,Gold,White Zombie,None,None,Normal Horns,Sword,None
-7876,3.5,3766,49.93,https://magiceden.io/item-details/EtWoviRkgVTZuzCv66R3qSLY4GneNqAqhsYYGn7xPupQ,Yellow,Black Scars,None,None,Green Benie,Bull of War Blades,None
 7885,17,376,0,https://magiceden.io/item-details/4wrCYaipXmtHyC1NtBJs2pJQxmKw9nN6vdKPQ4gmnKLb,Light Green,Mecha Bronze,Jedi Robe,None,Combat Horns,None,Gold Combination V1
 7887,50,66,0,https://magiceden.io/item-details/76cJSYcoDPu7FAMfXBrjaAo6qFgSi6VTjF33S7pzRn9k,Yellow,Bronze,Safety Vest,Round Sunglasses,Red Cap,Katana,Sherlock Pipe
 7888,69.42,1339,0,https://magiceden.io/item-details/FesxrpiK75TLcvPTgAhdNrco6PVJkB6PkswhgQBbDAE1,Red,Red,Shirt Black,None,Beret,Bullminator Shotgun,None
@@ -1458,6 +1455,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothing,Eyes,Head,Hol
 8417,4,5596,37.6,https://magiceden.io/item-details/6uzTnw5uypBnC2aESSgorQMfJAQk6T4FGE2bd9HonbWo,Blue,Blonde Tattoos,Commander Uniform,None,Blue Cap,None,None
 8417,5,5596,27.6,https://solanart.io/search/?token=6uzTnw5uypBnC2aESSgorQMfJAQk6T4FGE2bd9HonbWo,Blue,Blonde Tattoos,Commander Uniform,None,Blue Cap,None,None
 8419,3,9307,32.75,https://magiceden.io/item-details/3UFEtJSADWW8TBSU1uScqPrbSRsZGnBgmL3yT1XLnrJi,Gray,Red Scars,None,None,Two Tone Damaged Horn,None,None
+8421,4.9,606,48.57,https://magiceden.io/item-details/CvaUyZxPweYtVHs1Mz23GbQH3NsrTkFHtdgemqxsH1Qk,Silver,Marble,None,Commander Monocle,Mecha Horns,None,Clown Nose
 8429,10,4525,0,https://magiceden.io/item-details/2CXiiWjYy5DdBJdGHjcPCDmmq6Ty4MnmbQtK7dquZFsr,Orange,White Zombie,None,None,Police Hat,None,Gangster Toothpick
 8435,15.8,999,0,https://magiceden.io/item-details/4NPcZsfmcBBCiPT3r8uHpWwQnd71HhqGBb4N2VbyfS4t,Yellow,Red Zombie,None,Aviator,King Crown,None,Nose Ring Gold
 8443,30,506,0,https://magiceden.io/item-details/DR96Ep36zd3DYrJrn133CqUK6K72XZPPLtVi8cLjk555,Green,Black,Basketball Jersey,Bullminator Sunglasses,Viking Helmet,None,Silver Combination V6
@@ -1523,6 +1521,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothing,Eyes,Head,Hol
 8735,4.5,1426,49.29,https://magiceden.io/item-details/621BV1fg9MVpeJg8HMg82wa8Qne9JM6JZmtexVmDJdbq,Gray,Blonde Tattoos,Cowboy Clothing,Round Sunglasses,Normal Horns,Viking Shield,None
 8735,10,1426,0,https://solanart.io/search/?token=621BV1fg9MVpeJg8HMg82wa8Qne9JM6JZmtexVmDJdbq,Gray,Blonde Tattoos,Cowboy Clothing,Round Sunglasses,Normal Horns,Viking Shield,None
 8747,5.5,1064,40.74,https://magiceden.io/item-details/7z8p3qvcerQDvZWP23h7Lrhnvx5wvSVN89eSCWrKfKFm,Yellow,White,Polo Sand,Bullminator Sunglasses,Normal Horns,Viking Shield,None
+8749,4.5,2036,46.85,https://magiceden.io/item-details/5JPvDnu3HsQXSm7xTJg88cZfFTyXCaYByTUF1p893fSt,Gold,Marble,None,None,Normal Horns,Guitar,Two Silver Earrings
 8762,4,6446,34.2,https://magiceden.io/item-details/6wyu7hPdnRjY8vUB2mzD6wEeFy5wBXj6Dxgj6pAgKJak,Green,White,Basketball Jersey,None,Yellow Cap,None,None
 8768,3.33,5440,44.93,https://magiceden.io/item-details/AfXmMre9ADtSWXVxUtntBQfdgXBnuMyXnnzon6isx86L,Red,Blonde,Gladiator Armor,None,Soldier Helmet,None,None
 8774,3.5,3799,49.8,https://magiceden.io/item-details/31VJ8pZT3c8DmVQ37xF3m91YtPyDTjbGETfF33fxa79V,Red,Orange Zombie,TShirt Pink,Reading Glasses White,Normal Horns,None,None
