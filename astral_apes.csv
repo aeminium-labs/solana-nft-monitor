@@ -1,6 +1,5 @@
 id,price,moonRank,💎 score (%),storeURL,acc_A,acc_B,background,cap_A,cap_B,cap_C,eyewear_A,eyewear_B,eyewear_C,helmet_A,helmet_a,helmet_B,helmet_C,helmet_D,helmet_E,helmet_F,mouth_A,mouth_B,mouth_C,mouth_D,skin_A,skin_B,skin_C,skin_D,teeth_B,teeth_C,top_A,top_B,top_C,top_D
 2,10,2140,0,https://magiceden.io/item-details/6qFdzL5Jfs6gZeFmrPTZFHSsLb9NGDtKxwYbvGAPNjot,,,peach,,,,,,,,,,,Ice_hockey,,,,,,,,,purple_C,,,C_white_gold,black,,,
-51,5,3312,29.57,https://magiceden.io/item-details/6rKpzuzB8CEjvwqzm8bQ8h8SK5wx1RrA9WLEJSEiuzoX,none,,banana,,,,none,,,,,stickerbomb,,,,,none,,,,Broccoli_A,,,,,,yellow,,,
 59,3,990,77.49,https://magiceden.io/item-details/6A8vZHHvP1LQqBa3YwSsR22gShezLoCeCSDQmzuUQT1G,,,sky,,fast_food,,none,,,,,banana,,,,,none,,,,purple_A,,,,,,,fast_food,,
 61,2.5,2926,59.21,https://magiceden.io/item-details/AHvLfARyZDjN9tPm3di9PQrA17V3Pq3rE3oQFtYscgPf,,,pink,none,,,none,,,,,bubble,,,,,,,,,,,burgundy_C,,,C_white,black,,,
 63,2.22,2670,65.09,https://magiceden.io/item-details/BH5yEMNKKKLsGnBMtvTdh9Xnqx54ZCfuQAS4C7brzVJF,none,,candy,,,,none,,,viking,,,,,,,pipe,,,,red_A,,,,,,green,,,
@@ -28,6 +27,7 @@ id,price,moonRank,💎 score (%),storeURL,acc_A,acc_B,background,cap_A,cap_B,cap
 169,2,3193,61,https://alpha.art/t/9JG8sDwYFMNL98EoHJ3qtmtejzZge65Jvkm9B3YaHJ36,silver_ear_ring,,rose,,,,none,,,,,banana,,,,,none,,,,green_A,,,,,,orange,,,
 175,20,26,0,https://magiceden.io/item-details/8pj6WydaZZPZjKeCuJ1S3215LFt13fs4BLiutfUP6F3E,,,peach,,,,,,none,,,icecream,,,,,,pizza,,,,,,zombie_blue,B_solana,,,,zombie_blue,
 182,2.5,2040,69.87,https://magiceden.io/item-details/EkVG6TKRdjrSQ9LGv7XyHyfwXzosqY2pq6isXZAtmu24,gold_ear_ring,,purple,,,,none,,,police,,,,,,,pipe,,,,coffee_A,,,,,,black,,,
+184,3.5,2002,60.32,https://magiceden.io/item-details/4c2Zyj2qkeAmcH6rFoeodV3WrfoJQG5Eqr4xy8XGbD7k,silver_ear_ring,,lime,,,,none,,,chef,,,,,,,pipe,,,,pink_blue_A,,,,,,white,,,
 199,45,1722,0,https://magiceden.io/item-details/7KvkM8AfMgoKtzChrMxrNj5VTvxpvrhJGGAfcqsU9zng,,,cerulean,none,,,ess_glasses,,,,,stickerbomb,,,,,Bubble,,,,burgundy_A,,,,,,neon_purple,,,
 214,5,1460,51.84,https://magiceden.io/item-details/ATzzaczAdS832PY4iPsNogbdDupQfrA7PSifYSpvZsnu,silver_ear_ring,,blue,,,,none,,,,,bubble,,,,,,sushi,,,,coffee_B,,,B_solana,,orange,,,
 216,3.5,529,78.04,https://magiceden.io/item-details/B61L61XtLCyazKszU1oQEkeG3G5r9MorfiTdbu6XR7DJ,none,,sky,,,,,,none,,,bubble,,,,,,sandwich,,,,coffee_B,,,B_white_Chrome,,purple,,,
@@ -380,7 +380,7 @@ id,price,moonRank,💎 score (%),storeURL,acc_A,acc_B,background,cap_A,cap_B,cap
 2452,2.5,1683,74.16,https://magiceden.io/item-details/8uS1EYqUxkKMvPZWhFjd7C5f8EfndVshutq1ANgM21u8,gold_ear_ring,,sky,,,,gogle,,,,,bubble,,,,,,,,,,,purple_yellow_C,,,C_combination,purple,,,
 2462,2.5,2043,69.83,https://magiceden.io/item-details/BV5Up4a3gf5qWwXN5wyCYiJzk8ragS3UjbxBhmXosFa8,none,,grey,,,,none,,,fire_man,,,,,,,,,,,,,purple_red_C,,,C_gold,neon_purple,,,
 2465,5,1293,53.85,https://magiceden.io/item-details/5AXgcZnHcy7CLUM3AiQSLeFch7X7f2fGCDsKomFzwVap,gold_ear_ring,,purple,,,,pixel,,,fire_man,,,,,,,Bubble,,,,purple_yellow_A,,,,,,black,,,
-2468,8.5,37,33.96,https://magiceden.io/item-details/4N7N1wmnu4amaGYzFm9cr9MKgMcqd41LbSzsqxtkqvBj,,,sky,,fast_food,,sun_glasses,,,,,,,,,broken,,,,air_ape,,purple_red_B,,,B_Chrome,,,fast_food,,
+2468,8,37,38.96,https://magiceden.io/item-details/4N7N1wmnu4amaGYzFm9cr9MKgMcqd41LbSzsqxtkqvBj,,,sky,,fast_food,,sun_glasses,,,,,,,,,broken,,,,air_ape,,purple_red_B,,,B_Chrome,,,fast_food,,
 2470,3.7,346,78.24,https://magiceden.io/item-details/7qtFJuEQwxRBWrq213bvgx6s5tumMHQ5dhfTrM3RmSQZ,none,,violet,,,,,,none,,,,,,,broken,,lollipop,,,,black_B,,,B_white_Chrome,,green,,,
 2473,16,377,0,https://magiceden.io/item-details/AQKmqDEAWuPVdxBSVWGQ8m7EycY4DVagur7Cna1YSNCK,none,,banana,,,,,none,,,,,,,,broken,,,cocoa_milk,,blue_A,,,,,,neon_purple,,,
 2486,5.5,1803,42.72,https://magiceden.io/item-details/57DFFVpM5EaiwrhyVLbKng6XNrB967R6cYKpH6Vxiufj,silver_ear_ring,,ginger,,,,none,,,viking,,,,,,,weed,,,,multicolor_A,,,,,,black,,,
