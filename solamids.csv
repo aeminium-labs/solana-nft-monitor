@@ -158,6 +158,7 @@ id,price,moonRank,💎 score (%),storeURL
 03-R031-S,4.5,2017,42.91,https://alpha.art/t/nsFE5B3ivj34N5di7okcSsmnHnKjsu3AUt1tXT4ZPLb
 04-L166-S,0.5,4862,59.5,https://magiceden.io/item-details/nCv5kykV5E18Yd9JYASvMWxRLut2jY58WpZ9YcMvhp9
 04-R027-S,0.6,2815,75.34,https://magiceden.io/item-details/FZwzZxZWG45DudpERs6NjKR9L7h89VJcghYppF8xne8x
+04-L174-S,0.65,3858,66.26,https://magiceden.io/item-details/J3KSeooVRGZs9ggmGo45PHqhgSLXwtEtTPeFJLcBMUV8
 04-L100-S,0.65,1433,86.21,https://magiceden.io/item-details/F6ZA87mj7fXBKPjiJPKCGraTPKAri5hVbyL5yYEVMUZ
 04-R058-M,0.68,3102,72.18,https://magiceden.io/item-details/GFDL3J9rM41qUXBJZjgRSwsNpH9g7FdZeYJ4GGecREXW
 04-L068-S,0.78,1940,80.74,https://magiceden.io/item-details/4y4EhV27kgTrtftB4NxDvJGvtnrpWc1LZuTcNuqzDh4Y
@@ -225,13 +226,13 @@ id,price,moonRank,💎 score (%),storeURL
 05-R011-S,2.5,4202,44.93,https://alpha.art/t/DpA8XZfynZHyFxnPcbsg4tRxhXuxYB9UCM4R2QBnCRsK
 06-L010-S,0.49,4559,62.09,https://magiceden.io/item-details/73MDoP8scpuWQ1Fjt7s8wuuf82sBgPuc8jabtBWexhS5
 06-L061-S,0.68,3052,72.59,https://magiceden.io/item-details/GxwzRPYjyTmuX6WGmqrB6DZ6UJXJo9VS8hKHR2ULjwcR
+06-R101-M,0.75,3455,68.58,https://magiceden.io/item-details/FfRqqsRNiWmykYwwApZYxgoBrF8g7YmhTMXD4GGdLGjb
 06-L157-S,0.78,1833,81.62,https://magiceden.io/item-details/12xQFjpfLZ1gk72hZTDsiauXkezkuZSbkVy819VcGPqG
 06-L039-S,0.79,1581,83.59,https://magiceden.io/item-details/DKXRYsYbVPUyEKLRDryBtyrrKE9NmzQPst5ipwF3wqWU
 06-R084-M,0.85,4211,61.36,https://magiceden.io/item-details/upVr64xzYVCi4eiqrWZoS3gYU4qH54YGVu4wZnBwJN4
 06-L133-S,0.88,3481,67.06,https://magiceden.io/item-details/GwJQizjjMSwzQAJWbTafQuZjh1rEXE75erCXJ8kKmKYT
 06-R068-M,0.89,2542,74.69,https://magiceden.io/item-details/7KeatDThzM2drXJp6PTT99b2pP3bUfPjGcT91n9t4vPi
 06-L128-S,1,3879,62.59,https://magiceden.io/item-details/4h9yU1Dj3Gienxeb74ispzkeexxSvv1Q8xtvhowCith7
-06-R101-M,1,3455,66.08,https://magiceden.io/item-details/FfRqqsRNiWmykYwwApZYxgoBrF8g7YmhTMXD4GGdLGjb
 06-R138-L,1,2057,77.58,https://magiceden.io/item-details/FgwnMXVupcxWggLTVdnvbPe8nkUxvyaYze9nDDSeqCun
 06-R076-M,1,2645,72.74,https://magiceden.io/item-details/DE1NZXsat9zEvAH48XswS7kp5G4FNHSY2zzPrhk2zbF2
 06-L142-S,1,3275,67.56,https://magiceden.io/item-details/6Zi6d2jh2sDo15kZBzCj2aiqkE4Ciospfx6Ji4gzT1xw
@@ -241,7 +242,6 @@ id,price,moonRank,💎 score (%),storeURL
 06-L083-S,1.5,3507,60.65,https://magiceden.io/item-details/FWTX6pzMU1xp1pNz8Cgz2HCXi4V58J12dQSW4PhLSFLF
 06-R109-S,1.5,3128,63.77,https://magiceden.io/item-details/8pp6P2iAunGHX321sR2x6H62KyC4CJkQ8oewcX3wfzdE
 06-R135-M,2,1083,75.59,https://magiceden.io/item-details/Gt8EYb2NvfcJxz4HDD8ibdf88Zns7TBc17jfnDEj2dLr
-06-R052-S,2.5,4763,40.31,https://magiceden.io/item-details/HFiK85oYbZjuePKu7WeokdU3aNUZmMcusiamKf75HCMh
 06-R095-L,2.8,376,73.41,https://magiceden.io/item-details/CtEGhEggNbvGfhQCGoMHR8hoBYypVuD2w7MbACM1hTDh
 06-R098-M,5,3980,21.76,https://magiceden.io/item-details/5xNYdk4HTDreXe2ZjpKDiiogUedXwkAg7rFQaZbcs7jh
 06-R047-L,5,2859,30.98,https://magiceden.io/item-details/J4iapgG3akmjnFCCm4yCgwz7HKvms1Z5SZpasVdZquBK
@@ -312,9 +312,9 @@ id,price,moonRank,💎 score (%),storeURL
 08-R111-S,4,522,60.21,https://magiceden.io/item-details/EGXjbkbenJcNx6WyfnEg5SJasXgFPpqRQLRS19a71fgR
 08-R077-S,4.7,4169,23.2,https://magiceden.io/item-details/3hTnCvMxnrA3SJgXq9BMRriJr2e46c7r2UNE2Vbbefkc
 08-L001-L,5,95,53.72,https://magiceden.io/item-details/AwZ92Kp723kHdRHCn8rPbFpxS2VD4W6kHK5dzuQpNbG9
+08-R052-S,5.88,43,45.35,https://magiceden.io/item-details/Bcd9tyHyxvi8YJuaokaimKGkZ3dGRMpimpqsHa14KMPN
 08-L009-L,8,733,18.47,https://magiceden.io/item-details/8EgkGCKmsbZF4wJyzRPiyfM1fNCwnPMPm6xLMFFdz1TT
 08-R040-S,8,1109,15.38,https://magiceden.io/item-details/3FzXeAHDSSDzZ2qQ7BUBnkuKbMhzhZtSj2buvs7Qr5xo
-08-R052-S,8.88,43,15.35,https://magiceden.io/item-details/Bcd9tyHyxvi8YJuaokaimKGkZ3dGRMpimpqsHa14KMPN
 08-L017-XL,10,2087,0,https://magiceden.io/item-details/3Hu5cnHRJuUwtkB74yC166DiZHaPCsCAiuKPfjXCkDyg
 08-L139-XL,12,294,0,https://magiceden.io/item-details/AV65gnnuX832BB764WznTydhEmbyrbmAP5zCXSRjGg7P
 08-L127-S,15,4291,0,https://magiceden.io/item-details/3wapX6bX7uUxPtyKpYyKro1CzGWy8XJSUGKyt2GnzfPi
