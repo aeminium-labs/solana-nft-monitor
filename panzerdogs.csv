@@ -10,6 +10,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Body Accessory,Colour,
 43,4.99,96,57.8,https://solanart.io/search/?token=Dd88ZkUNDHdbHd8t9JVE5gtDgsh5hQEp8amxUVZLAhYW,Explosion,Orange Uniform,Red Bandana,Brown Bear,Wolfie,3d Glasses,Green Beret,Tongue Out
 62,4.9,1266,50.23,https://magiceden.io/item-details/38VAVus9fEbh7xpCZuT8aRyVMz3pu3u6SpCRwSJedED9,Cyan,Orange Uniform,Red Bandana,Twilight Beach,Chinchin,None,Helmet,None
 63,2.69,5424,42.22,https://magiceden.io/item-details/EpajprxQcy2LdiWtVeLd8x6an9swhZkhH9u8frTG57pd,Cyan,Yellow Tracksuit,None,Brown Bear,Chinchin,None,None,None
+67,3.5,1150,65.07,https://magiceden.io/item-details/CtTMMei9ymUuuVAsEykbPzXmibkeya6nzdmbEAQzgMAt,Orange,Spiderdog Outfit,None,Brown Bear,Wolfie,None,Cowboy Hat,Stogie
 76,3.5,1103,65.41,https://magiceden.io/item-details/6afhj5ASxYvDaqidnXR7Va9DRvmwXFHdJWxKGz9eYKSS,Blue Action,Blue Uniform,None,Silver,Fluffy,None,Green Beret,Facemask
 90,3.99,3171,45.53,https://magiceden.io/item-details/4YerFurRFyfW8YYooBC3wneYwDDKNGuZG6wwZ2cbhA5K,Blue,Spiderdog Outfit,None,Blush,Crazee,None,Yellow Beret,None
 96,6.9,328,37.02,https://solanart.io/search/?token=AdrhqFDURaX659UG3K1XB9duF4mjoauf3kfxVXcDSwGb,Blue,Green Uniform,Red Bandana,Zombie,Schemer,Monacle,Rose,None
@@ -19,7 +20,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Body Accessory,Colour,
 137,2.2,2309,69.68,https://magiceden.io/item-details/e7taeNjnFdXHKREbdK2b86kU7rSLFsDyBptK7M2arro,Blue,Winter Uniform,Green Bandana,Salt N Pepper,Pugsly,None,Red Punk,None
 141,3,4818,43.51,https://magiceden.io/item-details/GetZWYTaPgphs5r8t3x5rwx7JwTGMUsW9QJwjFt4upFN,Orange,Blue Uniform,None,Twilight Beach,Chinchin,Viper Shades,None,None
 147,8.3,2555,6.9,https://magiceden.io/item-details/Zrk5Gq4KadrchvpDRU1UHxPCCZxe16rYwTikFyuXUtx,Orange,Leather Jacket,None,Ginger,Skully,Eye Patch,None,None
-151,2.5,957,76.47,https://magiceden.io/item-details/659MLug29UVQPXS1M1r8vF6eqYX3HBVGoKrJ4ZP4Vq5g,Yellow,Green Uniform,Red Bandana,Ginger,Sniffy,None,Yellow Beret,Solana Facemask
 190,51,1844,0,https://solanart.io/search/?token=86H5SyaKhFNFdyKfRoXq9GwPG6R2GwoLJV46U4KrgVyu,Orange,Golden Armor,Orange Bandana,Ginger,Fluffy,None,None,None
 193,5,2465,40.55,https://magiceden.io/item-details/CbCsR61yUxEHD6Q5W5t5AJ8NCnjkqZYRmWEfiyU8jovJ,Blue,Superdog Outfit,None,Salt N Pepper,Shibe,VR Headset,None,None
 193,2,2465,70.55,https://solanart.io/search/?token=CbCsR61yUxEHD6Q5W5t5AJ8NCnjkqZYRmWEfiyU8jovJ,Blue,Superdog Outfit,None,Salt N Pepper,Shibe,VR Headset,None,None
@@ -193,7 +193,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Body Accessory,Colour,
 1767,2,4370,56.75,https://magiceden.io/item-details/6ZpXJ4Y6FJ9o8hY1g6QbHJAqGAwACzD1JdKSgUNYYBa1,Cyan,Orange Uniform,Red Bandana,Coco Cream,Groucho,None,None,None
 1768,5,204,56.92,https://magiceden.io/item-details/9iQghmNMqdZKW2fFPqJcqZAEqMJY4iCTD9V3Bxxu8GLo,Cyan,Blue Tracksuit,Green Bandana,Aquarium,Oldboy,Glasses,Yellow Beret,Stogie
 1774,2.5,2807,63.07,https://magiceden.io/item-details/Hh52xmQ3qQVmbnwqAYT1iDnqZmugiC8TeBh74QcRYLaq,Blue,Blue Tracksuit,None,Zombie,Chinchin,VR Headset,None,None
-1782,2,2913,67.3,https://magiceden.io/item-details/5UHpPi1RdBYNqhHNFyZTbtEXwSQJMV47jaLww4KtDLR5,Yellow,Dragonsphere Gi,None,Coco Cream,Fluffy,None,Garrison Cap,None
 1787,1.5,2434,75.77,https://magiceden.io/item-details/2gWe9TqRJoZycsEx5BUyE4tMJAE49nKnumGahLaQEBna,Orange,Orange Uniform,None,Coco Cream,Scar,Monacle,Garrison Cap,None
 1790,1.85,5407,50.74,https://magiceden.io/item-details/BMLjF9avCBGFRBvvsR1onVy6oL3rU5moXoSMW398rZ5w,Yellow,Sneaking Suit,None,Coco Cream,Pugsly,None,None,None
 1792,1.5,2826,72.93,https://solanart.io/search/?token=H3HmV5vfpw2iMWkf44Jzq3HzqxUBBeeRj2pGEpHSj9u2,Blue,Yellow Tracksuit,None,Blush,Oldboy,Eye Patch,Red Beret,None
@@ -258,7 +257,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Body Accessory,Colour,
 2354,2.4,5335,45.76,https://magiceden.io/item-details/BnjygSp6q4GksExi3HLmFMs1X4WQV7CNpyqdRamR5rNu,Orange,Sneaking Suit,None,Chocolate,Oldboy,None,None,None
 2359,3.69696969,1987,57.04,https://magiceden.io/item-details/2366RFv7q2pHorVfVL2399K6dMbsxWiW6bcrU2rAFPUc,Pink,Sneaking Suit,None,Chocolate,Puppo,None,Green Beret,420 Cigarette
 2363,3.6942069,4290,40.39,https://magiceden.io/item-details/GQGuUgGDmwQ74WsH3NLHwyQdecCaUursSj3JZz9QjQnX,Yellow,Green Tracksuit,None,Chocolate,Pugsly,Viper Shades,None,None
-2366,1.99,315,86.22,https://magiceden.io/item-details/BChapN6Uazt6K85EZB5sC8p2wA1joLcNKmB148TUa8eh,Squares,Orange Uniform,None,Coco Cream,Shibe,Viper Shades,Blue Hat,Facemask
+2366,1.85,315,87.62,https://magiceden.io/item-details/BChapN6Uazt6K85EZB5sC8p2wA1joLcNKmB148TUa8eh,Squares,Orange Uniform,None,Coco Cream,Shibe,Viper Shades,Blue Hat,Facemask
 2368,7,759,32.9,https://solanart.io/search/?token=Gi2HmRRpgTiN7uT1gofbeg4mbwV8NA9tq1wSegAkLNB,Orange,Blue Uniform,None,Twilight Beach,Puppo,Aviators,Blue Hat,Solana Facemask
 2369,1.6,1413,82.17,https://solanart.io/search/?token=343zZaTvxi91gvQYkGrcnCxqvd2y1UWi1kHSnko6Xr3G,Orange,Blue Tracksuit,Green Bandana,Coco Cream,Puppo,Glasses,Green Bone Hat,None
 2391,1.169,3020,74.84,https://solanart.io/search/?token=9tmUkEbqR3A1hSDSL1ay4iazdcHS9mSo3sntKojv41Fi,Yellow,Winter Uniform,None,Twilight Beach,Sniffy,None,Blue Hat,Stogie
@@ -345,8 +344,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Body Accessory,Colour,
 3011,2.25,2666,66.59,https://magiceden.io/item-details/DGWRDtEzoQ3d3BqrsnBKeizePYPb7EdvL5x1MP45D5fA,Yellow,Green Uniform,None,Salt N Pepper,Crazee,Eye Patch,Halo,None
 3017,3,4074,48.89,https://magiceden.io/item-details/2BteTbrteTr9wJsAzXfYUUYTmo4BNmaPrDDoiY4ZhBmW,Pink,Green Tracksuit,None,Brown Bear,Chinchin,None,None,Stogie
 3072,1.29,824,89.53,https://solanart.io/search/?token=4jY6uDzAuHEPBjF3ovSS5Lyx3hbrA2KtHdZhJJb2tXKP,Squares,Blue Tracksuit,None,Coco Cream,Shibe,None,Purple Hat,Vape
-3078,1.1,3716,70.49,https://magiceden.io/item-details/Arj4pUP7nqZ5hF42zAx4SVKjqb98TTphLEL6mfYJwXQy,Yellow,Green Uniform,None,Twilight Beach,Schemer,None,Blue Hat,Cigarette
-3079,1.1,5087,60.56,https://magiceden.io/item-details/5qdNpNfoYYRzoENKFz4W3n2389HWdt9TGiSb1BzkCdAP,Pink,Green Uniform,None,Twilight Beach,Cutie,None,Blue Hat,None
 3092,1.3,5484,55.68,https://magiceden.io/item-details/pRvsBz4xYxQvb19tFBV6Sp93dPWhHD5xvEWL6iQsajK,Green,Green Uniform,None,Ginger,Wolfie,None,None,None
 3123,10,1143,0.12,https://solanart.io/search/?token=HJzXX1Ff81tXcrv7cqJ7wvHG227fKSpYWUov8VbrR6Xv,Yellow,Winter Uniform,None,Twilight Beach,Schemer,3d Glasses,Garrison Cap,Stogie
 3129,1.9,5270,51.23,https://magiceden.io/item-details/LJknRC41oSJZ4Xta518czFaiwn93oTqD2dquLZTD1Tv,Cyan,Sneaking Suit,None,Salt N Pepper,Cutie,None,None,None
@@ -364,12 +361,13 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Body Accessory,Colour,
 3311,15,1230,0,https://magiceden.io/item-details/DL9X58ZYFRWeGYFePfiSzoD3afbYpuBhPyTvptoGZpJZ,Blue Speed,Orange Uniform,None,Salt N Pepper,Imposter,None,Cowboy Hat,None
 3332,1.83,5337,51.45,https://magiceden.io/item-details/5qENQhW4ABAaKvKcF55e5C25JtwLa6KyUa1MzXnr2DeB,Orange,Orange Uniform,None,Chocolate,Crazee,None,None,None
 3346,1.6,3221,69.07,https://magiceden.io/item-details/Gmq8DCVVX9ZKPUB3BrvqPJyzJTji5prMxgpz2PJ8WUpe,Orange,Green Uniform,Green Bandana,Ginger,Scar,None,Purple Hat,None
-3370,4.75,638,56.28,https://magiceden.io/item-details/3VXMYaX5tHrBpUaNeM56sTLYEkrmSqXNv9DhVK64diN6,Blue,Superdog Outfit,Blue Bandana,Coco Cream,Shibe,None,Red Beret,Tongue Out
+3370,3.5,638,68.78,https://magiceden.io/item-details/3VXMYaX5tHrBpUaNeM56sTLYEkrmSqXNv9DhVK64diN6,Blue,Superdog Outfit,Blue Bandana,Coco Cream,Shibe,None,Red Beret,Tongue Out
 3372,1.2,5008,60.13,https://magiceden.io/item-details/HmAZeNmZRQLLnRkp8Gs41DLdEF3pUY4M3d44sgXR48Lz,Yellow,Green Uniform,None,Coco Cream,Scar,None,Cowboy Hat,None
 3373,1.68,4174,61.37,https://solanart.io/search/?token=Gv7Lj7PmDdMToKmeuSuHDUzy5Efbb3gJpXaiTMTeTX9c,Pink,Blue Uniform,None,Ginger,Puppo,None,None,Facemask
 3374,4.96,1453,48.28,https://solanart.io/search/?token=FVUxewFkyAt1UMTY44oDo9Nhe9HzXxA2syUUuCy5X3af,Pink,Sneaking Suit,Orange Bandana,Silver,Puppo,3d Glasses,Blue Bone Hat,None
 3379,12.2,92,0,https://magiceden.io/item-details/J6gdtceXCtd9e5ymbQ3M6VW2KdZc6zLkGjjYWfFZxY4f,Cyan,Sneaking Suit,BTC Collar,Coco Cream,Oldboy,Monacle,Garrison Cap,Vape
 3383,0.99,2511,80.31,https://solanart.io/search/?token=4adiaQSa4Kg1Ti41Zg4GjMWQerUjhmZw7NXuVPK46yiQ,Green,Red Tracksuit,Red Bandana,Blush,Puppo,None,Garrison Cap,None
+3404,1.39,976,87.43,https://magiceden.io/item-details/FnVF6AzoCm8jxRRmbiyXURmqaoF2LRJpJhoucjQGtbRv,Green,Blue Uniform,None,Ginger,Shibe,Glasses,Rose,Tongue Out
 3410,3,1995,63.95,https://magiceden.io/item-details/B2SdYtczyXBE84cAdnq58xHU11jo63THDWk1WusZUbu9,Blue,Leather Jacket,None,Ginger,Rage,VR Headset,Blue Hat,None
 3420,3.25,1551,64.67,https://magiceden.io/item-details/417UdssUNiY4TmY8QxWXS8ft7wdWtErkQarRQxpMDvDK,Orange,Blue Uniform,None,Blondie,Scar,Glasses,Yellow Beret,Stogie
 3433,1.17,4232,66.05,https://solanart.io/search/?token=5UpjUJWF9Nq16Kn7ytTpdwkaQByBN1FNksBsLhs5NBSy,Yellow,Winter Uniform,Red Bandana,Blondie,Scar,None,None,None
@@ -425,6 +423,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Body Accessory,Colour,
 3869,4.5,2067,48.43,https://magiceden.io/item-details/Ff3pniqgSfW4GJctcVBxMftzJu4QWrFgYaAbWvzsQhRV,Green,Orange Uniform,None,Aquarium,Crazee,None,None,Respirator
 3873,0.85,3033,77.93,https://solanart.io/search/?token=Afdk4W1fAFLin4cbW1mqwStAYmaFCC8sPKJ25qqLGRte,Orange,Red Tracksuit,None,Coco Cream,Oldboy,Eye Patch,Green Bone Hat,None
 3874,5.97,4590,15.46,https://magiceden.io/item-details/Hi6xYrXh4RaVRrjrbMQwDemsfY55asD7CDmGYKszU3nz,Pink,Leather Jacket,None,Salt N Pepper,Pommy,None,Red Beret,None
+3901,5,1654,46.42,https://magiceden.io/item-details/7xgVtBWYJEcpLrQegXVUrMrGxf9a4Aj51oRxyeM3MJzG,Green,Blue Uniform,Blue Bandana,Golden,Crazee,3d Glasses,None,None
 3912,2.75,1636,69.05,https://magiceden.io/item-details/BFKqyS6pLSS9eGdySUXANhs2haqUyg9Jfsji7ccJV35E,Explosion,Sneaking Suit,None,Twilight Beach,Chinchin,Glasses,Blue Hat,None
 3927,10,2972,0,https://magiceden.io/item-details/6Ppa8AFKXxthgDKNHNBed34zoJ6dPfNg5Q5wnSYoC7oH,Yellow,Superdog Outfit,None,Blondie,Schemer,3d Glasses,None,None
 3933,2.5,5149,46.11,https://magiceden.io/item-details/B5W2n74RGFeDmC3hTHYqpFLu1XGaccT5yiZgCMDAF6de,Blue,Green Uniform,None,Silver,Shibe,None,Green Beret,None
@@ -460,6 +459,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Body Accessory,Colour,
 4177,2,4376,56.71,https://magiceden.io/item-details/BNeq9Q3FU59u6Pkhw4Ro9p4sWBcDNfjCeXzb9NwSq5Eo,Orange,Green Tracksuit,None,Salt N Pepper,Sniffy,Glasses,None,None
 4178,2,1128,80.23,https://solanart.io/search/?token=3yH5EEWVMz66efKCrmSo7vbtsZWdfcYEZeBTuUnDiKAo,Orange,Yellow Tracksuit,Orange Bandana,Salt N Pepper,Groucho,3d Glasses,None,Tongue Out
 4183,1.9,2825,68.94,https://magiceden.io/item-details/tKUeZXBVCH1QeVnFgEoKsYKvAwcHnjgtr8k28uCASrz,Cyan,Blue Tracksuit,None,Twilight Beach,Shibe,None,None,Respirator
+4185,4.200000001,4301,35.25,https://magiceden.io/item-details/4UpHCXSiFTGYjkepUEAp1zV3XmePPgimSAcVoaCLTeUU,Green,Green Uniform,None,Silver,Oldboy,None,Rose,None
 4194,3.69,845,65.38,https://magiceden.io/item-details/FWnnD9b7rWgrQoxgXijUU4kTdxWff6yR61iYDuSotr1J,Yellow Shiny,Blue Uniform,None,Blush,Pommy,None,Cowboy Hat,Cigarette
 4204,1.2,4519,63.67,https://magiceden.io/item-details/JCEs2U97ucERPqd22S6hUmtCwz4bH6FTNW73hgA4qJKu,Orange,Yellow Tracksuit,None,Coco Cream,Wolfie,None,Purple Hat,None
 4219,30,6,0,https://magiceden.io/item-details/HLSJBVfkCyYcQmKiEBGeXjGdLK8NbBk8eoafFvSpLwE6,Pink,Mecha Suit,SOL Collar,Salt N Pepper,Scar,Aviators,Cowboy Hat,Stogie
