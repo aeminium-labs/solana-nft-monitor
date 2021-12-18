@@ -1,7 +1,13 @@
 import { readJSON, removeFile } from "https://deno.land/x/flat@0.0.13/mod.ts";
-import { addScore, cleanCSV, parseData, writeData } from "./utils.ts";
+import {
+  addScore,
+  cleanCSV,
+  CollectionItem,
+  parseData,
+  writeData,
+} from "./utils.ts";
 
-type RawData = {
+type Item = {
   id: number;
   // deno-lint-ignore camelcase
   token_add: string;
@@ -9,18 +15,47 @@ type RawData = {
   name: string;
 };
 
+type RawData = {
+  items: Array<Item>;
+};
+
 const filename = Deno.args[0];
 const collection = filename.split("__")[0];
-const data: Array<RawData> = await readJSON(filename);
+let data: RawData = await readJSON(filename);
 const csvFilename = `${collection}.csv`;
 
 // 1 - Clean old entries
 const csvData = await cleanCSV({ fileName: csvFilename, market: "solanart" });
 
-// 2 - Parse data
-const parsedData = await parseData<RawData>({
+const allTokens = data.items || [];
+const limit = 100;
+let page = 0;
+
+// 2 - Fetch all tokens
+const collections: Array<CollectionItem> = await readJSON(
+  `.github/collections.json`
+);
+
+while (data.items.length > 0) {
+  const collectionId = collections.filter(
+    (c) => c["moonrank"] === collection
+  )[0]["solanart"];
+
+  data = await fetch(
+    `https://qzlsklfacc.medianetwork.cloud/get_nft?collection=${collectionId}&page=${page}&limit=${limit}&order=price-ASC&fits=any&trait=&search=&min=0&max=0&listed=true&ownedby=&attrib_count=&bid=all`
+  ).then((res) => res.json());
+
+  if (data.items) {
+    allTokens.push(...data.items);
+  }
+
+  page += 1;
+}
+
+// 3 - Parse data
+const parsedData = await parseData<Item>({
   collection,
-  data,
+  data: allTokens,
   getID: (item) => item.name,
   getPrice: (item) => item.price,
   getUrl: (item) => `https://solanart.io/search/?token=${item.token_add}`,

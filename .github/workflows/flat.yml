@@ -28,7 +28,7 @@ jobs:
       - name: saibagang - Fetch Solanart data
         uses: githubocto/flat@v3
         with:
-          http_url: https://qzlsklfacc.medianetwork.cloud/nft_for_sale?collection=saibagang
+          http_url: https://qzlsklfacc.medianetwork.cloud/get_nft?collection=saibagang&page=0&limit=100&order=price-ASC&fits=any&trait=&search=&min=0&max=0&listed=true&ownedby=&attrib_count=&bid=all
           downloaded_filename: saibagang__solanart.json
           postprocess: ./postprocess/solanart.ts
 
@@ -42,7 +42,7 @@ jobs:
       - name: towerdao - Fetch Solanart data
         uses: githubocto/flat@v3
         with:
-          http_url: https://qzlsklfacc.medianetwork.cloud/nft_for_sale?collection=thetower
+          http_url: https://qzlsklfacc.medianetwork.cloud/get_nft?collection=thetower&page=0&limit=100&order=price-ASC&fits=any&trait=&search=&min=0&max=0&listed=true&ownedby=&attrib_count=&bid=all
           downloaded_filename: towerdao__solanart.json
           postprocess: ./postprocess/solanart.ts
 
@@ -64,7 +64,7 @@ jobs:
       - name: gloompunkclub - Fetch Solanart data
         uses: githubocto/flat@v3
         with:
-          http_url: https://qzlsklfacc.medianetwork.cloud/nft_for_sale?collection=gloompunk
+          http_url: https://qzlsklfacc.medianetwork.cloud/get_nft?collection=gloompunk&page=0&limit=100&order=price-ASC&fits=any&trait=&search=&min=0&max=0&listed=true&ownedby=&attrib_count=&bid=all
           downloaded_filename: gloompunkclub__solanart.json
           postprocess: ./postprocess/solanart.ts
 
@@ -160,7 +160,7 @@ jobs:
       - name: solsteads - Fetch Solanart data
         uses: githubocto/flat@v3
         with:
-          http_url: https://qzlsklfacc.medianetwork.cloud/nft_for_sale?collection=solsteads
+          http_url: https://qzlsklfacc.medianetwork.cloud/get_nft?collection=solsteads&page=0&limit=100&order=price-ASC&fits=any&trait=&search=&min=0&max=0&listed=true&ownedby=&attrib_count=&bid=all
           downloaded_filename: solsteads__solanart.json
           postprocess: ./postprocess/solanart.ts
 
@@ -182,7 +182,7 @@ jobs:
       - name: meerkatmillionaires - Fetch Solanart data
         uses: githubocto/flat@v3
         with:
-          http_url: https://qzlsklfacc.medianetwork.cloud/nft_for_sale?collection=meerkatmillionairescc
+          http_url: https://qzlsklfacc.medianetwork.cloud/get_nft?collection=meerkatmillionairescc&page=0&limit=100&order=price-ASC&fits=any&trait=&search=&min=0&max=0&listed=true&ownedby=&attrib_count=&bid=all
           downloaded_filename: meerkatmillionaires__solanart.json
           postprocess: ./postprocess/solanart.ts
 
@@ -196,7 +196,7 @@ jobs:
       - name: galacticgeckos - Fetch Solanart data
         uses: githubocto/flat@v3
         with:
-          http_url: https://qzlsklfacc.medianetwork.cloud/nft_for_sale?collection=galacticgeckospacegarage
+          http_url: https://qzlsklfacc.medianetwork.cloud/get_nft?collection=galacticgeckospacegarage&page=0&limit=100&order=price-ASC&fits=any&trait=&search=&min=0&max=0&listed=true&ownedby=&attrib_count=&bid=all
           downloaded_filename: galacticgeckos__solanart.json
           postprocess: ./postprocess/solanart.ts
 
@@ -210,7 +210,7 @@ jobs:
       - name: degenapes - Fetch Solanart data
         uses: githubocto/flat@v3
         with:
-          http_url: https://qzlsklfacc.medianetwork.cloud/nft_for_sale?collection=degenape
+          http_url: https://qzlsklfacc.medianetwork.cloud/get_nft?collection=degenape&page=0&limit=100&order=price-ASC&fits=any&trait=&search=&min=0&max=0&listed=true&ownedby=&attrib_count=&bid=all
           downloaded_filename: degenapes__solanart.json
           postprocess: ./postprocess/solanart.ts
 
@@ -232,7 +232,7 @@ jobs:
       - name: thugbirdz - Fetch Solanart data
         uses: githubocto/flat@v3
         with:
-          http_url: https://qzlsklfacc.medianetwork.cloud/nft_for_sale?collection=thugbirdz
+          http_url: https://qzlsklfacc.medianetwork.cloud/get_nft?collection=thugbirdz&page=0&limit=100&order=price-ASC&fits=any&trait=&search=&min=0&max=0&listed=true&ownedby=&attrib_count=&bid=all
           downloaded_filename: thugbirdz__solanart.json
           postprocess: ./postprocess/solanart.ts
 
@@ -254,7 +254,7 @@ jobs:
       - name: shadowysupercoder - Fetch Solanart data
         uses: githubocto/flat@v3
         with:
-          http_url: https://qzlsklfacc.medianetwork.cloud/nft_for_sale?collection=shadowysupercoder
+          http_url: https://qzlsklfacc.medianetwork.cloud/get_nft?collection=shadowysupercoder&page=0&limit=100&order=price-ASC&fits=any&trait=&search=&min=0&max=0&listed=true&ownedby=&attrib_count=&bid=all
           downloaded_filename: shadowysupercoder__solanart.json
           postprocess: ./postprocess/solanart.ts
 
@@ -276,7 +276,7 @@ jobs:
       - name: aurory - Fetch Solanart data
         uses: githubocto/flat@v3
         with:
-          http_url: https://qzlsklfacc.medianetwork.cloud/nft_for_sale?collection=aurory
+          http_url: https://qzlsklfacc.medianetwork.cloud/get_nft?collection=aurory&page=0&limit=100&order=price-ASC&fits=any&trait=&search=&min=0&max=0&listed=true&ownedby=&attrib_count=&bid=all
           downloaded_filename: aurory__solanart.json
           postprocess: ./postprocess/solanart.ts
 
@@ -298,7 +298,7 @@ jobs:
       - name: grimsyndicate - Fetch Solanart data
         uses: githubocto/flat@v3
         with:
-          http_url: https://qzlsklfacc.medianetwork.cloud/nft_for_sale?collection=grimsyndicate
+          http_url: https://qzlsklfacc.medianetwork.cloud/get_nft?collection=grimsyndicate&page=0&limit=100&order=price-ASC&fits=any&trait=&search=&min=0&max=0&listed=true&ownedby=&attrib_count=&bid=all
           downloaded_filename: grimsyndicate__solanart.json
           postprocess: ./postprocess/solanart.ts
 
@@ -320,7 +320,7 @@ jobs:
       - name: famousfoxfederation - Fetch Solanart data
         uses: githubocto/flat@v3
         with:
-          http_url: https://qzlsklfacc.medianetwork.cloud/nft_for_sale?collection=famousfoxfederation
+          http_url: https://qzlsklfacc.medianetwork.cloud/get_nft?collection=famousfoxfederation&page=0&limit=100&order=price-ASC&fits=any&trait=&search=&min=0&max=0&listed=true&ownedby=&attrib_count=&bid=all
           downloaded_filename: famousfoxfederation__solanart.json
           postprocess: ./postprocess/solanart.ts
 
@@ -342,7 +342,7 @@ jobs:
       - name: nyan_heroes - Fetch Solanart data
         uses: githubocto/flat@v3
         with:
-          http_url: https://qzlsklfacc.medianetwork.cloud/nft_for_sale?collection=nyanheroes
+          http_url: https://qzlsklfacc.medianetwork.cloud/get_nft?collection=nyanheroes&page=0&limit=100&order=price-ASC&fits=any&trait=&search=&min=0&max=0&listed=true&ownedby=&attrib_count=&bid=all
           downloaded_filename: nyan_heroes__solanart.json
           postprocess: ./postprocess/solanart.ts
 
@@ -364,7 +364,7 @@ jobs:
       - name: babolex - Fetch Solanart data
         uses: githubocto/flat@v3
         with:
-          http_url: https://qzlsklfacc.medianetwork.cloud/nft_for_sale?collection=babolex
+          http_url: https://qzlsklfacc.medianetwork.cloud/get_nft?collection=babolex&page=0&limit=100&order=price-ASC&fits=any&trait=&search=&min=0&max=0&listed=true&ownedby=&attrib_count=&bid=all
           downloaded_filename: babolex__solanart.json
           postprocess: ./postprocess/solanart.ts
 
@@ -378,7 +378,7 @@ jobs:
       - name: skeletoncrew - Fetch Solanart data
         uses: githubocto/flat@v3
         with:
-          http_url: https://qzlsklfacc.medianetwork.cloud/nft_for_sale?collection=skeletoncrew
+          http_url: https://qzlsklfacc.medianetwork.cloud/get_nft?collection=skeletoncrew&page=0&limit=100&order=price-ASC&fits=any&trait=&search=&min=0&max=0&listed=true&ownedby=&attrib_count=&bid=all
           downloaded_filename: skeletoncrew__solanart.json
           postprocess: ./postprocess/solanart.ts
 
@@ -415,7 +415,7 @@ jobs:
       - name: junglecats - Fetch Solanart data
         uses: githubocto/flat@v3
         with:
-          http_url: https://qzlsklfacc.medianetwork.cloud/nft_for_sale?collection=junglecats
+          http_url: https://qzlsklfacc.medianetwork.cloud/get_nft?collection=junglecats&page=0&limit=100&order=price-ASC&fits=any&trait=&search=&min=0&max=0&listed=true&ownedby=&attrib_count=&bid=all
           downloaded_filename: junglecats__solanart.json
           postprocess: ./postprocess/solanart.ts
 
@@ -635,7 +635,7 @@ jobs:
       - name: bounty_hunter_space_guild - Fetch Solanart data
         uses: githubocto/flat@v3
         with:
-          http_url: https://qzlsklfacc.medianetwork.cloud/nft_for_sale?collection=bountyhunterspaceguild
+          http_url: https://qzlsklfacc.medianetwork.cloud/get_nft?collection=bountyhunterspaceguild&page=0&limit=100&order=price-ASC&fits=any&trait=&search=&min=0&max=0&listed=true&ownedby=&attrib_count=&bid=all
           downloaded_filename: bounty_hunter_space_guild__solanart.json
           postprocess: ./postprocess/solanart.ts
 
@@ -664,7 +664,7 @@ jobs:
       - name: kam1 - Fetch Solanart data
         uses: githubocto/flat@v3
         with:
-          http_url: https://qzlsklfacc.medianetwork.cloud/nft_for_sale?collection=kam1
+          http_url: https://qzlsklfacc.medianetwork.cloud/get_nft?collection=kam1&page=0&limit=100&order=price-ASC&fits=any&trait=&search=&min=0&max=0&listed=true&ownedby=&attrib_count=&bid=all
           downloaded_filename: kam1__solanart.json
           postprocess: ./postprocess/solanart.ts
 
@@ -686,7 +686,7 @@ jobs:
       - name: goblinlab - Fetch Solanart data
         uses: githubocto/flat@v3
         with:
-          http_url: https://qzlsklfacc.medianetwork.cloud/nft_for_sale?collection=goblinlaboratory
+          http_url: https://qzlsklfacc.medianetwork.cloud/get_nft?collection=goblinlaboratory&page=0&limit=100&order=price-ASC&fits=any&trait=&search=&min=0&max=0&listed=true&ownedby=&attrib_count=&bid=all
           downloaded_filename: goblinlab__solanart.json
           postprocess: ./postprocess/solanart.ts
 
@@ -707,7 +707,7 @@ jobs:
       - name: degen_trash_pandas - Fetch Solanart data
         uses: githubocto/flat@v3
         with:
-          http_url: https://qzlsklfacc.medianetwork.cloud/nft_for_sale?collection=degeneratetrashpandas
+          http_url: https://qzlsklfacc.medianetwork.cloud/get_nft?collection=degeneratetrashpandas&page=0&limit=100&order=price-ASC&fits=any&trait=&search=&min=0&max=0&listed=true&ownedby=&attrib_count=&bid=all
           downloaded_filename: degen_trash_pandas__solanart.json
           postprocess: ./postprocess/solanart.ts
 
@@ -902,7 +902,7 @@ jobs:
       - name: piggysolgang - Fetch Solanart data
         uses: githubocto/flat@v3
         with:
-          http_url: https://qzlsklfacc.medianetwork.cloud/nft_for_sale?collection=piggysolgang
+          http_url: https://qzlsklfacc.medianetwork.cloud/get_nft?collection=piggysolgang&page=0&limit=100&order=price-ASC&fits=any&trait=&search=&min=0&max=0&listed=true&ownedby=&attrib_count=&bid=all
           downloaded_filename: piggysolgang__solanart.json
           postprocess: ./postprocess/solanart.ts
 
@@ -945,7 +945,7 @@ jobs:
       - name: boss_bulls_club - Fetch Solanart data
         uses: githubocto/flat@v3
         with:
-          http_url: https://qzlsklfacc.medianetwork.cloud/nft_for_sale?collection=bossbulls
+          http_url: https://qzlsklfacc.medianetwork.cloud/get_nft?collection=bossbulls&page=0&limit=100&order=price-ASC&fits=any&trait=&search=&min=0&max=0&listed=true&ownedby=&attrib_count=&bid=all
           downloaded_filename: boss_bulls_club__solanart.json
           postprocess: ./postprocess/solanart.ts
 
@@ -1025,7 +1025,7 @@ jobs:
       - name: panzerdogs - Fetch Solanart data
         uses: githubocto/flat@v3
         with:
-          http_url: https://qzlsklfacc.medianetwork.cloud/nft_for_sale?collection=panzerdogs
+          http_url: https://qzlsklfacc.medianetwork.cloud/get_nft?collection=panzerdogs&page=0&limit=100&order=price-ASC&fits=any&trait=&search=&min=0&max=0&listed=true&ownedby=&attrib_count=&bid=all
           downloaded_filename: panzerdogs__solanart.json
           postprocess: ./postprocess/solanart.ts
 
@@ -1056,4 +1056,26 @@ jobs:
           http_url: https://apis.alpha.art/api/v1/collection
           downloaded_filename: boopie__alphaart.json
           axios_config: .github/alpha_axios_configs/boopie.json
+          postprocess: ./postprocess/alphaart.ts
+
+      - name: chainmyth - Fetch Magic Eden data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://api-mainnet.magiceden.io/rpc/getListedNFTsByQuery?q=%7B%22%24match%22%3A%7B%22collectionSymbol%22%3A%22chainmyth%22%7D%2C%22%24sort%22%3A%7B%22takerAmount%22%3A1%2C%22createdAt%22%3A-1%7D%2C%22%24skip%22%3A0%2C%22%24limit%22%3A500%7D
+          downloaded_filename: chainmyth__magiceden.json
+          postprocess: ./postprocess/magiceden.ts
+
+      - name: chainmyth - Fetch Solanart data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://qzlsklfacc.medianetwork.cloud/get_nft?collection=chainmyth&page=0&limit=100&order=price-ASC&fits=any&trait=&search=&min=0&max=0&listed=true&ownedby=&attrib_count=&bid=all
+          downloaded_filename: chainmyth__solanart.json
+          postprocess: ./postprocess/solanart.ts
+
+      - name: chainmyth - Fetch Alpha Art data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://apis.alpha.art/api/v1/collection
+          downloaded_filename: chainmyth__alphaart.json
+          axios_config: .github/alpha_axios_configs/chainmyth.json
           postprocess: ./postprocess/alphaart.ts
