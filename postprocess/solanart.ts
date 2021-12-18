@@ -29,7 +29,7 @@ const csvData = await cleanCSV({ fileName: csvFilename, market: "solanart" });
 
 const allTokens = data.items || [];
 const limit = 100;
-let page = 0;
+let page = 1;
 
 // 2 - Fetch all tokens
 const collections: Array<CollectionItem> = await readJSON(
