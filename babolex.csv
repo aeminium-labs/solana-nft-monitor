@@ -31,6 +31,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Glasses,Head,N
 85,3.5,3952,57.28,https://solanart.io/search/?token=E6ezvVhrSiq1h3kL1iLYP5UqQUxqZSRA3eBM7sJoeJdk,London,Sweat Short Orange,Sad Eyes,Pirate,None,None,None,Chrome Babolex,None,None
 86,100,4213,0,https://solanart.io/search/?token=CCJAGEj3rTB25bAd2U5uxKnxQKRamXzQcMhsBiiyghQT,Green,African Wax,Sad Eyes,None,None,None,None,Chrome Babolex,Gold Tusk,None
 95,20,2285,0,https://solanart.io/search/?token=BnXy3nAyb2PTGeLkybBiD26tD53mRSZpyiXNM3xXM1iQ,Paris,Sweat Short Blue,Sad Eyes,None,Punk Hair,Scarf,None,Chrome Babolex,Gold Tusk,None
+97,13.99,1880,0,https://solanart.io/search/?token=HVegr18hgn4gZ1nvDJMDoTZh4rdk45hUUZH3mq7H7XLC,Purple,Red Panda,Sad Eyes,Aviator Glasses,None,None,None,Chrome Babolex,None,Jade Bracelet
 98,26,2380,0,https://solanart.io/search/?token=7PLt8Ha1FXSfuciQZnMmz81zU4TmaHggDafWbWmU2kew,London,Sweat Short Green Gray,Stone Eyes,None,None,None,Rings,Chrome Babolex,None,Rolex Hulk
 100,20,1454,0,https://solanart.io/search/?token=GPEDgW1NWYSvnfEY8MW4ZkKZskW3CoiDt6tUTjAEPKjo,Space,Blue Green,Alien Eyes,Heart Glasses,Golden Crown,None,None,Chrome Babolex,Gold Tusk,None
 100,25,1454,0,https://solanart.io/search/?token=D1pHAT3jCQLqx5Xci93f3nekF1L7ayUTsJdiTFr17vWz,Space,Blue Green,Alien Eyes,Heart Glasses,Golden Crown,None,None,Chrome Babolex,Gold Tusk,None
@@ -166,7 +167,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Glasses,Head,N
 593,7,3939,22.4,https://solanart.io/search/?token=FvAmUB6ZJj2NoEBfr52pqmprvNybmideXwwcyVMQnHXL,Green,Sweat Short Orange,Angry Eyes,Rayban,None,None,None,Chrome Babolex,None,None
 600,25,2630,0,https://solanart.io/search/?token=9ZBtC8CdBbB4KB2bVWVP4yoJp88jHZmdhxZ2NJt9sGeG,Chinatown,Pyjama,Alien Eyes,None,None,None,Gold Piercing,Zombie Babolex,None,None
 606,5.59,1177,62.16,https://solanart.io/search/?token=FdW8tDBvDpYSHr5SgZbZk5EWgFKrAQKnjurqfGQA9fsB,Green,Purple Suit,Sad Eyes,Monocle,None,Crown Chain,None,Chrome Babolex,Gold Tusk,Rolex Hulk
-608,21.75,430,0,https://magiceden.io/item-details/HznCFFS9vyi3EFJ8FwGryNiCATBxorx2puf6eXM3aWJ6,New York,Sweat Short Triband,Fear Eyes,Disco,Blue Saiyan,None,Smiley Retractor,Chrome Babolex,Gold Tusk,None
 613,10,613,23.3,https://solanart.io/search/?token=jCCQK9YMePxUjsRshD75WxJsJqUemLu1T1qyCcBtXgu,Green,Sweat Short Flames,Base,None,Golden Crown,Solana Chain,Pad,Chrome Babolex,None,Jade Bracelet
 614,100,2636,0,https://solanart.io/search/?token=4uXdkxd8VQaMkEVncnbBgDBe6htC1kGaxaCpGacUCL8t,Blue,Red Brown,Blazed Eyes,None,Bowler Hat,None,Rings,Chrome Babolex,Gold Tusk,None
 617,9,849,31.11,https://solanart.io/search/?token=2XKxzF23eb4h17x5yjsKrkF3zrM8uueq8B81L8nDRsNm,Purple,Fighter White Black,Base,None,None,Gusset,Rings,Chrome Babolex,Gold Tusk,Crown Bracelet
@@ -693,12 +693,14 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Glasses,Head,N
 2157,15,287,0,https://solanart.io/search/?token=HFLTjdtssNJVm4vfs4KPH5E5t8AA3bDmKYZagzJPW8U9,Purple,Green Suit,Dizzy Eyes,Disco,Solana Cap,Moustache,Gold Piercing,Golden Babolex,None,None
 2163,13,2779,0,https://magiceden.io/item-details/G1dmXZeX5BLKdZQQ9Rm8LKBFakMK1G8eiH1wXpyZ84Zc,Space,Sweat Short Orange,Fear Eyes,None,Blue Beanie,None,None,Alien Babolex,Gold Tusk,None
 2165,600,4137,0,https://solanart.io/search/?token=GfPAUX97YQon5hBQtUTjvdhBEczctN5fgxp5sjRypihw,Maya,Goku,Base,None,None,None,None,Chrome Babolex,None,None
+2171,3.99,1477,75.38,https://solanart.io/search/?token=9YoRyBhC9o5tkezqrZHYecypejP3fJX4BKdBv8raJnqL,Purple,Panda,Base,Monocle,Pirate Hat,None,Blue Piercing,Chrome Babolex,None,None
 2176,6,1367,56.3,https://solanart.io/search/?token=E6cvoaLrrB9KNNwB8LYr3BEXs6xALQsjk2bFLWrmHhB5,Green,Diver,Base,Papy Glasses,Captain Hat,None,Pad,Chrome Babolex,None,None
 2184,10,3043,0.73,https://magiceden.io/item-details/6ACQryamrTRYp7sowP7ePQdgaEvAAJ9iYLGMLK3VYatm,Red,Purple Suit,Sad Eyes,Rayban,Golden Crown,None,None,Golden Babolex,Gold Tusk,None
 2190,9.5,3857,0,https://solanart.io/search/?token=FSxFSJxidzTWZd3ftFj6J3VaPHMhGBcqLEHDsMnh94j6,Purple,Kimono,Sad Eyes,Disco,None,None,None,Chrome Babolex,None,None
 2194,5.44,280,72,https://magiceden.io/item-details/EG41kWedSf44HsWs3QAaA9UMmWTSqXX1zRz7di9bmW3e,Red,Black Suit,Sad Eyes,Pirate,None,Babolex Chain,Gold Piercing,Golden Babolex,None,Rolex Hulk
 2199,6.5,1576,49.36,https://solanart.io/search/?token=5mLP7p7fHVL5ADEM8mGgGfufPnqvoLvkTkS4aoyVPt4A,London,Black Suit,Sad Eyes,None,None,Scarf,Gold Piercing,Chrome Babolex,Gold Tusk,Gothic Bracelet
 2201,69,1816,0,https://solanart.io/search/?token=B31vXz786yZhvjBPYhRGYsKqFzMLWBfUT2RGUiEWHUdA,Blue,Babolex Sportwear,Dizzy Eyes,None,Golden Crown,None,None,Solana Babolex,None,Rolex Pepsi
+2204,9.9,794,22.62,https://solanart.io/search/?token=F1gGmdVrrmAzagYQFHxbJkERM8qQvuDUBs18HY6Gu5gU,Purple,Anorak,Blazed Eyes,None,Bandana,Crown Chain,None,Chrome Babolex,None,Gothic Bracelet
 2205,100,4262,0,https://solanart.io/search/?token=QuBCxbpsLwLkN8SPLzamETBdK2Vqrwd22mY8Rt6WHqF,Red,Sweat Short Green Gray,Joy Eyes,None,None,None,None,Chrome Babolex,Gold Tusk,None
 2211,279.329987,1482,0,https://solanart.io/search/?token=A1DLANKvgTwrqYDM2qFmw159CsovmzaCp3KXuZ1SeriX,New York,Sweat Short Blue,Joy Eyes,Monocle,Captain Hat,None,Silver Piercing,Golden Babolex,None,None
 2213,10,4133,0,https://solanart.io/search/?token=J3GWvfXPM6tckMVJdF1zkKWWHzEGRyFcykMedQbJhHej,Green,Sweat Short Green Gray,Base,None,None,None,Silver Piercing,Chrome Babolex,None,None
@@ -831,7 +833,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Glasses,Head,N
 2584,4,3326,58.1,https://solanart.io/search/?token=A4a7nn22T4EsWChxrmLdzFZucjD396KqxLMAg3dHkYRY,Blue,Hippie Clothes,Base,Lazer Eyes,None,None,Rings,Chrome Babolex,None,None
 2585,6,4279,29.24,https://solanart.io/search/?token=HERFYGXEEs4L4mFE1wJP9bPurhcPQfkVtJTzcFQhFQrn,London,Sweat Short Flames,Joy Eyes,None,None,None,None,Chrome Babolex,None,None
 2587,11.5,4011,0,https://solanart.io/search/?token=BkuSAn9fDE1kz8KddDQb1EHzv3YW5uE87RNFN94DSHvU,Purple,Sweat Short Blue,Base,Viper Glasses,None,None,None,Golden Babolex,None,None
-2591,19.5,590,0,https://magiceden.io/item-details/BmyeHHFWGSeVW7J9XBM3WR2r22c7Wvz4D9RZqURzgivy,Maya,Hippie Clothes,Angry Eyes,Papy Glasses,None,None,Silver Piercing,Solana Babolex,None,Gothic Bracelet
 2592,37,2966,0,https://solanart.io/search/?token=9mcMfPpYGq2G8LVvEqbL52qQcQ17TjLPyQi78wwoNoLg,Green,Fighter Black Red,Sad Eyes,Papy Glasses,None,BTC Chain,None,Chrome Babolex,None,None
 2594,8,1316,36.77,https://solanart.io/search/?token=DXp96ro7uhExwCFsN5HQyybsfNmVNMfmqUPqGTXMvGic,Jungle,Black Suit,Angry Eyes,Pirate,Golden Crown,Crown Chain,None,Chrome Babolex,None,None
 2597,350,495,0,https://solanart.io/search/?token=6hV8UCs7EeRbnD2sB5U3Kkh6x87dF1rZJ6WLg8K8ZCqg,Chinatown,Purple Suit,Sad Eyes,Black Glasses,Naruto Hair,Scarf,None,Ghost Babolex,Gold Tusk,None
@@ -1205,6 +1206,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Glasses,Head,N
 3581,10,1861,11.71,https://magiceden.io/item-details/7dSRwRqWgGoY3W4hYWeQCzPhmq3QbizAAQVsMY1aub5a,Chinatown,Sweat Short Flames,Base,None,Blue Beanie,None,Rings,Golden Babolex,None,Rolex Hulk
 3582,8,4044,11.43,https://solanart.io/search/?token=CNXQduBi1H5YyRdf6K61AoKP84zRkNtpT9m8D7Jbsv2V,Yellow,African Wax,Joy Eyes,None,Golden Crown,None,None,Golden Babolex,None,None
 3582,100,4044,0,https://solanart.io/search/?token=FkVNtEqK1DQsqrZGXJLgwvGkoXYHDjw4MBqPtnNNQnjv,Yellow,African Wax,Joy Eyes,None,Golden Crown,None,None,Golden Babolex,None,None
+3585,10.5,763,16.91,https://solanart.io/search/?token=5QEv5R9gwyPHtj9p7aDqBgxRYKpTTFj2492hieYnxADP,Yellow,Pyjama,Angry Eyes,None,Pirate Hat,Scarf,Rings,Golden Babolex,None,Crown Bracelet
 3588,5.6,2034,54.1,https://solanart.io/search/?token=4vu8K1bbXVYS1nk4XY4mJJ9vPEwm6MZpuWy7ZQzHzQPY,Green,Green Suit,Sad Eyes,None,None,Moustache,Silver Piercing,Solana Babolex,None,None
 3590,7.2,2541,33.39,https://solanart.io/search/?token=4WXRptieRkquDmvBRBqvva4sc8DQMmuDP9wKhtuem886,Volcano,Red Brown,Sad Eyes,None,None,Scarf,Pad,Golden Babolex,Gold Tusk,None
 3592,3.45,3984,57.48,https://solanart.io/search/?token=GSG9QMwFnjYaMZ3hCnemGDuguLZMtoMxNwGDjJfx6XvQ,Yellow,Red Brown,Angry Eyes,None,None,None,None,Solana Babolex,None,None
@@ -1307,6 +1309,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Glasses,Head,N
 3853,49.990002,1820,0,https://solanart.io/search/?token=D7EnfRrzbMo5ibsU4kHnWdZFZM4LgH5k3PyTbvpWHZYs,Green,Courchevel,Base,None,Solana Cap,None,None,Alien Babolex,None,Crown Bracelet
 3853,50,1820,0,https://solanart.io/search/?token=JDDPCL3uvcC9DQLRGiJr8XVFQopEtyfoMEQrGTcqjsXD,Green,Courchevel,Base,None,Solana Cap,None,None,Alien Babolex,None,Crown Bracelet
 3857,3,2105,79.44,https://solanart.io/search/?token=DCbPY4AdoSxdSXRnswtnnzBdQMCDM4kLEbzhYtpwMbRb,Red,Panda,Joy Eyes,Rayban,None,None,Rings,Chrome Babolex,None,Gothic Bracelet
+3858,6.49,1831,47.09,https://solanart.io/search/?token=7xur8uQhb2yZWY2qzNMxu4ex2BMBPanyfFFGGsocGCEE,Green,Red Brown,Sad Eyes,Pirate,Blue Beanie,None,None,Solana Babolex,Gold Tusk,None
 3860,100,3528,0,https://solanart.io/search/?token=5uvJqM7WQVWiY1XNYa1RjTkUSgN2idoDv6muW3X1hVmA,Jungle,Kimono,Fear Eyes,None,Party Hat,None,None,Chrome Babolex,None,None
 3868,3.5,2421,71.51,https://solanart.io/search/?token=7UUSahryh3ZkvGe91CM8QXtznwfQmSJ2dt7hAyU4WikV,Yellow,Sweat Short Green Gray,Sad Eyes,None,Red Cap,Scarf,None,Solana Babolex,None,None
 3875,1650,328,0,https://solanart.io/search/?token=Btf7cLwKsDQ1DtdCxt8frGxPkFEmJJhCM2c5KSgpnPQs,Blue,Dior,Sad Eyes,Viper Glasses,Green Cap,Scarf,None,Chrome Babolex,Gold Tusk,Date Just Golden Rolex
