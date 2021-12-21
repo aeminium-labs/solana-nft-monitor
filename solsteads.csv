@@ -7,6 +7,7 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 26 Teeps Lane,55,239,0,https://solanart.io/search/?token=BYU2nPnLzWjRihRRxLykdk4zweACtQLXFp7JLd28nrwd,Treehouse,Green,26,Cottage,,,Occult,Rain,Yellow,Patio,Day,Teeps Lane
 28 Teeps Lane,37,1560,0,https://solanart.io/search/?token=tqbr3X7EMHthZ3evW73w7RgDqmbgmNg8ZUKXBuij64D,Mountain,Blue,28,Modern,,,Crystal,,Mix,Food,Day,Teeps Lane
 30 Rosa Street,72,1941,0,https://solanart.io/search/?token=9i2PvYje2t61PsjXpwR7ddDRLHvQLTgg7qnd7qN3h247,City,Green,30,Modern,,,Glass,,Mix,Food,Day,Rosa Street
+31 Supple Circle,12,1039,53.18,https://magiceden.io/item-details/2THxhMcDbB1WA2X4aJfDwLKzSiRsB5HvYWYUj2UJnEfB,Desert,Yellow,31,Mansion,,,Glass,Rain,Red,Skylight,Day,Supple Circle
 32 Supple Circle,22.2,1203,0,https://magiceden.io/item-details/4mbH8KP43wmWXJt2s3KwLv4K84KYcqf5ZFa9ctU1VMs4,Woods,Lavender,32,Modern,,Pale green,Rounded,,Yellow,Shingle,Day,Supple Circle
 34 Teeps Lane,89,177,0,https://solanart.io/search/?token=Fwb5z3dnwwdzH78SuekvAEg8QacDhY3GZhRj8mSDxZWg,Underwater,Dark green,34,Modern,,,Glass,,Dark green,Skylight,,Teeps Lane
 35 Supple Circle,16,1354,8.08,https://solanart.io/search/?token=5pxSLwHninoVXQGYpq47mSkP6cowNHKvpN7PqfeqtCGZ,City,Green,35,Cottage,,,Glass,,Mix,Food,Night,Supple Circle
@@ -336,7 +337,6 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 641 Dip Drive,230,432,0,https://solanart.io/search/?token=41kyAZLwYmcU6LK6uVhhaDV6FjCFmZZSmX5vsPJvB35z,Woods,Dark green,641,Cottage,Vines,,Glass,,Mix,Mushroom,Night,Dip Drive
 642 Dip Drive,15,1103,22.14,https://solanart.io/search/?token=FbPGoeuM8Gk4wCYvdA1FuDhrjbdjjgJXCMEmm4WbXbez,City,Red,642,Cottage,Brick,,Crystal,Rain,Yellow,Shingle,Day,Dip Drive
 650 Ramsey Street,13,1182,40.87,https://solanart.io/search/?token=Gqro16bUnRJa6BqEbnNYTKbTeJuEpguqNxHLr5Z5TjT5,Treehouse,Blue,650,Art Deco,,,Glass,,Blue,Patio,Day,Ramsey Street
-651 Poplar Street,12,1697,42.53,https://magiceden.io/item-details/8hpkUdzDt3nD8HRKCUr4tZQbFJN4qhSHvvzZuhhS2NFB,Field,Dark green,651,Art Deco,,Yellow,Rounded,,Blue,Skylight,Day,Poplar Street
 652 Dip Drive,69,349,0,https://solanart.io/search/?token=EzGcN2EjwJRqc19p4HPiFXTnsWp2tGKn1AZnBmt4ALiv,Field,Blue,652,Mansion,Vines,,Glass,Rain,Red,Tin,Night,Dip Drive
 658 Dahlia Drive,88,1410,0,https://alpha.art/t/9WLCqgYrwkXMkUQ9frMbiDNq3FEoTaxMQgBZHGxXjiz6,Desert,Red,658,Cottage,Vines,Blue,Shuttered,Rain,Red,Patio,Day,Dahlia Drive
 660 Clipping Drive,200,960,0,https://magiceden.io/item-details/8tdAhw3P9zyAa1iTyUZ4BLCCNhQqhoqN93RnxvXnDv4K,Underwater,Blue,660,Cottage,,Red,Shuttered,,Mix,Mushroom,,Clipping Drive
@@ -348,6 +348,7 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 668 Poplar Street,44,1639,0,https://alpha.art/t/A25hscJgEjr5bxrgKrP9RcPtgnspCCC3FqXjTPBfpf1R,Field,Blue,668,Modern,,Green,Shuttered,,Blue,Shingle,Stormy,Poplar Street
 670 Ramsey Street,69.88,1921,0,https://magiceden.io/item-details/5xVES2pMVt1so2KcD4rT5mxUy1WSQdUb2E2JQZMQKk4N,City,Blue,670,Cottage,Vines,Yellow,Shuttered,,Blue,Tin,Day,Ramsey Street
 670 Helix Avenue,57,1512,0,https://solanart.io/search/?token=3dWxcZSP1kZcKHijdcTvbwioqDwsMw8K1VCvadLbGV3P,Field,Blue,670,Art Deco,,Yellow,Shuttered,,Mix,Grass,Sunset,Helix Avenue
+675 Helix Avenue,9.39,2256,59.58,https://solanart.io/search/?token=AExhsvugrFsKydeBJCLqAGSkcjxR8aW1AdKWgYVnaVKR,Field,Blue,675,Cottage,Brick,,Glass,,Pale green,Skylight,Day,Helix Avenue
 676 Clipping Drive,150,1291,0,https://alpha.art/t/5fQrgEY5HFE6EJkj1XrY4eKfsHcJYBh252tnqSpMWYzP,Desert,Yellow,676,Art Deco,Vines,Green,Shuttered,,Pale green,Shingle,Day,Clipping Drive
 686 Rip Street,14.99,693,28.88,https://solanart.io/search/?token=HkkKC6WqYNTMjbfzbck5cT37VJFsXcpwGBMvPnvRxcHX,Field,Yellow,686,Art Deco,Vines,Pale green,Shuttered,,Blue,Shingle,Sunset,Rip Street
 687 Epoch Avenue,20.49,877,0,https://magiceden.io/item-details/C6iBXf5k3PZxYqiwbX23GBpmsg1RRfdEijpXHuSCqPhm,City,Red,687,Mansion,,Blue,Shuttered,,Mix,Grass,Night,Epoch Avenue
