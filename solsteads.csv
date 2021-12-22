@@ -76,7 +76,6 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 97 Rosa Street,1000,24,0,https://solanart.io/search/?token=397tLwKiqBjZtLoyrUGVwns9kb7ub7RaW2MEVxF7bdQz,Field,Gold,97,Cottage,Gold,Gold,Gold,,Gold,Gold,Day,Rosa Street
 99 Stewart Avenue,39,318,0,https://magiceden.io/item-details/ebZNgv1HerjfiCHcTTp1waDNKNWeuQoBnv6wyPN6haE,Volcanic,Red,99,Modern,,,Occult,,Blue,Tin,Sunset,Stewart Avenue
 100 Stewart Avenue,39.5,1784,0,https://alpha.art/t/Cr3yaF4Wfd1UzMedMyppT6A2CiZm7rWuKNAuGVbkwLCz,Mountain,Lavender,100,Modern,,Green,Shuttered,,Green,Skylight,Day,Stewart Avenue
-101 Wall Street,29,647,0,https://magiceden.io/item-details/98GLTBrwcHdj5T4sgM67RJPcMM6Z9Gq9uvVcVSm18EVF,Field,Dark green,101,Cottage,,Blue,Shuttered,Rain,Dark green,Patio,Day,Wall Street
 101 Supple Circle,699,6,0,https://solanart.io/search/?token=8cgfVaeatEuDEaQ17A8Xj58eh8dPcER4y6Kzvh2MJVVK,Arctic,Gold,101,Cottage,Gold,Gold,Gold,Snow,Gold,Gold,Day,Supple Circle
 102 Stewart Avenue,45,946,0,https://magiceden.io/item-details/8hovXczJ2Defp7ZGBCB7JtpHvZuDqjMiiKoWgASt6GG8,Underwater,Red,102,Art Deco,Brick,Blue,Shuttered,,Pale green,Shingle,,Stewart Avenue
 104 Stewart Avenue,1337,603,0,https://solanart.io/search/?token=Fk8XJ2GWRonekXWxBPuehtYp3XUPjM3v13xPMigcEdec,Arctic,Green,104,Mansion,,,Crystal,,Mix,Food,Day,Stewart Avenue
@@ -168,6 +167,7 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 340 Delray Circle,22.2222,518,0,https://magiceden.io/item-details/5SHpBMYK5BYizNnfWZuoscqotPaot7JVxyyvCa2CLAkN,Underwater,Yellow,340,Cottage,Brick,Blue,Rounded,,Red,Haunted,,Delray Circle
 340 Sierra Avenue,133.7,1024,0,https://magiceden.io/item-details/5vVCBZiot9bvViHNW1faBGe11V2Q9EY4WMm2vdEdAsgY,Desert,Yellow,340,Modern,,Red,Rounded,,Blue,Haunted,Night,Sierra Avenue
 341 Lynwood Avenue,15,2113,25.8,https://magiceden.io/item-details/4LJ2irx29oLfNvMxrzsEG33AJfR88aubndsUFpW9BQ7E,Woods,Blue,341,Cottage,Brick,Blue,Shuttered,,Red,Patio,Day,Lynwood Avenue
+342 Lynwood Avenue,13.99,1551,44.99,https://magiceden.io/item-details/24ipB8MhnxuQpLMtAUJerMrq1Kj9oWtGJCWPE7KB4zGx,Field,Blue,342,Cottage,,Dark green,Shuttered,,Yellow,Shingle,Night,Lynwood Avenue
 343 Delray Circle,420.696969,100,0,https://magiceden.io/item-details/HoNjFqdziEUBdLnNZgQdGo5FJfuLARJP3Qw3T59BQgeh,Arctic,Blue,343,Modern,Brick,Lavender,Rounded,Snow,Blue,Shingle,Day,Delray Circle
 345 Sierra Avenue,69.69,528,0,https://magiceden.io/item-details/Do4GiV5efGj5TWcAT4nCy5oZBA9aASa98wAeyZksunrB,City,Dark green,345,Mansion,,Red,Shuttered,,Pale green,Tin,Night,Sierra Avenue
 347 Delray Circle,34.7,1073,0,https://magiceden.io/item-details/4xdv8p4EgmWK9hGwRw7nxYf8nw96UzBjoCMNVj9A5oU8,Desert,Blue,347,Cottage,,Yellow,Shuttered,Rain,Green,Shingle,Night,Delray Circle
@@ -245,13 +245,14 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 437 Blaze Boulevard,33,728,0,https://magiceden.io/item-details/HAV2gTofrLeaYyc1rh9N2J23YsRAoHqD8PFBTdMwcb8L,Underwater,Blue,437,Modern,,Green,Rounded,,Red,Tin,,Blaze Boulevard
 438 Block Hills Drive,88,2138,0,https://solanart.io/search/?token=9aNvjW3xqAVVzWT2PwStBTQu7pgBDptATaW5kFUiwy5n,Beach,Blue,438,Cottage,Brick,Yellow,Rounded,,Green,Shingle,Day,Block Hills Drive
 439 First Avenue,126.900002,187,0,https://solanart.io/search/?token=H1Zw2nHFDpQAq3RgWv6LZrwBjXUCmy6nSM3S4GzdFbkz,Arctic,Red,439,Cottage,,,Glass,Snow,Mix,Mushroom,Day,First Avenue
+440 Sierra Avenue,13,337,74.54,https://magiceden.io/item-details/HH7do6USKfRogmYyyRuWxGMQgJ6mjk5q1zrq3ZjmvVDj,Mountain,Yellow,440,Art Deco,,Dark green,Shuttered,,Yellow,Haunted,Night,Sierra Avenue
 442 Grime Lane,25,1308,0,https://magiceden.io/item-details/GJWVMAwe61hySjgxsk1SfAepucNngKR6nWfz68XiXQyn,Desert,Blue,442,Cottage,Vines,,Glass,,Pale green,Shingle,Sunset,Grime Lane
 442 Sierra Avenue,40,910,0,https://solanart.io/search/?token=AFLvm28xZbScZhWJJw9Kf93rgqwNTFVsm5xKnAPQwKXp,Volcanic,Dark green,442,Art Deco,,Green,Rounded,,Red,Tin,Day,Sierra Avenue
 442 Grand Avenue,50,1660,0,https://alpha.art/t/7QYMVNfxA6yH8zUYo3MH8bG1Gg4o8YVRGVNx55Gm4y6u,Mountain,Red,442,Cottage,Brick,Blue,Shuttered,,Dark green,Shingle,Day,Grand Avenue
 443 Grime Lane,30,2306,0,https://magiceden.io/item-details/JvtkHKyjp9DwMUVeR4yh1kMisGgxribVq1NcvoS7sUB,Beach,Yellow,443,Modern,,Green,Shuttered,,Mix,Grass,Day,Grime Lane
 443 Grand Avenue,35,817,0,https://solanart.io/search/?token=A8jbqtzw7YkPnRNkAuR9LWKWiV6qGPZ9naykgX5MfjkR,Arctic,Blue,443,Cottage,,,Crystal,,Blue,Skylight,Night,Grand Avenue
 444 Lamport Lane,12.99,1597,54.25,https://magiceden.io/item-details/ANXEYQwweSK5cjXEaJXjJL15q6rBd2GD8kZf5aS5Hvcp,Underwater,Green,444,Cottage,,Yellow,Shuttered,,Blue,Skylight,,Lamport Lane
-444 Block Hills Drive,39,1513,0,https://magiceden.io/item-details/BhNAAFk8MbMw29BdueRHbyUuyPGoSRQh9nXqZGhnjGMG,Field,Red,444,Cottage,Brick,Lavender,Rounded,,Dark green,Shingle,Day,Block Hills Drive
+444 Block Hills Drive,19,1513,0,https://magiceden.io/item-details/BhNAAFk8MbMw29BdueRHbyUuyPGoSRQh9nXqZGhnjGMG,Field,Red,444,Cottage,Brick,Lavender,Rounded,,Dark green,Shingle,Day,Block Hills Drive
 445 Block Hills Drive,18.88,2050,0,https://magiceden.io/item-details/GmahoBSm8eGqarmNtSJRcinAgNhgVy1439R5mMwu4V3K,Mountain,Red,445,Art Deco,,,Glass,,Blue,Shingle,Day,Block Hills Drive
 445 Sierra Avenue,40,1516,0,https://solanart.io/search/?token=3DxfXRUmev6yWxhnGRfKJjPbAfh7ScK2D58bvYNVY7yg,Beach,Green,445,Modern,Brick,,Glass,Rain,Yellow,Shingle,Day,Sierra Avenue
 448 Bamboo Boulevard,15,1751,31.66,https://solanart.io/search/?token=51TRRoU6AdivqszFChWLzPnzTAY2C3vrVgi3sBAVMKqy,City,Yellow,448,Art Deco,,Green,Rounded,,Mix,Food,Day,Bamboo Boulevard
@@ -285,7 +286,6 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 558 Dahlia Drive,14.98,1950,28.63,https://magiceden.io/item-details/7c35bmYTNMa6BtzFYCBc9uo7ztYxv3feSp7VAu9H3cgK,Volcanic,Red,558,Cottage,,Blue,Shuttered,,Red,Shingle,Day,Dahlia Drive
 565 Jane Jacobs Way,30,291,0,https://magiceden.io/item-details/HV29AfjpK9YXrdUYxEbMy7Z7DiGmzjuU6dPjTzzoKBXf,City,Red,565,Cottage,Vines,Yellow,Rounded,,Mix,Grass,Sunset,Jane Jacobs Way
 567 Jane Jacobs Way,63.900002,87,0,https://solanart.io/search/?token=6LCxsdKHB6ePr99h7YjT4ebdHXfroMDXNK4gZLuFHozM,Mountain,Yellow,567,Modern,Brick,Yellow,Rounded,,Mix,Mushroom,Sunset,Jane Jacobs Way
-568 Jane Jacobs Way,88,546,0,https://magiceden.io/item-details/5yNiRznSqRLWPyQ9uXeNtBDP4dQo9A4asN1kFr2zMmqD,Desert,Yellow,568,Cottage,Brick,,Crystal,,Red,Shingle,Stormy,Jane Jacobs Way
 573 Poplar Street,15,652,49.45,https://magiceden.io/item-details/5jPJPmoWeXhB5kcySj4rnGkX1iu4Bg8YmWdeR5vvePha,Beach,Blue,573,Cottage,Vines,Yellow,Rounded,,Mix,Food,Night,Poplar Street
 578 Dip Drive,75,827,0,https://solanart.io/search/?token=3xKwJAphnUXzGy3HbpmRwEbgjbFCN1pyFo9kQFXYWRKq,Treehouse,Red,578,Cottage,,Blue,Rounded,Rain,Blue,Skylight,Day,Dip Drive
 578 Poplar Street,200,1455,0,https://solanart.io/search/?token=8Hs6L4NbTCLqYgACPPBMmsv9Z9Vf7UrWqjkAByaMcs48,Field,Yellow,578,Mansion,,,Glass,,Mix,Mushroom,Day,Poplar Street
@@ -308,7 +308,7 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 622 Cluster Lane,74.989998,615,0,https://solanart.io/search/?token=r5HNcawUSc8Fxv2YZPP4i4SrcfG7mtzw5VPpxsnjhbV,Volcanic,Green,622,Cottage,Vines,Blue,Shuttered,,Mix,Grass,Day,Cluster Lane
 624 Poplar Street,27.49,2119,0,https://solanart.io/search/?token=7X23wtZANxt9sg4vPugGYD8er94yN43vNMp5W6dr5PEM,Beach,Red,624,Cottage,,Red,Shuttered,,Mix,Grass,Day,Poplar Street
 627 Dip Drive,23,943,0,https://magiceden.io/item-details/5ppcjWgmqcWzvSEcUUvtpPjJHoTFSKPHQzrE42gx2CHM,City,Red,627,Modern,Brick,,Glass,,Mix,Mushroom,Night,Dip Drive
-627 Cluster Lane,72,1236,0,https://magiceden.io/item-details/JATfH1CoECndpjcSXrdV5JLFzUc9mJXJ9atV3a3PZHiC,Arctic,Green,627,Modern,Brick,Blue,Rounded,,Red,Shingle,Day,Cluster Lane
+627 Cluster Lane,29,1236,0,https://magiceden.io/item-details/JATfH1CoECndpjcSXrdV5JLFzUc9mJXJ9atV3a3PZHiC,Arctic,Green,627,Modern,Brick,Blue,Rounded,,Red,Shingle,Day,Cluster Lane
 630 Clipping Drive,13,998,63.84,https://magiceden.io/item-details/AW7sVKq5pA4skL2pgDzN5d7RmENbv5vodPD9S8E76d5Q,Beach,Blue,630,Modern,Vines,Red,Rounded,,Yellow,Patio,Night,Clipping Drive
 630 Helix Avenue,45,168,0,https://alpha.art/t/9e2UGD26z79VSS4iAH7Y9UTuTREXDKaw5eMeNpfKEFTi,Mountain,Pale green,630,Modern,,Yellow,Rounded,,Mix,Food,Night,Helix Avenue
 634 Epoch Avenue,85,1393,0,https://solanart.io/search/?token=DztdM2PhCCoRZg65vqxE8vEeVo3LKgnHW2huTyj7ieMj,Field,Green,634,Art Deco,,Lavender,Shuttered,,Green,Shingle,Night,Epoch Avenue
