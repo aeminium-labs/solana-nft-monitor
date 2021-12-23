@@ -18,7 +18,6 @@ id,price,moonRank,💎 score (%),storeURL,1:1,Background,Mouth,Skin,Sunglasses
 90,0.149,943,65.1,https://magiceden.io/item-details/E2oCGfhVCpDpBxSSR99xsyQ5HU31cSVFXrEM2yXZqjik,,Water,Normal,Orange,Normal
 98,0.179,380,85.1,https://magiceden.io/item-details/35hJg5Gr2sPK1Yd1ssV2Xc6W9fCwPmh1oZ4SzVYTsdfE,,Pastel_Blue,Pipe,Pink,Normal
 100,1,902,58.07,https://magiceden.io/item-details/6cVURfkLrYa4m7ymUzeqzDGWKWjvNAiVrWkJuhSHmLLM,,Pastel_Grey,Cig,Bronze,Normal
-102,0.2,678,74.15,https://alpha.art/t/5VwMbJitqEXuPKM8FBaCJxhNaqE7v8xpjiyMRzpcot5D,,Great_Landscape,Cig,Aqua,Shades
 107,0.11,934,65.81,https://alpha.art/t/D95GDXshaj5bvsgVmVMCDz1Ctxv9WMsmGRuWz9EjKxBc,,Jungle,Cig,Yellow,Normal
 109,0.1,970,64.61,https://alpha.art/t/8rBM6Vu333uYtg6HrhitZHMfiV7Q4LuVfqLakCwMJPcu,,Water,Normal,Purple,Normal
 111,0.6,85,91.53,https://alpha.art/t/DTTGSG7GoFk8oqKrxpC82kdwXWcbRY1pCV1dGtKen3z9,,Generative_Purple,Spatula,Blue,Normal
@@ -53,6 +52,7 @@ id,price,moonRank,💎 score (%),storeURL,1:1,Background,Mouth,Skin,Sunglasses
 225,0.11,292,88.97,https://alpha.art/t/AnqDigdGNSeFJhRPB9whKAccRgF7bz5dKmjd2MyrEUG,,Pastel_Blue,Knife,Grey,Normal
 231,0.5,320,84.06,https://magiceden.io/item-details/6uq2pgswKxxPAUoSxD5hUe4pUSzBNiGKQue2LYeW5VSK,,Pastel_Purple,Knife,Red,Normal
 234,0.7,805,64.56,https://alpha.art/t/BdeCJd4nsF393EUFfJvofSXUUCvA2dVPthoqAwMwc6JT,,Pastel_Brown,Normal,Pink,Shades
+255,0.08,1104,59.98,https://magiceden.io/item-details/67DvZkVDMYuUXjb9ExbhSKWN335h4WEbfFtgjMRxvVsJ,,Generative_Purple,Normal,Grey,Normal
 268,0.35,965,62.29,https://magiceden.io/item-details/GDuP3LgPGxdpcd85Jp5E9HgyxAvyDxaLB23hEYZ7y2DH,,Jungle,Normal,Gold,Normal
 269,0.5,328,83.77,https://magiceden.io/item-details/9VEcLFbMDG8KhrUtd1SnkwpBTTqVSj3pzSSckN5FbfNY,,Jungle,Cig,Green,3D
 271,6,243,31.84,https://magiceden.io/item-details/4Sm9Qk9KAqrefYZPZoc4mQxjo65Btk3c1gryfSN288EZ,,Space,Pipe,Yellow,Normal
@@ -74,8 +74,8 @@ id,price,moonRank,💎 score (%),storeURL,1:1,Background,Mouth,Skin,Sunglasses
 334,1,1080,51.65,https://magiceden.io/item-details/5bYGQbxKgxuHT1xmcJoYJmbp68r7jxhBW8Wq9yS6iwEj,,Pastel_Grey,Normal,Red,Normal
 341,0.19,968,63.79,https://alpha.art/t/FQjXcGxWEQWuph3LmVFDDe84qzYCZCkebgshE5tDshhb,,Fire,Normal,Blue,Normal
 342,0.17,553,78.95,https://magiceden.io/item-details/3AA58Cfpm5NsFVSJrtsvsa1k5k812beLX3jWGRPMJjfC,,Pastel_Yellow,Cig,Bronze,Shades
-346,0.08,81,96.88,https://alpha.art/t/47Eyd8pjLs25qZLn9CWGai53jpMR1RFYTrbLYnNuSa2X,,Pastel_Orange,Spatula,Pink,Normal
-353,0.06,460,83.41,https://alpha.art/t/E2sDGj3SnS761xMMxiYwPa4QkyYmwL5XWvCU9fEKWtGm,,Fire,Gun,Red,Normal
+346,0.11,81,96.58,https://magiceden.io/item-details/47Eyd8pjLs25qZLn9CWGai53jpMR1RFYTrbLYnNuSa2X,,Pastel_Orange,Spatula,Pink,Normal
+353,0.1,460,83.01,https://magiceden.io/item-details/E2sDGj3SnS761xMMxiYwPa4QkyYmwL5XWvCU9fEKWtGm,,Fire,Gun,Red,Normal
 356,0.06,1093,60.58,https://alpha.art/t/FVJwzz9khoSY7xopsaUikEq6BTyDVqB9AmYkC6u3HRmD,,Pastel_Brown,Normal,Green,Normal
 357,0.09,1009,63.31,https://magiceden.io/item-details/BCrqMiad6CYKkHTEwBtaufWDDLpjs6pdhZEReT8dB9AL,,Great_Landscape,Normal,Silver,Normal
 358,0.15,675,74.75,https://magiceden.io/item-details/GqkB694PAFqpgQCSAFkbC7FoUoUW6Ay4yDn1DWEvLuGX,,Pastel_Brown,Cig,Zombie,Normal
@@ -156,10 +156,6 @@ id,price,moonRank,💎 score (%),storeURL,1:1,Background,Mouth,Skin,Sunglasses
 664,0.99,358,77.79,https://magiceden.io/item-details/FDt96jWmmgetNDCVdTMkRryRKhJ1Fi8JcZBW6UGY6xj,,Generative_Purple,Cig,Bronze,3D
 680,0.195,518,79.97,https://magiceden.io/item-details/AkpxULw58Srs9PLugQuyoHddMbkNYVZpfDxQENTgjz2f,,Pastel_Brown,Normal,Silver,3D
 682,0.6,127,90.02,https://alpha.art/t/2WkAvaTRzACPSfWih92ZeTb7gktmxNNToWcBoMpuJDA5,,Space,Normal,Zombie,3D
-693,0.2,662,74.72,https://alpha.art/t/7AvquRXUNJzEJV9YgFcR5ZTHKUpnXE5EHcyEcrdC7u2R,,Pastel_Purple,Cig,Aqua,Shades
-699,0.2,816,69.17,https://alpha.art/t/B8MGFGayzmQu9amrp9D53ycQGjkTre9QvcvmSiS6cHhj,,Pastel_Green,Cig,Green,Normal
-707,0.2,649,75.19,https://alpha.art/t/8aucduzm3ob44m9r9GWAZ29UtogSkjp27oWrRjxVfjw1,,Volcanic_Eruption,Cig,Pink,Normal
-709,0.2,627,75.99,https://alpha.art/t/McfMVcftj123TyBa6oZNv7oc7arCuiDn4BfRgJbvyYZ,,Generative_Purple,Normal,Grey,3D
 712,0.5,458,79.08,https://magiceden.io/item-details/F9mimhFNKoLZZZNz4qf9vwG4p2taKnyHyPgYn4hmmK78,,Volcanic_Eruption,Cig,Gold,Normal
 716,0.1,740,72.91,https://magiceden.io/item-details/9TLXSjsnAFxm3U82m11YNP3B9XNpDM5haLHt1U6dEKtM,,Moon,Normal,Yellow,Shades
 720,0.2,584,77.54,https://alpha.art/t/3Szwaub7JYAB55RU7tKiJ6k2pVV7ZK8CbFoxAGN4bNPy,,Pastel_Purple,Cig,Yellow,Shades
@@ -171,6 +167,7 @@ id,price,moonRank,💎 score (%),storeURL,1:1,Background,Mouth,Skin,Sunglasses
 763,0.12,556,79.35,https://magiceden.io/item-details/HapaD4zBNMPRjwjMPb5KEbmeVuVPxCiE4r4X3tiGNxuT,,Great_Landscape,Pipe,Aqua,Normal
 772,0.3,319,86.09,https://magiceden.io/item-details/DiYGFwqcNLxr9SW5DPL7tRZLNPC9GJg98HWH1Lhbi4RG,,Pastel_Orange,Knife,Pink,Normal
 781,0.2,936,64.84,https://magiceden.io/item-details/GXReYP4jKR7nYWqCUhM7iwDntwbe5uUmDDPznbBXhZ8Y,,Jungle,Cig,Green,Normal
+782,0.09,226,91.55,https://magiceden.io/item-details/4aUdjMFnWLCTTqbb9vUUJEjzNPu6gxPXfsT2ems4TSZj,,Volcanic_Eruption,Normal,Orange,3D
 794,0.13,272,89.49,https://magiceden.io/item-details/DH2VYZh1kVSbYY9kV3xCGjs51WG5Rgz7SvGd3bLe6Jbo,,Fire,Knife,Red,Normal
 803,1,438,74.8,https://magiceden.io/item-details/3ZZSyUZUftF2DrccsktbtrRVx3HR7yRzDrGiBLnQPSfJ,,Pastel_Purple,Normal,Blue,3D
 806,6,156,34.97,https://magiceden.io/item-details/6BGvFLGzRbaDhFacVD721cA2j8GkYu1VR5P43J4BnWNM,,Volcanic_Eruption,Cig,Green,3D
@@ -178,6 +175,7 @@ id,price,moonRank,💎 score (%),storeURL,1:1,Background,Mouth,Skin,Sunglasses
 815,0.6,263,85.11,https://magiceden.io/item-details/A8ayaubixhvLqTAZYPRFEd6eu2bif9dZqky4VbaBUdu6,,Pastel_Blue,Knife,Orange,Normal
 826,0.19,660,74.89,https://magiceden.io/item-details/CBDm3AaSCpcPe5vkZr8WwwvVCnYtbFHxGiXXYwawiDjZ,,Volcanic_Eruption,Cig,Yellow,Normal
 827,0.12,293,88.83,https://alpha.art/t/88LXULJzdZhWpjwknhbzp61mpM1WRiZNwEaxN8HMv3cS,,Space,Cig,Silver,Shades
+832,9,58,8.51,https://magiceden.io/item-details/G8CCKkD229SDV6eacS1DoMrQ9TjSzA2MeMMtHpfLFX38,,Water,Gun,Green,3D
 835,0.0869,1014,63.16,https://alpha.art/t/GEdVhEkZYA5SP2TsYSKKo1q212PH7zaevFD173LbHf4P,,Moon,Normal,Pink,Normal
 844,0.3,484,80.14,https://magiceden.io/item-details/2vZ65iSmRkdLEz3HD5fh8yNe9r5dyYh9ZxmmvGCf9d2D,,Great_Landscape,Normal,Orange,3D
 847,6,808,11.46,https://magiceden.io/item-details/6CFuQZAviWXYHLYnXzCfhwXupNTcE2f64RDLv3MRpNCY,,Volcanic_Eruption,Normal,Pink,Normal
@@ -189,6 +187,7 @@ id,price,moonRank,💎 score (%),storeURL,1:1,Background,Mouth,Skin,Sunglasses
 892,0.1,585,78.5,https://alpha.art/t/AZ2KgPHr5M95cydmgxocn2P3xUu4xsWnYTnPoaT9rLMX,,Moon,Normal,Aqua,3D
 893,0.38,374,83.31,https://magiceden.io/item-details/9xfRBTuHs2VT5nEsmSV6XF1DZzKvCfREk5BaKdTjicnf,,Great_Landscape,Pipe,Silver,Normal
 898,0.49,309,84.55,https://magiceden.io/item-details/2ftzfxiL63i6DkrGhcXMJpFf9xLEw9KpiQNVsF4PYx4C,,Pastel_Orange,Knife,Orange,Normal
+899,0.07999998,568,79.31,https://magiceden.io/item-details/9QkfFNb57rHCvMnp3n2ykMEhVVTjUQrtMcJHSN8TayZp,,Pastel_Yellow,Cig,Grey,Shades
 907,0.25,11,97.7,https://magiceden.io/item-details/Gin4feBhuRFVCfgpGJPW7J4EVuG1jj1NJtBjgagBAFqf,,Moon,Spatula,Red,3D
 910,0.2,633,75.77,https://magiceden.io/item-details/2JkGdC3rC5ZHUD8dnWuMnmMeDCrfg9myvbn8tCQ4ZCQE,,Generative_Purple,Cig,Blue,Shades
 925,0.149,701,73.83,https://magiceden.io/item-details/Dw1nDCLZZH348GMB8spicijDshby7ojJR1o7icwkXRFV,,Fire,Normal,Green,Shades
