@@ -1159,6 +1159,14 @@ jobs:
           downloaded_filename: meekolony__magiceden.json
           postprocess: ./postprocess/magiceden.ts
 
+      - name: meekolony - Fetch Alpha Art data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://apis.alpha.art/api/v1/collection
+          downloaded_filename: meekolony__alphaart.json
+          axios_config: .github/alpha_axios_configs/meekolony.json
+          postprocess: ./postprocess/alphaart.ts
+
       - name: space_kitties - Fetch Magic Eden data
         uses: githubocto/flat@v3
         with:
