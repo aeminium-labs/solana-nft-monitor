@@ -7,6 +7,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Earrings,Eyes,Fur,H
 71,38.8,468,0,https://magiceden.io/item-details/GaTfgzYw8s6eewibfuHPdpbVmNMRiQLZ86vEEcuJzmMM,Aquamarine,Fast Food Uniform,Silver Hoop,Closed,Robot,None,Kazoo
 72,19,2353,15.94,https://magiceden.io/item-details/HyuHfGokgpgfssQcyTYDRDPQVCxzc4etut4soxiK2vHf,Purple,Logo Black T,None,Eyepatch,Black,Seaman Hat,Ohhh
 74,44,829,0,https://magiceden.io/item-details/2QM7MQsm8ZEgBFAHTD2sQ4ZAAiXcMqgpBHVt6EAFXuvB,Aquamarine,Space Suit,Silver Hoop,x_x,DMT,Camo Helmet,Bored
+80,13.97,3420,57.69,https://magiceden.io/item-details/DV4cUHto4hiiD4JwfTAP6to1EHbN3ceqYQ5XfeFPyBdx,Aquamarine,Cowboy Shirt,None,Angry,Tan,Short Mohawk,Bored
 86,150,129,0,https://magiceden.io/item-details/CzN1MTFaCsyRBeDqQdNaHBECqUSHKJpvQqRwseeZ8kL4,Orange,Bones Necklace,None,Roll,Silver,Laurel Wreath,Ooo
 88,20,2610,3.88,https://magiceden.io/item-details/DxDeZBKgFUiw5oUj3hDvj6sMeuXqxn57ZCxoMC7RwHh,Orange,None,Silver Hoop,Sad,Death Bot,Seal,Bored
 99,30.3,2004,0,https://magiceden.io/item-details/3g8J46EKKFGoAPXgAg9ho5C4XjAkEjjurTSZMhbTEE6c,Aquamarine,None,None,Eyepatch,Zombie,Cowboy Hat,Grin Gold Grill
@@ -72,7 +73,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Earrings,Eyes,Fur,H
 526,50,1894,0,https://magiceden.io/item-details/Eyv41uQVLWrv5VqramXKtfz5CLeaKLkoeEVYifp9ZXFR,Yellow,Tuxedo T,Gold Hoop,Robot,Blue,Seaman Hat,Bored
 527,45,103,0,https://magiceden.io/item-details/BDzqCFv5Ui3gmUEfduPJP34vMPMimofGB5JkJ5VmXrxn,Mustard,White Bib,Silver Hoop,Robot,Cheetah,Sea Captain Hat,Flower
 546,23,3849,0,https://magiceden.io/item-details/2BbR2q2DCETtrhJy7DMpWKRyjWKwa3sBKu8ijDkB3sKo,Gray,Sleevesless Logo T,None,Awww,Black,Sea Captain Hat,Bored
-549,14.96,1700,61.58,https://magiceden.io/item-details/Eydzi1mB29eQYcWxA78wTd8UhpUs8Q9j2BmYQUksHTar,Aquamarine,Sailor Shirt,Silver Hoop,Sunglasses,Red,Safari,Bored
 553,28.6969,2106,0,https://magiceden.io/item-details/3Bk9RAHVFUKPbyqRL58Xg7EafViH6biWoUZuDLWsyE3Z,Baby Blue,Biker Vest,Silver Stud,Bored,Dark Brown,Safari,Cigarette
 565,56.5,3366,0,https://magiceden.io/item-details/AdycRH7mwvrLjXMFRNCmubfCVi3LP6zt1Q41CTg7FqLy,Baby Blue,Hawaiian,None,<3<3,Black,None,Jovial
 568,285,94,0,https://magiceden.io/item-details/A8J5kATU8YJussA2iimbutuxC4mMcAQJtT4AXKPdDcF4,Dark Blue,Bandolier,Silver Stud,Robot,Blue,Irish Boho,Rainbow Grill
@@ -263,6 +263,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Earrings,Eyes,Fur,H
 1972,25,652,0,https://magiceden.io/item-details/Dj2kK2uKU7xdkk6JsC2EK3YREnmNh2ygDw2MiVa7p2Gp,Dark Blue,Wool Turtleneck,None,Neon Party,Camo,Fisherman Hat,Smile
 1973,16.5,627,54.77,https://magiceden.io/item-details/8G9hW4HvooXoivSdJ5nzMem1tmSJKoDN61tVJPxEidnz,Dark Blue,Lab Coat,Diamond Stud,Hypnotized,Pink,None,Smug
 1978,20,1404,13.55,https://magiceden.io/item-details/H7Pu7ui9saEtmdATMCxummif2KXVuUUdJZmrggtfEXzQ,Mustard,Hawaiian,None,Robot,Black,Safari,Wah
+1988,25,436,0,https://magiceden.io/item-details/14NuSZ8mhjwh1XFU49igeHwFokaMZyanASwzMBuRTKVL,Yellow,Hawaiian,Silver Stud,Closed,Blue,Seaman Hat,Cookie
 1991,50,3205,0,https://magiceden.io/item-details/EU4cRsMsiM1bm9AC6vUv3AqEdMDvnSVs4yugCFyeDRtv,Gray,Blue Bib,None,Sad,Cheetah,Stuntman Helmet,Bored
 2003,132.231,208,0,https://magiceden.io/item-details/9tSCrsAbjKCmgQaSdo5u8PTvisdtAwsNTFrhDRCyQC9D,Baby Blue,Tank Top,Silver Stud,Sunglasses,Cheetah,Army Hat,Wah
 2011,30,2392,0,https://magiceden.io/item-details/ALsgJP4HXmfp2nnRtZM6t1yQVYNNk6u4w26R3q2TbRyr,Mustard,None,Silver Stud,Sleepy,Noise,Panda,Bored
@@ -439,7 +440,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Earrings,Eyes,Fur,H
 3246,25,748,0,https://magiceden.io/item-details/3wzzSFU9XVY6T9eWkjQ54zQ8JC6MeFz3uAFLbzQkFzSZ,Yellow,Lab Coat,None,Eyepatch,Cream,Irish Boho,Tongue Out
 3247,49,908,0,https://magiceden.io/item-details/FDX1ddSxFjGAca3AtiP2h9VEbK6zxFYuHyojHAa5eSAK,Aquamarine,Leather Jacket,None,Neon Party,Tan,Cowboy Hat,Pizza
 3249,18.5,1482,27.92,https://magiceden.io/item-details/Av7DNpTgtYPwqsCVXjtbHrgkaP44QckaRp6YXzFW9Mvq,Orange,Striped T,None,x_x,Dark Brown,Irish Boho,Candy Cane
-3268,21,736,8.9,https://magiceden.io/item-details/2YFg6VFKfigDWBhztbPKQPfuKAhad7c7QNmxj4aV4G2F,Dark Blue,Logo Black T,None,3D,Death Bot,Seal,Tongue Out
+3268,17.5,736,43.9,https://magiceden.io/item-details/2YFg6VFKfigDWBhztbPKQPfuKAhad7c7QNmxj4aV4G2F,Dark Blue,Logo Black T,None,3D,Death Bot,Seal,Tongue Out
 3280,24.85,3224,0,https://magiceden.io/item-details/5yfA4GMCh6eYi3faMLu5e4yrbdY45nMChx9ab6wpcu6W,Aquamarine,Space Suit,None,Robot,Golden Brown,Ushanka,Bored
 3288,23,4469,0,https://magiceden.io/item-details/99W264r6uxL8bAR97JbRFGd4m3tABbxMsjywinKTu9Xt,Orange,Leather Punk Jacket,None,Wide Eyed,Pink,None,Bored
 3312,50,4967,0,https://magiceden.io/item-details/B52NdrovQUpmuChJCdfs4XRdBKj3c8XEcBBbuY3xDroP,Aquamarine,None,None,Neon Party,Pink,None,Bored
@@ -451,7 +452,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Earrings,Eyes,Fur,H
 3363,20,2117,7.83,https://magiceden.io/item-details/Bzq4LJSF3m9mfSF1yjEHn6tBVEVBXkTQ3i3YCnsafKuR,Dark Blue,Bone Tee,None,Awww,Red,Camo Helmet,Grin
 3380,30,1573,0,https://magiceden.io/item-details/4rDhNuMtZfC9147BsPtfCDpE7efWrSs6DSbmmB6ViRzj,Orange,Red T,None,Zombie,Pink,Short Mohawk,Dumbfounded
 3385,25000,4802,0,https://magiceden.io/item-details/E8LhfHf8RreMmV76Zh9Fbj6C3AEVhvtB4QLMxt8D1sXY,Baby Blue,Puffy Vest,None,3D,Golden Brown,None,Bored
-3386,19.99,615,19.97,https://magiceden.io/item-details/GwimAHKwApNhEsfhw5zSF5JYVyJTLPzGuvUcSrifnD7R,Aquamarine,Tank Top,None,Eyepatch,Tan,Sushi Chef Headband,Bubble Gum
 3397,19.9,4549,0,https://magiceden.io/item-details/DxeVbCTaW3rLcv1j9eEKM2UVF9b4M2pQASV5W2Rm589s,Baby Blue,None,None,Sunglasses,Gray,Halo,Bored
 3403,88.8,1339,0,https://magiceden.io/item-details/8CUdpM7qTKWRLKW2qBMk4PEzAFMTsoLruaM9N7ZdzgD6,Purple,Wool Turtleneck,Silver Stud,Cyborg,Golden Brown,Sea Captain Hat,Bored
 3409,44.25,1250,0,https://magiceden.io/item-details/5GbDMrUomvbBNV7egvE3TSmRs82su3AHQBnru7WQHiGi,Dark Blue,Striped T,None,Neon Party,Gray,King's Crown,Pacifier
@@ -529,6 +529,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Earrings,Eyes,Fur,H
 4003,35,2086,0,https://magiceden.io/item-details/5gmg5jtn2mYy2LG6CkuvcQ1dAYZsoM1XkqxmEWzc7nzq,Mustard,Leather Punk Jacket,None,Roll,Prism,Halo,Bored
 4004,20,1877,9.76,https://magiceden.io/item-details/24aGafDREpYPMoLL7AhmRBCFQMdJ6ugZf1SajDdZGvuc,Purple,Red T,None,Crazy,Dark Brown,Baby's Bonnet,Pacifier
 4020,80,47,0,https://magiceden.io/item-details/2eQCGn9suEEPX56MVZPk2UtfU84xS5TwRJzy3wZeBYJU,Purple,Work Vest,Cross,Sleepy,Blue,Bandana,Smile
+4023,24.88,1745,0,https://magiceden.io/item-details/6k2BFKbzXKq2WVukhBhUjxfDSb6U7C3zbA6EpvVpy61S,Gray,Black T,None,Bored,Robot,Sea Captain Hat,Cookie
 4031,20,3302,0,https://magiceden.io/item-details/2jueA9kNfkxPTHa1cDwAszGHdfvh4szRgQc5Z7TcKKUb,Mustard,Prom Dress,None,Blindfold,Black,Halo,Bored
 4040,65,2127,0,https://magiceden.io/item-details/3mWuuAfuAUXST9RhbZikvKUK6uoHT4RX6dhbeXUBZBVX,Mustard,Tuxedo T,None,Crazy,Cheetah,Irish Boho,Smug
 4051,32,4123,0,https://magiceden.io/item-details/5oM5QYopFb1EtHiWbix82oGcrFmXZtME9tzhwQsC21eq,Dark Blue,Sailor Shirt,None,Neon Party,Black,Panda,Bored
@@ -608,6 +609,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Earrings,Eyes,Fur,H
 4642,25,4181,0,https://magiceden.io/item-details/BVAzKJQfaivnAiD3iqqzbPEwnd6EwjEMZxE97zVGowrt,Purple,Leather Punk Jacket,None,Sleepy,Black,None,Cigarette
 4645,88,123,0,https://magiceden.io/item-details/E4AktBSLumZEdfp9u6xc6dCnRt4V5oWFXkeyJsQVQaHm,Dark Blue,Biker Vest,Gold Hoop,Hypnotized,Robot,Halo,Ooo
 4665,25,885,0,https://magiceden.io/item-details/CbzEu9nfUnke5BdTU2YjD7zvTZTZRycBrUkzWosDUbm1,Mustard,None,Gold Stud,Awww,Pink,Seal,Jovial
+4668,20,272,22.62,https://magiceden.io/item-details/A3Wu885D7hK9VRYWdguUwLfM61ya6ZaoGLWt7oKmrVYo,Gray,Tank Top,Silver Hoop,Blindfold,Cream,Bandana,Jovial
 4671,20,3327,0,https://magiceden.io/item-details/GhJqHFiYyxMnZHVxwBNcJRPnQjckZjrbZ7hgsJg5Tgrg,Dark Blue,c22,None,Bored,Noise,Girl's Hair Short,Bored
 4688,16,517,60.66,https://magiceden.io/item-details/Hjiz41ms8jAVn395KUkPFmWYkqW1yEdyNFJDgzecau8E,Baby Blue,c22,Silver Stud,Blindfold,Pink,Camo Helmet,Pout
 4691,19.99,4694,0,https://magiceden.io/item-details/5kcUsPGawGQpMQnzhUN1LcmyDoyTPTEUdE6Afh9YnBPs,Aquamarine,Smoking Jacket,None,Bored,Dark Brown,Fisherman Hat,Bored
