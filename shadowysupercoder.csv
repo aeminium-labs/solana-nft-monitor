@@ -46,7 +46,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base Model,Desk,Favorite Pr
 3029,216.9,1456,0,https://magiceden.io/item-details/EjPdApfroK5cHQQoirAj9fXyR3stQ9j5kwwVtsnKnS5Z,Dark-Red,Pale,Silver Metal,JavaScript,Shark Hacker,Trading Dark,Cropper,Frank,Purple Smirk
 3039,300,4460,0,https://magiceden.io/item-details/DgvZXijEgdH6DkyjoKThvJ1y3ZmHtbd6kY5bY6AzmqNR,Magenta,Tan,Red Metal,Python,Shark Hacker,Trading Dark,SGF,Glitch Two,Purple Smirk
 3111,100,1042,0,https://magiceden.io/item-details/HREnV5JvTAyvfrcCDmRDrZmntGvn6ygwwwgPKAtPmduc,Gold,Chestnut,Silver Metal,Solidity,Captain America Hacker,Glitch One,SGF United,SGF United,Purple Smirk
-3132,99,1106,0,https://alpha.art/t/7m5hYaoVm8feaHr31X325A4WFCsFFBQ5zC4qjoC9tvqz,Light-Orange,Pale,Silver Metal,C++,Neon Solana Hacker,Glitch One,Future Finance,Alpha Art Exchange,Red Smirk
 3153,99.69,6145,0,https://magiceden.io/item-details/HWYB99y4r26bt5fAwN4XFygwnYPuaEqZDrLTm6XCUEUt,Light-Orange,Natural,Silver Metal,Objective-C,Captain America Hacker,Trading Dark,Access Granted,Glitch One,Red Smirk
 3203,211,2899,0,https://magiceden.io/item-details/9oHYJDejJbcwBiyAKMb6cexFCRk46Z8bbakxFvXCpaYB,Noire,Pale,Red Metal,Swift,Neon Solana Hacker,Access Granted,Pengulice,Linux,Pink Smile
 3222,320,9094,0,https://magiceden.io/item-details/3DpgT8FCbNn2ucWxZswvZNnpyUjtedz9M3ZzCto31UuQ,Magenta,Pale,Purple Metal,C,Tech Hacker,Trading White,Glitch One,Trading Dark,Red Smile
@@ -67,6 +66,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base Model,Desk,Favorite Pr
 3795,469,864,0,https://magiceden.io/item-details/3HGN2xscwad6AE8kHR7vRHeUMdtgGyZ6KFM8ZR2zSAj2,Magenta,Tan,Red Metal,Java,Dragon Hacker,Trading Dark,GenesysGo,Investin,Red Smile
 3801,1337,7114,0,https://solanart.io/search/?token=Euv76K8dZxRPYacagaVi7r69E6v2RScCs7mv76NkVbLj,Green,Natural,Red Metal,Fortran,Dragon Hacker,Hacked,Trading Dark,Access Granted,Red Smirk
 3849,90,6322,14.61,https://magiceden.io/item-details/EKGxYGGchTPVZDPihqAQ3zgogrLx6rVJyUx18LS8BGwM,Light-Blue,Pale,Red Metal,C#,Captain America Hacker,Linux,Matrix,Matrix,Red Smirk
+3985,87.8,1228,57.07,https://magiceden.io/item-details/7VZG55Tf8WdRa9AndJSrpmSp3q8LNueaf4zsYgcRqiDB,Magenta,Tan,Purple Metal,Go,Cat-Ear Hacker,Glitch Two,Thugbirdz DAO,Fabric,Purple Smile
 3989,240.69,536,0,https://magiceden.io/item-details/2gfUAfpBfvCvcAn8qYm8DW7DWN74xDixWXUvEJQR6KGA,Green,Pale,Purple Metal,Swift,Punk Hacker,Interstellar,Solana Valley,Glitch Two,Pink Smirk
 3994,97.5,9399,0,https://magiceden.io/item-details/5XWKQpDWRMWYVnRT5YvaQvrhEzwQV6FVcBGxRhKvSsW2,Violet,Chestnut,Bronze Metal,R,Cat-Ear Hacker,Trading Dark,Hacked,Access Granted,Red Smirk
 4006,99.690002,6723,0,https://solanart.io/search/?token=44FAEb1ejkA5Ghps4r54hQ2Mh3WF7bM94gjU3HTQNRnt,Red,Natural,Silver Metal,Objective-C,Shark Hacker,Access Granted,Hacked,Hacked,Red Smile
@@ -171,12 +171,11 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base Model,Desk,Favorite Pr
 6560,88,3676,45.23,https://solanart.io/search/?token=CdTYZkfQnbnAEj2sgoocxEPwJHpmrpb7En8ycqw7Ja4D,Noire,Chestnut,Purple Metal,C++,Cat-Ear Hacker,Trading Dark,Sillylittledao,Hacked,Pink Smile
 6616,115,1280,0,https://magiceden.io/item-details/62cvwUXm7eU5GREmJHyWCNeLV52RYi9ZXH92vyYbToLN,Green,Tan,Silver Metal,Go,Neon Solana Hacker,Glitch One,Pengulice,Pengulice,Pink Smirk
 6692,100,2410,0,https://solanart.io/search/?token=AmQrJCkKAX87jDAWmwipghoLFop6nUXmLPN6RPJV4HYv,Light-Blue,Natural,Red Metal,R,Sci-Fi Hacker,Surveillance Blue,Solonauts,Glitch One,Purple Smirk
-6709,89,1184,45.24,https://alpha.art/t/GvCLsDEQcwP7v4FmKrsfBepfs7PWs4xgVmnPR68YQutg,Noire,Pale,Purple Metal,JavaScript,Sci-Fi Hacker,Trading White,Sillylittledao,Raydium,Pink Smirk
 6720,150,6300,0,https://solanart.io/search/?token=FJoFto9Jd7wedcTWFXYp4akFaCRCzViq7xdsS8Xuwz4S,Light-Yellow,Pale,Bronze Metal,Objective-C,Neon Solana Hacker,Linux,Hacked,Glitch One,Red Smile
 6777,86.9,7839,39.51,https://magiceden.io/item-details/Dkw3pSs8eoskNZLdjQfrEgedudwiGrtKWxemDE5bktaz,Gold,Natural,Bronze Metal,Swift,Squid Game Hacker,Hacked,Linux,Glitch Two,Pink Smirk
 6921,350,6827,0,https://magiceden.io/item-details/jiBCaA1ScEyeU2TmWejZAhqw7cNvtKfGTA3YLyN4voJ,Noire,Tan,Purple Metal,Java,Monke Hacker,Glitch Two,Linux,Glitch One,Purple Smirk
 6940,91,6928,2.17,https://magiceden.io/item-details/DjFq14YpovALoaAgcjvodAnCs1f5WjEjajK9UYiAj4Kj,Light-Yellow,Pale,Bronze Metal,JavaScript,Captain America Hacker,Matrix,Trading Dark,Matrix,Purple Smile
-7028,88.5,459,53.16,https://alpha.art/t/2cw4pSzqfdG9FR3UioiwrvVbrCNNJhFNevC8Bpv1yRgL,Red,Tan,Red Metal,Java,Squid Game Hacker,LIQ,Trading Dark,Wumbo,Red Smirk
+7028,98,459,0,https://magiceden.io/item-details/2cw4pSzqfdG9FR3UioiwrvVbrCNNJhFNevC8Bpv1yRgL,Red,Tan,Red Metal,Java,Squid Game Hacker,LIQ,Trading Dark,Wumbo,Red Smirk
 7036,212,6756,0,https://magiceden.io/item-details/3zLmL8pys6WMFba4XSrhRb5scyLzWzQQjeEmkidwKXzs,Green,Pale,Red Metal,C,Unmasked Squid Game Hacker,Glitch One,Trading Dark,Matrix,Red Smile
 7051,220,8361,0,https://solanart.io/search/?token=GVoA1PNygZYV4AuYjp747xvWEwFRXauFixaA8gCtYif2,Gold,Chestnut,Red Metal,Swift,Sci-Fi Hacker,Hacked,Glitch Two,Hacked,Pink Smile
 7052,200,2351,0,https://solanart.io/search/?token=J5DcPVSDEWutSSVebvT3NyoPfPPPEQu3pc6TLDqN3mG6,Dark-Red,Chestnut,Purple Metal,Java,Squid Game Hacker,Trading Dark,Solrise,Hacked,Red Smile
@@ -193,6 +192,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base Model,Desk,Favorite Pr
 7320,93,9366,0,https://solanart.io/search/?token=6MQ5doZmsTKPFCECNEmdLNpV1AtZR4wJ38Gkwa6nvBz,Pink,Chestnut,Bronze Metal,Python,Cat-Ear Hacker,Linux,Glitch Two,Matrix,Pink Smirk
 7352,150,90,0,https://solanart.io/search/?token=HEGx7SvknJUWWGprAUaYWw4MQN8HariCcoEsLHpEd7Tw,Pink,Pale,Red Metal,C,Unmasked Squid Game Hacker,Defi Land Sign In,Defi Land Sign In,Defi Land Sign In,Purple Smile
 7386,91.69,2936,11.31,https://magiceden.io/item-details/8GXbmKaHrSVid2ahKYqdoiYCQhC9T6EMXBWFoGcUncrq,Pink,Pale,Bronze Metal,Solidity,Tron Hacker,Linux,Hacked,Aurory,Purple Smile
+7388,88,4844,40.54,https://magiceden.io/item-details/GCjTci1kVQ9FiDkGyakZBCgJ81G7Jn273SRmdZjyhCU3,Dark-Red,Natural,Bronze Metal,Fortran,Cat-Ear Hacker,Surveillance Blue,Scoopshop,Access Granted,Purple Smirk
 7423,106,2383,0,https://alpha.art/t/Acn3Uyr33NmvpL5Wc3dyFXZe14qJi3UT4eupp1o1MoXP,Dark-Red,Pale,Purple Metal,C++,Tron Hacker,Hacked,SGF United,Trading Dark,Purple Smile
 7433,92.2,1239,13.02,https://magiceden.io/item-details/6rjMZsvjmysH7vm3bCCc8eSbGaoHozbcoPsakG8Q7Bv,Magenta,Natural,Bronze Metal,Fortran,Cat-Ear Hacker,Hacked,Serum,SGF,Red Smirk
 7540,420,5930,0,https://magiceden.io/item-details/8eHLDUi8apGdY2hSMuZkHok9yBE4YYwgKhSfkMx2Tj45,Light-Orange,Pale,Silver Metal,C,Dragon Hacker,Access Granted,Linux,Trading Dark,Red Smirk
