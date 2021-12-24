@@ -82,24 +82,26 @@ export async function parseData<T>({
     { rank: string; attributes: Record<string, string> }
   > = await readJSON(`.github/moonrank/${collection}.json`);
 
-  return data.map((item) => {
-    let id = getID(item);
-    if (id.includes("#")) {
-      id = id.split("#")[1];
-    }
-    const storeURL = getUrl(item);
-    const itemPrice = getPrice(item);
+  return data
+    .map((item) => {
+      let id = getID(item);
+      if (id.includes("#")) {
+        id = id.split("#")[1];
+      }
+      const storeURL = getUrl(item);
+      const itemPrice = getPrice(item);
 
-    const attributes = moonrank[id]?.attributes || {};
+      const attributes = moonrank[id]?.attributes || {};
 
-    return {
-      id,
-      price: itemPrice,
-      moonRank: parseInt(moonrank[id]?.rank || ""),
-      storeURL,
-      ...attributes,
-    };
-  });
+      return {
+        id,
+        price: itemPrice,
+        moonRank: parseInt(moonrank[id]?.rank || ""),
+        storeURL,
+        ...attributes,
+      };
+    })
+    .filter((item) => item.price > 0);
 }
 
 export function addScore({
