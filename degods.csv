@@ -16,7 +16,6 @@ id,price,moonRank,💎 score (%),storeURL,background,clothes,eyes,head,mouth,nec
 125,6,5321,56.36,https://alpha.art/t/3JGPZ8CgSG93PJB95bsjdfoCeqAcroXpJj9CKq4Ez9Ly,Olive Green,None,DeMonacle,Bleached,Hipster Beard,None,Zebra,None
 131,11.69,3446,7.26,https://alpha.art/t/eHMsWwmeoXguYVkkMKhNff1AgJVTBgYbqEhTGmYBo99,Red,Godchella Hoodie,Round Glasses,Bloody Horns,None,None,X-Ray,Black Eye
 140,6.3,8379,40.64,https://alpha.art/t/4dutnNQVzc2S2TfbrW5yRNGKYaZw9z2W7nXu9xMLz3yG,Olive Green,Tattered Tee,None,Mullet,None,None,Pink Granite,Devil Wings
-146,6.31,6571,48.06,https://alpha.art/t/7s3YKZPJWgtd1w3ai8yWFzwcUzZGQWuhKwEJQB7yQwQ7,Brown,None,None,Bloody Horns,None,None,Navi,Angel Wings
 149,13.33,2884,0,https://alpha.art/t/2aDE56s4omWqu1WJY1YDBaMsYPNgzXprMF1fi8nBhWC5,Red,Top God Jumper,Steampunk Goggles,DeGod Pro Trucker,Clown Nose,None,Zebra,None
 161,49.9,6153,0,https://alpha.art/t/Au41hdrzySpy3QcvCj9S4ttCi2MV1fM6BJpFZS2cbWxX,Deep Ocean Blue,Jean Jacket,None,Mythic Halo,None,Friendship Necklace,Leopard,None
 184,9.9,6792,11.24,https://alpha.art/t/5hsqwztMoDR7eQ6f8sdsTvwN6uThushqGRqrgmePRF8p,Blue,None,None,Propeller Hat,Goatee,None,Pink Granite,None
@@ -36,6 +35,7 @@ id,price,moonRank,💎 score (%),storeURL,background,clothes,eyes,head,mouth,nec
 298,8.8,7060,21.13,https://alpha.art/t/7znyjBSMYxDJPBqeFK9u7xHg53JmjKErtuDXEAejELMF,Teal,World Champion Robe,None,Curly,None,Paperclip Necklace,Ape,None
 303,7.36,6175,39.21,https://alpha.art/t/7E8nyciVAAFmNhwFCzufYMw1DaQHk2DWCrom2Y9pWrNs,Brown,World Champion Robe,None,Bed Head,Santa Beard,None,Joker,None
 322,8.5,6399,26.88,https://alpha.art/t/GiCNxpYSLR8VRyg94c8c95hJCmLpCEPey7pRXPk9NmeS,Brown,War Armor,None,Bed Head,None,None,Radioactive,Quarterback
+326,8.41,4432,35.96,https://alpha.art/t/B9L75nJsDidNomyqGYGHVKqFbmfVk82eR5vSXaFSo2DV,Supernova,Caesar Tunic,None,Babushka,None,None,Pastel,Black Eye
 333,6,6867,49.93,https://alpha.art/t/58UCsFacFQ1W2ArqacWAv7GTcKu2WBpNj7iTftpydrNz,Purple,Hawaiian Shirt,None,Rainbow Definitely Not A Dildo,Party Blower,None,Marble,None
 345,13.33,4552,0,https://alpha.art/t/DzUUMcyM4Fx4xUbXkN4UYC1kNd5kaaQeSuSzpuxhkd53,Brown,Top God Jumper,None,Skull Mask,None,None,Turquoise,Mythic Wings
 364,12,7525,0,https://alpha.art/t/6qXCvaTykqNmCyhYeDRLoB5TsADUFMUS7EhRE5SQcnrz,Deep Ocean Blue,Godchella Hoodie,Alien Spectacles,God Dome,None,None,Pink Granite,None
@@ -96,7 +96,6 @@ id,price,moonRank,💎 score (%),storeURL,background,clothes,eyes,head,mouth,nec
 1118,19,7857,0,https://alpha.art/t/Dkw8tS7mPGdteGHVazNfSb1w6FN54fz1EAUV9dMFg5oj,Teal,God Scout Uniform,None,Prince Hair,None,None,Nebula,None
 1128,420.69,4710,0,https://alpha.art/t/BfpPiLdRP4f7GsZccnTNDtFoX9GaTYovTmixjZp6Xk4m,Blue,Peasant Blouse,Clout Goggles,Rainbow Definitely Not A Dildo,None,None,Marble,Quarterback
 1131,10.7,1766,24.15,https://alpha.art/t/4eWmYnfZmqnq6DaVEb3LP6VLcAKH3XZWtJED7XUFNhfj,Deep Ocean Blue,Godchella Hoodie,DeMonacle,Plank,None,Silver Chain,Pink Granite,Rockstar Tats
-1135,7.9,1697,52.44,https://alpha.art/t/6Ksj73z3AHmfxw1cijjdCfnig3TZrnuqiJVSMonaoSFd,Blue,Overalls,DeMonacle,God Dome,Vape God,None,Lavender Stripe,Devil Wings
 1158,6.31,6386,48.83,https://alpha.art/t/5xBXaMJfnCbtMjcvjoD2Eq7kQUXK8SEbUsUK68h4BWvg,Brown,War Armor,Neon Shades,Mushroom Head,None,None,Blue Sky,None
 1160,6.3,9282,36.89,https://alpha.art/t/EbvtqyhwHfoqCEd8QsCxZ8ytDbd8Zq6NeENCW32HLyc2,Teal,Druglord Suit,None,Bleached Curls,None,None,Pink Granite,None
 1180,14,9097,0,https://alpha.art/t/yfWP6sEgbEcJ93pNzwdF6BhpzuYTNnCwVM5WYcpBcTB,Brown,Tech God Vest,None,Godlielocks,None,None,Marble,None
@@ -110,10 +109,12 @@ id,price,moonRank,💎 score (%),storeURL,background,clothes,eyes,head,mouth,nec
 1260,6.32,6802,47,https://alpha.art/t/GjcWMjVqeocydjG55BjBtLfrD97mgk4xbdaDB7Y7W4Lg,Teal,DeGod Cutoff,None,Fade,Fruit Roll Up,None,X-Ray,None
 1293,7.5,9569,23.69,https://alpha.art/t/Er4fAGjmb6W6SCWzmxejr4dVZ5pBLoe9RZhkQmMVDtRS,Purple,Tattered Tee,None,Mad Scientist,None,None,Turquoise,None
 1299,16.69,7527,0,https://alpha.art/t/3mzWu9tBiMCvDHhWtXjys5KrQouRiQe9KPh7CtzA2jGN,Blue,DeGod Cutoff,Eye Patch,DeGucci Bucket Hat,None,None,Marble,None
+1322,8.41,7996,21.14,https://alpha.art/t/HVuV4XypW7Zhi1emreFHD49ey4fVVh15emMJxyEdczGG,Blue,Peasant Blouse,None,Skull Mask,None,Diamond Necklace,Pink Granite,None
 1329,5.5,9250,45.02,https://alpha.art/t/CAtBhrq1H9q5ts6HqkUjMtw9TBxk7M5szWwrwpAiPFs5,Red,Druglord Suit,None,Mullet,None,None,Turquoise,None
 1363,6.1,9369,38.52,https://alpha.art/t/D2Brd2khdWx4qaPXXS3GgWgoAgwQZEuSxjDqJtzYQNST,Olive Green,Top God Jumper,None,Bed Head,None,None,Turquoise,None
 1387,33.299999999,9008,0,https://alpha.art/t/7M2aY8ATabjnDSGDXkieqoKPpyyicAaHJgP8xbWVjLbW,Purple,God Beater,None,DeGucci Bucket Hat,None,None,Navi,None
 1405,450,92,0,https://alpha.art/t/Dc6qc4LMWz2Qyb4r8PveFk3B6zDkycwgwktW6aQDgRSt,Supernova,Bloody Beater,Money Sign Shades,Fade,None,Gold Chain,Transcendent,Black Eye
+1413,8,1219,53.43,https://alpha.art/t/Gu2TeRzf8Ng7dD4Z42A6E3oxUSrZsTBLzRjpU2RkLgfN,Teal,Tattered Tee,None,Curly,Santa Beard,Double Diamond Necklace,Blue Sky,Forehead Diamond
 1442,33.299999999,2935,0,https://alpha.art/t/5oK7BWi3MrEiaCgNTbPTs1mHPrEk1bksR3Lp9bV5DJjr,Olive Green,DeGod Cutoff,Laser Eyes,Godlielocks,None,Pimp Chain,Marble,None
 1452,7,6032,43.41,https://alpha.art/t/BPKWZUvP8CNYbcqXVTv6U5trngwJivazrhfWKv2U3r16,Deep Ocean Blue,Druglord Suit,DeMonacle,DeGod Pro Trucker,None,None,Joker,None
 1483,22,8522,0,https://alpha.art/t/G2fRvqRVzz4Wd2Jr3NsiMDD1AnQDuMkMPBD8vGZV4VSa,Brown,Bloody Beater,None,Prince Hair,Hipster Beard,None,Pink Granite,None
@@ -295,12 +296,14 @@ id,price,moonRank,💎 score (%),storeURL,background,clothes,eyes,head,mouth,nec
 3571,7.35,3418,50.78,https://alpha.art/t/3CynXGTiWyKmHKrYbafqfEyuTQvdFPUHC5cN8rUQ9moD,Olive Green,Bloody Beater,Glowing Eyes,Skull Mask,None,Christmas Lights Chain,Solar Spiral,None
 3597,7,3105,55.58,https://alpha.art/t/9oeNex3KZzHpiQhiht8WJTb6HTjWLU8ujiMBNdyYrJTN,Blue,Radioactive Tee,Laser Eyes,Fade,None,Silver Chain,Leopard,None
 3600,8.6,9425,13.29,https://alpha.art/t/HE4ps9DnLXmCppJ2rMm8e4GeNbu61cKrcrFHAoxPMtwQ,Red,None,None,DeGod Pro Trucker,None,None,Leopard,None
+3606,10,3587,23.58,https://alpha.art/t/4ktuHDnSW8RqooHxcPQUVhcfVrxbHKK1s9wCBNYqKUdG,Red,Tattered Tee,DeMonacle,Fade,Fruit Roll Up,None,Zebra,None
 3609,33.299999999,5791,0,https://alpha.art/t/8Y4rnusfEFEPNN2shoaeLY3e8GqL7GA3uYjZBaC9oHZD,Olive Green,Godchella Hoodie,Clout Goggles,Hippie Hair,None,Silver Chain,Zebra,None
 3616,16,3528,0,https://alpha.art/t/51hUaNwSRZExqjGchGQ5NFr7y3xAdbm1w88EmcHjFryV,Deep Ocean Blue,Hazmat Suit,None,Leaf Laurel,None,Gold Chain,Lavender Stripe,Rockstar Tats
 3622,19.69,185,0,https://alpha.art/t/BAW7BgffTqNmGFUphBt6dCK3F34vXXx3eCDzANmQbmYD,Deep Ocean Blue,Tourist Tee,Rugrat Frames,Mullet,Vape God,Friendship Necklace,Zombie,Earring
 3630,5.971,7064,49.4,https://alpha.art/t/C66ijYtNMh1pwGn1wSc4P4RSBn3M3FSpVByWCwhjgM9m,Purple,DeGod Cutoff,Neon Shades,Bleached Curls,None,None,Navi,None
 3640,35,4978,0,https://alpha.art/t/GGeQHguRWgJ7oVdEbF3uGNpEPP3bPvY5sj4rBAyHLd4Z,Brown,Mickey DeGods Uniform,None,Bleached Curls,None,Pimp Chain,Ape,None
 3642,225,435,0,https://alpha.art/t/84DxA4xMaTER7cd9XTMV3fX5AAcUKavt8TCuHnF5mfyx,Teal,God Jersey,None,Ushanka,Fruit Roll Up,Pimp Chain,Solar Spiral,Angel Wings
+3654,6.4,3057,61.78,https://alpha.art/t/4mibXF3e6GdybQvYrhCmrJoFWDtZHg8BFVGzzyoWBkXt,Red,Gym Tee,None,Exposed Brain,None,Pimp Chain,Leopard,Earring
 3655,59,2537,0,https://alpha.art/t/Bp7vvHwnY3yQfpmLNvBeJsnivpte2yn2RDUTcADgcVh8,Brown,DeGod Cutoff,Swirly Glasses,Heavenly Crown,Clown Nose,None,Turquoise,None
 3660,6.5,3080,60.69,https://alpha.art/t/3eroiebePfANRxFW26hx4xWc85fUPEytu83cNUFkmy5D,Brown,Godchella Hoodie,Clout Goggles,DeGod Pro Trucker,Vape God,Friendship Necklace,Pink Granite,None
 3662,18,2547,0,https://alpha.art/t/G7RZr2JSdAkcFfVLeJGox6T1P7eZp1SUG2xFP2rHJaXG,Alaska,God Scout Uniform,Clout Goggles,DeGod Pro Trucker,Party Blower,None,Ape,None
@@ -310,11 +313,10 @@ id,price,moonRank,💎 score (%),storeURL,background,clothes,eyes,head,mouth,nec
 3680,8,4894,38.14,https://alpha.art/t/3Krg51YF5T9rJB694HKH2SoMWXYYUNbL4X99KvvGN1sV,Purple,God Beater,None,Bloody Horns,Santa Beard,Diamond Necklace,Marble,None
 3690,8,672,55.7,https://alpha.art/t/AUAm16cA2R15RT8f6jsMgkcKEbMHVVTkwxQcScXye9qj,Blue,Jean Jacket,Swirly Glasses,Bleached Curls,Hipster Beard,Silver Chain,Poker,Quarterback
 3694,333,68,0,https://alpha.art/t/Bo8YDCH5bmaKZMJcLi8vsCPbGCXRgePJpVycBmMG7rYB,Deep Ocean Blue,War Armor,Glowing Eyes,Mythic Halo,Hipster Beard,Paperclip Necklace,Marble,Angel Wings
-3709,6.9,3431,55.23,https://alpha.art/t/6s5djV3cH46Eu8v7TdEFk1uUTt6DgNZ8qmjCGvxj1DKv,Olive Green,Caesar Tunic,DeGucci Goggles,God Dome,None,Silver Chain,X-Ray,None
 3719,12.3,1696,8.44,https://alpha.art/t/8tq8CY3br2nMDzbS9KNLfHPLo6V9rvHmKecowYPpKR8E,Deep Ocean Blue,Bloody Beater,None,Godhawk,Hipster Beard,Mythic Mamba,Poker,None
 3721,12,7581,0,https://alpha.art/t/9PhbRQ2nbKsuSA2ejiaXUys2ttgqTUYvttFEYApW9UAa,Supernova,Jean Jacket,None,Curly,None,None,Turquoise,Quarterback
 3734,21,7890,0,https://alpha.art/t/23nJftDfCCefFJASL8vYmDchZz7UWks8MWJqURuDLxVC,Brown,Tattered Tee,Eye Patch,Gold Leaf Laurel,None,None,Marble,None
-3737,9.87,1671,32.85,https://alpha.art/t/2x8Fge8ngUDugTUdc2BcYrWTLMzykHWB7szHJ9sDmuEs,Olive Green,God Scout Uniform,None,Exposed Brain,Hipster Beard,Silver Chain,Radioactive,None
+3737,8.88,1671,42.75,https://alpha.art/t/2x8Fge8ngUDugTUdc2BcYrWTLMzykHWB7szHJ9sDmuEs,Olive Green,God Scout Uniform,None,Exposed Brain,Hipster Beard,Silver Chain,Radioactive,None
 3738,23,4243,0,https://alpha.art/t/3UDsWSiLCumos86eyxuLW7trgHNkCxBijd2JaLpFYVvz,Purple,Godly Tunic,None,Ushanka,None,Paperclip Necklace,Zebra,Devil Wings
 3742,16.989999999,3470,0,https://alpha.art/t/GVTRRU4KHVzYxmMdU43kVc4EBwuHN9p51Ws17AdeU1bL,Red,Tech God Vest,All Seeing Eyes,Skull Mask,Vape God,None,Zebra,None
 3771,17.4,4398,0,https://alpha.art/t/5Bvp5tBhroWWrS6eN9Tzy1zrK8CmQkR8poeaUzxwuEu6,Hell,Jean Jacket,None,Godfro,Porn Stashe,Friendship Necklace,Marble,None
@@ -522,6 +524,7 @@ id,price,moonRank,💎 score (%),storeURL,background,clothes,eyes,head,mouth,nec
 5156,9.69,3821,25.7,https://alpha.art/t/AqShdVWJVdAUWgjzKbjh2tPkk56XrdsnCzyorPXutzWu,Olive Green,DeGod Cutoff,Snake Eyes,Bleached Curls,Cigarette,None,Blue Sky,None
 5169,11.55,5844,0,https://alpha.art/t/5xQCprTjC8yv7qBaDVFbpxiDFJzVzM27XdR7CPrcH8zq,Red,Bleached Tee,Clout Goggles,Bleached,None,Friendship Necklace,Turquoise,None
 5182,6.33,4553,56.26,https://alpha.art/t/9scH7WhszLx71uJdM289q35qCBok99rHoCm2riaNuQc3,Purple,Peasant Blouse,None,Rainbow Definitely Not A Dildo,None,Friendship Necklace,Radioactive,None
+5183,6.31,9385,36.36,https://alpha.art/t/2dXG3jKM1WG87DUCNaGFSdVVfjWZGtTCXnphrmCdyyqU,Olive Green,Tracksuit,None,Prince Hair,None,None,Pink Granite,None
 5186,69420,7948,0,https://alpha.art/t/CYScLqGzZfUiBC7K8TE4m9GYTLqKZ788LgbKfBrwTB88,Deep Ocean Blue,Tattered Tee,None,Godhawk,None,Diamond Necklace,Solar Spiral,None
 5204,6.33,949,71.25,https://alpha.art/t/B9K2pcovfNgfL3Jn8WCa8hb4oUowYX2Sa2dcBsch9z2B,Alaska,Steve Jobs Turtleneck,None,DeGucci Bucket Hat,Cigarette,Silver Chain,Solar Spiral,Archer
 5206,25,5692,0,https://alpha.art/t/3eAmLxVzdZ7ypYhMvh4b9iGjzPsdJjNnMBtyhAweiD5A,Deep Ocean Blue,Caesar Tunic,DeGucci Goggles,Godhawk,None,None,Pastel,None
@@ -797,7 +800,6 @@ id,price,moonRank,💎 score (%),storeURL,background,clothes,eyes,head,mouth,nec
 7018,11,1131,23.79,https://alpha.art/t/EDpPxVSNK64pcWVLUTUm7iVdGs89mdy6HEMQfH2VJ8kg,Deep Ocean Blue,Googod Tee,None,Fade,Cigarette,Christmas Lights Chain,Joker,Angel Wings
 7028,22,5835,0,https://alpha.art/t/BB3H4ZTsWkNBf56YGnnYLpppFQzyyiV7RgQLshaxiNJT,Blue,Tattered Tee,None,Dimmadome Top Hat,Party Blower,None,Pink Granite,Archer
 7044,18,4129,0,https://alpha.art/t/2n8wcNi2bm7yMz5eZCTFJ116q6roKvUJ7eNfwS8e7FMC,Purple,DeDoctor Coat,Laser Eyes,Exposed Brain,None,None,Navi,None
-7046,6.4,4120,57.36,https://alpha.art/t/A5SfCZXofGbqdx4mJcpNdwJPxxgRDENzA5CzavQRpm78,Brown,Jean Jacket,None,Prince Hair,Clown Nose,None,Pastel,Earring
 7055,11.11,4154,10.12,https://alpha.art/t/G3w2JjB7QHy5VxrXVJxxFv7RaVLNQd4m7T7RTQhCoD6R,Brown,Silk Robe,None,Mad Scientist,Vape God,Christmas Lights Chain,Zebra,None
 7094,10.01,9189,0.17,https://alpha.art/t/E7Tiu3Tq9W2WmXMXYXMgc4ms7gELDiKoi6fsb6zUuj8T,Deep Ocean Blue,Tracksuit,None,God Dome,None,None,Marble,None
 7101,8.5,811,50.13,https://alpha.art/t/4XAvLuic1KwRVn6uwbPvr1gXCvnZ8ZgVtQkbzQTR1azC,Purple,Googod Tee,Neon Shades,Mullet,Porn Stashe,Friendship Necklace,Leopard,Archer
@@ -1077,7 +1079,6 @@ id,price,moonRank,💎 score (%),storeURL,background,clothes,eyes,head,mouth,nec
 8885,7,9505,28.96,https://alpha.art/t/4cs4ebLiifvYw8aAWPWvfCKsidLw5FeN81ykhnwFKpgm,Olive Green,Jean Jacket,None,Hippie Hair,None,None,Lavender Stripe,None
 8890,8.9,8165,15.53,https://alpha.art/t/C2MUtyxWUXBRFAQVQL9GwiiCCqqNwAPUNBQrGT5ao3cp,Purple,God Scout Uniform,None,Bleached Curls,None,Paperclip Necklace,Marble,None
 8901,42.069,1004,0,https://alpha.art/t/7ctQcq9AjxN5Wf3SYMSqun5eChakWdDTUmnDvLBbZVyj,Red,Steve Jobs Turtleneck,Money Sign Shades,Ushanka,Porn Stashe,None,Ape,Black Eye
-8902,7.9,1531,53.13,https://alpha.art/t/GM4idjPXZgQPkmtihTFRF5HwGmHqJ4MAfc5R5uZGawB8,Blue,Bleached Tee,None,Headband,Hipster Beard,Pimp Chain,Poker,Black Eye
 8905,33.33,3676,0,https://alpha.art/t/2uqntVfPj7WXcf2gsy8Lc3aVYAKaww2xmh95QSDM7DBR,Olive Green,FTX Jersey,None,Godhawk,None,Friendship Necklace,Lavender Stripe,Forehead Diamond
 8926,240,1640,0,https://alpha.art/t/H8ZfQtb8TqdvsKivyzWdc1Eg2LS76Y8oL5iUctn7WVEK,Olive Green,Googod Tee,Neon Shades,Mythic Halo,None,Diamond Necklace,Poker,None
 8940,500,1185,0,https://alpha.art/t/3DAWG6JSoffe4TvxgMNwAKwnVPfNa31jvPPGSJrVL6hC,Teal,Godly Tunic,Snake Eyes,Plank,None,Christmas Lights Chain,Joker,Quarterback
@@ -1139,7 +1140,6 @@ id,price,moonRank,💎 score (%),storeURL,background,clothes,eyes,head,mouth,nec
 9316,6,4087,61.5,https://alpha.art/t/65tujXJezCjzb1PMcNCrWydyHJVYnghJtLKU4pM7CD7K,Blue,Bloody Beater,None,Fade,Santa Beard,Louis Scarf,Blue Sky,None
 9323,8.24,6010,31.1,https://alpha.art/t/7yGYjnwdFGkjt9tnQSeuQEssSUurwk64u4DY1LhTr85S,Blue,Overalls,None,Mad Scientist,None,Louis Scarf,Pink Granite,Devil Wings
 9336,15.77,9521,0,https://alpha.art/t/FgXiuKrpbdVuyaNUDDbk4Gsu7jruaogENLX8gkCxH4gj,Deep Ocean Blue,Tourist Tee,None,Curly,None,None,Solar Spiral,None
-9341,7.9,3323,45.68,https://alpha.art/t/DhDGCrUft6aCzSh3p5pzQFHbtBsGfFHvoVwWc8ZdWznN,Deep Ocean Blue,Gym Tee,None,Godhawk,Santa Beard,Paperclip Necklace,Pink Granite,Quarterback
 9363,14,5655,0,https://alpha.art/t/8KQK2yHj2ZwpRrTXGMMZZF9SdgucAQSDg2iKhACpXFs7,Deep Ocean Blue,Steve Jobs Turtleneck,Rose Tinted Shades,Mad Scientist,Party Blower,None,Turquoise,None
 9375,12.5,4369,0,https://alpha.art/t/Hv9EarZDdjUPhp8EJWHnvRpSZpxCgfpZmgkrfxotyoWt,Blue,Godchella Hoodie,None,Mad Scientist,Smoke Ring,None,Marble,God of War
 9378,5.5,5434,60.89,https://alpha.art/t/DJHPQd3JpHZdEQvhhpjRa7NAFW5wma4GW8SiaFn8PYxo,Deep Ocean Blue,Peasant Blouse,None,Bleached Curls,Vape God,Friendship Necklace,Solar Spiral,None
@@ -1224,7 +1224,7 @@ id,price,moonRank,💎 score (%),storeURL,background,clothes,eyes,head,mouth,nec
 9805,6.99,821,65.18,https://alpha.art/t/H1ZNaTEXt4ueQ5u4cN7ktWYduQy8mD12PNZCSutieePj,Blue,God Jersey,None,Bed Head,Smoke Ring,Louis Scarf,Leopard,Black Eye
 9808,420.69,4046,0,https://alpha.art/t/Ag73LjBHoR7a9rfwXeEviQp2KeFok1vj7oAhP2tDcy5p,Deep Ocean Blue,Bloody Beater,None,Medusa,None,None,Acid,None
 9821,10.88,1912,21.75,https://alpha.art/t/D5vrUipwbrTRZM2hwj6fWuvtr4nzY4p8KZwBjhiwnv8z,Brown,Hawaiian Shirt,Alien Spectacles,Leaf Laurel,None,None,Transcendent,Archer
-9829,7.48,1594,57.07,https://alpha.art/t/346ViC6ZYqGZ4b1n22J9tEv5AfH93EygCWSEd5LvaTJb,Blue,DeGod Cutoff,None,Godhawk,Fruit Roll Up,Silver Chain,Ape,Quarterback
+9829,6.6,1594,65.87,https://alpha.art/t/346ViC6ZYqGZ4b1n22J9tEv5AfH93EygCWSEd5LvaTJb,Blue,DeGod Cutoff,None,Godhawk,Fruit Roll Up,Silver Chain,Ape,Quarterback
 9830,7,120,68,https://alpha.art/t/CjcnXkJjkVUNKMRXsfwi2n6x8m6swjjc4gGMg3YbxyVK,Brown,God Scout Uniform,Glowing Eyes,Mullet,Porn Stashe,Cannibal Necklace,Zombie,Archer
 9831,16.5,5258,0,https://alpha.art/t/HaTAX7bJdCD9wAYXVh2ESQJ7JGyYwP7Qpmxm8kfYaxAt,Alaska,World Champion Robe,None,Mad Scientist,None,Gold Chain,Leopard,None
 9832,275,3560,0,https://alpha.art/t/651gdrWFRHJ4wSUEdTMWWi8WhaLoRQyAzNsk4zBQum38,Deep Ocean Blue,World Champion Robe,None,Mullet,Cigarette,None,Nebula,None
