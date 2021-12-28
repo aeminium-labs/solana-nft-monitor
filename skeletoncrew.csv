@@ -172,6 +172,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Expression,Extras,Eyes,Face
 1347,5,3138,34.66,https://alpha.art/t/2VYBdujm4cPidxp2cvgEqShRagGfDrz9T1VS7DHAt4V8,Grey,Deadpan,None,Purple Worms,Tongue,None,Divot,Hiro the Truly Obnoxious,None,Brains
 1362,2.5,1216,71.2,https://solanart.io/search/?token=HXwNiJRKXuN38VZ63NcrKnDumQ9ELPKAGjSxknnn8TUs,Royal Blue,Fearsome,None,Twin Blue,Green Poker Chip,Tophat,Squiggle,Faust the Maggot,None,Spalding
 1371,14,3812,0,https://magiceden.io/item-details/CqCiCnmC5BNTowCgGPCQ1UwwQjrM5CTXRuNdj1uQZ1wj,Teal,Fearsome,None,Joker Paint,Blue Poker Chip,None,None,Chad the Stomper,None,Ramen
+1372,1.2,4892,62.14,https://magiceden.io/item-details/DGE87uyvUdpr1NKH3C5ARK4zPzz7JRtRZW84szD9ak87,Seafoam Green,Deadpan,None,Zen,Tongue,None,Cheeks,Chester the Usurper,None,Emptyheaded
 1382,0.449,2758,82.46,https://magiceden.io/item-details/J1kcjHV4abT2djCLGy3cbfDuYRYPZvcTxWP824ycavH2,Red,Fearsome,None,Red Flames,Mango Hammer,Royal Blue Durag,Worry Lines,Tyler the Damned,None,Zombie
 1387,8.9,232,13.11,https://magiceden.io/item-details/GkDyGKYft17EmEr2DwDh54rqiNpGzYucc1HaupBAEB76,Blueberryish,Fearsome,None,Nine Ball,None,Toasted,Cheeks,Buzz the Ooze,None,Bloody Splatters
 1389,8,3266,3.9,https://solanart.io/search/?token=DuHUnypmxqggmziq9bkX3CUh2PVst5Dm6pvKZmWWu5Cn,Orange,Fearsome,None,Single Blue,Razor Blade,Blue Mohawk,None,Donatello the Unhinged,None,Blue Splash
@@ -268,7 +269,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Expression,Extras,Eyes,Face
 2156,1.1,2381,78.21,https://solanart.io/search/?token=3KThaVYo5sxcmEWMo21f6Wd1Yt5yCJiYuq4WBwC72nUD,Teal,Fearsome,None,Twin Green,Razor Blade,Tophat,None,Nikolai the Unphased,None,Green Spray Paint
 2157,4.5,1126,51.74,https://solanart.io/search/?token=KPQeSLciU3SakPzga55tgwHMJaqLbqm3Z2Zgii7BWP8,Purple,Deadpan,None,Slime,Tongue,Pit Vipers,Buttchin,Bruce the Conjured,None,Yellow Spray Paint
 2158,8,244,22.04,https://magiceden.io/item-details/2okpDpLYUG7h7LV3K8PAfypp5ubwvCwNXdcmawCsoZye,Teal,Fearsome,None,Solana Pit Vipers,Cleaver,Red Mohawk,Divot,Duke the Unphased,None,Purple Creepy Crawlies
-2171,4,5001,33.48,https://alpha.art/t/8YZqrhXuGtWaud2xq3ks4tU5DzUnm1F8pfqj9fj6vWKb,Orange,Fearsome,None,Joker Paint,None,Horns,None,Odin the Doombringer,None,Purple Day Of The Dead
 2176,4.5,3836,35.47,https://alpha.art/t/EozsE6rPfdQj62GXLvPpr24TkDaWZ9wGdn8G45zvbkoJ,Yellow,Deadpan,None,Neon Spray Paint,Mango Hammer,Halo,Cheeks,Raphael the Forbidden,None,Orange Spray Paint
 2177,10,6596,0,https://alpha.art/t/QfBLCXfytpxbDHsEBtUo8uNkfsh5QXKVg5A9ZKoJYiT,Purple,Fearsome,None,Red Flames,None,None,Worry Lines,Victor the Unspeakably Dreadful,None,Pink Spray Paint
 2190,7.95,4555,0,https://magiceden.io/item-details/BqQVngidCYNLXmLL5mWxm68sNpKfS35nCp9JCn2ymRBj,Yellow,Deadpan,None,Eight Ball,None,Purple Baseball Cap,Cheeks,Casper the Damned,None,Blue Marbled
@@ -451,12 +451,14 @@ id,price,moonRank,💎 score (%),storeURL,Background,Expression,Extras,Eyes,Face
 3919,0.99,5536,60.37,https://solanart.io/search/?token=3VLUMgHRsiHT7AohZgkH4udPNGsCPHHnBzpVmzgAVdZz,Orange,Deadpan,None,Single Blue,None,Royal Blue Durag,Worry Lines,Boris the Stomper,None,Candy Corn
 3934,5.8,2757,28.95,https://solanart.io/search/?token=3rPxpeUwE2cVgSJY4ew86dSW31AeBhw3xZQAjMiDVUib,Orange,Deadpan,None,Twin Red,Razor Blade,Red Baseball Cap,None,Edgar the Stone Cold,None,Purple Day Of The Dead
 3938,1,6037,57.26,https://magiceden.io/item-details/CX6eYQQKB61p3YzjxQZT4tykfbWM5W1CZyKkBYCDEhL9,Orange,Deadpan,None,Lightning,Kunai,None,None,Caesar the Truly Obnoxious,None,Teal Bucket
+3944,2,2243,70.04,https://magiceden.io/item-details/BkUqYWZN8Ucm6y7YMKKXmAk9ZPHBLoqAN9bBuSLSkLUz,Red,Fearsome,None,Matches,Razor Blade,Blue Mohawk,Cheeks,Hiroshi the Bleakhearted,None,Kabuki Mask
 3948,0.9,1005,88.47,https://solanart.io/search/?token=3MGaAiTiLKRhsj52a4Y8oXXXpHBmpsCuYvnM42ufErJg,Teal,Deadpan,None,Twin Blue,Construction Sign,Green Baseball Cap,Worry Lines,Randy the Crypt Keeper,None,Wavy Pink
 3950,0.55,2987,80.07,https://magiceden.io/item-details/LBoR1xMdn4C6CxyfsYHemuJEkj3SYgvZvM6S1VJi76n,Red,Fearsome,None,Neon Spray Paint,Melon Hammer,Horns,Cheeks,Morpheus the Headbanger,None,Spalding
 3959,0.68,6174,59.64,https://alpha.art/t/Ba8E2R4k2WFxwqaZYoXRy8fNZjTqBMxZJ5c22Tpgu1n4,Royal Blue,Deadpan,None,Single Orange,Trench Knife,None,Worry Lines,Boris the Amped,None,Green Spray Paint
 3967,0.6669,4526,69.66,https://magiceden.io/item-details/AaD2aoczu1etSiz4Y3uUtkgeSNmdnMqwzZkNAqBM7FiR,Royal Blue,Deadpan,None,Blue Flames,Mango Hammer,Blue Spiked Mohawk,None,Luscius the Humerus,None,Hard Scrape
 3968,1.1,4713,64.21,https://solanart.io/search/?token=5RyTHg2Cm74DgvpoXTDCxyA1i2ALx8zn4pmMXdKFr5S2,Orange,Deadpan,None,Slime,None,Traffic Cone,Worry Lines,Myers the Absolutely Humongous,None,Blue Crosshatch
 3975,100,6145,0,https://solanart.io/search/?token=65BWMbydHdZki5RUTeobubkTRELQvEBHG23R1KnUWAzT,Orange,Deadpan,None,Dead Xs,Razor Blade,None,Divot,Salvatore the Doomed,None,Emptyheaded
+3976,0.35,6337,61.96,https://magiceden.io/item-details/4EpLoNaRBHXhv7CRK8oMymA5WXDXfjrxGBjCkdVxEgS7,Red,Deadpan,None,Red Flames,None,Blue Spiked Mohawk,None,Homer the Sinner,None,Jungle
 3980,2,6660,43.52,https://magiceden.io/item-details/9wp9U1LrNc3o2hQ4EqLyBdBF9fE1zL3tDeY4tXoE1NH6,Royal Blue,Deadpan,None,Single Blue,None,None,Cheeks,Cash the Lamebrain,None,Empty Candy Bucket
 3992,25,1803,0,https://solanart.io/search/?token=ANH7PSh5RBESfe3it2WBaJyidWPfpezC6hMaMZGC2g2y,Yellow,Fearsome,None,Tiny Pupils,Cigarette,None,Cheeks,Logan the Baddest Bad of All Time,None,Zombie Brains
 4004,5,1779,42.82,https://magiceden.io/item-details/BJoPJGjHz5FfkwgierbDhbEmSoxg75jh7EQDcJBcu1Z9,Teal,Fearsome,None,Third Eye,Green Record,None,Divot,Benedict the Secretive,None,Ramen
@@ -730,6 +732,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Expression,Extras,Eyes,Face
 6107,0.385,6583,60.14,https://magiceden.io/item-details/J8LCdVkxdQdxkRSiUtBoTz9XfszXrhBU1UvCcJKTmeEK,Royal Blue,Deadpan,None,Blood,Blue Poker Chip,None,Cheeks,Santiago the Forbidden,None,Empty Candy Bucket
 6115,13,876,0,https://solanart.io/search/?token=H2NfkTdF9T4t8ZPT87n7uDXqazsUBxvJ3RTkS8hUBgue,Seafoam Green,Deadpan,None,Twin Green,Melon Hammer,Halo,Squiggle,Richie the Drop Dead Gorgeous,None,Wavy Pink
 6117,16.9,78,0,https://magiceden.io/item-details/53opacWardb8d7iehmkG6Za7c5cNLDiuJTtkY3P3LxUd,Seafoam Green,Deadpan,None,One Yellow Coin,Kunai,Purple Spiked Mohawk,Buttchin,Apollo the Wrathful,None,Crimson Cranium
+6124,1,1064,87.11,https://magiceden.io/item-details/3dqs8xoVM5WbURzuNKAC4KrB65jbSmaZiUMbLqzSwsaN,Red,Fearsome,None,Green Paint,Green Record,Pizza,Squiggle,Rocky the Ancient One,None,Putting Green
 6126,6,1263,35.92,https://solanart.io/search/?token=8uLeAeXod1HEmCqGvzUBc3Ffrnfu8HyCLF4sT6eFgYGd,Teal,Fearsome,None,Glow Worms,None,Pit Vipers,Cheeks,Zeus the Unbalanced,None,Kabuki Mask
 6135,1.5,4240,63.05,https://solanart.io/search/?token=A6YYf2DYpTT2q1LPg1XdLNtpsNFvW9MZSjtnhRpr619A,Mango,Fearsome,None,Sunglasses,None,Tophat,Cheeks,Luciano the Dude,None,Jungle
 6145,6,5995,7.52,https://magiceden.io/item-details/2TxhW3DkHVATvoxqChapf8d8h3VfdCwFy9NTwcaQbjAJ,Red,Fearsome,None,Neon Spray Paint,Tongue,None,Worry Lines,Curt the Undertaker,None,Brainwave
