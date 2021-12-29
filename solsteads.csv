@@ -41,6 +41,7 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 64 King Street,19,2408,0,https://alpha.art/t/9ixnGeXArFnsmKuheMcNSKDj2gLE8aCLbdWYddSkyA1L,Field,Blue,64,Cottage,Brick,Yellow,Shuttered,,Green,Shingle,Day,King Street
 65 Supple Circle,10,1889,54.42,https://magiceden.io/item-details/5bEUG2Pmbnpv4guSrr5SGsu6Nzp5jfqdYTeZdsdPsbdQ,Field,Blue,65,Modern,Vines,Yellow,Shuttered,,Red,Tin,Night,Supple Circle
 67 Ape Lane,37.200001,2435,0,https://solanart.io/search/?token=5v9ejU8xtksDokeB8UoNvssKCSpWjgagbiPXMnC4k4Nt,Field,Red,67,Cottage,,Red,Shuttered,,Mix,Grass,Day,Ape Lane
+68 King Street,15,731,23.17,https://magiceden.io/item-details/BDcA7K5cY2wnastJ1ThmEAhimBhBx1Ehy25jGSy5GbR4,Mountain,Green,68,Cottage,,Blue,Shuttered,,Lavender,Tin,Night,King Street
 68 Ape Lane,175,858,0,https://solanart.io/search/?token=7R911JG23yX7K9ZQhcqZgxHXwcpUznWNYsCkKy41gPww,Underwater,Yellow,68,Modern,Vines,,Glass,,Blue,Patio,,Ape Lane
 69 Abbey Road,169,1380,0,https://solanart.io/search/?token=9uC68Ww8UPhX1eGyzSMF5tECTYLXP29BEs8QbAtZdyKp,Field,Red,69,Modern,Vines,Red,Rounded,,Mix,Food,Day,Abbey Road
 70 Wall Street,30,1352,0,https://magiceden.io/item-details/2RWThA3Ct1GUZazXEYKCtisJdGqXfLM4Mh92QtnDdVsJ,City,Lavender,70,Modern,Vines,Red,Rounded,,Blue,Skylight,Day,Wall Street
@@ -86,7 +87,6 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 120 Supple Circle,169,999,0,https://solanart.io/search/?token=C3vZDUVSnbkWRHLeR8XuknhBDHdKTi12MhAJ4piHXArW,Woods,Green,120,Cottage,Vines,,Occult,,Yellow,Shingle,Night,Supple Circle
 120 Canal Street,666,1082,0,https://solanart.io/search/?token=GZqdwx4ULjbksx2BUUthETsndBMiVzYPgrQEDmsVHtEr,Field,Yellow,120,Cottage,,Pale green,Shuttered,,Green,Haunted,Night,Canal Street
 123 Wall Street,30,1640,0,https://magiceden.io/item-details/7MaAemsRtiM9x97JPowtYhzqztRxt2iiH5dwSTahFB1b,City,Green,123,Art Deco,Vines,Red,Rounded,,Green,Shingle,Day,Wall Street
-136 Stewart Avenue,10,1804,55.8,https://magiceden.io/item-details/6wL9zVk78WsYRztEWYtpcxKXqi69GGD1qEWXp24zfoP,Desert,Green,136,Modern,,Green,Shuttered,,Mix,Grass,Day,Stewart Avenue
 139 Wisteria Lane,30,116,0,https://solanart.io/search/?token=CADfWxd2AM88B34FBrvTyJgYwBg6CUqBX2UWzACutv5p,Mountain,Blue,139,Cottage,Brick,Lavender,Rounded,Snow,Yellow,Shingle,Day,Wisteria Lane
 139 Canal Street,327,1368,0,https://solanart.io/search/?token=HnbHnLMiVAwairVDjmZbpqsEriKtLHRYoWuyMMwbZMxi,Beach,Green,139,Mansion,,Yellow,Shuttered,,Pale green,Shingle,Day,Canal Street
 142 Canal Street,18,743,0,https://magiceden.io/item-details/8XtMPBJtrXkuKg8htSHins5TefHLe4E25GmeowyXEcC7,Treehouse,Dark green,142,Cottage,Vines,Green,Shuttered,,Red,Shingle,Day,Canal Street
@@ -274,7 +274,6 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 471 Dahlia Drive,44,283,0,https://solanart.io/search/?token=8B1ASQ6WDJ8vB8CmXhdZhjqRRGQhgpWKZk4JUEqNfBXj,Volcanic,Blue,471,Mansion,,Yellow,Rounded,,Red,Shingle,Sunset,Dahlia Drive
 472 Dahlia Drive,28.99,1287,0,https://solanart.io/search/?token=65sxRrbzvkbMmEwE4xk85wLVu94gwpEVhnDAUic4G71y,Desert,Green,472,Mansion,Vines,Blue,Rounded,,Blue,Shingle,Day,Dahlia Drive
 472 Lamport Lane,65,1928,0,https://solanart.io/search/?token=4LHoPgWqDxoyRSfYu35uLUnvpPwcJGiJRiJ8qkjQWHgu,Desert,Blue,472,Modern,,Lavender,Rounded,,Red,Shingle,Day,Lamport Lane
-485 Lamport Lane,11,2334,37.22,https://magiceden.io/item-details/CpJYkoTx5DD5zd9fxCA5fHK5WV33rzpg2DVJ5NtMUJNn,Field,Red,485,Cottage,,,Glass,,Mix,Grass,Day,Lamport Lane
 487 Lamport Lane,54,71,0,https://alpha.art/t/9xw4NPdvvBeRx16RgKUnVHV9WKSe9HNnK6vPsFb2Un7c,City,Yellow,487,Modern,Vines,Pale green,Shuttered,Rain,Mix,Mushroom,Sunset,Lamport Lane
 488 Lamport Lane,19,214,0,https://solanart.io/search/?token=6BSyLLpKPfZXzEC4bAfSh2AVjS54iBZH4gs1tMv2jb9h,Woods,Yellow,488,Cottage,Brick,Lavender,Rounded,,Yellow,Patio,Sunset,Lamport Lane
 490 Dahlia Drive,550,1780,0,https://alpha.art/t/7GDeXu9TAB8eRqeBhCFSdDFxxC7EGYJhcsV72CpThVgC,Woods,Blue,490,Modern,,Red,Shuttered,,Blue,Skylight,Day,Dahlia Drive
