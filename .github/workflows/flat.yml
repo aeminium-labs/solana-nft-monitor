@@ -1209,3 +1209,18 @@ jobs:
           downloaded_filename: cozy_cubs__alphaart.json
           axios_config: .github/alpha_axios_configs/cozy_cubs.json
           postprocess: ./postprocess/alphaart.ts
+
+      - name: stealth_ninjas - Fetch Magic Eden data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://api-mainnet.magiceden.io/rpc/getListedNFTsByQuery?q=%7B%22%24match%22%3A%7B%22collectionSymbol%22%3A%22stealth_ninjas%22%7D%2C%22%24sort%22%3A%7B%22takerAmount%22%3A1%2C%22createdAt%22%3A-1%7D%2C%22%24skip%22%3A0%2C%22%24limit%22%3A500%7D
+          downloaded_filename: stealth_ninjas__magiceden.json
+          postprocess: ./postprocess/magiceden.ts
+
+      - name: stealth_ninjas - Fetch Alpha Art data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://apis.alpha.art/api/v1/collection
+          downloaded_filename: stealth_ninjas__alphaart.json
+          axios_config: .github/alpha_axios_configs/stealth_ninjas.json
+          postprocess: ./postprocess/alphaart.ts
