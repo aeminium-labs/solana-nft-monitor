@@ -35,14 +35,13 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Base,Face Feature
 423,0.4,88,95.06,https://magiceden.io/item-details/9oCHh2wxgHguGQx9nTuUM3RWX8Y7csNbBgMz1twvSwqD,Satanic Necklace,Orange,Orange,None,Afro,Blue,Brown Shirt
 427,0.5,71,94.75,https://magiceden.io/item-details/A36BFK4TeCGqng4UJvgu5ZvKwXEBrcggcaRgxYq12WNz,3D Glasses,Lime,Yellow,None,Trash Can Lid,Brown,Blue VNeck
 440,0.5,456,79.27,https://magiceden.io/item-details/C5MFuyGzVbTGK7FpFZKd3QmpkEpCwA8N9yXRVCvkSnFS,Green Readers,Blue,Black,None,None,Magenta,Brown Shirt
+445,0.55,713,68.44,https://magiceden.io/item-details/D5uKbthN4tYk1BrShQXFqW36p2MrBSZNR7447uMhHsfZ,Purple Sunglasses,Sunflower,Brown,None,None,Sunflower,Yellow ZipUp
 462,0.6,960,58.01,https://magiceden.io/item-details/uNYP1EPQqWkq3rKU2ZtNrbrTRXDYV1j4X7kM5BFQCu6,Pink Readers,Orange,Green,None,None,Blue,None
 464,0.6,917,59.74,https://magiceden.io/item-details/2LyY7hUsDkekA27KcwH3yfE6S8XQdyn6fUTXSfVjuGmS,Blue Sunglasses,Lime,Grey,None,None,Green,None
 467,0.51,505,77.2,https://magiceden.io/item-details/6VkvbWHVk75xmpU7YzGWEj8ai9mFdpXQjtRGnTjVpqhM,Green Readers,Salmon,Harlequin,None,Bandana,Blue,None
 470,7,62,30.11,https://magiceden.io/item-details/6DzLAMUYdmABn332qX9ZNmn2CW1bMuEm3poJWhDGfG8N,Orange Sunglasses,Cyan,Black,None,Tiara,Pink,Orange Shirt
-483,2.5,79,74.42,https://magiceden.io/item-details/17LQE34aav8Mi5WrGT73TwchZypCr9LEFn59JApH46K,Collar,Pink,Green,None,Trash Can Lid,Blue,Red Shirt
 484,0.54,941,59.37,https://magiceden.io/item-details/2QASTeMYpWkv5CtBsmUt2sS3oT3oQGYUaNCabPaBXmf3,Gold Chain,Pink,Steel Grey,None,None,Green,None
 491,1,146,86.73,https://magiceden.io/item-details/58xu9BHegzeJbN1kYdmb9KBW4exEDnVKF3SLsYkugNRS,Blue Readers,Teal,Pink,None,Purple Miners Hat,Magenta,Grey Shirt
-493,2.5,80,74.38,https://magiceden.io/item-details/EQ9kgFmSebKuBRSgW3qWYq1UG8Gwrf12Jx1DqZ9Jght4,Blue Sunglasses,Cyan,Black,None,Wizard Hat,Green,Yellow ZipUp
 515,0.48,763,67.13,https://magiceden.io/item-details/A8fVZtJiBvv9EKTwwSNdgzZe6f5AwhZQBXWiVh6KT2JL,Pink Readers,Orange,Brown,None,Plunger,Steel Grey,None
 516,2,643,56.75,https://magiceden.io/item-details/5NrNVqUSyjRwur9ivvdHTdYFbnpVoMjjrjug36ntFzCd,Pink Readers,Magenta,Lavender,None,None,Brown,Pink ZipUp
 530,1,885,57.02,https://magiceden.io/item-details/N1fap7SmWSgMmyqGBxQezD2hxfe1gaRhGHEUtw9TFto,None,Teal,Green,None,None,Light Blue,Yellow ZipUp
@@ -50,6 +49,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Base,Face Feature
 580,0.65,185,88.66,https://magiceden.io/item-details/4JY3CEKcQFbYksi846aGP7mxfdrr1HeVvrM9LTwS28sR,Cigarette,Sunflower,Brown,None,Turkey Hat,Light Blue,Yellow ZipUp
 591,0.58,863,62.11,https://magiceden.io/item-details/2iEnEu3qYzjmad5FW21c1v8mcMBFb2PuU17fELs1aCVb,Collar,Sunflower,Cyan,None,None,Sunflower,None
 605,0.6,692,68.78,https://magiceden.io/item-details/5MAqokQgbNyQoW7LuLwvMg8jQjxRfhmmMBVEWaKqix1t,Cross Necklace,Green,Brown,None,None,Purple,Brown Shirt
+614,0.7,641,69.83,https://magiceden.io/item-details/38bxRnsN1jMvQyWns9ispu11BZhRVmreYm5EdC4rABbf,Blue Readers,Lime,Silver,None,Purple Miners Hat,Yellow,None
 622,0.3,589,75.92,https://magiceden.io/item-details/7YurWuan3F9K82uaZJ8to6y6W5vRYsi2B1wKEBVF2oA8,None,Cyan,Sage,None,Purple Miners Hat,Light Blue,Red Shirt
 652,1.2,53,88.47,https://magiceden.io/item-details/8bEZYSrnf8HGzAnwZkVTxttHtkvKNX8jt931muBqi65L,Collar,Salmon,Brown,None,Sun Hat,Magenta,Orange Shirt
 659,1,843,58.71,https://magiceden.io/item-details/4891wUvqzZYwcZqZygK7jvxyDBxHeMD7eziBK5gsJpkn,None,Salmon,Harlequin,None,None,Blue,Pink Shirt
@@ -95,7 +95,6 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Base,Face Feature
 1312,1,203,84.44,https://magiceden.io/item-details/APdQc35PAqmvzF4eKvMAvAeU1XWASoRdmqhUTyKKHvi1,Gold Chain,Lime,Fuschia,None,Goku Hair,Purple,Green VNeck
 1327,0.5,276,86.5,https://magiceden.io/item-details/3Mgqhc8QsxEmiKXwMCg1xgcFKaiPCyDy73Edh3DiF8oj,Gold Chain,Lime,Fuschia,None,Flower Hat,Purple,Pink ZipUp
 1330,10,483,0,https://magiceden.io/item-details/8uWcCvZre6rvnCC72s6Wizbf2gwEZrPVCN5KcNzYGgJP,Blue Sunglasses,Lavender,Harlequin,None,Frog hat,Sunflower,None
-1337,2.5,65,74.99,https://magiceden.io/item-details/BdzmwGN6j8NwiHkyL4UEMeMQMEKqDixUNZFhdkKp4eRq,Collar,Green,Cyan,None,Buccaneer Hat,Yellow,Pink ZipUp
 1374,0.6,539,74.93,https://magiceden.io/item-details/CgvBstDYm8pPAiWMdckaLBY88g7ziFE34LTTKqWy4Bj8,None,Teal,Steel Grey,None,Lucky Hat,Blue,Orange Shirt
 1381,0.4,518,77.78,https://magiceden.io/item-details/FvGXBL7LivkWioL7z4uQrYvmxhLXfRwMEwKmDionEyY4,None,Lime,Brown,None,Turkey Hat,Yellow,Purple Shirt
 1420,0.742,610,70.66,https://magiceden.io/item-details/2cp47jjznZNHy9osb36ziJZS9sgyq5Sd9BjswSJ6tvyB,None,Teal,Purple,None,Flower Hat,Pink,Purple Shirt
@@ -112,9 +111,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Base,Face Feature
 1544,0.6,858,62.11,https://magiceden.io/item-details/qqkwAv9iwtRGvRENSLkwvrM9xe2hK4Qrmbb3Gu1gCVk,None,Green,Steel Grey,None,Afro,Brown,None
 1566,0.47,161,91.43,https://magiceden.io/item-details/5bcEWW2vZQRpbUAKkfi61HGRTvBBxuxfpomntMyNYxF8,3D Glasses,Green,Grey,None,Yellow Miners Hat,Black,Red Shirt
 1582,1.69,151,79.63,https://magiceden.io/item-details/8PDvimwgr4m1XuBYokaWPUqWF6t2MEGhRn5iEqp2vmmy,Collar,Lavender,Brown,None,Turkey Hat,Light Blue,Green VNeck
-1593,2.5,50,75.59,https://magiceden.io/item-details/B4TG1uxSRiMzU5WhZWkuhAYyAVFQ4iPuUM2s2nt5sFBK,Cigarette,Salmon,Red,None,Sun Hat,Green,Green VNeck
 1623,0.39,918,61.8,https://magiceden.io/item-details/V5gKkDL1NMyr4Qi8oK9YTR1w2tfaxCBL3nVRxzzz2pS,None,Teal,Pink,None,None,Green,Purple Shirt
-1653,2.5,29,76.43,https://magiceden.io/item-details/uv8ctD8Ude4nRgj72tGR5qXtgbLdYmiXDZY7fjtzPzN,None,Salmon,Brown,Tears,Wizard Hat,Black,Patrol Shirt
 1654,0.4,159,92.21,https://magiceden.io/item-details/8ZxU3szQ94pve1cEb5HmMA9R65pZBFuKwETNNFV5f8bK,Green Readers,Blue,Purple,None,Cowboy Hat,Light Blue,White VNeck
 1662,0.26,122,95.1,https://magiceden.io/item-details/5yewRYiSvfBL8YH8m8ZfN9wmrGsCAeL1wYXmL3Q93kjy,Blue Readers,Orange,Yellow,None,Afro,Yellow,Orange Shirt
 1701,0.8,149,88.61,https://magiceden.io/item-details/2jW3qJXRGHtaoqZFJZh9vyjwh3dsnK1JTB1rysSuxJar,Gold Chain,Blue,Silver,None,Pumpkin Hat,Light Blue,Orange Shirt
