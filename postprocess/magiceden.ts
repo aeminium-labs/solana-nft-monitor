@@ -40,14 +40,18 @@ while (data.results.length > 0) {
     (c) => c["moonrank"] === collection
   )[0]["magic_eden"];
 
-  data = await fetch(
-    `https://api-mainnet.magiceden.io/rpc/getListedNFTsByQuery?q=%7B%22%24match%22%3A%7B%22collectionSymbol%22%3A%22${collectionId}%22%7D%2C%22%24sort%22%3A%7B%22takerAmount%22%3A1%2C%22createdAt%22%3A-1%7D%2C%22%24skip%22%3A${
-      (page - 1) * limit
-    }%2C%22%24limit%22%3A${limit}%7D`
-  ).then((res) => res.json());
+  try {
+    data = await fetch(
+      `https://api-mainnet.magiceden.io/rpc/getListedNFTsByQuery?q=%7B%22%24match%22%3A%7B%22collectionSymbol%22%3A%22${collectionId}%22%7D%2C%22%24sort%22%3A%7B%22takerAmount%22%3A1%2C%22createdAt%22%3A-1%7D%2C%22%24skip%22%3A${
+        (page - 1) * limit
+      }%2C%22%24limit%22%3A${limit}%7D`
+    ).then((res) => res.json());
 
-  if (data.results) {
-    allTokens.push(...data.results);
+    if (data.results) {
+      allTokens.push(...data.results);
+    }
+  } catch (_) {
+    data.results = [];
   }
 
   page += 1;

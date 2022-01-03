@@ -9,7 +9,7 @@ type Item = {
 
 type RawData = {
   tokens: Array<Item>;
-  nextPage: string;
+  nextPage: string | undefined;
 };
 
 const filename = Deno.args[0];
@@ -24,13 +24,17 @@ const csvData = await cleanCSV({ fileName: csvFilename, market: "alpha.art" });
 const allTokens = data.tokens || [];
 
 while (data.nextPage) {
-  data = await fetch("https://apis.alpha.art/api/v1/collection", {
-    method: "POST",
-    body: JSON.stringify({ token: data.nextPage }),
-  }).then((res) => res.json());
+  try {
+    data = await fetch("https://apis.alpha.art/api/v1/collection", {
+      method: "POST",
+      body: JSON.stringify({ token: data.nextPage }),
+    }).then((res) => res.json());
 
-  if (data.tokens) {
-    allTokens.push(...data.tokens);
+    if (data.tokens) {
+      allTokens.push(...data.tokens);
+    }
+  } catch (_) {
+    data.nextPage = undefined;
   }
 }
 

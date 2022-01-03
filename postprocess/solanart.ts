@@ -41,12 +41,16 @@ while (data.items.length > 0) {
     (c) => c["moonrank"] === collection
   )[0]["solanart"];
 
-  data = await fetch(
-    `https://qzlsklfacc.medianetwork.cloud/get_nft?collection=${collectionId}&page=${page}&limit=${limit}&order=price-ASC&fits=any&trait=&search=&min=0&max=0&listed=true&ownedby=&attrib_count=&bid=all`
-  ).then((res) => res.json());
+  try {
+    data = await fetch(
+      `https://qzlsklfacc.medianetwork.cloud/get_nft?collection=${collectionId}&page=${page}&limit=${limit}&order=price-ASC&fits=any&trait=&search=&min=0&max=0&listed=true&ownedby=&attrib_count=&bid=all`
+    ).then((res) => res.json());
 
-  if (data.items) {
-    allTokens.push(...data.items);
+    if (data.items) {
+      allTokens.push(...data.items);
+    }
+  } catch (_) {
+    data.items = [];
   }
 
   page += 1;
