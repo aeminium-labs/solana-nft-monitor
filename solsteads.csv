@@ -46,7 +46,7 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 70 Rosa Street,54,2112,0,https://solanart.io/search/?token=DY79dcBszRaRP1wRdmzh8TTf2fd5G2nh5JrDSRGKJL8A,Desert,Blue,70,Modern,Brick,,Crystal,,Red,Skylight,Day,Rosa Street
 70 Ape Lane,69,2063,0,https://solanart.io/search/?token=2jXKGyJshPvCnVDFwU1HdkZYv1gBqxnr2m54fNkxQeKb,Field,Red,70,Mansion,Vines,Yellow,Rounded,,Red,Shingle,Day,Ape Lane
 70 King Street,70,1864,0,https://alpha.art/t/A35jg3fXhBxTDUTE2YX1JEf9fYTFubVr5QS1nCSpB39A,Field,Yellow,70,Cottage,Vines,,Glass,,Pale green,Patio,Day,King Street
-72 King Street,29.690001,770,0,https://solanart.io/search/?token=2ew8kTc1HS8NPLxd3CcggmeN9AkRH3NgAtyDaczoU4G7,Underwater,Blue,72,Cottage,Vines,Blue,Rounded,,Yellow,Skylight,,King Street
+72 King Street,7.69,770,85.54,https://magiceden.io/item-details/2ew8kTc1HS8NPLxd3CcggmeN9AkRH3NgAtyDaczoU4G7,Underwater,Blue,72,Cottage,Vines,Blue,Rounded,,Yellow,Skylight,,King Street
 73 Stewart Avenue,69.419998,2471,0,https://solanart.io/search/?token=6wtFQjzoNxJZAequ2KTXWf1QDCpCTmnxh1xzmcdcgFn8,Field,Blue,73,Cottage,,Green,Shuttered,,Blue,Shingle,Day,Stewart Avenue
 74 Abbey Road,9.99,312,69.95,https://solanart.io/search/?token=28dWVg74pWLodguRee7j6kPzGKBt4nKosZ1FASNrgJeF,Mountain,Yellow,74,Cottage,Brick,Yellow,Rounded,,Lavender,Shingle,Sunset,Abbey Road
 75 Abbey Road,20,2106,0,https://magiceden.io/item-details/CwUzXjjFpycQ9ZCEn1yjs82yuDyuNbdwEBTqp2S9c9to,Field,Yellow,75,Modern,,Red,Shuttered,,Mix,Mushroom,Day,Abbey Road
@@ -120,7 +120,6 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 226 Baker Street,19.5,1940,0,https://magiceden.io/item-details/Ckr1T6w9FvwyUh2cWHsZrzQJuvqAbchAZPZMB13viYog,City,Green,226,Cottage,,Blue,Shuttered,,Mix,Food,Day,Baker Street
 226 Delray Circle,9.8,435,69.86,https://alpha.art/t/9YFLzjTf97mpiHW2ixMCW98rkJTmPTGsgy3thBrXGvAb,Underwater,Green,226,Mansion,,Red,Rounded,,Blue,Patio,,Delray Circle
 229 Baker Street,45,53,0,https://solanart.io/search/?token=8Vs7SxgqqdEzoznQXWm9P4VFTAQ3TSskfPec7JYMXTQX,Mountain,Green,229,Modern,,Blue,Rounded,Snow,Dark green,Tin,Night,Baker Street
-233 Privet Drive,15,1983,0,https://magiceden.io/item-details/FgfmbXZbbx1t4NiXSzpJY1FMjojDXbAirAMqqvkbjf9X,Field,Yellow,233,Modern,,Pale green,Shuttered,,Red,Shingle,Day,Privet Drive
 235 Bit Boulevard,53.42,260,0,https://alpha.art/t/ASo7gPNXZwmvxAAoLxRJQu3AHuab1SF4bz3QtBohE1qr,Mountain,Red,235,Mansion,,,Crystal,,Pale green,Skylight,Stormy,Bit Boulevard
 238 Baker Street,39.974998,2318,0,https://solanart.io/search/?token=HkKAcWpWs9u9vUiECd4X2c2xbjaCw3nuWhBSu3VCLb46,City,Green,238,Cottage,,Red,Rounded,,Red,Shingle,Day,Baker Street
 240 Privet Drive,111.690002,1745,0,https://solanart.io/search/?token=BWMLxBT4FUy6DMff8yE7e4edtNChXbisoawNNETzeFJh,City,Yellow,240,Cottage,Brick,Blue,Shuttered,,Red,Patio,Day,Privet Drive
@@ -237,8 +236,8 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 418 Lamport Lane,15,2161,0,https://magiceden.io/item-details/8cai85UBBdhEV7xYuthMLfQGxdeLN4KEqw41AdLe9xZR,City,Yellow,418,Modern,,,Glass,,Blue,Shingle,Night,Lamport Lane
 419 Blockchain Drive,49,653,0,https://magiceden.io/item-details/7GB1JrcSY9CxPKtADDMg5UBMbdFkiLXs3XmuNeUgwK5m,Desert,Yellow,419,Art Deco,Brick,,Crystal,,Dark green,Tin,Day,Blockchain Drive
 420 Blockchain Drive,30,2076,0,https://magiceden.io/item-details/DUy9Ank1NV5hSAX8YoEEJmVfCzY8iHWN5QdgqCHEqJAc,Field,Yellow,420,Cottage,,Red,Shuttered,,Mix,Grass,Day,Blockchain Drive
-420 Blaze Boulevard,59.69,62,0,https://magiceden.io/item-details/EaddwKJ4fQAYstNuYd5tpd7PVNyYK9vf11fSEanwuKgV,Mountain,Blue,420,Modern,Vines,,Crystal,Snow,Green,Patio,Night,Blaze Boulevard
 420 Grime Lane,145,2249,0,https://magiceden.io/item-details/HEhAPAJSHpCGQZR5Zbx3Nnd7U4Yi5JHpksCcmnUwy1pc,Field,Yellow,420,Mansion,,Red,Rounded,,Yellow,Patio,Day,Grime Lane
+420 Blaze Boulevard,420.69,62,0,https://magiceden.io/item-details/EaddwKJ4fQAYstNuYd5tpd7PVNyYK9vf11fSEanwuKgV,Mountain,Blue,420,Modern,Vines,,Crystal,Snow,Green,Patio,Night,Blaze Boulevard
 420 Dahlia Drive,420,2289,0,https://solanart.io/search/?token=5jt7Xya3pgHJ79ri3dsyrZr5MgskfTVDyt5iE5KNJbzV,Treehouse,Green,420,Cottage,Brick,Yellow,Shuttered,,Red,Shingle,Day,Dahlia Drive
 421 Blaze Boulevard,27,1480,0,https://magiceden.io/item-details/AX6r4GPPFRSXdAsxdwLjTstxoTdJakRw9v6WdbKwx4DR,City,Blue,421,Cottage,Brick,Yellow,Rounded,,Green,Tin,Night,Blaze Boulevard
 422 Grime Lane,45,1854,0,https://magiceden.io/item-details/2p8PGE3L5kSzLHZikjdh7D6oQbuYTjvhpfasKUfXskUV,Volcanic,Yellow,422,Cottage,,Yellow,Rounded,,Mix,Grass,Day,Grime Lane
@@ -390,7 +389,7 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 743 Rodeo Drive,150,26,0,https://solanart.io/search/?token=Fg2XafwaDCjn1joVGvSznE1ZmVPk3SJyi6oKZsyFUuCT,Volcanic,Green,743,Modern,Vines,Red,Rounded,Volcanic eruption,Dark green,Skylight,Sunset,Rodeo Drive
 767 Rodeo Drive,250,128,0,https://solanart.io/search/?token=AVieBGgSuJ1KdjabJ3v9rsBSoRmrbAoa5sAMDjkTaHC1,Mountain,Yellow,767,Mansion,,,Crystal,,Blue,Shingle,Stormy,Rodeo Drive
 771 Rodeo Drive,50,1351,0,https://solanart.io/search/?token=DM8rByJ18qSg5cNv5ejAM14QsHbvbkWk6kkM5yBqTAD3,Field,Yellow,771,Cottage,Brick,Blue,Rounded,,Mix,Grass,Day,Rodeo Drive
-784 Rodeo Drive,75,29,0,https://magiceden.io/item-details/9EC88eaRX5Tn4TBjJAdzPNx5sZoyrVbCC5BFY4j4vQj4,Volcanic,Blue,784,Cottage,,Yellow,Shuttered,Volcanic eruption,Mix,Food,Sunset,Rodeo Drive
+784 Rodeo Drive,50.99,29,0,https://magiceden.io/item-details/9EC88eaRX5Tn4TBjJAdzPNx5sZoyrVbCC5BFY4j4vQj4,Volcanic,Blue,784,Cottage,,Yellow,Shuttered,Volcanic eruption,Mix,Food,Sunset,Rodeo Drive
 790 Rodeo Drive,25,436,0,https://solanart.io/search/?token=rZi3KYV3ScEZVAc4RXsF1UZKqGgqC9dvPe1XzsgvfDj,Arctic,Red,790,Cottage,Brick,Green,Shuttered,,Lavender,Tin,Day,Rodeo Drive
 791 Battle Street,8,2018,62.23,https://solanart.io/search/?token=DqETa3JgyHsBfrxocb3rCneY2feTRcGTLNvfxXoyZhjX,Field,Green,791,Modern,,Green,Rounded,,Yellow,Shingle,Day,Battle Street
 796 Rodeo Drive,34,147,0,https://solanart.io/search/?token=AF17Y9mVd1YMD8Chc4eo3RKDasdBoZAJvRPQGvox4fi,Desert,Dark green,796,Cottage,Brick,,Crystal,Rain,Mix,Food,Day,Rodeo Drive
@@ -415,6 +414,7 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 858 Broadway,69,195,0,https://magiceden.io/item-details/99nwLcUTrU1F3tgbWPvp6pWMz1wj2r9iFJsUefaZ6k1i,City,Yellow,858,Modern,,Blue,Rounded,Rain,Mix,Food,Night,Broadway
 872 Broadway,59,519,0,https://solanart.io/search/?token=FoTPWXo9zjit2ncp4H43QFXLxqedtEpxk74Lp7JEeciC,Beach,Yellow,872,Art Deco,Brick,Yellow,Rounded,,Yellow,Tin,Night,Broadway
 877 Battle Street,25,2011,0,https://solanart.io/search/?token=F9N5Z27869TKwxZR1mpVP9ueqY3F1W2rdfT8QXc6gAVw,Field,Blue,877,Art Deco,Brick,Blue,Rounded,,Red,Tin,Day,Battle Street
+881 Broadway,11,404,58.36,https://solanart.io/search/?token=2wg1ZHMjy9NrvnDV5YSf7ZBj8ZLApCaEJbGEqqmarqaq,Underwater,Blue,881,Cottage,Brick,,Crystal,,Red,Skylight,,Broadway
 882 Broadway,95,1396,0,https://solanart.io/search/?token=DPseHEhDHPyGtBtFa4nNm3crNhZ6Z7RSbdMSyiVXNep9,Mountain,Yellow,882,Cottage,,,Glass,,Yellow,Patio,Day,Broadway
 887 Broadway,15,634,14.64,https://solanart.io/search/?token=BBm2aNBnYbL2Ns4eYS9sbyaQrjxvpCcxvDHT9AMmz1gs,Desert,Green,887,Modern,,Pale green,Shuttered,Rain,Blue,Tin,Day,Broadway
 891 Battle Street,66.890999,926,0,https://solanart.io/search/?token=6oTNGhBG84KEMBPKDgpQMUDjFoeHgY6iFq89XvbAUbwb,Woods,Yellow,891,Art Deco,Brick,Blue,Shuttered,,Mix,Mushroom,Day,Battle Street
