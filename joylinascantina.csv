@@ -73,6 +73,7 @@ id,price,moonRank,💎 score (%),storeURL,Artist,Card Class,Character,Combat,Cus
 1735,2,4118,64.51,https://magiceden.io/item-details/3BDTc4wEob7GaQtvrJMWGuDxqZhQXe8W7yGiiMmkqhjr,Sam Rowan,Rare,Hephaesta Beaba,4,5,1,1,None,Normal,14,None
 1739,0.5,8821,60.68,https://magiceden.io/item-details/CmSFD2ky4Jdbr1xVGFTb5YhT17sDLsEd2eGmFdMHYgAL,Sam Rowan,Common,Jeff Squeeler,3,1,4,2,None,Normal,11,None
 1742,0.75,4862,74.03,https://magiceden.io/item-details/8Gkknts6scuSLCKRfR8JbGGbK3ejWnKiZ3kTJ7d24RnE,Sam Rowan,Uncommon,Zendon Zezz,1,5,3,3,None,Normal,14,None
+1748,0.1,7370,70.49,https://magiceden.io/item-details/8GCiVMtgcDcfAQqtD5jYp5tdDJecPqTDaQGpMYfFq8LT,Sam Rowan,Common,Melayny Cholya,2,3,5,1,None,Normal,12,None
 1756,2.5,1314,70.74,https://magiceden.io/item-details/A3jABUoDLytj6YnBmWAGbP5jypNBg3qSvSYKtTTvjcbX,Sam Rowan,Rare,Gribbles,4,4,1,1,Grub,Normal,14,None
 1930,2.69,294,72.92,https://magiceden.io/item-details/7vZ2x37n4jVSmR8BKChGD6Uyx1ERfmuSteDnUueH1cnu,Sam Rowan,Legendary,Chinsnout Cordylyn,5,5,4,5,None,Normal,23,None
 1963,0.25,7655,67.85,https://magiceden.io/item-details/CBARPZPUbqzoPJ5KyDEfkbht8xpMyG8PAhS3XD9iaMZc,Sam Rowan,Common,Kysseme XO,1,4,1,2,None,Normal,9,None
@@ -98,7 +99,6 @@ id,price,moonRank,💎 score (%),storeURL,Artist,Card Class,Character,Combat,Cus
 2398,0.4,2909,85.35,https://magiceden.io/item-details/2sXTAC5oUZk4GMyiBjtZhwHLJwujefiQWAxRTgT7FdMP,Sam Rowan,Uncommon,Zendon Zezz,3,2,1,1,Grub,Normal,10,None
 2434,0.75,305,92.28,https://magiceden.io/item-details/Ht7mNyhoesUh2YDnbCTZqAq29hcjL6vdRnRY65u2bgez,Adam Baines,Rare,Lophii And Garman,2,4,2,4,Drink,Normal,16,None
 2493,0.5,1268,90.92,https://magiceden.io/item-details/AqBgCFK6Roi41q7843ucTRrj2Kw7Peub9kk7SSTU7PXj,Sam Rowan,Rare,Kodjuob,1,4,3,3,Food,Normal,15,None
-2519,1,61,90.76,https://magiceden.io/item-details/BAQYEbLGuyq1W7VPeDBJtuBKUiscwxgHoWxGjJtLuKQ1,Ben Kovar,Legendary,Exomundi,5,2,5,2,Food,Normal,19,None
 2529,10,1401,0,https://magiceden.io/item-details/CRFVbrujuLTuLAFb5wUpboS3GEwieL73DnVziGntHpRs,Yoan Vernet,Rare,Frog Boy,1,4,4,2,None,Normal,14,None
 2538,1.25,2115,80.03,https://magiceden.io/item-details/7DmaBhUfdVPAAtMhizsovjQqBmNkiFw28KarcUwG6hBd,Marby Kwong,Uncommon,Nyandayo Nyan Nyanko,2,1,3,5,None,Normal,13,None
 2618,0.22,4388,81.23,https://magiceden.io/item-details/CTW6i1YS36xhdePZPFxdVgC7zAqw2r9r1tXPsdWB7fYg,Sam Rowan,Uncommon,Hephaesta Beaba,3,2,4,5,None,Normal,16,None
@@ -336,12 +336,12 @@ id,price,moonRank,💎 score (%),storeURL,Artist,Card Class,Character,Combat,Cus
 7509,0.6,9348,57.57,https://magiceden.io/item-details/D1bmRYXtLzm9FH1qGEPnpNzgmaqHnPCww8cwpne9L9hn,Sam Rowan,Common,Doscilla And Dorvaria,4,2,1,2,None,Normal,10,None
 7520,0.48,2134,87.66,https://magiceden.io/item-details/DswNnB4PYpUo7G1B5zFxU7Xz83m39YB4mF4zyUmcekUt,Yoan Vernet,Uncommon,Frog Boy,4,3,3,1,None,Normal,13,None
 7522,0.5,6937,68.22,https://magiceden.io/item-details/B3Sgvir2u7t6ZNVdWxBLZxjonsaYp5SJuj5ikjB8fLWZ,Sam Rowan,Uncommon,Credibo And Gorgeon,1,3,3,1,None,Normal,10,None
+7532,0.1,9457,62.13,https://magiceden.io/item-details/TgM85PoC2YzDCuy8qQXekWU3D8hPkcJJ1Mk2BQo8gis,Sam Rowan,Common,Gribbles,3,2,1,3,None,Normal,10,None
 7586,10,323,0,https://magiceden.io/item-details/ANGeRTr9NHuKkvEheutqXJYPKtUoATabqTpyF6QdNHhL,Sam Rowan,Rare,Credibo And Gorgeon,4,2,5,5,Drink,Normal,20,None
 7606,1.15,1138,84.94,https://magiceden.io/item-details/96yLW6iBeBMaSD5fFfYCdj3SU2w6MU5AeYSGFESSRqR8,Sam Rowan,Legendary,Credibo And Gorgeon,5,2,3,5,None,Normal,19,None
 7626,0.25,6298,73.28,https://magiceden.io/item-details/A3yrvS8VtACKZMzKsKPP4CaMKsEhVEhEHdA3Avkv177T,Sam Rowan,Uncommon,Cougana The Widow,3,1,1,4,None,Normal,11,None
 7645,0.75,3191,80.72,https://magiceden.io/item-details/DxCeBpkr6UNkCYRbpBRTnQAcRXudhVoc7XKZYmUiBziC,Adam Baines,Common,Lophii And Garman,1,2,5,2,None,Normal,11,None
 7669,6.9,1279,26.88,https://magiceden.io/item-details/ALUJ3qvaHFkntBw8LzTdUkDASUtHEgUiuhqiAtbphHqf,Sam Rowan,Legendary,Psyreenie Persitan,3,5,1,5,None,Normal,18,None
-7693,0.25,2324,89.19,https://magiceden.io/item-details/7dqVa8i9wDhQvZY3VQzi9MyYaTQvnYvaic7hTAwV5XqM,Sam Rowan,Uncommon,Hermin The Creep,1,4,3,1,Food,Normal,12,None
 7707,0.21,7458,69.04,https://magiceden.io/item-details/9w8CouaV9ZoHPSKdhNiZgYhWYxQi7wWzN71aKgYZxiS2,Sam Rowan,Common,Doscilla And Dorvaria,2,5,3,1,None,Normal,12,None
 7714,0.35,2319,88.21,https://magiceden.io/item-details/FYrYBgxu6FJWnHCnuvvMvzaXfvnbCJUYtGjg1vcWkzXN,Sam Rowan,Uncommon,Cougana The Widow,3,3,3,1,Drink,Normal,13,None
 7728,1,1542,84.83,https://magiceden.io/item-details/Gx73M93jaXoGK9FkDWv5SDGEiWie7mUkv6ZeX4WqHhmv,Sam Rowan,Rare,Jeff Squeeler,1,3,1,4,Heart,Normal,13,None
