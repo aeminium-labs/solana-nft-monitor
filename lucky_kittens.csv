@@ -107,6 +107,7 @@ id,price,moonRank,💎 score (%),storeURL,Arm,Background,Eyewear,Fur,Headwear,Mo
 445,4,2298,52.19,https://magiceden.io/item-details/3XkRsoRKd8bwHQRbLUuCBDeALa92GcsB3Lxw6jBKQqmy,Noodle Bowl,Halo Zombie,Ski Goggles,Red,Sailor Hat,Tongue Out,,
 448,0.999,5086,63.26,https://magiceden.io/item-details/3LHBUz6nYny8ogqJ3KtYQxAevQYwRXhG2X8RnQSKYWHi,,Halo Pink,Eyes Clown Happy,Red,Monopoly Hat,Smiling,,
 459,1.5,115,92.02,https://magiceden.io/item-details/4N7RwrSuHsudsVcYbiHSWWVJwDoZUX8c1NZz8gTZv1eQ,,Halo Green,Troll Sunglasses,Ice,Mohawk Green,Bubblegum,Tie,Sailor
+461,1.299,3240,72.8,https://magiceden.io/item-details/9NuqwHffdXxTw2yXHLJFXCW8HrGw5zjUZHmwGdL5PUx8,Spatula,Gradient Sunset,Wink,Black,Sailor Hat,Smiling,,
 462,2.98,2475,61.19,https://magiceden.io/item-details/7xQteAHRFyxqDdG6rFkFo5B4GHCu3F9n2Wcsss5qgkL3,Four-Leaf Clover,Gradient Solana,Eyes Happy,Rainbow,,Surprised,Gold Necklace,
 468,2.3,3573,60.53,https://alpha.art/t/DFxKoCUTBv4eis7GFtSwam3UPeZJFqhoE1QFRK7kz3H7,Flask,Gradient Sunrise,Eyes Clown Normal,Ginger,,Tongue Out,,Box
 469,2.8,1237,71.4,https://magiceden.io/item-details/TeDR7FWKSUTf48NAo8yrUpBPXXYPwu9FrQYofJX8o6J,Cane,Gradient Peach,Troll Sunglasses,White,Black Headband,Tongue Out,,Hawaiian Shirt
@@ -123,7 +124,6 @@ id,price,moonRank,💎 score (%),storeURL,Arm,Background,Eyewear,Fur,Headwear,Mo
 511,1.5,2606,75.1,https://magiceden.io/item-details/8Jdqpo2cwZCRi2AJEBoQy1yqYouRNBxw6zYZdEgtN9Au,Red Balloon,Halo Black,Eyes Blue,Gray,Fishing Hat,White Mustache,,
 519,4,3558,43.63,https://magiceden.io/item-details/4NrExAcVNxsCWkWomGDTMA7q2UgXztmUkZrvBydAiuR1,,Halo Black,Wink,Solana,Cap,Blushing,,Box
 526,1.99,1380,78.53,https://magiceden.io/item-details/2Ri168DoYspGBvZ7B1H1tBuYSnvNWgXHZ8BGKhiByZho,Four-Leaf Clover,Halo Green,Eyes Blue,Ginger,Santa Hat,Surprised,,Box
-530,0.8888,5768,59.73,https://magiceden.io/item-details/G6qZK2pnXCbE9vMr8NwpqR6exqLE94YfsWhATew2EoYm,,Gradient Aurora,Eyes Normal,Gray,,Smiling,,Hoodie
 531,12,2717,0,https://alpha.art/t/FGr1P1P2o2M2Z2pJpzPXPK8nPSorLUpUsgs72VTNHsF3,,Gradient Solana,Eyepatch,Rainbow,Monopoly Hat,Smiling,,Purple Gold Jersey
 532,2.5,5141,47.87,https://magiceden.io/item-details/5shqQssuTGfuQNRSQJWDmrzxU5S3X9v5mYhssrdnw4qw,,Gradient Peach,Eyes Normal,White,Cap McKitten,Surprised,,
 539,3,1839,65.31,https://magiceden.io/item-details/BHSfDbkbYFcwsNb9LPdWqQVf8xpXheLPxLkUi88kqHfH,Pirate Hook,Halo Blue,Rasta Sunglasses,Rainbow,,White Mustache,,Clown
@@ -534,7 +534,7 @@ id,price,moonRank,💎 score (%),storeURL,Arm,Background,Eyewear,Fur,Headwear,Mo
 2169,2,3436,64.46,https://magiceden.io/item-details/44BiEwjsSmYHfhunX8TP2BazXoBByDoZ1xg1qJct1DkL,,Halo Blue,Golden Sunglasses,Solana,Wizard Hat,Blushing,,
 2171,1.5,657,88.34,https://magiceden.io/item-details/4NZHcZm2xMsvu8UjE5APDbr4bg7nHxMSmmjagjPNi7Vn,Cocktail,Halo Red,Wink,White,Toque,Smiling,Red Collar,
 2178,3.888,2375,52.79,https://magiceden.io/item-details/DBQP8WGpoiAuHhHfiWjKdXasnqztEr7Exj1sTNKVMBAk,,Gradient Aurora,Eyepatch,Ginger,Hearts,Smiling,,Tuxedo
-2182,4,5854,28.03,https://magiceden.io/item-details/5Q8vhicioNvMm6sbkXbpF5mAAStwZpMs1UZkhUv4zv5H,,Halo Pink,Eyes Happy,Ginger,,White Mustache,,
+2182,2,5854,48.03,https://magiceden.io/item-details/5Q8vhicioNvMm6sbkXbpF5mAAStwZpMs1UZkhUv4zv5H,,Halo Pink,Eyes Happy,Ginger,,White Mustache,,
 2184,3,5601,39.75,https://magiceden.io/item-details/3baoxuEezEutyUsiSN4YZ5gRZB71Q2FU8ipe3MffxTTw,,Halo Gum,Round Glasses,White,,Smiling,,Hoodie
 2186,3.25,4467,44.95,https://magiceden.io/item-details/DT4adNBv42v5qAhuCDSPM4QDp5bvGB9PRe3rpAMMdb8u,Red Yarn Ball,Halo Pink,Eyes Normal,Red,,Tongue Out,,Sailor
 2187,1.8,5807,50.35,https://magiceden.io/item-details/CaKUjjVGaoLuEFuEbDo93x9AzQZ3RS3FjDR91AbiVJn1,,Halo Blue,Eyes Happy,Gray,,Tongue Out,,Hoodie
@@ -676,7 +676,6 @@ id,price,moonRank,💎 score (%),storeURL,Arm,Background,Eyewear,Fur,Headwear,Mo
 2749,1.7,926,84.51,https://magiceden.io/item-details/VMY8woQ3reT4mvzzLWvydtniaJ9ZyBtyWQwNDPbh3oq,Fishing Rod,Gradient Aurora,Black Sunglasses,Ice,,White Mustache,Big Bow Tie,
 2756,2.5,1280,74.1,https://magiceden.io/item-details/HBDkSoaTnWfaLWLfjYfyATAB5LEQ36oLMk4FWCiUt5yj,Red Balloon,Gradient Solana,Round Glasses,Gray,Santa Hat,Bubblegum,,Box
 2757,3.5,5272,36.98,https://magiceden.io/item-details/HPsqwNNM5ENVEidoW85BE559SNdUWmLURcAZvvKzJaev,,Halo Yellow,Troll Sunglasses,Gray,Rainbow Hat,Blushing,,
-2762,0.79,796,94.49,https://magiceden.io/item-details/BxSwvbcm8nn7Ss412zEg5CKpJfPBwsJhpPUVqeEESsW4,Four-Leaf Clover,Halo Purple,Eyes Happy,Ice,Army Hat,Smiling,Red Bow Tie,
 2763,400,4820,0,https://magiceden.io/item-details/J1NVwbYyzKFCsoNu3CSQ9QdyCVCvxd5bJabvYmwqmsPg,,Halo Black,Round Sunglasses,Silver,,Surprised,,Hawaiian Shirt
 2765,2.7,808,75.31,https://magiceden.io/item-details/6AnzurYAEQDUeZo5TKKZEEiK5xdYdBqYvzw4tfTttbQQ,Cocktail,Halo Gum,Ski Goggles,Red,The Mask Hat,Blushing,,Tuxedo
 2768,6.3,490,41.47,https://magiceden.io/item-details/cSm56woSHoWKeai2JxEhspDYYHjSgtP8PGWcjab99sb,Blue Yarn Ball,Halo Pink,Eyes Clown Normal,Gold,,Tongue Out,Bandana,Hoodie
@@ -789,7 +788,6 @@ id,price,moonRank,💎 score (%),storeURL,Arm,Background,Eyewear,Fur,Headwear,Mo
 3223,1.5,3137,71.49,https://magiceden.io/item-details/Hj5rSnqK8LsBPfFtrk3dxTMLNSYBdycDxPHyFKpjjZDa,Martini,Halo Orange,Troll Sunglasses,Zombie,Bunny Ears,Tongue Out,,
 3227,0.82,5138,64.7,https://magiceden.io/item-details/BV4hF9cwYGKCfquwcyCFEGno42axbKRqErNEALdZs7iH,Red Balloon,Halo Red,Eyepatch,Ginger,,Tongue Out,,
 3228,8.88,35,18.76,https://alpha.art/t/sggEz4xfZJovqmtyCBGsxPooE35Bb9sC8C2vbPZz9vu,Red Balloon,Halo Red,Eyes Normal,Gold,Turban,Bubblegum,Gold Necklace,Cheongsam
-3230,1.69,1670,79.55,https://magiceden.io/item-details/6ac3PPW39vhQoqGmmAK7Mtbh3nW14FZ2wh4xvc2aF9hA,Pirate Hook,Halo Ice,Round Glasses,Kittachu,Box Hat,Blushing,,
 3253,3.5,251,71.09,https://magiceden.io/item-details/3pDy9XDtwm4zVoSZ8n8LYyHz6au5e3oc8rhntgrGZgoE,,Halo Green,Eyes Normal,Skeleton,Bunny Ears,Golden Mustache,Big Bow Tie,Hawaiian Shirt
 3254,5,2653,39.78,https://magiceden.io/item-details/4z96ZAApD2NR5JLrk5zQUq8vfZrRd6cHVaHLktRwvFQp,Pirate Hook,Halo Green,Eyes Normal,Gray,,Smiling,,Skitt Game Guard
 3262,69.42069,13,0,https://magiceden.io/item-details/6RR9Sm8K5QCdicMXdz9JMrqzVP9k23c18BRfGz5XjzFy,Gold Scepter,Halo Ice,Eyes Normal,Gold,Halo,Smiling,Gold Necklace,Angel Wings
@@ -869,7 +867,7 @@ id,price,moonRank,💎 score (%),storeURL,Arm,Background,Eyewear,Fur,Headwear,Mo
 3515,0.8,4994,65.87,https://magiceden.io/item-details/EMvuiNBs8xQVETzuCfbXn8NbueiyFM4ybyyqsJqFa68f,Red Yarn Ball,Halo Green,Wink,Rainbow,,Smiling,,Hoodie
 3517,7.5,2201,17.85,https://magiceden.io/item-details/Hj7KiVdPYSY2HdRo6EPXXnBp6VmEj4xn9mWNc7EnvXd3,,Gradient Sunrise,Rasta Sunglasses,Ginger,Sombrero,Surprised,,SuperHero
 3522,3.88,3272,46.77,https://magiceden.io/item-details/2j2oiBMcf1prVT2yZfUE3fGiTXUDeNuztr8BpwLU11kW,Blue Yarn Ball,Gradient Sunrise,Eyes Normal,Black,,Surprised,Big Bow Tie,
-3524,14.88,3176,0,https://magiceden.io/item-details/2WFBppQfmAF24SdqKvrcrA8odSUsQW8B138175ZfKESN,Red Balloon,Halo Pink,Eyes Normal,Black,Pharaoh Hat,Tongue Out,,
+3524,12.8888,3176,0,https://magiceden.io/item-details/2WFBppQfmAF24SdqKvrcrA8odSUsQW8B138175ZfKESN,Red Balloon,Halo Pink,Eyes Normal,Black,Pharaoh Hat,Tongue Out,,
 3526,1.2,2451,79.15,https://magiceden.io/item-details/B9K7SnH8pChUqM3bxDWjyTq8aAz2uWDK2ugMM4bqVun1,Flower,Halo Red,Eyes Happy,Ice,,Blushing,Tie,
 3531,4.2069,456,62.63,https://magiceden.io/item-details/3oA1VtereWPiBhzjjo7FyDLodSi1AqfN7pYpvxN9n7UQ,,Halo Pink,Eyes Blue,Gray,Mohawk Solana,White Mustache,Red Bow Tie,Hawaiian Shirt
 3532,30,3864,0,https://magiceden.io/item-details/FHwkJuFzcGgdYkEgBqXrfwHFWEVj2uSeya7f16G5d3hv,Red Yarn Ball,Halo Zombie,Eyes Closed,Red,,Smiling,,Hoodie
@@ -914,7 +912,7 @@ id,price,moonRank,💎 score (%),storeURL,Arm,Background,Eyewear,Fur,Headwear,Mo
 3700,1.69,4787,58.38,https://magiceden.io/item-details/2mLLmhdXW2MZ1qtt5bs523uaZcWswAbtxExDo8aM9nXN,Red Yarn Ball,Halo Orange,Round Sunglasses,Ginger,,Blushing,,
 3701,18,81,0,https://magiceden.io/item-details/AE13bEeh5FiX4hWNs2FwvyPfXaujhqaW6sQaCecgxf5e,,Acid Bright,Eyes Happy,White,Backwards Cap,Smiling,Golden Bow Tie,SpiderKitty
 3702,1.2,2738,77.2,https://magiceden.io/item-details/8ksu9C489zVgYBTbBT8868ffPbkh7qfXN2Aj8XGs73av,Red Yarn Ball,Halo Blue,Eyes Clown Normal,Gray,,Tongue Out,Gold Necklace,
-3714,10.49,1426,0,https://alpha.art/t/6cvnTzxGYPevdfyWDWvXuYkpCrXEguuQnzS7LfwCSwri,,Halo Ice,Eyes Happy,Skeleton,Box Hat,Brown Mustache,,SuperHero
+3714,3.49,1426,63.21,https://alpha.art/t/6cvnTzxGYPevdfyWDWvXuYkpCrXEguuQnzS7LfwCSwri,,Halo Ice,Eyes Happy,Skeleton,Box Hat,Brown Mustache,,SuperHero
 3715,2.5,1275,74.14,https://magiceden.io/item-details/BQ9Bibu5iFig4qnMYsW1TdV9phxDwXsKUD49uo3arMeq,Four-Leaf Clover,Halo Purple,Eyes Closed,Rainbow,Box Hat,Smiling,,Purple Gold Jersey
 3719,1.79,5278,54.04,https://magiceden.io/item-details/8vUDYhEs4Y51xyK6eXwSiJD5NQwCpPHrsE9bNBmsdgNy,Pirate Hook,Halo Emerald,Eyes Normal,Rainbow,,Blushing,,
 3723,1.45,3505,69.49,https://magiceden.io/item-details/FNKj3UirTArB8j8csQwThLetf5g7w1uSDCtEzk9TA1ka,,Halo Pink,Black Sunglasses,Red,Box Hat,Surprised,,SuperHero
@@ -1135,7 +1133,6 @@ id,price,moonRank,💎 score (%),storeURL,Arm,Background,Eyewear,Fur,Headwear,Mo
 4647,7.77,2148,15.51,https://magiceden.io/item-details/5yJgqE2BxWbyRfPfnm3QLcYi3n3xbHRHPHdEY6adburC,,Halo Yellow,Eyes Normal,Gold,Crown,Brown Mustache,,
 4649,1.5,522,89.25,https://magiceden.io/item-details/LiPJaqzJV18qZHoFFpw6tKdJKt437uk4JQYFkxAUJzT,Golden Balloon,Halo Orange,Eyes Happy,Black,Box Hat,Smiling,Red Bow Tie,Hawaiian Shirt
 4656,2,666,83.28,https://magiceden.io/item-details/A41RGHcE6WNue2soXbjEMDctUHCQRinWZcTjyedk4ZLo,Cane,Halo Black,Golden Sunglasses,Silver,Turban,Tongue Out,,Tuxedo
-4661,5,279,55.9,https://alpha.art/t/CYDHtAqPwLwbFTD5ymtkjqG4pbENMWRJ8431gojUft6f,Golden Balloon,Acid Dark,Rasta Sunglasses,Silver,,Party Blower,,Hawaiian Shirt
 4663,1.99,1867,75.22,https://magiceden.io/item-details/Erxf59XpCzhS4yL9Kn3nLjby6yAGRkKmGACEJ4yea6A3,Noodle Bowl,Gradient Solana,Wink,Black,Box Hat,Smiling,,Leather Jacket
 4665,6,3818,21.86,https://magiceden.io/item-details/J6c74aqSa3LVLZALsoaUnTtJdF4f3m3kxWXDYwTCkuo,,Gradient Sunset,Eyes Laser,Red,,Bubblegum,,Box
 4669,3,3358,54.99,https://magiceden.io/item-details/EeAsj2tkqu8MaWaSXezcCvyZbPybp4HZLjCeC3N2jF9B,Spatula,Halo Blue,Eyes Happy,Black,Black Headband,Surprised,,
@@ -1174,6 +1171,7 @@ id,price,moonRank,💎 score (%),storeURL,Arm,Background,Eyewear,Fur,Headwear,Mo
 4767,4,190,66.51,https://magiceden.io/item-details/4DP6RuUdPHebuNdKCadkoaV2jXZAfgXjRukMH6iTcWC5,Ice Cream,Halo Zombie,Eyes Normal,Silver,Clown Hair,Surprised,Gold Necklace,
 4768,4,4128,39.76,https://magiceden.io/item-details/3HC9yehriVCgtbBpmBU9Q3q5WcGNdJHoHL6EevdKXMMn,,Halo Blue,Eyes Normal,White,Black Headband,Tongue Out,,Astronaut
 4770,1.5,5732,53.86,https://magiceden.io/item-details/G8m1pWpJTSccSzxu9f4etbXBDFd7WvWBCnRKHHrcxmVS,,Night Sky,Eyes Normal,Ginger,,Smiling,,Box
+4771,1.99,286,85.96,https://magiceden.io/item-details/HXqV1SBkEv996uosHRJTCwxc4JZQzV5L9T4v7nTycvvV,Asian Coin Purse,Halo Ice,Eyes Happy,White,Fishing Hat,Smiling,Red Bow,
 4773,3,377,75.24,https://magiceden.io/item-details/8hw3xATJJUV9YDtUYB2u9W4WwhYR7tEGKnNV5GTMdH9Q,Blue Balloon,Gradient Chartreuse,Ski Goggles,Ice,Clown Wig,Surprised,Gold Necklace,
 4774,4.2,5084,31.26,https://magiceden.io/item-details/Be3oW2rLdJ3ujhH5U7KmBZeKUTqQ5miLSq8bEsgPc6TW,,Halo Black,Eyes Normal,White,Mohawk Green,Surprised,,
 4777,6.88,1363,29.74,https://magiceden.io/item-details/hyiHrB7ZAM1kMuUMkLA7yDVpUVyv756DXN4YbMoC3FC,Egyptian Ankh,Gradient Sunrise,Wink,White,Sailor Hat,White Mustache,,
@@ -1219,6 +1217,7 @@ id,price,moonRank,💎 score (%),storeURL,Arm,Background,Eyewear,Fur,Headwear,Mo
 4937,4.8,1597,48.95,https://magiceden.io/item-details/DY8z61s4zBfKUunvTAYxn7cAhbtbTgjjiKfvMedbVrHo,Blue Balloon,Halo Zombie,Round Glasses,White,Rasta Hat,White Mustache,,Tuxedo
 4939,2,3167,66.29,https://magiceden.io/item-details/Bt3NrJLz3CSF5zhH9toWf8NQZXXhKDQnCMQ4iJhuxBC4,Noodle Bowl,Halo Orange,Eyes Clown Normal,Gray,Santa Hat,Tongue Out,,
 4940,5,2906,38.06,https://alpha.art/t/9HBUdS17wzA9XuES42NJbKXmVXu6kMvrRPHbp6PKYZQU,Trophy,Halo Red,Troll Sunglasses,Ginger,,White Mustache,,Box
+4944,1.79,3376,66.97,https://magiceden.io/item-details/AffcZbmLDD9KMevfD1WXDxs5HDNpnPAx5YJqgz1m6cXB,,Gradient Sunrise,Ski Goggles,White,Pirate Hat,Brown Mustache,,
 4945,3.33,117,73.71,https://magiceden.io/item-details/2q1ZMuheZ4GDwxAifm9UcugYGneNbK9yX1ugJHnw2VLx,,Gradient Aurora,Troll Sunglasses,Skeleton,The Mask Hat,White Mustache,Tie,Hawaiian Shirt
 4946,2,2922,67.95,https://magiceden.io/item-details/FvdWBt7oVCJHbBRDjizWDcYcT7AgdJ8hpnJ4v7ikjEuz,,Halo Yellow,Eyes Closed,Black,Cop Hat,White Mustache,,Hawaiian Shirt
 4949,1,4289,68.66,https://magiceden.io/item-details/7vcJNJtBcbSUdxxcGU51SrjLEJHp4M5ankZDKeaFkzZc,,Halo Orange,Eyes Happy,Ginger,Pirate Hat,Surprised,,Box
@@ -1292,6 +1291,7 @@ id,price,moonRank,💎 score (%),storeURL,Arm,Background,Eyewear,Fur,Headwear,Mo
 5277,1.47,397,90.4,https://magiceden.io/item-details/Hsb33ULuoemTaBbXk9GJyxr6Uq8gSKVsien4WMfYLSMp,Four-Leaf Clover,Halo Purple,Troll Sunglasses,Ice,Bunny Ears,Blushing,Golden Bow Tie,
 5278,3,5024,43.67,https://magiceden.io/item-details/BRrgHPEHQoCeakttmZWvw1TLa7XVn99sLYtbbr9xicfw,,Gradient Peach,Black Sunglasses,White,,Bubblegum,,Hoodie
 5287,3.5,4213,44.18,https://magiceden.io/item-details/2xLAffEUhMTtNTZ7tsfAZEVruTrMskLPt9QogC4nMf5V,,Halo Purple,Eyes Normal,Kittachu,,Party Blower,,Tuxedo
+5288,3.5,5010,38.76,https://magiceden.io/item-details/Ux5af9EXVVQLDAjXMUyw8zzJ1hBzng7fDnEkGVGTN6j,Martini,Halo Emerald,Eyes Normal,Silver,,Smiling,,Box
 5290,3.8,623,65.57,https://magiceden.io/item-details/FWsQaFAto6Vkjfj3k2bnJQnCBixpmRkVJ63QGwpGMS3a,Blue Yarn Ball,Halo Pink,Troll Sunglasses,Black,Pirate Hat,Brown Mustache,,SuperHero
 5291,5,1661,46.52,https://magiceden.io/item-details/CVefyKPvszBnkUtoJhdFByRGRikLhCZA8UmjP8QBsED2,,Night Sky,Ski Goggles,Gray,Cowboy Hat,White Mustache,,Purple Gold Jersey
 5295,1,4957,64.12,https://magiceden.io/item-details/EkSNDBfeL7tHpdnKc2BgLcc79MhvCMdNpATYjm4fxbcE,Red Balloon,Gradient Sunset,Eyes Happy,Red,,Tongue Out,,Box
@@ -1369,7 +1369,7 @@ id,price,moonRank,💎 score (%),storeURL,Arm,Background,Eyewear,Fur,Headwear,Mo
 5594,0.96,5007,64.19,https://magiceden.io/item-details/BDiqMk1GPiwdc5ekAAAsG8kqZiUg3uB1oDC8q69e5x3a,,Halo Emerald,Black Sunglasses,Red,Army Hat,Tongue Out,,
 5605,20,4341,0,https://magiceden.io/item-details/HJNuPhFT66iKHXoDN8h5z11LNfS4K2wBKTnGbNpLyhN2,,Halo Red,Eyes Happy,Gold,Army Hat,Surprised,,
 5606,3,2149,63.2,https://magiceden.io/item-details/HttZBw8HzuocBTyodZApvq1sTSZvfmo4FrqJoeA9qox7,Black Wrist Band,Halo Blue,Eyes Normal,Ginger,Astronaut Helmet,Big Smile,,
-5610,8,498,24.42,https://magiceden.io/item-details/Dr52s7LK1YUGdZJpEbhtseLhwupuv8ErLUdCEkUVLJe7,Chinese Lantern,Halo Red,Eyes Normal,Silver,Box Hat,White Mustache,Blue Bow Tie,
+5610,4,498,64.42,https://magiceden.io/item-details/Dr52s7LK1YUGdZJpEbhtseLhwupuv8ErLUdCEkUVLJe7,Chinese Lantern,Halo Red,Eyes Normal,Silver,Box Hat,White Mustache,Blue Bow Tie,
 5615,6.5,694,38.09,https://magiceden.io/item-details/Cd9tZKv5ovFk6xJkMW3imSdruEYhougZQXJArvnTbGM5,Magic Wand,Halo Yellow,Eyes Clown Happy,Ice,Toque,Tongue Out,,Hawaiian Shirt
 5616,0.92,3829,72.59,https://magiceden.io/item-details/GCPNuoknoEvSL8j3XrtnmmfzZH2itQggwWB3k9UWxeWf,,Gradient Sunset,Eyes Blue,Red,Astronaut Helmet,Tongue Out,,
 5618,1.6,1526,81.43,https://magiceden.io/item-details/Hsd8FwGjyR2pSgGvmqrVqHA8ZFZx2V2u8pCdoJs74mF9,Gift,Halo Ice,Wink,White,Fishing Hat,Blushing,,Box
