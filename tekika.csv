@@ -1,5 +1,6 @@
 id,price,moonRank,💎 score (%),storeURL,Accesory,Background,Clothing,Eyes,Hair,Mouth,Name,Weapon
 1,22,77,0,https://magiceden.io/item-details/97wuYor6QCGstfD7pLquWwUCjx5EY2vRSwBFx7MsfMN1,Blue Rose,Shadow,Bandit Tee,Green,Cutoff Bun,Excited,,Submachine Gun
+31,0.72,4484,63.41,https://magiceden.io/item-details/CACHFw52CKPyCYiUvfL1URh1JaeYJ56EPavytBhtMMkD,Samurai Mask,Orange,Casual Tee,Green,Slicked Up,Neutral,,Katana
 38,1,4442,60.95,https://magiceden.io/item-details/EBppQAhF7WeW4uv3VP7QNuYrg8S2iNZTEPUh5UT7D3g2,Blindfold,Orange,Bandit Tee,Blue,Wasteland Mask,Neutral,,Dual Swords
 42,2.5,1167,72.16,https://magiceden.io/item-details/HwwHd7Xgn4pskWvy5FdQmZMkgqKpYGqyxwkuFDLQzAty,Face Paint,Red,Corrupted General Uniform,Blue,Scruffy,Grin,,Dual Swords
 71,1,3439,68.98,https://magiceden.io/item-details/74o5P2JBg6iKPM6Pu4KWVEbvYRMViwqf66GKFRU5muY8,Box Earrings,Yellow,Sensei Kimono,Green,Combover,Shark,,Submachine Gun
@@ -243,7 +244,6 @@ id,price,moonRank,💎 score (%),storeURL,Accesory,Background,Clothing,Eyes,Hair
 1209,2.5,607,76.64,https://magiceden.io/item-details/EfyHvce6fhgLPrAnWdygwGLHKELVkMWL96BkciPAcp6t,Face Mask,Blue,Ninja Suit,Green,Short,Excited,,Dual Swords
 1213,2.5,835,74.82,https://magiceden.io/item-details/H8CX3aZK4X3AvMQRApBbYgyR18WNZ62FMx1sAzF2fxDs,Glasses,Blue,Fighter Tank Top,Orange,Side Part,Tongue Out,,Robot Arms
 1217,5.5,214,49.79,https://magiceden.io/item-details/8WcShNh2QcCwB5AZ91Xdov5Qa8mxNMcfixmBJ3K9XVx,Gas Mask,Rose,Corrupted General Uniform,Yellow,Scruffy,Excited,,Submachine Gun
-1220,3.2,2282,56.24,https://magiceden.io/item-details/6PL4TfgAvuTXXkuRGhgWviZUFbrZ4AWs27P51vBkd9XM,Tattoos,Rose,Royal Uniform,Yellow,Spiky Cap,Excited,,Bat
 1230,3,2530,56.25,https://magiceden.io/item-details/31FejRXNZ67oKNa2XAyiAXpAiUEBXoSYebBbje6mz51h,Blood,Red,High-Class Suit,Purple,Spiky Cap,Grin,,Dual Swords
 1233,0.97,4463,61.08,https://magiceden.io/item-details/FtkLeHusGEERYWks4fawMdahSm1YmfCgkSUZTRdEGCYu,Scars & Piercings,Rose,Casual Tee,Empty,Long,Annoyed,,Katana
 1243,2,2118,69.55,https://magiceden.io/item-details/8EHdZ5XLB9KGQjyFTMjrbtuvnwrVGiSpJvFqFBRnueCV,Blood,Red,Shoulder Cover,Purple,Headband,Bloodthirsty,,Katana
@@ -424,7 +424,7 @@ id,price,moonRank,💎 score (%),storeURL,Accesory,Background,Clothing,Eyes,Hair
 1961,2,3939,54.98,https://magiceden.io/item-details/8DpqToGvgeKJFPZn4hvUprNdLBMUiATk9gob8bvuJ6hc,Bone Mask,Orange,Military Uniform,Blue,Middle Part,Excited,,Katana
 1965,5,242,54.56,https://magiceden.io/item-details/GpE7chLpC128ypzgmiktQ7wjBnZZorTkF5bxgeFtiSYe,Glasses,Light,Fighter Tank Top,Yellow,Long,Bloodthirsty,,Dual Swords
 1971,1.4,1435,81.02,https://magiceden.io/item-details/EJCZ9QKDzQoJgy4xry8yLQefSMiFc2FvVt2EkcKwvruZ,Gas Mask,Yellow,Sensei Kimono,Blue,Combover,Cigarette,,Submachine Gun
-1981,5,25,56.3,https://magiceden.io/item-details/65NMCoKNXmKzNg7Sv2JdGPrSX5pbhB3qWmN1Mv7i9Cae,Bone Mask,Rose,Chemsuit,Green,Cutoff Bun,Bloodthirsty,,Robot Arms
+1981,4,25,66.3,https://magiceden.io/item-details/65NMCoKNXmKzNg7Sv2JdGPrSX5pbhB3qWmN1Mv7i9Cae,Bone Mask,Rose,Chemsuit,Green,Cutoff Bun,Bloodthirsty,,Robot Arms
 1982,1.5,2050,75.09,https://magiceden.io/item-details/BGDnnkWbNuDnGTir51WnerUZiAcGUZp7riPqGKxbqPHt,Bone Mask,Teal,Military Uniform,Green,Middle Part,Excited,,Bow
 1983,1.2,4211,60.8,https://magiceden.io/item-details/DiMFqAFEL1HwiirsFhwx5AvYi8iu5d7xudSzABh1qvCA,Eyepatch,Purple,Bomber Jacket,Green,Scruffy,Neutral,,Dual Swords
 1985,2,3455,58.85,https://magiceden.io/item-details/B7Vais6h8BDbkRhV9XdLakCNGwv7JSam4wKf5mCNjTca,Bandaid,Yellow,Bandit Tee,Amber,Combover,Tongue Out,,Bat
@@ -736,7 +736,6 @@ id,price,moonRank,💎 score (%),storeURL,Accesory,Background,Clothing,Eyes,Hair
 3100,0.95,1680,83.55,https://magiceden.io/item-details/2BivKa1gRoBU2sNYqiA5pqv9a95484BscrwaiJ6Tkiwp,Bandaid,Rose,Streetwear Jacket,Red,Combover,Shark,,Katana
 3102,1.97,3848,56,https://magiceden.io/item-details/7HAjkUCbZed4R6VUqEELWoXfhYzAvCGYhubCCct2iLW2,Bone Mask,Teal,Military Uniform,Blue,Slicked Up,Annoyed,,Bat
 3103,2.5,650,76.3,https://magiceden.io/item-details/4HfrJxuTdSfuPB6PEHpaeKhdtV8yyGrzPmdrN3GrArYp,Blue Rose,Purple,Royal Hunter,Amber,Spiky,Excited,,Dual Swords
-3106,1.4,1590,79.77,https://magiceden.io/item-details/iFBXcX2LB8933bzsY62gjY6hKvtVtFA9zRPdwijpsH4,Face Mask,Red,Magma Jacket,Yellow,Cutoff Bun,Annoyed,,Dual Swords
 3107,1.45,4713,54.28,https://magiceden.io/item-details/2KfSe3zaVrTSdEc4759GPpmiPJrott1ng3pAkUKtfpLh,Face Mask,Purple,Casual Tee,Purple,Slicked Bun,Annoyed,,Katana
 3111,1.59,3168,65.25,https://magiceden.io/item-details/CkdgjUArJuh6vu7KYp1UJAw2Esd7fKNhvQehaqMpHmJ2,Face Paint,Orange,High-Class Suit,Orange,Scruffy,Neutral,,Bow
 3113,1.6,4369,55.53,https://magiceden.io/item-details/FUBSyFKAnSJc8hiJpsukeS3NpmgPR5X1W68ihHNczSQZ,Bandaid,Purple,Royal Uniform,Amber,Slicked Back,Annoyed,,Katana
@@ -862,7 +861,7 @@ id,price,moonRank,💎 score (%),storeURL,Accesory,Background,Clothing,Eyes,Hair
 3576,94.53,2353,0,https://magiceden.io/item-details/8z9ubFDAYxeaXHbucpzmJJNScGMLTeimJaiyEFmyXfR9,Glasses,Orange,Royal Uniform,Black,Scruffy,Neutral,,Greatsword
 3579,3,2266,58.36,https://magiceden.io/item-details/EGQuwo6XgR1yiH9ZLZERCsLPnsPgbx4PmHxBhUneRs4z,Box Earrings,Blue,Kill Squad Vest,Red,Slicked Up,Excited,,Submachine Gun
 3581,3,487,72.6,https://magiceden.io/item-details/eHK5F4NHB7nTBRWUsmsZdFLZ2TXL3bMbSkUxq1MxtsE,Blindfold,Red,Magma Jacket,Red,Pushed Back,Grin,,Katana
-3582,1.14,4710,57.4,https://magiceden.io/item-details/6WQtLFQDd2ehhoPbWC4Ba1NUNC7T48vdDVUFTjEYu8TL,Gem,Red,Vacation Shirt,Amber,Slicked Back,Neutral,,Dual Swords
+3582,0.65,4710,62.3,https://magiceden.io/item-details/6WQtLFQDd2ehhoPbWC4Ba1NUNC7T48vdDVUFTjEYu8TL,Gem,Red,Vacation Shirt,Amber,Slicked Back,Neutral,,Dual Swords
 3583,1.2,4576,57.88,https://magiceden.io/item-details/EKeXWYPBmhGEb1o8LBbxciQd6B9ofrgNogrD64jNAK2d,Face Mask,Teal,Shoulder Cover,Black,Middle Part,Excited,,Katana
 3593,1.049,2593,75.26,https://magiceden.io/item-details/6uZZZUaDcTvtZm51namirwcsv9TDWRynHWi4wFRiyJjp,Blindfold,Orange,Chemsuit,Black,Middle Part,Excited,,Katana
 3602,1,1941,80.97,https://magiceden.io/item-details/GE3X6tLfrQwpYNxNyLcnt2NRnr9jWZJdCSHLP8oTe1BJ,Box Earrings,Yellow,Vacation Shirt,Black,Wavy Long,Bloodthirsty,,Bat
@@ -1097,9 +1096,8 @@ id,price,moonRank,💎 score (%),storeURL,Accesory,Background,Clothing,Eyes,Hair
 4460,1.5,4356,56.64,https://magiceden.io/item-details/6ifevc6KAFhBBoX1wTCJUmiH4x17PfU6MuU3TyqifGJJ,Eyepatch,Red,Street Kid Tee,Amber,Headband,Grin,,Katana
 4463,1.55,3403,63.77,https://magiceden.io/item-details/7qmpxHv65nzh3qDkuuvB23rqovXCvjKhCyB6k9AF9TJ4,Box Earrings,Red,Fighter Tank Top,Black,Wavy Long,Neutral,,Chainsaw
 4464,1.199,2919,71.15,https://magiceden.io/item-details/GDhpwoXoGnmvmyqf8voRpTbFuzavR4cDvLn2HmNBBwcA,Glasses,Red,Shoulder Cover,Amber,Slicked Up,Bloodthirsty,,Bat
-4468,0.869,1364,86.89,https://magiceden.io/item-details/Gmi9xaXXsuKhWvjAweKpk1uGekNubF5V3t8RdkCMGcEQ,Face Paint,Purple,Royal Uniform,Blue,Pushed Back,Grin,,Chainsaw
 4471,3,2974,52.7,https://magiceden.io/item-details/51ERMfPssyZepj6PznaW4LbhfJVoj3CFptEpkEGZzUS5,Eyepatch,Orange,Royal Uniform,Orange,Wasteland Mask,Annoyed,,Katana
-4472,2.5,125,80.5,https://magiceden.io/item-details/9eogGHd8RRFkLkmgZ7MNYk91XbgPnHpXt3oos7LdYEeM,Gas Mask,Orange,Vacation Shirt,Sky,Side Part,Cigarette,,Bow
+4472,2.2,125,83.5,https://magiceden.io/item-details/9eogGHd8RRFkLkmgZ7MNYk91XbgPnHpXt3oos7LdYEeM,Gas Mask,Orange,Vacation Shirt,Sky,Side Part,Cigarette,,Bow
 4474,2,3051,62.08,https://magiceden.io/item-details/Asw9XSBNigN5RzE9gFFMFuTFkZSYjnXzcaCQbaoJDZa8,Box Earrings,Orange,Chemsuit,Green,Slicked Bun,Neutral,,Dual Swords
 4476,3,1877,61.48,https://magiceden.io/item-details/6KaVXCsGzzXKdVTXymwdHq8pFobNAX5vmshj2iybYgrt,Eyepatch,Lime,Streetwear Windbreaker,Red,Slicked Back,Annoyed,,Chainsaw
 4477,1.4,1820,77.93,https://magiceden.io/item-details/4KN2y5HhR3imagAH9FoYvXqL6UhCEc6yTrcFVPuafbPX,Bone Mask,Lime,Fighter Tank Top,Yellow,Combover,Annoyed,,Chainsaw
@@ -1151,7 +1149,7 @@ id,price,moonRank,💎 score (%),storeURL,Accesory,Background,Clothing,Eyes,Hair
 4660,1.5,1342,80.76,https://magiceden.io/item-details/8Yu1qXLSJZ16CuLkwqvnosRd1TALFj9v5Hdx6v4UBypL,Gem,Rose,Sensei Kimono,Purple,Scruffy,Neutral,,Robot Arms
 4662,2.5,1171,72.13,https://magiceden.io/item-details/GrhHnRYoFF6dtL4KC7KhVmUmWDcWJ7ErYfx4NXXP5t5q,Bone Mask,Purple,Robot Tank Top,Red,Scruffy,Neutral,,Katana
 4668,3,544,72.15,https://magiceden.io/item-details/G1TVJtMnRvcTbAmRadi4nzRwQyj3zC6rwgnCoAC5iMgX,Face Mask,Blue,Kill Squad Vest,Empty,Bun,Cigarette,,Chainsaw
-4681,0.96942,1588,84.1,https://magiceden.io/item-details/9qSFmjkqFnZVj5ZD2kZE8ibaYAYeNi1vQjFN9567ZRri,Box Earrings,Blue,Streetwear Jacket,Amber,Headband,Excited,,Chainsaw
+4681,0.848,1588,85.31,https://magiceden.io/item-details/9qSFmjkqFnZVj5ZD2kZE8ibaYAYeNi1vQjFN9567ZRri,Box Earrings,Blue,Streetwear Jacket,Amber,Headband,Excited,,Chainsaw
 4686,25,14,0,https://magiceden.io/item-details/BVQmkG6J8g61tezSQ27rXZC1SGeUjzX2DLT5rgSM4J53,Mecha Beak,Shadow,Robot Tank Top,Green,Cutoff Bun,Tongue Out,,Chainsaw
 4689,1.33,4923,53.8,https://magiceden.io/item-details/28DPDHBe55jks7cveBfRP2zEV4TBpaoj6MXkgW8tdJAo,Face Mask,Rose,Street Kid Tee,Blue,Dreads,Excited,,Submachine Gun
 4693,1.698,894,82.37,https://magiceden.io/item-details/3StdYPe8ywyTymWnQyH9YWq2rMQn1hN8Xf8Rg9G4RmbN,Eyepatch,Teal,Chemsuit,Empty,Wasteland Mask,Tongue Out,,Submachine Gun
