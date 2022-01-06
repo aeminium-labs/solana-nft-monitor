@@ -45,6 +45,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothes,Earring,Eyes,H
 613,10000,5864,0,https://alpha.art/t/6NpBVbmNC2Pw2XvL7a5tjjz5mr7pi5Rc9xgJZW1qCXwT,Orange,Salmon,None,None,Wink,Red Hair,Cigarette
 619,4,1536,61.25,https://alpha.art/t/HLpS81yBF88G7T2cj3Neaa7KK3thywMigmCo5wSMjnf8,Orange,Pink,Solana Tee,Western,Wink,Cowboy Hat,Annoyed
 641,4,6960,39.51,https://alpha.art/t/5PGyxAaZ53GYM8MWcRC4rQU2dpnriNpwvaMwKSqF8yzu,Red,Purple,Pink Leather Jacket,None,High,None,Weed
+647,2.2,2599,74.99,https://alpha.art/t/Gpi8iUyRMQxXz2DrTr9gBLzLtpjhHmP2AvYUYNsdZbco,Purple,Yellow,Fancy Sweater,Western,Sleeping,Elf Hat,Braces
 648,2.98,7715,46.69,https://alpha.art/t/7X3GvQAJmTYvs6TdwbwyXJaeTwBSbUKj8dt5nYVi3t2D,Blue,Pink,Singlet,Amulet,Coin,Leprechaun Hat,Smiling
 657,1.18,1696,88.8,https://alpha.art/t/8QKc4Q1UcmHCmLyTcp43Coi3ZnJXntFsC5KRwsYhr4wd,Orange,Zombie,Purple Shirt,Western,Crying,Beanie,Bubble Gum
 676,15,7598,0,https://solanart.io/search/?token=FtNBctHppqM1mB8SV4Yt4U7G1cgkVVv9iSS8gyrA9Aj1,Yellow,Yellow,Fancy Sweater,Palette,Closed,None,Neutral
@@ -52,7 +53,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothes,Earring,Eyes,H
 728,1.56,2387,82.24,https://solanart.io/search/?token=wombKtj5DoLcnEevHimT5RfKBWKB7ozfYSHZxQit9Tj,Purple,Salmon,Bone Necklace,None,3D Glasses,Leprechaun Hat,Braces
 745,5,9392,19.77,https://solanart.io/search/?token=Fhzdn8RG33Jn3tN2amm3Y8hSnBcwW4YMNizVrrsG8KG7,Green,Salmon,None,None,Open,None,Bubble Gum
 767,6.24,895,41.41,https://alpha.art/t/C6e9wRo17v3joH27mPPoGzgRHR8UQfUuPCZbibcdXVRx,Yellow,Alien,Star Tee,Kiss,Sleeping,Fedora,Smiling
-768,5.6,8551,17.14,https://alpha.art/t/JDQf9cJAfRErCfE5yPeWuWGd7eyW15Vds13ApENmsqhW,Yellow,Salmon,Piggy Tee,Palette,Monocle,Elf Hat,Neutral
 771,40,6178,0,https://magiceden.io/item-details/84U8ZbUi5jA7ZaLjEGWjsJ5Uj2os22KTQsZruYcHNyrh,Cyan,Purple,Red Jacket,Amulet,Crying,Fedora,Smiling
 776,3.99,7118,38.98,https://solanart.io/search/?token=D7NF3coPYoUBgHPtGCb7A972gq3b8e2uLRrty5nryWmN,Green,Salmon,Piggy Tee,Amulet,3D Glasses,Cowboy Hat,Neutral
 779,5.5,3094,40,https://alpha.art/t/7FKY5m1M8sXeh83Ytv8PouHUUga9sCmkPBxgTS9qUxni,Yellow,Purple,Artist Apron,Gold Ring,Coin,Beanie,Weed
@@ -242,7 +242,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothes,Earring,Eyes,H
 3348,5,8096,24.96,https://alpha.art/t/E4joP4D3YEdXH38NeXNckXVT7qQ7zaZRQfnYsk1TiXBz,Green,Salmon,Piggy Tee,Palette,Focused,Fedora,Weed
 3371,5.3,8633,19.81,https://alpha.art/t/FkQfgUDx3SkRQQUrr2pTedN47Z7bmmny4NsxwvLZpHp4,Purple,Salmon,Piggy Tee,Earth,Hypnotize,Cowboy Hat,Annoyed
 3377,17.5,9822,0,https://solanart.io/search/?token=7kpukwbKqmnUJYZcDnSLgMv3mkZfMSNjHFwuScdeJEYy,Cyan,Salmon,Piggy Tee,None,Open,Spiky Hair,Beaten
-3378,1.49,1904,84.87,https://alpha.art/t/EPMnWKyVs63JPPKiX8vtZDQe9EkUkrHansnvEGxLKi2V,Cyan,Yellow,Fancy Sweater,Amulet,3D Glasses,Fedora,Bubble Gum
 3397,0.87,8616,64.18,https://alpha.art/t/CfbZGDU8umXT6AKHqdkYwnMNshBYAUqAedKNAUKESMKc,Yellow,Salmon,Piggy Tee,Amulet,Wink,Fisherman Hat,Beaten
 3402,40,4060,0,https://alpha.art/t/5gkTavws8KzUaCQxmbhe6bFJxUSTuioZqgUbFi74ix4b,Red,Salmon,Star Tee,Gold Ring,Open,Fedora,Party Horn
 3404,1.1,1013,92.34,https://magiceden.io/item-details/GQfB94tAr2AZugeuRgjnvTWheTNx34QnxwhW8BG2rjKw,Red,Purple,Bone Necklace,Red Diamond,High,Leprechaun Hat,Bubble Gum
@@ -327,7 +326,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothes,Earring,Eyes,H
 4757,4.89,6476,32.55,https://alpha.art/t/9dBPtMP2Zfm9PstVGLksjvSw1tDyrs9JRUoY5QcEeHqr,Yellow,Salmon,Bone Necklace,Amulet,Crying,Fedora,Beaten
 4768,100,1988,0,https://alpha.art/t/FrUMznm3JgGP3zyxkvaEEya6hw5bboKzYpWbPsP6YdSJ,Red,Salmon,Piggy Tee,Earth,Monocle,Royal Crown,Smiling
 4808,8.6,3577,7.07,https://alpha.art/t/5PSXvDsWFfworNimTyqYuZKadqSzs6emabADicQieabs,Red,Salmon,None,Gun,Beaten,Fedora,Braces
-4810,3,2802,66.17,https://alpha.art/t/J7cXgp5F63LU8A8EGFYKsMgfc8eX2MykuZW8mFs7erTc,Cyan,Pink,Rich Jacket,Kiss,Coin,Beanie,Lick
 4816,3,6090,53,https://magiceden.io/item-details/9uGvjocJsbww3rUYKb2KZyAvRLqkHs7SXNCzxQbYMxKU,Green,Salmon,Artist Apron,Palette,Hypnotize,Santa Cap,Beaten
 4830,1.4,2046,85.2,https://alpha.art/t/33kUQPu95iwtSgNrq9bouxeFJCNNWdDUffQdkA9mehEE,Yellow,Zombie,Red Jacket,Weed,Beaten,Fedora,Beaten
 4856,3.01,607,74.87,https://alpha.art/t/E5qNshDihQTUaaYzME6gZgQzYg1tqoTyK663Hei1f2Nz,Purple,Yellow,Artist Apron,Kiss,Dollar Sign Googles,Mushroom,Beaten
@@ -338,11 +336,11 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothes,Earring,Eyes,H
 4991,25,3318,0,https://alpha.art/t/9rXYfkVgGY91uwWkELxN75aqqQmX6ZCUYa2tpHfKHAFJ,Cyan,Salmon,Piggy Tee,Gold Ring,Star Eyes,Party Hat,Beaten
 5012,2,5174,66.67,https://alpha.art/t/3czJopW58faVFjK9Jm8uLeeL5eKRGYH2FSjVJDAmbLTL,Yellow,Salmon,Star Tee,Gold Ring,Open,Leprechaun Hat,Bubble Gum
 5013,3.1,3513,62.32,https://alpha.art/t/7T132gfSzryb2pyzJwTAseyok3PSZH6apLnLk6s8AQNJ,Purple,Pink,None,Earth,High,Cowboy Hat,Biting Brush
+5024,2.2,1498,79.4,https://alpha.art/t/FJgoepGd7N2wZvwiaMaFn8JvZhhjtNTURroMQYqTGa6k,Yellow,Yellow,None,None,Laser,Santa Cap,Weed
 5039,40,6147,0,https://solanart.io/search/?token=3EpPuwUnDuu1DVEpz6JMo4wGk4WEETRWv4XTF3D4GmBF,Purple,Salmon,Star Tee,Kiss,Coin,Fedora,Annoyed
 5071,4.29,4632,45.94,https://alpha.art/t/CsHrK6vHDSF755oCa2khgHUicztFR6PuHkEfca4JEdJm,Blue,Purple,Red Jacket,Weed,Sleeping,Leprechaun Hat,Smiling
 5080,14,1985,0,https://solanart.io/search/?token=Hn7qN3mTG84VS6FfQG8k3dKL5RnDeTJKVqMNTsttxrpa,Purple,Pink,Pink Leather Jacket,Kiss,Crying,Propeller Hat,Bubble Gum
 5097,2.5,407,80.77,https://alpha.art/t/2VYw34tEZ5EVUovPC29jvrc6b7xwPHn8x1hNZNRefgzb,Green,Yellow,Red Jacket,Amulet,Monocle,Santa Cap,Golden Teeth
-5103,10,1062,3.14,https://alpha.art/t/8wFEnUaMdYdodqtNqy5cKgbYHnv44KDe9wH3WJPnJXng,Green,Solana,Singlet,Western,Open,Officer Cap,Weed
 5119,11.99,303,0,https://solanart.io/search/?token=5w1QMah5AFUTXSKFVfBzwNCA7hrEnWLk4WNhExW8E2Eu,Purple,Pink,Blanket,Gun,Laser,Cowboy Hat,Neutral
 5161,5,5355,35.94,https://magiceden.io/item-details/D8tuoZHybu3xrDFdsNrwaQqB23rSWfk2hadHWHJNy2LZ,Orange,Pink,Artist Apron,Western,Star Eyes,Cowboy Hat,Smiling
 5181,1.15,6919,68.18,https://solanart.io/search/?token=mq8WfPLy43cGyVvFf3tXNSC6PvfLBjDPtYextmhhuan,Red,Salmon,Pink Leather Jacket,Red Diamond,Wink,Beret,Neutral
@@ -350,8 +348,8 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothes,Earring,Eyes,H
 5211,64.68,221,0,https://alpha.art/t/3XiC4kiUN3eM3UoUqezFLnH81thm7t6Rpt5wEqL6NGSr,Blue,Pink,Solana Tee,Weed,Dollar Sign Googles,Mohawk Hair,Cigarette
 5231,2.5,2395,72.8,https://solanart.io/search/?token=2JU6wSgh7FUcw7gUy3Sr9Uiv3sLzFH1azDDzRR1ZMMs4,Orange,Purple,Pink Leather Jacket,Gun,Open,Mushroom,Bubble Gum
 5236,4,1306,62.17,https://solanart.io/search/?token=CMs1dHLY41qWqwNo9esc9PSX5tuVjQpUgEFZYCDadPV7,Blue,Pink,Pink Leather Jacket,Weed,Star Eyes,Unicorn,Smiling
+5273,3.1,1452,70.58,https://alpha.art/t/DLK1MpGtMAXmmjt3bY35KrNHGXhm2i2Q3PRypZaSz1Hp,Purple,Pink,Bone Necklace,Gold Ring,Dollar Sign Googles,Elf Hat,Smiling
 5277,5,211,56.55,https://alpha.art/t/9JUgYqBVL5rjRZcEVa6jNhCEVGPFfaQi5UTPCYGKerrS,Orange,Purple,Purple Shirt,Gold Ring,Star Eyes,Unicorn,Weed
-5332,0.79,8860,64,https://alpha.art/t/EYVXpPP14FP6UPdtLjHsfDJiuTiVnSJggv1N9BuLnBdp,Cyan,Salmon,None,None,Open,Fedora,Biting Brush
 5347,22,798,0,https://alpha.art/t/Bf1WgXQMxPFnFiNfwRLTTpk4tFnZF41avL89hDDzYPon,Purple,Alien,Red Jacket,Weed,Closed,Spiky Hair,Annoyed
 5355,2.5,1192,77.62,https://alpha.art/t/CTtS17BPHJUA8Dbx61S8DTEuedBZcL1VVi8uFi9scVWG,Red,Purple,Solana Tee,Gun,Beaten,Fisherman Hat,Smiling
 5388,1.25,7152,66.24,https://solanart.io/search/?token=BFi1js2LHoSs2qf4vaDfsAPqQzSniCvLSdXPbs3D3hG9,Red,Salmon,Star Tee,None,3D Glasses,Beret,Beaten
@@ -367,7 +365,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothes,Earring,Eyes,H
 5571,10,5963,0,https://alpha.art/t/47G2iCQwwY5foim8bJSKAHWjRUXgFLxLu9bEx6baQXeG,Orange,Alien,Piggy Tee,None,Closed,Cowboy Hat,Neutral
 5577,0.8,4941,79.6,https://magiceden.io/item-details/6t6f3qnqG1TypX6wwLVojMKfR8fkBptgetoVhGMnEQ8a,Yellow,Purple,Artist Apron,Earth,Focused,Elf Hat,Neutral
 5626,15,31,0,https://alpha.art/t/H2J6LkKZd2kXGoBtWqciDsHU1nXzB6DiCAbwtiaemtM8,Blue,Yellow,Pocket Watch,Western,Monocle,Unicorn,Braces
-5641,0.7969,9528,61.25,https://alpha.art/t/F56jfFzPoyqrzyAoxKmi2HhgCNX9dE8RXZvTFKJcwajd,Green,Salmon,Fancy Sweater,None,High,None,Cigarette
 5652,48.2,3362,0,https://alpha.art/t/2943hXxnwhE9RUEYZcijJg7Aods8szs8zHu5d7LTrCsy,Cyan,Alien,Piggy Tee,None,High,Afro Tail,Beaten
 5675,4.79,4366,42.01,https://solanart.io/search/?token=5zHgxGpGinyas2JrxpvUbYRtkQsJy2VyNTE6D6Bps7zo,Blue,Pink,Piggy Tee,Palette,3D Glasses,Mohawk Hair,Smiling
 5687,5,7359,27.91,https://alpha.art/t/2rzj7G6foL5aaT7qedquG3ySVdttN9NXVFnsLTQc74JZ,Yellow,Purple,Purple Shirt,None,Heart Eyes,Cowboy Hat,Smiling
@@ -386,6 +383,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothes,Earring,Eyes,H
 5836,4,4370,49.89,https://magiceden.io/item-details/98DamXYDAJ3M363xfadWBW5EZ1oH2cKBKuRDEgHLdyCh,Green,Salmon,Bone Necklace,Western,Hypnotize,Elf Hat,Bubble Gum
 5854,2,6658,60.72,https://solanart.io/search/?token=F9PpieavJDXhSGuUdQS26NNpzU6ieR6bY31FK3hJM3xC,Orange,Purple,Singlet,None,Dollar Sign Googles,Afro Tail,Neutral
 5865,17.7,297,0,https://alpha.art/t/DzMnDaPAhjuzun9yXcLg6yxryTNZmkhSU298kgBspVhw,Yellow,Yellow,None,Gold Ring,Closed,Leprechaun Hat,Golden Teeth
+5871,0.75,7996,67.86,https://alpha.art/t/9B5R4NLZ85c485GmaRt4cNFcYn5opJQ7nzWcBkdkgP2w,Red,Salmon,Piggy Tee,Western,Closed,Leprechaun Hat,Lick
 5895,5,160,56.76,https://solanart.io/search/?token=3MsJBke4fiiiFaoVSnDMnAVgV7qi2hFXzGFk15qQxPEs,Green,Alien,Red Jacket,Weed,Star Eyes,Santa Cap,Party Horn
 5907,0.97,5548,75.47,https://alpha.art/t/DtRDrpDByDKGACQWprVYwXWRnnYxdyG4Y95iCBvPxGxh,Cyan,Salmon,Red Jacket,Earth,Crying,Fez,Biting Brush
 5910,1.3,4916,74.7,https://alpha.art/t/Hrz16zSG1EyzSS8RqMDnx6hL83gY4NBRcc4QkoEGzBGC,Orange,Salmon,Fancy Sweater,None,Sleeping,Afro Tail,Golden Teeth
@@ -421,6 +419,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothes,Earring,Eyes,H
 6254,3.5,2266,63.32,https://alpha.art/t/FAsRLqExoS2cZSqv2Hk3WzxDgQnmSb4vaA35Tx6wfoXw,Cyan,Yellow,Star Tee,Gun,Hypnotize,Beanie,Weed
 6256,39,267,0,https://solanart.io/search/?token=8WQgub7XwrLFpAC87Uug6AraaguVK9pwe8G5ZWsr6GZs,Blue,Purple,Bone Necklace,Western,Open,Royal Crown,Lick
 6264,1.8,1378,83.88,https://magiceden.io/item-details/5w5LHanhnnJ1mRGT3G81bZohuVvkwDqXwmeCVfk6mvTh,Orange,Purple,Solana Tee,Weed,Open,Elf Hat,Beaten
+6267,2,1927,79.68,https://alpha.art/t/8KJs5xVbqSyTqxDhkvMpPLQJbVpcaCHKiFFgoWra5HFS,Orange,Alien,Singlet,Palette,Open,Sailor Cap,Bubble Gum
 6273,55,9439,0,https://alpha.art/t/2qrbxWkNpp1QdFaXcTrRoiyzGrzyd4pyr4JiQQVQqCjk,Purple,Salmon,Piggy Tee,Palette,Crying,Officer Cap,Smiling
 6304,10,3414,0,https://magiceden.io/item-details/3PkeBZfCPJi32p9EhxMeGC35J5VNsmNUgXeoby7CHzFB,Yellow,Yellow,Red Jacket,None,Focused,Leprechaun Hat,Braces
 6312,18.49,9660,0,https://solanart.io/search/?token=8ozDYQf5AhR4khDUY8Yze2kRhUgoaGfcdxy2GBVgGxVA,Cyan,Pink,Piggy Tee,None,Beaten,Fisherman Hat,Annoyed
@@ -474,6 +473,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothes,Earring,Eyes,H
 6930,7,3963,21.52,https://alpha.art/t/CRaaFRwWeShLn9q49qZNyAPZguhgXHki5puRXc7sJzba,Blue,Salmon,Purple Shirt,Red Diamond,Hypnotize,Leprechaun Hat,Neutral
 6947,3.26,127,74.29,https://solanart.io/search/?token=2sSZJkxDrVoiWB885n5KF5p2ce2p9zEfGzPxEfkaXYxt,Yellow,Zombie,Artist Apron,Earth,High,Ice Cream,Bubble Gum
 6950,20,1042,0,https://alpha.art/t/C2aqLxdvCELDmNrauQb2vcvByECwyf6cVcrTmSKxTZaB,Red,Solana,Red Jacket,None,Beaten,Spiky Hair,Annoyed
+6973,0.77,7445,69.87,https://alpha.art/t/396TmmqZ8hthuf2B12m4Hqf9Gw5Hs5MkFjVDGxPhDgLj,Orange,Salmon,None,Palette,Star Eyes,Beret,Smiling
 6980,7,4167,20.7,https://solanart.io/search/?token=DwxJYYKPqQ9ZoAEd396ZD5nD3JvEnaJHAvDEbKwSpmEn,Blue,Salmon,Bone Necklace,Earth,Wink,Officer Cap,Biting Brush
 7003,9.8,9160,0,https://alpha.art/t/ESk2VUYmz7LKm9DwMWrxa9AJ4YRiPuPcmMqjNgwmEfwE,Orange,Salmon,Fancy Sweater,Amulet,Coin,Cowboy Hat,Neutral
 7009,11,3478,0,https://alpha.art/t/F3Fhfpgz839ChdCTHFPbYTQUK6xjKMfYhn9hNrpLZAyA,Red,Pink,Purple Shirt,Earth,Star Eyes,Santa Cap,Cigarette
@@ -508,6 +508,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothes,Earring,Eyes,H
 7405,4.8,7198,30.56,https://alpha.art/t/BxgCD1r4PGzrKyXKWyBmQFvkdzUxnV8A9EKeKbisVPUW,Red,Yellow,Singlet,Amulet,Open,Leprechaun Hat,Annoyed
 7415,5,4761,38.32,https://magiceden.io/item-details/29w9NHVqYePC53B2b5GmwnfJLmCZSSkPW8e7aVWdynHu,Orange,Pink,Pink Leather Jacket,None,Monocle,Mushroom,Cigarette
 7416,5,3358,43.95,https://alpha.art/t/ice5i1DBHj73JYTjhDd16Nws28BDxFy7FM6uhHFQg3d,Green,Salmon,None,Gun,Heart Eyes,Sailor Cap,Beaten
+7432,5.7,6681,23.63,https://alpha.art/t/rAQtjjUjGeEJs5Z2TDnot3eBntuPFzUpZzXpq57kBix,Blue,Salmon,Bone Necklace,Weed,High,Sailor Cap,Neutral
 7438,13.39,6864,0,https://solanart.io/search/?token=24NUuEmU7ifqgsnQsfpzMMuwrS3XAPvgLdqVNkAPeuZE,Blue,Pink,Singlet,Kiss,Hypnotize,Sailor Cap,Neutral
 7493,5,43,57.23,https://alpha.art/t/2b6z2maGQqXLARCW4PYWh64aHaQGiPkratywFn9JPiYU,Orange,Alien,Pink Leather Jacket,Gold Ring,Wink,Unicorn,Beaten
 7505,1500,6553,0,https://alpha.art/t/B33dpMi8kLm65yK1ErPAdoMkBg8h9YGgD45gJpaKtYRz,Red,Salmon,Pink Leather Jacket,Weed,Closed,Mushroom,Beaten
@@ -565,6 +566,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothes,Earring,Eyes,H
 8305,6.8,2914,27.72,https://magiceden.io/item-details/2zkFWyVkbV8FgMXX6hRZQi7debYwivk56uWontpJMq9z,Yellow,Pink,Red Jacket,Red Diamond,Closed,Mohawk Hair,Weed
 8312,27,7684,0,https://alpha.art/t/FPJJAou2bnkyufTPb3cEhcTPbmj9yzJo4PJhvZyt9p1g,Yellow,Purple,Singlet,None,Sleeping,Leprechaun Hat,Weed
 8324,0.85,6778,71.74,https://magiceden.io/item-details/DzQ3uqpyfFG2JndxqHsB8J4T9yFnPntwsJoDoT7UCzku,Green,Salmon,Piggy Tee,Earth,Hypnotize,Fisherman Hat,Lick
+8340,2.2,8711,50.5,https://alpha.art/t/DwHcCQZxB1ogBPZdXoW5iMj31UaEQLweqZ8Wzc1vPBGa,Yellow,Purple,Pink Leather Jacket,None,Open,Fedora,Beaten
 8360,15,286,0,https://alpha.art/t/FL32FDTZyBvManxibFq4poGid2b1txYX37cPJrkEehrv,Blue,Solana,Fancy Sweater,Palette,Heart Eyes,None,Bubble Gum
 8364,35,4465,0,https://alpha.art/t/FqXzDN4JR6WyTaYKrxJNp5hLvs6AcGKFfYvSA3zAnuFN,Purple,Pink,None,Palette,Heart Eyes,Sailor Cap,Smiling
 8371,0.8,6471,73.47,https://magiceden.io/item-details/94wnu86KWwAFP4sbCQV3gZXmvfo5NPxAPyWenuc9yjby,Green,Salmon,Artist Apron,Amulet,Crying,Fedora,Bubble Gum
@@ -592,7 +594,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothes,Earring,Eyes,H
 8623,200,1521,0,https://alpha.art/t/9J9neLxTw8fr3YCgxQfmQinM4GfSd7HjZSu2tn39qd6z,Red,Pink,Purple Shirt,Earth,Laser,Beret,Bubble Gum
 8625,3,548,75.2,https://alpha.art/t/Doj5bb3HqZMkVtqAdi1WE3geGLRWA6nhnyqBUzK7VTyr,Yellow,Yellow,Piggy Tee,Gold Ring,Heart Eyes,Unicorn,Beaten
 8627,8,4082,11.04,https://magiceden.io/item-details/5mnXkHwkLS3owGQ9UKDuzgWgcxJoxRCbcYmSM6Qpfxhd,Orange,Yellow,Bone Necklace,None,Hypnotize,Leprechaun Hat,Beaten
-8650,10,2783,0,https://alpha.art/t/97i47enP8yq4phUTbPNhTwu1KRfFQNd529KKvX3yRioK,Green,Salmon,Red Jacket,Kiss,Dollar Sign Googles,None,Bubble Gum
 8699,25,9737,0,https://magiceden.io/item-details/VXcmHZpXGQupTMfF5XLfpE2qV8R7ay39smJxMMouHMg,Red,Salmon,Pink Leather Jacket,None,Beaten,Santa Cap,Annoyed
 8729,5,7814,26.09,https://alpha.art/t/6L3qLJQ6Q4wNFD7oP6gwyMTzcBechneAAttx8APDc8Dm,Purple,Pink,Piggy Tee,Amulet,High,Leprechaun Hat,Smiling
 8742,22.5,461,0,https://alpha.art/t/CtDghudvM1ikigi4byjQZGT92UNiahovxq4itZ2tkw6g,Cyan,Solana,Red Jacket,Kiss,Open,Mushroom,Smiling
@@ -613,7 +614,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothes,Earring,Eyes,H
 8941,1.5,5598,69.97,https://solanart.io/search/?token=kc4rFMC1cZTZtS6hDHaREfoxoodzx7bQJP53ttehiRH,Orange,Salmon,Red Jacket,Weed,Open,Sailor Cap,Braces
 8945,25,6521,0,https://magiceden.io/item-details/6vntTHebwJj2DRP6pUtAXMPqMYoyA8iWqyXGA92kyw9E,Cyan,Pink,Singlet,None,Beaten,Halo,Annoyed
 8954,0.9,5166,77.7,https://solanart.io/search/?token=7B7Kg2nXZUnNaGY6MUPoyA2ZX5hguoAdEc2TvttofYuX,Yellow,Purple,Pink Leather Jacket,Palette,Open,Cowboy Hat,Lick
-8962,1.49,1895,84.91,https://alpha.art/t/EG1BMPZV923VURWPdi3SJKPdqPCRJpF5Lzm1nB9Buzt7,Green,Zombie,Piggy Tee,Palette,Coin,Officer Cap,Weed
 8976,22,7280,0,https://magiceden.io/item-details/gMkbvCcBkD1bA12oPJdAnJ1WBg69bLrw2eqczcmrtmG,Green,Yellow,Singlet,None,Closed,Mushroom,Weed
 9007,1.79,3472,75.59,https://alpha.art/t/Cx6TMjArEn6waNBWur9U9SQzLAwyUGmvbhyLwhzCeiFa,Red,Salmon,Piggy Tee,Palette,Heart Eyes,Propeller Hat,Lick
 9028,0.8,9306,62.11,https://magiceden.io/item-details/HbCZcD5UJ5zCYvusVHmrDGiVSeQPoq9xoWpKYV19GCh5,Purple,Pink,Singlet,None,Open,Afro Hair,Smiling
@@ -625,13 +625,13 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothes,Earring,Eyes,H
 9101,3,2224,68.49,https://alpha.art/t/BzgBxS6VBUwbNjvocyFSHH7dz9DucvtM9kDmnCYcn1Ra,Cyan,Yellow,Pink Leather Jacket,Earth,3D Glasses,Fisherman Hat,Neutral
 9104,2.99,5721,54.58,https://alpha.art/t/5Wv7jDRgSf7mKmzwSzfjr17X73wbWqiHpMgMi19YYbRb,Red,Salmon,Pink Leather Jacket,Amulet,Hypnotize,Mohawk Hair,Cigarette
 9129,6,2213,38.53,https://alpha.art/t/7AHmaJKdcgDmb7GA7ccoqjSQ5dQVURiEWixs3MT63WMb,Purple,Pink,Singlet,Earth,Coin,Cowboy Hat,Golden Teeth
+9161,0.79,8142,66.88,https://alpha.art/t/955mGjFUC42RPVmdx6vrbqMqPJn3R6GWXZPiMw5RETdF,Cyan,Pink,Piggy Tee,Earth,Wink,Afro Tail,Neutral
 9165,9.99,9830,0,https://alpha.art/t/Fm1hQnVvi27T6sab9UYHm4MTKkDVH9pfvwL2F8XN2fuA,Yellow,Salmon,Fancy Sweater,None,High,Beanie,Weed
 9176,6.4,4549,25.17,https://alpha.art/t/61mgYvPHQhZrMv4oqdKmbXVSj7q4X6sjWRJVSFdUtnUb,Yellow,Yellow,Fancy Sweater,Gun,Open,Fisherman Hat,Cigarette
 9202,2.14,5741,63,https://alpha.art/t/BAjYjXT7KeV6V2binxULLE5mSBVCdtAsCcj6tApssw7e,Red,Salmon,Fancy Sweater,None,Heart Eyes,Mushroom,Braces
 9250,5,6226,32.45,https://alpha.art/t/BtX9wyQFtYu1XpGKSwYS5N3AkGuegzM9JQvG9ntTc881,Green,Salmon,Piggy Tee,Amulet,Monocle,Mushroom,Annoyed
 9269,17.8,6536,0,https://alpha.art/t/Hf2auSPuFNHr9rUoxgmmipbDwuvNJZwsGe45DsypEuHV,Purple,Yellow,Pink Leather Jacket,None,High,None,Cigarette
 9275,2500,87,0,https://alpha.art/t/qjoEXhdjAm3vEvQ3ywbKDh6bN6mymLoWbuA5t5LJ7tD,Orange,Alien,Solana Tee,Earth,Sleeping,Beanie,Lick
-9277,4.85,5961,35.02,https://alpha.art/t/BVuZLTCVmJ7H9dvSK6bRUFDUCZ3LirtGkX7gSnJBWnWB,Blue,Pink,Purple Shirt,Kiss,Sleeping,Cowboy Hat,Neutral
 9281,2,557,85.17,https://alpha.art/t/JA4L24PiTuz79yuQG6TqWYAR3U1eXm3urx5mrrrt3dfr,Green,Purple,Purple Shirt,Amulet,Laser,Leprechaun Hat,Weed
 9282,3.9,6132,43.83,https://magiceden.io/item-details/JDkUyU4hvuZnnb7pzCscBCQJvVBG6GXGRAasYu7poDEh,Yellow,Purple,None,None,Hypnotize,Officer Cap,Annoyed
 9284,300,2876,0,https://alpha.art/t/3sPFmH8dg42PNTzZfVd5P2HLC8MHdqyqYJuZ8RhsxEYm,Blue,Yellow,Rich Jacket,Gun,Coin,Beanie,Neutral
@@ -641,6 +641,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothes,Earring,Eyes,H
 9355,13.55,2091,0,https://alpha.art/t/ALwbZqshbmm6kbfFupTyFwz8C5C9RnYJLyh649xdeSEx,Green,Alien,Red Jacket,None,High,Fez,Beaten
 9366,12,7479,0,https://solanart.io/search/?token=AWwV7MUNzuzehxMF2iv31kUoRfGnFR1DRgfoJFRV4qzv,Green,Pink,Piggy Tee,Earth,High,Beret,Weed
 9377,2,9752,48.33,https://alpha.art/t/FN9ciJ6MwjndEPdFy6kb4ctD1M97RShFjAPers5CHxzy,Cyan,Salmon,Piggy Tee,None,Sleeping,Afro Tail,Beaten
+9387,0.76,8550,65.54,https://alpha.art/t/RxYZmQNcVfvkoekUac1rLV4hExJYbSRwEDUe9vnNJ7p,Green,Salmon,Singlet,Western,Star Eyes,Elf Hat,Smiling
 9410,3.5,2356,62.96,https://alpha.art/t/3Wm1qrTwkUxTy6PVLwXFqJQaDti69XLrZuHgPxEyJfMP,Red,Salmon,Red Jacket,None,Hypnotize,Mushroom,Golden Teeth
 9412,4.2,8713,30.49,https://magiceden.io/item-details/3dQjJj2vBSGVi3dq8VmJG5fGb7893boUSPNSyqGYZXVD,Red,Salmon,Singlet,Western,Closed,None,Lick
 9421,2.9,6817,51.09,https://solanart.io/search/?token=Ewixx2AZiAt5jd4pJ1Zij44gpsqbtXU3q4AV9hR49CcX,Cyan,Purple,Singlet,Earth,Open,Mohawk Hair,Weed
@@ -658,7 +659,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothes,Earring,Eyes,H
 9550,8,2142,18.82,https://alpha.art/t/5mmH5xNSqdXsGXkEuUSYFxoWCXM3wEGfCKK7257JCuL6,Cyan,Purple,Piggy Tee,Amulet,Crying,Afro Hair,Biting Brush
 9557,5.8,9671,10.65,https://magiceden.io/item-details/EXDQPNyR3J9gQkGemriTQ3Ww977Bmfk1X67qFgvCT2dj,Red,Pink,Piggy Tee,None,High,Afro Tail,Smiling
 9570,23.963,7821,0,https://alpha.art/t/ELxXJSH9cGQzWi1Pcxb7zHTqzQSHLhhS1Jhfit2iifJo,Blue,Salmon,Singlet,Palette,Star Eyes,Fez,Annoyed
-9580,3,8012,45.3,https://alpha.art/t/GtEUCKPWFaKqmEj4gXz7GMLePCeWszHPV3GjDYRmeN8T,Purple,Salmon,Red Jacket,None,Hypnotize,Mushroom,Annoyed
 9596,30,1116,0,https://solanart.io/search/?token=4K8xGkMrcfGnmXQ4WKqa34smZdCXxaj63MYwayNLGUV9,Orange,Pink,Red Jacket,Palette,High,Fisherman Hat,Golden Teeth
 9597,11,5747,0,https://alpha.art/t/Bz3omFCpva8P2uHKmUsNoCqMSkXmnEbpMcgkE3Af6fMx,Blue,Salmon,Purple Shirt,Kiss,Star Eyes,Sailor Cap,Smiling
 9622,150,2212,0,https://solanart.io/search/?token=ASwkfnYTncVxcfU1q78xosSC5koocoyh6MYwXn7taeuu,Cyan,Purple,Singlet,Weed,Wink,Spiky Hair,Party Horn
