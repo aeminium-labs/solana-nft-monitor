@@ -46,6 +46,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothes,Eyes,Eyewear,F
 546,0.72,2421,70.62,https://solanart.io/search/?token=7NHPaW5CAxq2TB9sQXphKXGmCVcj2HUZhto4nvgaSW9w,Gradient Black,Grey,Punky Ninja Blue,Normal Red,None,Green Indicator,Black Wavy Bun,Normal
 556,1.4,2687,60.62,https://magiceden.io/item-details/Hm2oWUkSuroxbtYNbcypjF3EeVrYNXHeS73JoaoEGUEE,Gradient Purple Green,Grey,Punky Ninja Pink,Odd Eye Raised,None,None,Green Horns,Angry
 557,0.75,2548,68.79,https://magiceden.io/item-details/4ng6LZKXDrCidEtz9TuJfx6giwcajUzD3YpHRwVi8oJP,Orange,Gold,Punky Ninja Pink,Black Normal,None,Black MetaMask,Black Bun,Angry
+572,0.75,3253,60.32,https://magiceden.io/item-details/6PsrWgmzHyRiAb4QJ5MixEc4xGW48we4dKwW8tjtwptz,Grey Shades,Purple,Black PAC Cop,Normal Red,None,None,None,Normal
 595,2,643,79.18,https://magiceden.io/item-details/G9npDGi6pSVsr5nxS7TEg2nR8yczibAG1QKEvnnLY72B,Pink,Metallic Pink,Punky Ninja Blue,Pink Angry,Robotic Blue,None,Green Chef,Happy
 597,1.2,3071,58.01,https://alpha.art/t/2VdmXR3EGggANrmTLyY9AdyGDoQZK4SXZr1U6ncNjk77,Orange,Black,Cyan Guardians,Red Raised,None,None,Black Horns,Happy
 604,2.1,70,85.06,https://magiceden.io/item-details/ACobRu5CfByNTrtATXUhPJtqe8cWq6RSXEPufGyNCpeo,Purple,Black,City Savior,Pink Normal,Scanners Green,Purple Hazmat,Blue Tron,Normal
@@ -93,7 +94,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothes,Eyes,Eyewear,F
 1096,2,594,79.76,https://magiceden.io/item-details/2WE86gZRNijVAQ3roRQRgqsjV2A9i3P6XN252CyT42pR,Gradient Purple Green,Brown,Punky Ninja Blue,Black Angry,Nightvision Pink,Purple MetaMask,Black Samurai,Angry
 1107,9999,592,0,https://solanart.io/search/?token=EtmhshoSiWDG2TsPXG3BjHVzMc1RK8iZiBB3Zns5HFhz,Gradient Purple Green,Black,Punky Ninja Pink,Black Possessed Normal,None,Yellow RT500,Cyan Samurai,Normal
 1109,4,1146,53.13,https://magiceden.io/item-details/FD3472aL2xqkccr3LTL7Vd34uw5JnWMmDRRnggrmcLDn,Gradient Purple Green,Metallic Pink,Purple Samurai,Normal Red,Laser Luminous Blue,None,Green Horns,Teasing
-1151,0.77,1123,85.71,https://magiceden.io/item-details/G7Usuzj3BLLTA3qjDF7JjWX7bjwt3VcZJySukzzqE5By,Gradient Pink,Purple,Purple Samurai,Pink Normal,Scanners Cyan,None,Cyan Headband,Teasing
 1172,4500,850,0,https://solanart.io/search/?token=2GHoEzKZESqMU5C3imqUHF69HkMFn2Q2F52pDqEN55ux,Pink,Purple,Pink Guardians,Pink Raised,Robotic Blue,Black MetaMask,None,Normal
 1187,2.5,149,80.11,https://magiceden.io/item-details/9FX7ddNP3ngp1nordGmEUVkVeoCXRHAk2gLd9Apje9we,Pink Wave,Purple,Punky Ninja Blue,Red Raised,Nightvision Pink,Pink Oni,Cyan PAC Headband,Normal
 1194,5000,1755,0,https://solanart.io/search/?token=CmTaqNTWE8edqeBgC9cyDWX4Tr965seKyNCXWA1RrNsv,Pink Wave v2,Metallic Blue,Punky Ninja Blue,Sleepy,None,None,None,Normal
@@ -171,12 +171,12 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Clothes,Eyes,Eyewear,F
 2137,0.8,2371,70.42,https://magiceden.io/item-details/4ytLksXkdgUC3Z5TUnPXhgoG8zieN6YMzytvKtBigSK2,Gradient Purple Green,Brown,Purple Samurai,Black Normal,None,None,Purple Headband,Rainbow Sheesh
 2140,0.8,2435,69.65,https://solanart.io/search/?token=2TQruKjELikHHm132UBfjfbnCv4F2qxQ3CVhEkZz3NJC,Pink,Gold,Grey PAC Cop,Normal Red,Robotic Blue,None,Black Bun,Punky
 2169,0.8,1785,77.46,https://magiceden.io/item-details/E2hoxKMeVt3EXrCv5oJjVacn83DSQjBVBR2m8sJhAa6T,Blue,Metallic Pink,Cyan AKN,Blue Normal,None,None,Black Headband,Teasing
-2172,0.71,1537,81.34,https://magiceden.io/item-details/BWnwRdLCfzYsYG9ASqShi9VE31aJtd7nhk2CCXoKA2jz,Gradient Purple Green,Black,Black PAC Cop,Normal Red,Punky Pink,None,Brown Wavy Bun,Sheesh
 2187,0.99,2006,72.9,https://magiceden.io/item-details/GqugDPKAk2yipwxqaJfFp9FQ44GYKMrF3J9X7Gna5nx1,Gradient Black,Purple,Cyan AKN,Red Raised,None,Purple MetaMask,Punky Green,Normal
 2196,1.45,2385,63.75,https://solanart.io/search/?token=6X3ZAyDy3xAWCwYxEABUpNKehkVUWYWD6Yk2XTNtWv9W,Green,Gold,Punky Ninja Blue,Angry Red,None,Cyan Indicator,Brown Wavy Bun,Normal
 2200,50,6,0,https://magiceden.io/item-details/6EVr1TGrHGFQJLDxrdz7iyFQ5V4Mxf4qpa9oFB6h71kb,Mystic Grey,Grey,Grey Royal King,White Possessed Angry,None,Grey Oni,Grey King Crown,Punky
 2206,1,3255,57.8,https://magiceden.io/item-details/EbtVsTajQ9Svz7Lqgm71FNWdrUXYpYn24Xi8pQPkSuXp,Purple,Brown,Punky Ninja Blue,Normal Red,None,None,Cyan Horns,Sheesh
 2211,0.88,1859,75.77,https://solanart.io/search/?token=3UnxDFUcX4AEJfcqbYtdLdFQ3j1zqp2Xq7jtR79LhcF6,Pink,Grey,Cyan Guardians,Angry Red,Robotic Blue,None,Cyan PAC Headband,Teasing
+2212,0.8,3029,62.51,https://magiceden.io/item-details/9NFcAYrREvuDiCzachErtQVEJP5oBwEiBB4F9tstYa3y,Orange Shades,Black,Punky Ninja Pink,Black Normal,None,None,Cyan PAC Headband,Happy
 2248,2,984,75.08,https://solanart.io/search/?token=CtjdjRk74fExVGAhm6W1CLnmtkRwCajEjj1uTysVUy5B,Orange,Brown,City Savior,Blue Normal,None,Red Indicator,Cyan PAC Headband,Normal
 2263,1.15,247,92.43,https://magiceden.io/item-details/EiMfBHsr9XDAGibBpwdtw7d5fGmHh5n6BBN8vPnqm8Fg,Blue Wave,Gold,Grey PAC Cop,Pink Raised,LED Luminous Green,None,Purple Samurai,Normal
 2268,5500,2568,0,https://solanart.io/search/?token=hWSefKbU583pBEJuWdi8jmM5Htt4PXxZsmkDM9QDQMj,Pink,Grey,Cyan Guardians,Pink Angry,None,None,Brown Bun,Teasing
