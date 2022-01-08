@@ -1401,3 +1401,10 @@ jobs:
           http_url: https://api-mainnet.magiceden.io/rpc/getListedNFTsByQuery?q=%7B%22%24match%22%3A%7B%22collectionSymbol%22%3A%22jambo_mambo%22%7D%2C%22%24sort%22%3A%7B%22takerAmount%22%3A1%2C%22createdAt%22%3A-1%7D%2C%22%24skip%22%3A0%2C%22%24limit%22%3A500%7D
           downloaded_filename: jambo_mambo__magiceden.json
           postprocess: ./postprocess/magiceden.ts
+
+      - name: lifinity_flares - Fetch Magic Eden data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://api-mainnet.magiceden.io/rpc/getListedNFTsByQuery?q=%7B%22%24match%22%3A%7B%22collectionSymbol%22%3A%22lifinity_flares%22%7D%2C%22%24sort%22%3A%7B%22takerAmount%22%3A1%2C%22createdAt%22%3A-1%7D%2C%22%24skip%22%3A0%2C%22%24limit%22%3A500%7D
+          downloaded_filename: lifinity_flares__magiceden.json
+          postprocess: ./postprocess/magiceden.ts
