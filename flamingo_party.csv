@@ -2,6 +2,7 @@ id,price,moonRank,💎 score (%),storeURL,accessory,attire,background,beak,body,
 0,29.99,1,0,https://magiceden.io/item-details/4QMnFJaYgzNspfn35heXpu9JKrZNC1VcKt1QcXRTZtGM,cig_blue,empty,gradient_3,short_gold,rainbow,bottom_left,bandana_green,shadow
 2,1000,43,0,https://alpha.art/t/C4mGpvKtGRhTZRdSJzFuSg6MwaA9Sjjxm96EFxNCqQYF,empty,neck_strap,yellow,short_aqua,green,bottom_right,fedora_green,shadow
 6,25,67,0,https://magiceden.io/item-details/2XiAge1cztfaFwJgVdSNN3RSEuK7ecmQCPEZ6NgeeWgL,cig_black,scarf_blue,pink,short_gold,pink,bottom_left,fedora_green,shadow
+14,1.11,1059,54.84,https://magiceden.io/item-details/5La6AqzARZm6BTbwPyH49Dxa46B6awc3A5KJnVqFT7Av,empty,empty,green,short_gold,pink,bottom_right,fedora_blue,shadow
 18,2.2,994,46.28,https://magiceden.io/item-details/8edC6Y3TzQKQck3P5o9387h91rm3siyafmGoJsdCS2h6,empty,empty,purple,short_gold,pink,top_right,peak_purple,shadow
 20,7.49,175,22.81,https://magiceden.io/item-details/4CwJQanSPUY5r4CLM3UbZurpuMxX8mCQbk2mVkUcX1Nf,earring,empty,purple,long_gold,pink,bottom_right,cowboy,shadow
 22,7,135,29.15,https://magiceden.io/item-details/GzBQ4DD7uCFKMKhWNgeJUqSogBvgoUN1QtYHd9mYmypw,cig_black,empty,green,long_gold,purple,top_right,bandana_multi,shadow
@@ -15,7 +16,6 @@ id,price,moonRank,💎 score (%),storeURL,accessory,attire,background,beak,body,
 138,1.4,326,78.28,https://magiceden.io/item-details/Hmc7rJG5VJwqKS6m16Uc69qNM8gZ3pRKhYp8JBxhGAGs,empty,neck_chain,purple,short_gold,pink,bottom_left,bandana_purple,shadow
 139,2.55,296,67.86,https://magiceden.io/item-details/BcKNGKvW99Z14KNMCKB11gcWcd2iNNYTWpZduSqaRJkz,empty,scarf_purple,aqua,long_gold,pink,bottom_left,fedora_green,shadow
 141,1.11,613,70.87,https://magiceden.io/item-details/D7fAbVmNC6faxVzZgDqF2CupX6gXqt3oLdRNnRh44KxS,empty,empty,purple,long_gold,purple,top_left,peak_multi,shadow
-145,6.9,120,30.69,https://magiceden.io/item-details/5Lw92DYubwS1EswQTC7ZVEanQ3UevSGo35H9KYuVDtTa,cig_blue,empty,purple,short_gold,yellow,top_right,bandana_purple,shadow
 147,1.34,1057,52.61,https://alpha.art/t/CKKdQompZUSY7bYjW38B3FpHJ2oEcWaQyZpuFiNqBek2,empty,empty,purple,long_gold,pink,bottom_left,peak_purple,shadow
 156,4.98,1076,15.53,https://alpha.art/t/6YVX31dDhECuLSc9HZRyE31K2SohMdLkaVyCRY8HEu7X,empty,empty,green,long_gold,pink,bottom_left,peak_blue,shadow
 161,3.25,95,68.09,https://alpha.art/t/BkuMGpc5TEJLUVt2mZNG3vGbfj3W5SJRbuahwSfXzKnH,empty,neck_strap,purple,long_aqua,blue,top_right,peak_red,shadow
@@ -97,10 +97,10 @@ id,price,moonRank,💎 score (%),storeURL,accessory,attire,background,beak,body,
 812,19.89,136,0,https://alpha.art/t/HroQwwr4TcK88bgx49mvyoVs8qFitA6jMpx8SFG61sKC,empty,snood,green,long_gold,pink,bottom_left,explorer_purple,shadow
 831,4.4,140,54.97,https://alpha.art/t/5qamWP9UvKZSHVvjHZMeLMw1D81ENBWEwvKEfxYgLzhg,empty,empty,gradient_1,long_gold,aqua,bottom_left,bandana_green,shadow
 838,1.9,318,73.57,https://alpha.art/t/KWRH1FFBCbGVfeTo1xCWxifimyF9wwoAaiseKiXVSVy,empty,empty,blue,long_aqua,purple,bottom_right,peak_green,shadow
+855,2.5,891,46.98,https://magiceden.io/item-details/DMMiKB1SGLMu8cwWfYKYk8hPKE3PqmRZwj1D8qVrmfHK,empty,empty,aqua,long_gold,blue,bottom_right,bandana_pink,shadow
 858,4.099999999,276,53.08,https://alpha.art/t/BEAHSHfNT1EGreB27QedePi5DzC3gV2hfsTkFcwvKsi3,earring,empty,aqua,short_gold,blue,bottom_left,fedora_blue,shadow
 860,0.4,1089,60.86,https://alpha.art/t/AcNno2UtKKbyQkDgVUn23r7FKmBYrGNQLXorc3qFSW9j,empty,empty,blue,short_gold,pink,bottom_right,bandana_blue,shadow
 876,1.7,629,64.39,https://magiceden.io/item-details/FX83ASBLqW4xAJWB4ZKx1e8NSEj8xDXePrabSuFZRnWx,empty,empty,aqua,long_gold,blue,bottom_left,fedora_gold,shadow
-890,6.9,567,14.62,https://magiceden.io/item-details/6px8FCBgmdyvS2bvsHzfxH1PWYdosRp12XUZemZPQrVQ,empty,empty,aqua,long_gold,yellow,top_right,fedora_gold,shadow
 900,8,60,21.84,https://magiceden.io/item-details/GUqnK2h2vGafCEMPBnAYVYBMDJ5Zb5tCJP5i5fgfkQcU,earring,empty,yellow,short_aqua,blue,bottom_right,bandana_blue,shadow
 908,2,172,77.82,https://magiceden.io/item-details/ARKNJUrUeeSMS8N6zri7onDAfVYCX5rqCoDzu1zP4YdU,empty,scarf_purple,purple,short_gold,pink,top_right,fedora_gold,shadow
 909,2.5,252,69.94,https://alpha.art/t/EZq2oHX95oGVBUVQk9y3eijrWzoceKcyme2fjhABk8bL,earring,empty,pink,long_gold,blue,top_left,bandana_pink,shadow
