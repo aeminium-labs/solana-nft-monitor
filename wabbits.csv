@@ -1,5 +1,6 @@
 id,price,moonRank,💎 score (%),storeURL,Backgrounds,Body,Eyes,Head,Mouth,Neck
 2,20,896,0,https://alpha.art/t/7Ki2phV9peHPCqjQLZgfxqbxJ41RYLjJWLcNG3h6gtPp,Peach,Blue,None,Earring,None,Purple_Balaclava
+7,1.5,171,83.91,https://magiceden.io/item-details/Fv9um9kzWWVnSSMwkTtKmW1TryuzjqTqPDu54yNh8qSg,Peach,Blue,Specs,Orange_Rag,None,Green_Balaclava
 8,1.25,2092,51.67,https://alpha.art/t/EyQmU4erP1y2o6U6JtYe28KnguN9pgkvjtyqXzpiKhEc,Peach,Blue,None,None,Vape,None
 13,1,2199,52.24,https://magiceden.io/item-details/4zRqjDJ2fvKzL1v8NYShjHNtCmLwEGhffMYciMkbtvQA,Pink,Tan,None,None,None,None
 16,0.24,1613,70.43,https://magiceden.io/item-details/cdNxtAEdYSWBqTgv9UxwTzmt7pvvEDh9VPaWG98yhWi,Purple,Tan,Blue_Sunnies,None,Cigarette,None
@@ -22,7 +23,6 @@ id,price,moonRank,💎 score (%),storeURL,Backgrounds,Body,Eyes,Head,Mouth,Neck
 136,1.00204428,346,85.72,https://magiceden.io/item-details/HDz3dKqcFvY44dKfxrVU9u2CxXpqzHdWKpddoe77Ykyt,White,Zombie,Tron,None,Vape,None
 138,1.00204428,534,82.32,https://magiceden.io/item-details/Cv1KgeKQ52Ms3fGFWN4Fmo7zwfMA7by5Wvuz1QA6oTee,Blue,Blue,Orange_Sunnies,Pink_Rag,Vape,None
 140,19,237,0,https://alpha.art/t/Bus2gzh7D1y4oVWdqZjbMm5KiJrUs6Trqku9tiCXr3JK,Pink,Blue,None,Orange_Rag,Cigarette,Blue_Balaclava
-143,0.2,1641,70.33,https://magiceden.io/item-details/9HZ9oFe4fBMFgzSHuv9x1ebhikNS8YXazTpUJ7NzjtEk,White,Tan,None,Orange_Beanie,None,None
 150,8,2150,0,https://alpha.art/t/HqbCwh1CL6Vo4o6mrEPgVFAyfAp4eYgtMPnZZdpnnkob,Blue,Pheonix,None,None,None,None
 152,1,284,86.86,https://magiceden.io/item-details/9gxbtGgUqMsMidxEhAS9JYBiprYzkyXhkwD9Zugax18r,White,Brown,Blue_Sunnies,Purple_Beanie,None,Green_Balaclava
 160,1.3,2012,52.62,https://magiceden.io/item-details/8A5UeDNwWKCqFpWhbBaqyHZF7bq9pyFL3opk8JuCBCgf,Blue,Brown,Laser_Eyes,None,None,None
@@ -139,13 +139,15 @@ id,price,moonRank,💎 score (%),storeURL,Backgrounds,Body,Eyes,Head,Mouth,Neck
 682,0.5,1003,78.86,https://magiceden.io/item-details/2LiGn6BQ3z2XoSuytBKZVmiX8tJUV2vmb9C3tiE11Mmy,Yellow,Grey,Laser_Eyes,Pink_Beanie,None,None
 684,1.43,1356,63.18,https://alpha.art/t/EB5qoUGyBFXUxFbpdXjeoPgJMn7cLQttrjkvTt3dd18C,Blue,Tan,Blue_Sunnies,None,None,Blue_Balaclava
 703,0.5,1829,63.93,https://magiceden.io/item-details/85FFL4rAETGSwSFz9mDV6GF6DDfw7oNySsgvA8xFH9D9,Peach,Tan,Tron,None,None,None
-712,0.6,361,89.47,https://magiceden.io/item-details/CdNSsvduJQttJH68udrAV2KAwa6137qxChb6Pj9mcWFP,Peach,Grey,None,Earring,None,Diamond_Necklace
+712,0.39,361,91.57,https://magiceden.io/item-details/CdNSsvduJQttJH68udrAV2KAwa6137qxChb6Pj9mcWFP,Peach,Grey,None,Earring,None,Diamond_Necklace
 717,1.47,565,77.08,https://alpha.art/t/FZBdZfqviRQ3N3ujKjhuigwjpsmQ5W7HQ9frJTk4Zzzp,Pink,Brown,Orange_Sunnies,Orange_Rag,Cigarette,None
 719,1.4,1710,57.08,https://alpha.art/t/9a1864ANgT1xUAzgkzqzAv9tZ6RXLBjDN2mek5rEwB5p,Green,Tan,Blue_Sunnies,Fedora,None,None
 726,5,35,51.37,https://magiceden.io/item-details/51TnVmAmAotwVzxkHsdMPrsKbwwvUxXQmygVs4NMtKha,Purple,Blue,ThreeD_Glasses,Blue_Beanie,Pipe,Purple_Balaclava
 728,0.666,1016,76.97,https://magiceden.io/item-details/8HLDQ8N11Zx1fxjqmsWeRMBUaDftGiuwGzroWrRmYS6u,Peach,Brown,None,Fedora,None,Orange_Balaclava
+729,1,507,82.83,https://magiceden.io/item-details/8E5myGS3ZX9hWHavChmAdxvYAuwjdP5PsuL7mEdiAqdv,Yellow,Alien,Blue_Sunnies,Earring,None,None
 730,6,260,37.3,https://alpha.art/t/9w4BzsHvAMsqgv7ZM5LeL6nDKLGkiXHvgJfMaLgCsUrj,Blue,Tan,Tron,Orange_Rag,Cigarette,None
 737,0.35,846,83.2,https://magiceden.io/item-details/G9MN18DBNHrDe11xTaECpPRgX1Nh7C9xacLtZpgpjGdk,Peach,Tan,Laser_Eyes,None,None,Purple_Balaclava
+740,1,215,88.11,https://magiceden.io/item-details/ESRVJDAfcRimNALrKV7xpVWhzznhSmG4eRvumSRV71e6,Purple,Brown,None,Orange_Beanie,Vape,Orange_Balaclava
 747,0.8,510,84.78,https://magiceden.io/item-details/3tvxd4bQQEq87cDCrvUccxhDRBb7XTYcRzVC2nrEaZDz,Pink,Tan,None,Backward_Cap,Pipe,None
 752,0.25,1720,68.4,https://magiceden.io/item-details/B35He5e8iCP4Aep6T9AybjVc7wB7hSVYELb8eE79YbUf,Peach,Brown,None,Purple_Rag,None,None
 759,0.75,1533,66.78,https://alpha.art/t/DpPjrSXWvTAeeCYGRECgETL332NNmmH7JXJPjBZtM1TH,Peach,Zombie,None,Fedora,None,None
@@ -237,7 +239,7 @@ id,price,moonRank,💎 score (%),storeURL,Backgrounds,Body,Eyes,Head,Mouth,Neck
 1256,5,272,47.08,https://magiceden.io/item-details/EuksvD9vMfk2gsy47zLdC417MXk38Scrrz2RkuuEAkWF,Purple,Brown,Orange_Sunnies,Pink_Rag,None,Green_Balaclava
 1264,0.25,807,84.91,https://magiceden.io/item-details/CiKqCANMhVemcZPKLhittRkd4rioQHcwxryE5yw69iJy,White,Grey,Laser_Eyes,Pink_Beanie,None,None
 1267,4.99,140,49.57,https://alpha.art/t/2Dg6NZb3WGMv1SfygR7sXJg33iDpo2LvFghTobLLDreh,Pink,Tan,Laser_Eyes,Pink_Rag,None,Purple_Balaclava
-1269,5,42,51.24,https://magiceden.io/item-details/Br5Cmu6a4PmvrhumpS7MfG6amMPsJWYrHKhhXs4LKLBm,Green,Brown,Specs,Antlers,None,Gold_Necklace
+1269,2.34,42,77.84,https://magiceden.io/item-details/Br5Cmu6a4PmvrhumpS7MfG6amMPsJWYrHKhhXs4LKLBm,Green,Brown,Specs,Antlers,None,Gold_Necklace
 1271,1,765,78.17,https://magiceden.io/item-details/BeEGZayMCQ8swr2nwSTDX6XTvX4WyTy52PDJWM71o3tj,White,Brown,None,None,Cigarette,Purple_Balaclava
 1275,3.99,1372,37.29,https://magiceden.io/item-details/3eRU4gSDNYbJa5Smz2zbjdD58VFn5L6bzY91iNw8hnzz,Peach,Brown,None,Halo,None,None
 1283,0.75,1199,72.82,https://magiceden.io/item-details/6JKfzthPhsBBUTrntTqPLq7XHi31JZNk5vtLABVoyJaW,Green,Tan,Blue_Sunnies,Purple_Rag,None,None
