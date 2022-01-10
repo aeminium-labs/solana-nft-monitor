@@ -36,10 +36,10 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Clothes,Eyes,Head,Mout
 204,3.49,1017,33.82,https://solanart.io/search/?token=3YNRL7m1fKAZNwbHdVYiXc7WVyxxewiL1QBzvaZauuK9,Green,Red,Cape,Laser,Fire,Gold Ring,Dragonball
 222,4,155,59.89,https://solanart.io/search/?token=GycZ1MwWY6uFxQMoGCRddAfzpHEdVztinmxvxugjDPQZ,Green,Yellow,Cape,Solana Shades,Quartz,Gold Coin,Collar
 225,0.98,388,81.67,https://solanart.io/search/?token=8P8NEbVfg523GnvuARAVEphYncr4iJMDgQ6prRG2xSk4,Teal,Green,Hoodie,Laser,Cap,None,Dragonball
+227,0.55,831,69.95,https://solanart.io/search/?token=5Y4hsrtKxQ1B6iwk6fT1i8RgLtNLThqCstBcXjGrj5e1,Green,Green,Cape,Laser,None,Blood,Barb Wire
 244,0.75,919,64.76,https://solanart.io/search/?token=G2UykinRazuWyauNA7WtF2Uhpy71kXeSsgJzVf8ordrA,Purple,Skeleton,Cape,Solana Shades,Fire,Blood,Gold Chain
 255,0.7,367,85.23,https://magiceden.io/item-details/7Bmtv4W6KDst9YyiEaDcWrcoF3EJo8DFW6kubvGZQNkM,Teal,Skeleton,Cape,Laser,Gold Helmet,Cigar,Barb Wire
 266,1,715,69.64,https://magiceden.io/item-details/8TgtXjmpbxFHPadHvQmy6a2uacfNz5M8cZe6GwUyWMBF,Orange,Skeleton,Jersey,None,Fire,Gold Coin,Barb Wire
-267,0.7,111,94.49,https://magiceden.io/item-details/sTdg8rJqBAErGLTriT3pyJ5v31wkVjJfbFBEwqtvsis,Green,Red,None,Solana Shades,Quartz,None,None
 274,0.75,849,67.29,https://magiceden.io/item-details/Cuz5rv9G4EH8gzzomHjAywqDmQxwSjnw5Y9jmj2X3Qk8,Brown,Zombie,Tuxedo,Laser,None,Gold Coin,Diamond Necklace
 282,1.69,856,57.64,https://magiceden.io/item-details/7cQ4yVPKN4z5Vk4YQNVyBPivCkDpYAMcqermuQdyM1bA,Orange,Purple,Cape,Renegades,Cap,None,Collar
 285,0.6,1052,61.45,https://magiceden.io/item-details/CaZkiLF5Ruhvqf6tHsByWRrx2pRuLZAHPzcKnMDwm1tP,Green,Teal,Gold Armour,Laser,Fire,Cigar,Gold Chain
@@ -83,6 +83,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Clothes,Eyes,Head,Mout
 443,1.49,163,84.7,https://magiceden.io/item-details/G2kQx1DqEMNYuqoJcpgGMWUiLsfps2R1oEUVCMoYeHKE,Teal,Yellow,None,None,Fire,Blood,Diamond Necklace
 444,0.61,193,92.42,https://solanart.io/search/?token=4urEQMYyuZp59YSLb6yy7dJ8xuuvnsdYkH2AM9VJ3Lfh,Teal,Skeleton,Cape,Laser,Quartz,Flame,Diamond Necklace
 448,0.71,121,94.02,https://magiceden.io/item-details/7GewCKeFM8oDZevXbwvrAX5FgPwRRShoz6jKy1HuXUcK,Orange,Zombie,Jersey,3D Glasses,Quartz,Cigar,Gold Chain
+451,0.65,621,76.54,https://solanart.io/search/?token=3yHtQyZXz12xhcwkMQZfwMbhLpb3NcK1zWspsMozwHuu,Green,Zombie,Gold Armour,Optic Visor,Crown,Flame,Barb Wire
 452,0.9,1002,60.26,https://solanart.io/search/?token=5aZP8CbV7epVYNdR3kKWjEiPVsn6d3yA5uVAyHbTS6gr,Teal,Red,Cape,Optic Visor,Gold Helmet,Gold Ring,Gold Chain
 455,1.99,975,50.34,https://magiceden.io/item-details/BvxeDC3jXye6npNumouBgqYxp5StBLrq8TJp8zgweFeP,Orange,Skeleton,Cape,Renegades,Gold Helmet,Gold Coin,Dragonball
 466,1.74,343,75.69,https://magiceden.io/item-details/2irmQZzcvJVWSh9JWuQBhxxPXCiZWCyAW6739ZLRhfRo,Brown,Red,Jersey,Solana Shades,Quartz,Blood,None
@@ -112,13 +113,14 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Clothes,Eyes,Head,Mout
 623,0.7,763,70.91,https://magiceden.io/item-details/AtnyjA5afHsEi9B9WwxrjWChcamHqR9j1f3WKfnYQcQv,Purple,Skeleton,None,Renegades,Crown,Blood,Diamond Necklace
 625,1,998,59.41,https://magiceden.io/item-details/7kcJ4UN5iNxe9ZYPEwtP1UCqy98KgjT4cJVaXyMTb7az,Orange,Green,Cape,Renegades,Crown,Gold Coin,Dragonball
 626,0.6,503,81.31,https://magiceden.io/item-details/GrgZuSSPUn3gnnPBbeqnqARErBTB2XQo1cXRUtSHbQEq,Teal,Yellow,Jersey,Laser,Gold Helmet,None,Collar
-628,1.2,310,82.29,https://magiceden.io/item-details/GW58rXM4Wa8m4CKJ4veD94PbCgwsh9Xa6xLyH215RXwm,Orange,Green,Tuxedo,Solana Shades,Fire,Flame,Dragonball
+628,0.64,310,87.89,https://magiceden.io/item-details/GW58rXM4Wa8m4CKJ4veD94PbCgwsh9Xa6xLyH215RXwm,Orange,Green,Tuxedo,Solana Shades,Fire,Flame,Dragonball
 629,5,544,35.83,https://solanart.io/search/?token=BnpQxJ95qVKC6gNQ9WFZY9CR5kktQxSWUt8wTFaCiegt,Orange,Skeleton,Jersey,None,Fire,Blood,Collar
 645,1.2,28,92.49,https://magiceden.io/item-details/BJvYoz2Vp22t5PciY3dC1p9tHLeeeUZBmuHCBT5cuneh,Teal,Green,Tuxedo,None,None,Flame,Barb Wire
 648,5,580,34.52,https://solanart.io/search/?token=H61XF9sfGZtjyU5DWrqWE87WXT45FQ1ZyjqET3EkLfog,Orange,Skeleton,Hoodie,Renegades,Fire,Gold Coin,Barb Wire
 650,1.2,231,85.15,https://magiceden.io/item-details/7FyvCKkzouHH27nwq6i2FWQthZFuegJ6U4hEifBRykDZ,Orange,Green,Cape,Laser,Quartz,Cigar,Barb Wire
 658,1.13,159,88.45,https://magiceden.io/item-details/AcqHntbzX3zv5owFnt51jK2pmEx5dx9s8G9emb6CuYtL,Brown,Yellow,Tuxedo,None,Gold Helmet,Gold Ring,Barb Wire
 661,1.999,400,71.04,https://magiceden.io/item-details/9f5cG9vxYxcig74AzknSwKZfvMAWd73sS1JRh525DGYH,Purple,Red,None,3D Glasses,Fire,Blood,Collar
+675,1,600,73.8,https://solanart.io/search/?token=Bpr2Hp8QrYcCALkuy3ieD1z26w5rGNhf4VsTxPuNJ1hJ,Green,Skeleton,Cape,Solana Shades,Fire,None,Dragonball
 678,0.8,401,83,https://magiceden.io/item-details/HZ4quBRGYYVPBXLpZRa2eLjQSfHbQngxu5bzuujApMeJ,Purple,Zombie,Gold Armour,Laser,Quartz,None,None
 688,0.7,447,82.33,https://solanart.io/search/?token=7Fwp3bBxVCZtdYEfiD4UKoHkmpCvZeNWKziSCoWUhuzD,Orange,Red,Hoodie,Solana Shades,Cap,Flame,Diamond Necklace
 691,0.7,1056,60.31,https://solanart.io/search/?token=HjmCXLq9vzoMTibgcqbTVUbpGVkzbWq2Qhj6CmWGvGVN,Purple,Zombie,Jersey,None,Cap,Gold Coin,Gold Chain
@@ -145,6 +147,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Clothes,Eyes,Head,Mout
 773,3,556,55.39,https://magiceden.io/item-details/CuLCFbTmSEMsWSVuYN4ZLXcHNyDVimceVa1R5K9ovhcv,Teal,Green,Jersey,Solana Shades,Crown,Flame,Gold Chain
 784,0.75,327,86.17,https://magiceden.io/item-details/E8vtr9MJzEoJmu1oUz5ZgexNMtLZ2N7PHyQVLPZ92Cqe,Green,Green,Hoodie,Solana Shades,Cap,Gold Ring,Dragonball
 785,2,594,64.02,https://solanart.io/search/?token=HPfBMJKQHHW5KMqiKP8Wkp9hZPwN9yfBkcLqhTjWcKjc,Green,Skeleton,Gold Armour,Renegades,Gold Helmet,Flame,Barb Wire
+798,0.99,507,77.26,https://magiceden.io/item-details/CkLkKGvqecAZjq2SvtuVHyCZmxK6CvJZTG4j7St92fNj,Brown,Skeleton,Hoodie,Renegades,Fire,Gold Coin,Collar
 812,0.7,489,80.81,https://magiceden.io/item-details/VgCF64yR4ifdanGJoP7reDdDJYAGjc3e4NgBjoh8vGy,Teal,Zombie,Gold Armour,Renegades,Crown,Gold Ring,Barb Wire
 826,1,277,85.48,https://solanart.io/search/?token=2hxEFQjYiG5AfadmpWd9cMYtp7VD5aCcAueHHgXwpkE5,Green,Purple,Jersey,3D Glasses,Gold Helmet,Cigar,None
 827,1,960,60.78,https://solanart.io/search/?token=D2kX37gTJRB2MNsDNKivuEHr4iC7UKLUMLmw5fomw6L2,Green,Green,Jersey,Laser,None,None,Diamond Necklace
@@ -153,7 +156,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Clothes,Eyes,Head,Mout
 852,0.59,841,69.18,https://magiceden.io/item-details/ET7mSf7VFSxnPx2CTBVS3Rxd51t6k52tuZSNzUMLkRuc,Orange,Red,Cape,Solana Shades,Gold Helmet,Cigar,Gold Chain
 853,0.57,1098,60.09,https://magiceden.io/item-details/6qHjK3rcvuZTQXpcXmKou7xweeJoK459TpHmbtxrRPFF,Purple,Teal,Jersey,Optic Visor,Crown,Gold Coin,Collar
 856,1,286,85.16,https://solanart.io/search/?token=4FgLE2hQUSQq9WTcDdxVwT8XXdhFwnNXqCxwXXDkbHLz,Purple,Skeleton,Jersey,None,None,Gold Ring,Barb Wire
-862,0.55,366,86.76,https://solanart.io/search/?token=2sprv7opM3tShP7TEP8GYMeB8RWQowAtGS6d3L7FDDaa,Green,Zombie,None,3D Glasses,Gold Helmet,Flame,Diamond Necklace
 863,1.25,220,85.04,https://solanart.io/search/?token=CoZvErqSNeiVyEifn34zrcmZNRjjAi4118ELunHWrn1t,Purple,Zombie,None,3D Glasses,Quartz,Gold Coin,Diamond Necklace
 865,2.58,663,55.72,https://magiceden.io/item-details/A2N6BF6zTXrwPBd4fCh1P7QNSPo9XQggnY8ukHheDQbW,Green,Zombie,Gold Armour,Optic Visor,None,Blood,Barb Wire
 871,0.74,605,76.22,https://magiceden.io/item-details/5ntgBFdk2ExpY77rkjExjoB55LkAkaabMv93wu8cxBDp,Green,Skeleton,Gold Armour,Optic Visor,Cap,Gold Ring,Barb Wire
@@ -175,7 +177,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Clothes,Eyes,Head,Mout
 947,10,800,0,https://solanart.io/search/?token=CfoXQXUUsy5cF9uFMKof6aRC6eUb3xM27nSU9Y1ULjmm,Purple,Green,Gold Armour,Renegades,None,Gold Coin,Barb Wire
 951,0.85,775,68.97,https://solanart.io/search/?token=8QVxHV4JYTdi6yosNWmXDWrFFHgrGk3VZfsrg5sXqWte,Green,Red,Hoodie,Laser,None,None,Gold Chain
 953,2.6,46,77.84,https://magiceden.io/item-details/79Kr9SwRFWD7ZPQtxFGf9Ybkb2nXyaGnqB9u8uxiMEnW,Orange,Yellow,Hoodie,Optic Visor,Crown,Cigar,Collar
-956,0.7,1024,61.47,https://solanart.io/search/?token=AycC3mUJrh6L6iFpiDxhtxYTedcaWgNJDRRYfSJkEJwx,Brown,Red,Jersey,None,Fire,Blood,Gold Chain
+956,0.6,1024,62.47,https://solanart.io/search/?token=AycC3mUJrh6L6iFpiDxhtxYTedcaWgNJDRRYfSJkEJwx,Brown,Red,Jersey,None,Fire,Blood,Gold Chain
 957,2.2,21,82.74,https://magiceden.io/item-details/B4GKN6bkNaWRu1Yfrx11oNFRHbgUCBypnv9wkvoATkQ9,Brown,Yellow,Hoodie,None,None,Cigar,Gold Chain
 963,0.7,330,86.57,https://magiceden.io/item-details/6xN8Xb18wrWENG63UkHJGvMNcYLMPUiFNwUh4bYMYoNs,Teal,Yellow,None,Laser,Crown,None,Diamond Necklace
 971,9.69,264,0,https://solanart.io/search/?token=Dnt4c6a4xKPMgm94CMrEdYYvzyxbgzkceMXEvkyNTsAE,Orange,Green,Hoodie,None,Gold Helmet,None,None
@@ -201,6 +203,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Clothes,Eyes,Head,Mout
 1071,0.98,285,85.39,https://solanart.io/search/?token=7qcVvh51jn1EeiJp44GiwEPnWCMk6ATprxJZsrDvkX9Q,Green,Purple,Tuxedo,Solana Shades,None,None,Dragonball
 1075,1,529,76.37,https://magiceden.io/item-details/8HiaXeGeop5B1j6w4pCj4koWqrfwg1hTwQ9ooxRCiydM,Green,Teal,None,Optic Visor,Fire,Cigar,None
 1079,0.8,894,65.17,https://magiceden.io/item-details/4ZyKVL7ddDYnVUZBLGSRSP4DkwpKbs8o2313LGKtLDKa,Orange,Zombie,Tuxedo,Renegades,Gold Helmet,Gold Coin,Barb Wire
+1088,0.79,173,91.34,https://solanart.io/search/?token=AqnTUHDVexxyovwxhRQkwAVk5RY1TwSCvPXmvNqjdjW5,Purple,Yellow,Hoodie,None,Cap,Gold Coin,Collar
 1091,2,78,82.68,https://magiceden.io/item-details/D2EF8AZW9C28gTa7ieytdY1x5UXZddKhFsxpsuFg51hu,Purple,Purple,Tuxedo,None,Quartz,Gold Ring,None
 1092,9.99,55,3.61,https://magiceden.io/item-details/Dkc7FFasj95AMkvyeWYDFJiePH4cYcTp4wXZWcJYhPzp,Orange,Red,Gold Armour,None,Quartz,Cigar,Collar
 1102,1.13,141,89.1,https://magiceden.io/item-details/J4XwecQZgFuNPeKKiJQZLodqXS8VFaSi1YQMJssZ27xC,Orange,Green,Hoodie,3D Glasses,Gold Helmet,Gold Ring,None
