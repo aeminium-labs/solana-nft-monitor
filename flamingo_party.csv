@@ -15,7 +15,6 @@ id,price,moonRank,💎 score (%),storeURL,accessory,attire,background,beak,body,
 92,5.9,28,43.99,https://alpha.art/t/A9DM2rebWX7Nu8gGWN6PcQ7CeQsaBojm3kHz8YVt9eBM,earring,empty,blue,short_aqua,green,bottom_left,no_hat,shadow
 93,3.9,412,50.19,https://magiceden.io/item-details/4rEfqMhSRVkqm4BG6oHw2RuoRzQQvYaTtBm8Zcf6NGsC,empty,neck_chain,blue,short_gold,pink,bottom_right,peak_purple,shadow
 96,2.9,72,72.41,https://alpha.art/t/5VTNzGSthpiES7MgXcEsGmzJPPsC4pEMePyofFtK1d6C,cig_red,scarf_blue,blue,long_gold,blue,top_right,bandana_pink,shadow
-104,0.8,1004,59.92,https://magiceden.io/item-details/FriTLLQpjdeYHyncVrzQuvCMnNmev6b8qKrzWpqDxzHv,empty,empty,green,long_gold,pink,top_right,explorer_purple,shadow
 107,2.42,580,58.96,https://magiceden.io/item-details/EgfCJgmyLatNifYnEfZdLxKS9Jn8gX8TsfKwqaEoC5Jf,empty,empty,pink,long_aqua,pink,bottom_right,peak_purple,shadow
 109,1.5,191,82.14,https://magiceden.io/item-details/CuV7e5Z8PguZwrYnK7jERqMXAg1hrtGoG3eUuAmt1dQa,empty,scarf_green,aqua,long_aqua,pink,top_left,bandana_blue,shadow
 138,1.4,326,78.28,https://magiceden.io/item-details/Hmc7rJG5VJwqKS6m16Uc69qNM8gZ3pRKhYp8JBxhGAGs,empty,neck_chain,purple,short_gold,pink,bottom_left,bandana_purple,shadow
@@ -45,6 +44,7 @@ id,price,moonRank,💎 score (%),storeURL,accessory,attire,background,beak,body,
 344,2.8,875,44.55,https://alpha.art/t/EXFtn88DMv3wCAKQ3mtg6AAi7Mtd1S29fp3QFXu5q8U3,empty,empty,blue,long_gold,yellow,top_left,fedora_blue,shadow
 353,10,80,1.12,https://magiceden.io/item-details/2NBqTv68qGmhxY9S7c54QYadxD3PvoShQ9AjpLj2W7Nn,cig_black,scarf_blue,yellow,short_gold,blue,top_right,fedora_blue,shadow
 354,2.2,61,79.81,https://magiceden.io/item-details/HkRavVWdZVmZ7uFsT3nJdNsosesr986wSso4DUzMpmKM,cig_black,empty,blue,long_aqua,yellow,top_left,peak_purple,shadow
+361,1,986,58.56,https://magiceden.io/item-details/3V7pDuVct9c4jVFk3CTTKGBgAKsivSZh9a2FEM4Ym8sb,empty,empty,blue,short_gold,pink,top_left,peak_purple,shadow
 413,8.88,505,0,https://magiceden.io/item-details/7PbFL7ejms9SoRDiY68SdEx8waUPQv6CBgPem2LWGMDB,empty,empty,yellow,long_gold,green,bottom_left,explorer_gold,shadow
 418,1.65,820,58.03,https://magiceden.io/item-details/8ViMRZYV7vzhgvdofdCthRcPDe8KAtwrw9sQjjKuwrBs,empty,empty,aqua,long_gold,yellow,bottom_right,peak_blue,shadow
 420,1.5,852,58.38,https://magiceden.io/item-details/aQoG2GhH1WdwVAFxDB2cb63bVjbdjRii4oqSM5Gmy4D,empty,empty,purple,long_gold,green,bottom_left,bandana_pink,shadow
@@ -101,12 +101,14 @@ id,price,moonRank,💎 score (%),storeURL,accessory,attire,background,beak,body,
 721,1,243,85.27,https://magiceden.io/item-details/FeV9Kta4cpaRhisAF6u9qrUy93rLgxtgQvW1UouLtAvU,empty,empty,blue,short_aqua,yellow,top_left,explorer_blue,shadow
 723,14.99,102,0,https://magiceden.io/item-details/6PwRYsKTT3dR1tLdL7kz9cyVpxK7Y7vv5T2hJvPwgsa3,empty,scarf_purple,yellow,long_aqua,pink,bottom_left,bandana_purple,shadow
 729,1.3,359,78.1,https://magiceden.io/item-details/GYz1sjXgPmfkNN91TW5jAWUrftEpcVY8D9DHsCCYw9xA,empty,scarf_red,green,long_gold,blue,bottom_left,fedora_blue,shadow
+731,1,903,61.55,https://magiceden.io/item-details/88bHBJ12pDK3u7N1yh2AmzFqd2M3bfxKomK1bkDeZppQ,empty,empty,aqua,long_gold,green,bottom_left,peak_blue,shadow
 734,1.45,588,68.37,https://magiceden.io/item-details/6tvEGx1EnndkaHumfxepXKdYprF8NYKy4zQUVKWSdR1v,empty,empty,blue,long_aqua,pink,top_right,peak_purple,shadow
 748,2.5,274,69.15,https://magiceden.io/item-details/HjgbhTzzTyE2xChRvodpVAvHY5bcY68dMu1iw4dYLAsf,empty,scarf_green,aqua,short_gold,pink,top_left,no_hat,shadow
 751,2.75,454,60.18,https://magiceden.io/item-details/6YZFYf4PK4F6kgrW57TMxQH1v5xbjXP1Hmxj9HczUMVJ,empty,scarf_blue,purple,short_gold,pink,bottom_right,peak_multi,shadow
 766,1.5,600,67.44,https://magiceden.io/item-details/BRybLYpTc5Zai8oit1pzNUfk63HApU93MZx2soCtiVuL,empty,empty,purple,long_gold,purple,top_left,fedora_green,shadow
 788,1.4,561,69.84,https://magiceden.io/item-details/6VxyNJcku87MsWg5bBnDK6xatJ7tQ3JtrrFN7fQSLjri,empty,empty,green,long_gold,aqua,top_right,fedora_blue,shadow
 804,2.5,462,62.4,https://magiceden.io/item-details/He3i8DtWaY7nvwYeP6oBDfYkoAqaGkfgnUmWdY2TXU4n,empty,empty,purple,long_aqua,blue,top_left,fedora_purple,shadow
+805,4,99,60.44,https://magiceden.io/item-details/Bmpsa8HQPxmGgStbknz7vEkmuDprdLndd4aZZHkgXG3S,cig_red,empty,green,long_aqua,blue,bottom_right,fedora_blue,shadow
 812,19.89,136,0,https://alpha.art/t/HroQwwr4TcK88bgx49mvyoVs8qFitA6jMpx8SFG61sKC,empty,snood,green,long_gold,pink,bottom_left,explorer_purple,shadow
 818,2.3,122,76.62,https://magiceden.io/item-details/9rJeyjtZC2nrmK87RVoNJhZoNZdd8exv63q5a5xuewxe,cig_blue,empty,aqua,short_gold,yellow,bottom_left,no_hat,shadow
 821,2.2,186,75.32,https://magiceden.io/item-details/A9xJQPN65wFUZDBqfvKeVEWgw5fSC5sTt1SzKkkcYnuf,empty,scarf_green,pink,long_aqua,pink,top_left,bandana_blue,shadow
