@@ -25,7 +25,7 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 55 Rosa Street,99,1570,0,https://magiceden.io/item-details/6o7Jsk5caZHSs1Qt6weHt3ZZj6jujGC4foSHr2USju4a,City,Red,55,Cottage,,Red,Rounded,,Pale green,Patio,Night,Rosa Street
 55 Supple Circle,35,101,0,https://solanart.io/search/?token=DPBVKcUi23pUeKjh2PRZNc42HTepXK8oPWgUfYkS4cgT,Arctic,Dark green,55,Modern,Brick,,Glass,Snow,Yellow,Tin,Day,Supple Circle
 56 Teeps Lane,89,898,0,https://solanart.io/search/?token=HZV2rKkdpdb3ZxE15w3CE5iAi8jW991Fj4y3ApBGPpTu,Mountain,Blue,56,Art Deco,Brick,Green,Rounded,,Green,Haunted,Day,Teeps Lane
-57 King Street,20,1235,0,https://magiceden.io/item-details/2oXN35FuNVbakRJbmdCEedTxzAeUugtF3StpK2KnQCFi,Beach,Yellow,57,Modern,,,Occult,,Mix,Grass,Day,King Street
+57 King Street,12,1235,30.01,https://magiceden.io/item-details/2oXN35FuNVbakRJbmdCEedTxzAeUugtF3StpK2KnQCFi,Beach,Yellow,57,Modern,,,Occult,,Mix,Grass,Day,King Street
 58 Stewart Avenue,23,863,0,https://magiceden.io/item-details/D4EZ311sNE5FwuBcDR2dQFfvp3yHbvMAGyiu8hQ8NCzC,Mountain,Dark green,58,Modern,,Yellow,Shuttered,,Green,Shingle,Stormy,Stewart Avenue
 60 Wall Street,45,1193,0,https://solanart.io/search/?token=An8k5KyyEWzc5eAgPZc5zbeUieBUgM8t58ZhV8J85HdU,Treehouse,Red,60,Modern,,Pale green,Rounded,,Lavender,Shingle,Day,Wall Street
 60 Supple Circle,100,897,0,https://solanart.io/search/?token=51TyxHGmtrW9bjv4hbVobsscSTsA2z4oe2YHNaqZha6F,Woods,Red,60,Mansion,Brick,Pale green,Shuttered,,Dark green,Skylight,Day,Supple Circle
@@ -59,6 +59,7 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 83 Abbey Road,100,2244,0,https://solanart.io/search/?token=GNG8KpFF1nA6eTNjtdqLzP68mq6jJDhwz3mM4DZAb53k,Desert,Yellow,83,Cottage,,Red,Shuttered,,Mix,Grass,Day,Abbey Road
 85 Rosa Street,8.8,1318,60.66,https://magiceden.io/item-details/9aFPa6K4tXqJj6bsbFETqaMMEH6vNeB7if4KcKMfwNux,Treehouse,Yellow,85,Cottage,Brick,Blue,Shuttered,,Yellow,Shingle,Night,Rosa Street
 86 Wall Street,9.99,2117,35.83,https://magiceden.io/item-details/41wJ4x9DnHpJWDU9k3JTHf4WuFvW4c4oajvHD5CHZS5L,Beach,Red,86,Cottage,Brick,Red,Shuttered,,Green,Patio,Day,Wall Street
+86 Abbey Road,10.7,1722,35.12,https://magiceden.io/item-details/J6UBjxdMNf74kEvCe5T58zdYPv8ZfAwajAG3xi6Kk4d3,Desert,Yellow,86,Modern,,Green,Shuttered,,Pale green,Skylight,Day,Abbey Road
 86 Stewart Avenue,14.98,1725,0,https://magiceden.io/item-details/4poJKvZzjqYpVodSdVvzekfZt696FK5DJGPN5ymeUE97,Treehouse,Dark green,86,Modern,,Red,Rounded,,Yellow,Shingle,Day,Stewart Avenue
 86 Rosa Street,25,2021,0,https://solanart.io/search/?token=91J6tbGKqQDif4ouzHrMCen2Ns3SzttCmDbhu6FXSf5B,Mountain,Yellow,86,Modern,Brick,,Crystal,,Yellow,Shingle,Day,Rosa Street
 87 Ape Lane,40,1704,0,https://solanart.io/search/?token=DzMbZ8rPnXrcaxJbQVuPEAbhBdR6oWcUXUXj14zbPU7U,Desert,Red,87,Modern,Vines,Yellow,Shuttered,Rain,Yellow,Shingle,Day,Ape Lane
@@ -203,7 +204,6 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 369 Pico Street,12,549,41.11,https://magiceden.io/item-details/8ihN7wqh6Kk7Z8nHnj9SsNciUE5SSVLK3qD5329FBdVG,Mountain,Red,369,Cottage,Brick,,Glass,,Mix,Grass,Sunset,Pico Street
 372 First Avenue,29.99,2168,0,https://magiceden.io/item-details/GBgBhQ6JWYCiePix3Sv8y3yZ5FpQT9dAUFLDmP2d2Hyj,Field,Blue,372,Modern,Brick,Green,Rounded,,Blue,Skylight,Day,First Avenue
 373 Grime Lane,8,1108,72.06,https://magiceden.io/item-details/5vkaSBtBtUqnMZTZhYCpojjG6foVNphAgaqc68j7wbYP,Mountain,Dark green,373,Modern,Vines,,Glass,,Pale green,Tin,Day,Grime Lane
-375 Lynwood Avenue,7.9,1386,68.56,https://magiceden.io/item-details/6H8zrb6ZGijMcg1xsxvGmzv1pWwGn88FZuNQpQRt1qCi,Beach,Yellow,375,Art Deco,,,Glass,Rain,Green,Shingle,Day,Lynwood Avenue
 376 Lynwood Avenue,33,157,0,https://magiceden.io/item-details/BWBJRXYWdgv6q6aj1uX3EdKGo9CtxSkFt2nENufeNkG1,Mountain,Red,376,Cottage,Brick,Dark green,Shuttered,Snow,Green,Patio,Day,Lynwood Avenue
 377 Pico Street,58,1559,0,https://alpha.art/t/8kM1UwsCsyd6ZTywyjyhn9yd4X6eRLkwaoKqLsnqoY5v,Field,Blue,377,Modern,Brick,Yellow,Shuttered,,Blue,Haunted,Day,Pico Street
 382 Lynwood Avenue,28,822,0,https://solanart.io/search/?token=2er3icUFJfomDbYPrrSErKMg59UHWWtS6nGuniC1Dy9o,Mountain,Yellow,382,Cottage,Vines,Lavender,Shuttered,,Blue,Patio,Night,Lynwood Avenue
@@ -338,7 +338,6 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 621 Helix Avenue,9.99,1226,50.25,https://magiceden.io/item-details/4TR51kinnpdWA8V2QKwLXrgRFrtwbxsBzcPjdjzZztnA,Field,Yellow,621,Modern,,Yellow,Rounded,,Red,Skylight,Stormy,Helix Avenue
 622 Cluster Lane,74.989998,615,0,https://solanart.io/search/?token=r5HNcawUSc8Fxv2YZPP4i4SrcfG7mtzw5VPpxsnjhbV,Volcanic,Green,622,Cottage,Vines,Blue,Shuttered,,Mix,Grass,Day,Cluster Lane
 624 Poplar Street,27.49,2119,0,https://solanart.io/search/?token=7X23wtZANxt9sg4vPugGYD8er94yN43vNMp5W6dr5PEM,Beach,Red,624,Cottage,,Red,Shuttered,,Mix,Grass,Day,Poplar Street
-625 Rip Street,8,1596,64.16,https://magiceden.io/item-details/H6Ym9MeQ6KtZnVfzaoz8f3dqLEMjVJEA8RPaWBAAPfeL,City,Blue,625,Art Deco,,,Crystal,,Pale green,Tin,Day,Rip Street
 627 Rip Street,9.9,452,63.68,https://magiceden.io/item-details/3Xhvfe945A9YY7wKVsvPQUWLsp1HwwRkiKTEQz4SQ5qE,Volcanic,Green,627,Modern,Vines,,Crystal,,Red,Shingle,Night,Rip Street
 627 Helix Avenue,18.95,2360,0,https://magiceden.io/item-details/CQPWdSnr3odMje3J3LyTTiMizTwQrx3cWCBF8nbdYD2c,Field,Red,627,Mansion,,Blue,Shuttered,,Yellow,Shingle,Day,Helix Avenue
 627 Dip Drive,23,943,0,https://magiceden.io/item-details/5ppcjWgmqcWzvSEcUUvtpPjJHoTFSKPHQzrE42gx2CHM,City,Red,627,Modern,Brick,,Glass,,Mix,Mushroom,Night,Dip Drive
