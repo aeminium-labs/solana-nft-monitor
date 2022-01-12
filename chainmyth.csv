@@ -141,7 +141,6 @@ id,price,moonRank,💎 score (%),storeURL,Assist,Background,Cloth,Eyes,Games Won
 1351,10,2195,5.44,https://magiceden.io/item-details/ACnwV74udhF2TRgL7u5swjb8xpQUnR16ePZgQLFt4VnJ,TBD,Blue,Silver Terminator,Cyan,TBD,Violet Kaffieh,TBD,Normal,TBD,Red,TBD,Tentacles
 1354,4.8,865,68.08,https://magiceden.io/item-details/Fiax3HW1AjtHvsagJ5w5GxJmLSQ5v6ZKmxB2pwWyx5aw,TBD,Purple,Black-Tee,Brown,TBD,Red Casual,TBD,Demon B&W,TBD,Red,TBD,Demon Head
 1358,3.49,611,83.21,https://magiceden.io/item-details/2zt1n37iQFWV8Xa1SFSdRgD8k9tgcDjappD6g7N54sih,TBD,Green,Black Willow,Thug Life,TBD,Ponytail,TBD,Normal,TBD,green,TBD,Angel Feather
-1361,3.5,892,80.86,https://magiceden.io/item-details/4C8b8Z1ooDmEdNmWvqgAx6QNiMcYqTDi8p9KVSDEheve,TBD,Dark Cyan,Squid Game,Thug Life,TBD,Man Bun,TBD,Normal,TBD,normal,TBD,Machine Gun
 1365,5,2867,50.06,https://magiceden.io/item-details/CGJEm9cf2q3VfPwP3VYcVwfA6nfsLo17VaAaYUjqPCKE,TBD,Purple,Flak Jacket,Cyborg Red,TBD,Blue Hat,TBD,Normal,TBD,Red,TBD,Grim Reaper
 1385,6.49,3339,31.39,https://magiceden.io/item-details/AM5CYCEHrtTS6BT873j1fn4YP1pcbKNH2gFHE32S2Ezi,TBD,Dark Cyan,Red Jacket,Purple,TBD,Red Turban,TBD,Normal,TBD,Normal,TBD,Claws
 1402,3.19,4398,55.92,https://magiceden.io/item-details/4nhxqfhnyPzWrPyPHWNS68KtCNZaCQnTusXQNV4WKhux,TBD,Dark Cyan,Blue Clinch Rifles,Brown,TBD,Blue Beret,TBD,Normal,TBD,Normal,TBD,Tentacles
@@ -268,6 +267,7 @@ id,price,moonRank,💎 score (%),storeURL,Assist,Background,Cloth,Eyes,Games Won
 2121,4.6,2411,57.71,https://magiceden.io/item-details/71w4upVzdzxoedePK9wUDCiCiGam2DTW6ttiFKaLYjHn,TBD,Purple,Grey Jacket,Band Blue,TBD,Blue Ivy,TBD,Normal,TBD,Red,TBD,D16 Alien
 2123,5,2188,55.5,https://solanart.io/search/?token=EBTq6fi3974CrugbvzbcPVL1X36qd1XzULL7g9AowYaG,TBD,Green,Yellow Tamba,VR,TBD,Blue Kufi,TBD,Normal,TBD,Green,TBD,D16 Alien
 2127,15,637,0,https://magiceden.io/item-details/5h98jCVRCAYwZ3zDian9z2q5u3PAnbgAuGX8xJZixBML,TBD,Purple,Red Gladiator,Thug Life,TBD,Ponytail,TBD,Normal,TBD,red,TBD,Angel Feather
+2138,5,213,71.3,https://magiceden.io/item-details/SZVnsjGZzfxo7Z3jXuNVenZYWv9VPVLpLozoJnfMSMk,TBD,Violet,Brown Sheriff,Sunglass V2,TBD,Man Bun,TBD,Normal,TBD,purple,TBD,Grim Reaper
 2140,6,462,59.3,https://magiceden.io/item-details/FUx23B5gz2vLjU1mv1tj2RszktoTYAzeAC3V73DEAL2M,TBD,Blue,Brown Sheriff,Sunglass V3,TBD,Formal,TBD,Normal,TBD,red,TBD,Dp-28
 2144,4.949,2528,53.29,https://magiceden.io/item-details/7CEhpaPMeso9rRTV3XycYtCBYtTQocMf2eh39aYqyXsE,TBD,Blue,Green Sheriff,Band Blue,TBD,Master,TBD,Normal,TBD,Red,TBD,Machine Gun
 2157,25,1443,0,https://magiceden.io/item-details/7LFULjBmdn1jk1LyujZ3YwL3SeP684o4q4sYqT7UVcjo,TBD,Violet,Blue Gladiator,Sunglass V3,TBD,Man Bun,TBD,Normal,TBD,purple,TBD,Saber
@@ -348,12 +348,9 @@ id,price,moonRank,💎 score (%),storeURL,Assist,Background,Cloth,Eyes,Games Won
 2594,3.8,237,83.1,https://magiceden.io/item-details/HtRnJ9aKJKrXngE5x5DCmF5BrryatEKoPfHBhVYfU1Js,TBD,Cyan,Red Stripe,Myth Sunglass,TBD,Man Bun,TBD,Normal,TBD,normal,TBD,Mp3 A5
 2598,95,1055,0,https://magiceden.io/item-details/GVFCfiJUkb11scncTj8v6PozT5ad95yftwLy7BGgYqiK,TBD,Violet,Medieval Purple,Blue,TBD,Red Casual,TBD,Sci Fi,TBD,Purple,TBD,Igniting Glare
 2601,2.45,3127,73.48,https://magiceden.io/item-details/AAS1wwZ3s2mNC4uoQVgUcdXCfzXr1bvio3SEKAgMvZyK,TBD,Green,Red Luffy,Purple,TBD,Blue Hat,TBD,Normal,TBD,Green,TBD,Laser Gun
-2602,2.4,3685,69.52,https://magiceden.io/item-details/FucaqaGzM9oajxVUbBLCBkQpeXupZGFrxnR8MvvSPo3u,TBD,Blue,Flak Jacket,Brown,TBD,Blue Beret,TBD,Normal,TBD,Red,TBD,Dino Thunder
 2603,6.5,231,56.15,https://magiceden.io/item-details/AaFh9E9mpb4PP3fJN3qsm83e1CigzRwLsVEwyyBS44WV,TBD,Green,Z18 Wrrior,Disco Shades,TBD,Formal,TBD,Normal,TBD,green,TBD,Blue Knife
 2605,10,1880,7.96,https://magiceden.io/item-details/ATADd5ZXBZXqJSnUynuRSo8poqsdsZDJi1YjXn1NKPag,TBD,Dark Cyan,X21 Hunter,Sunglass V3,TBD,Japanese Casual,TBD,Normal,TBD,normal,TBD,Saber
-2606,3.2,680,85.56,https://magiceden.io/item-details/8npyxdZXgbrKeXh2KVYkJgUY9mduckaGJtF7vcjFhKGo,TBD,Red,Blue Stripe,Crimson,TBD,Aqua,TBD,Cigar M24,TBD,Green,TBD,Tentacles
 2608,8.69,4723,0,https://magiceden.io/item-details/BHg6QUQYrjCAwRRkwGef4JXNMZRxxfRA2nACeTx2kRy1,TBD,Cyan,Dotted White,Brown,TBD,Man Bun,TBD,Normal,TBD,Normal,TBD,Laser Gun
-2611,2.337,1093,90.89,https://magiceden.io/item-details/3LAicZctRdPMX5AodaFL94qSEWckFxs8PDQyDdQvVx9H,TBD,Green,Red Gladiator,Brown,TBD,Red Casual,TBD,Cigar M24,TBD,Green,TBD,Tentacles
 2618,6,2475,43.2,https://magiceden.io/item-details/3LRCGdc8rp78DzmdRZjLRTCeWkq1mEE66QRAYWbQ4cea,TBD,Purple,Black Willow,Cyan,TBD,Blue Turban,TBD,Normal,TBD,Red,TBD,Radium Gun
 2630,11.2,1338,0.3,https://magiceden.io/item-details/BUc1KAg3rerm2jov4mb1UaG2hHWp88bRYZfXBhfmG3dm,TBD,Blue,Broly,Sunglass V2,TBD,Formal,TBD,Normal,TBD,red,TBD,Boulder Spike
 2633,3.99,3183,57.64,https://magiceden.io/item-details/PNBMHJGnTaP3UCnZccGKp6uBpQrX8vWszoFnf6sNyoN,TBD,Brown,F27 Jacket,Blue,TBD,Red Turban,TBD,Normal,TBD,Purple,TBD,Machine Gun
@@ -379,7 +376,6 @@ id,price,moonRank,💎 score (%),storeURL,Assist,Background,Cloth,Eyes,Games Won
 2803,63,4435,0,https://magiceden.io/item-details/7m3BgphWsdgKXF8FQy9uHfqS9YszsVECU8kzyktVgzGP,TBD,Blue,Z26 Warrior,Band Blue,TBD,Japanese Casual,TBD,Normal,TBD,Red,TBD,Grim Reaper
 2808,4.4,2901,55.79,https://magiceden.io/item-details/7S434WUx6bj6nC3LEstizzKmRAvxkPJ7F7B4pH2UeW9L,TBD,Green,X18 Hunter,Yellow,TBD,Sombero,TBD,Normal,TBD,Green,TBD,Stargaze
 2810,6.3,2445,40.44,https://magiceden.io/item-details/6m8cHkw3iqY5hL4wgNo8AdYk8gDwnvt1yU6stbzLMQkw,TBD,Cyan,Red Gladiator,Purple,TBD,Red Kaffiyeh,TBD,Normal,TBD,Normal,TBD,Transformer
-2811,3,292,90.66,https://magiceden.io/item-details/6g8pdjBbdk9757rUQTMfn4hEkCUFZDCi7MYBW53D7F1R,TBD,Brown,Green Sheriff,Myth Sunglass,TBD,Man Bun,TBD,Normal,TBD,purple,TBD,Mp3 A5
 2818,6,493,59.06,https://magiceden.io/item-details/DmLQXoHG4EHSUNrcVx12j8NqoGUMZfZ7yZeYEnP3MVSv,TBD,Brown,Blue Stripe,Myth Sunglass,TBD,Red Casual,TBD,Normal,TBD,purple,TBD,Mp3 A5
 2833,4.5,411,74.71,https://solanart.io/search/?token=CtsTmC7eNJDbKutLRd298mifzQesZ7N8v2KnDeUkx34w,TBD,Violet,Grey-Tee,Blue,TBD,Formal,TBD,Sci Fi,TBD,Purple,TBD,Iron Spike
 2842,7,381,49.95,https://magiceden.io/item-details/3bx4vLTPXw9HwYkFJRHec3QMEqBeFAy23jjBKZxZMZgu,TBD,Red,White Krish,Brown,TBD,Flames,TBD,Tokyo Ghoul,TBD,Green,TBD,Boulder Spike
@@ -440,6 +436,7 @@ id,price,moonRank,💎 score (%),storeURL,Assist,Background,Cloth,Eyes,Games Won
 3203,3.5,1258,77.94,https://magiceden.io/item-details/7vNpQZPrg1xknkTY2Vqvf4hH3vescRonAiXY1QXfY8tS,TBD,Dark Cyan,Medieval Purple,Yellow,TBD,Formal,TBD,Bane,TBD,Normal,TBD,Claws
 3209,6.9,4595,17.24,https://magiceden.io/item-details/GWdVtdoyQzjyQFb29ALhctJhV2MW1MHNcnB62tw5qWwv,TBD,Brown,Red Stripe,Band Dark Brown,TBD,Formal,TBD,Normal,TBD,Purple,TBD,Claws
 3210,4.6,3342,50.26,https://solanart.io/search/?token=9jTg85hkDumvjQfwS98nH5yHTibfipPCCjAuCKJf4AyB,TBD,Dark Cyan,Broly,Brown,TBD,Pony Tail,TBD,Normal,TBD,Normal,TBD,D16 Alien
+3212,4.5,4000,46,https://magiceden.io/item-details/4ZXJCxXikP9o58Di1zxFw8rp2bBR9uTACRbNE1V6ZJaJ,TBD,Violet,Black-Tee,Blue,TBD,Black Kufi,TBD,Normal,TBD,Purple,TBD,Unheard Agony
 3213,8.46,233,36.54,https://magiceden.io/item-details/AKqyTeMxu9NVmL1rHJC7xJStytg25iYG2ZG1mt9Z52rn,TBD,Red,Red Freestyle,Steampunk,TBD,Flames,TBD,Normal,TBD,green,TBD,Igniting Glare
 3216,7,2121,36.03,https://magiceden.io/item-details/8WdXQde2iemQge5rzeXC3qY4ppn45UJQx811ftAmWF66,TBD,Cyan,Broly,VR,TBD,Sombero,TBD,Normal,TBD,Normal,TBD,Claws
 3225,6,435,59.52,https://magiceden.io/item-details/3JvdwGpfnFzQATya4kEs4L5GFTg1nC1fGo1aCd8KhzFB,TBD,Brown,Z18 Warrior,Cyan,TBD,Aqua,TBD,Censored,TBD,Purple,TBD,Dp-28
@@ -469,6 +466,7 @@ id,price,moonRank,💎 score (%),storeURL,Assist,Background,Cloth,Eyes,Games Won
 3364,5.79,3212,39.4,https://magiceden.io/item-details/F4X1Ezu2HaQ9tFcgZU5uHBkqAQWSuiLwEomnpm3J9WSW,TBD,Cyan,Crimson Mage,Cyborg Red,TBD,Blue Beret,TBD,Normal,TBD,Normal,TBD,Dino Thunder
 3371,8,750,37,https://magiceden.io/item-details/5gacDCXw2bTefr6yg5D7KkGuNowbrLwhk621ChDeAGWY,TBD,Dark Cyan,Black Willow,Cyan,TBD,Aqua,TBD,Cigar M28,TBD,Normal,TBD,Transformer
 3373,10,519,18.85,https://magiceden.io/item-details/BLo68J4xNtRYe4WjYBuqyuQsq7WERMLUh23zQEL59M2P,TBD,Violet,Red Gladiator,Sunglass V1,TBD,Red Casual,TBD,Normal,TBD,purple,TBD,Westar 34
+3377,4,2801,60.59,https://magiceden.io/item-details/AsUZe4Yw6sPfvKGGLx1aSNdRtWHhFB8Ssh6jpMB36d7y,TBD,Cyan,Blue Flak Jacket,Rounded Spec,TBD,Captain,TBD,Normal,TBD,Normal,TBD,Transformer
 3381,7.4,502,44.98,https://magiceden.io/item-details/9MwC1UjadGav29H6Ru8dLqmtqRkTSFCLh9g8w1oTsJGK,TBD,Red,Green Mage,Crimson,TBD,Flames,TBD,Sub Zero,TBD,Green,TBD,Iron Spike
 3384,10,1132,13.94,https://magiceden.io/item-details/BzKhP2XiJ5umP9QrCyqzPMojbBqy7pBDjcoCs1sLrKW,TBD,Dark Cyan,Shelby,Dollar Shades,TBD,Man Bun,TBD,Normal,TBD,normal,TBD,Claws
 3414,8.969454,2881,10.26,https://magiceden.io/item-details/BdFyT4cgihejhUvrGxLihbGBcb4iW57BuvbHHWpdy42S,TBD,Red,Flak Jacket,Yellow,TBD,Violet Hat,TBD,Normal,TBD,Green,TBD,Sol Gun
@@ -496,6 +494,7 @@ id,price,moonRank,💎 score (%),storeURL,Assist,Background,Cloth,Eyes,Games Won
 3605,8,4361,8.11,https://magiceden.io/item-details/7NBP5eCcyX38wT1GThp96fRHW2Rw2EUVEBNc9HFLAXhS,TBD,Cyan,Green Sheriff,Purple,TBD,Army Ivy,TBD,Normal,TBD,Normal,TBD,Angel Feather
 3611,9,1420,21.64,https://magiceden.io/item-details/AVfkrL647fQTeuwsR6EWVEb1QJiwy9dkWZBVkApjmV4j,TBD,Red,Medieval Purple,Retro,TBD,Formal,TBD,Normal,TBD,green,TBD,Radium Gun
 3617,9.99,57,22.64,https://magiceden.io/item-details/87MEzAQGZGeHLMY4YsLAkVSdvSqguAaEk3WxqsxKCRqN,TBD,Cyan,Grey-Tee,Brown,TBD,Aqua,TBD,Red M21,TBD,Normal,TBD,Westar 34
+3625,4.2,1230,71.16,https://magiceden.io/item-details/ACyD3LB7PCyf9P7gkDysCFMr7Y86UJski9wL8QfS5AcQ,TBD,Violet,X18 Hunter,Blue,TBD,Japanese Casual,TBD,Censored,TBD,Purple,TBD,Angel Feather
 3627,4,4615,46.08,https://magiceden.io/item-details/HaTm8Hj8Rcn5W2Qw1VPvnXgbJo9wdqCpoUnzYypNC3s4,TBD,Purple,Dotted Black,Band Blue,TBD,Japanese Casual,TBD,Normal,TBD,Red,TBD,Blue Knife
 3639,5.49,785,61.82,https://magiceden.io/item-details/96dLTxPzpZQwoLkMPWKjpQx754XxKdWQ3UcuTxWRc3uz,TBD,Red,Green Willow,Myth Shades,TBD,Formal,TBD,Normal,TBD,green,TBD,Stargaze
 3641,20,3904,0,https://magiceden.io/item-details/FzL32rkY8NkBTG39RqP2iiRZyhq6zvWD4CNHPSNmubTT,TBD,Dark Cyan,Green Kimono,Purple,TBD,Blue Hat,TBD,Normal,TBD,Normal,TBD,Blue Knife
@@ -505,7 +504,7 @@ id,price,moonRank,💎 score (%),storeURL,Assist,Background,Cloth,Eyes,Games Won
 3664,3.15,3588,62.8,https://magiceden.io/item-details/8aM4mhYbvwXgc1yppQ8y9BpiTjuj3Zf8dzy2qAPVPjVP,TBD,Green,Green Mage,Yellow,TBD,Blue Ivy,TBD,Normal,TBD,Green,TBD,Demon Head
 3665,10,1058,14.54,https://magiceden.io/item-details/8ftSJeBoL9Ldeuv5DuDtw7nuahj7G7TQ3gijD13TMxBP,TBD,Cyan,Dotted Black,Yellow,TBD,Red Casual,TBD,Bane,TBD,Normal,TBD,Unheard Agony
 3672,3.8,2769,62.85,https://magiceden.io/item-details/C4zZJRWZ5GJt6P65BcV1LhYKvaNQnZZU3KJLGwqjj9Gg,TBD,Purple,Squid Game,Rounded Spec,TBD,Pony & Band,TBD,Normal,TBD,Red,TBD,Blue Knife
-3675,9.69,1887,11,https://magiceden.io/item-details/7qDSfSrmTNNzgDAG2Qzt9vosLURyavb6FaJheurUdNCH,TBD,Violet,Silver Terminator,Band Dark Brown,TBD,Red Kaffiyeh,TBD,Normal,TBD,Purple,TBD,Dp-28
+3675,6.9,1887,38.9,https://magiceden.io/item-details/7qDSfSrmTNNzgDAG2Qzt9vosLURyavb6FaJheurUdNCH,TBD,Violet,Silver Terminator,Band Dark Brown,TBD,Red Kaffiyeh,TBD,Normal,TBD,Purple,TBD,Dp-28
 3678,4.2,4584,44.33,https://magiceden.io/item-details/5P26FRTNFuKzWaMmCedbC5tZYhVtb6pguxmP2hyUY91d,TBD,Cyan,Green Mage,Cyborg Red,TBD,Aqua,TBD,Normal,TBD,Normal,TBD,Tentacles
 3686,2.49,1550,85.7,https://magiceden.io/item-details/4oS9J3GtYazMvPjArP7MNApMYqxV9ihqQV4xtB37RVBm,TBD,Blue,Yellow Tamba,Retro,TBD,Formal,TBD,Normal,TBD,red,TBD,Radium Gun
 3689,35,2768,0,https://magiceden.io/item-details/GjMo1kpMrt2aT4Jm58AveDP7dTGWgrHXzbe6zXPx2TJS,TBD,Red,Shelby Violet,Rounded Spec,TBD,Brown Fez,TBD,Normal,TBD,Green,TBD,Tentacles
@@ -524,6 +523,7 @@ id,price,moonRank,💎 score (%),storeURL,Assist,Background,Cloth,Eyes,Games Won
 3778,55,2288,0,https://magiceden.io/item-details/42N4y9iMDPpfBKFWCKqE1yCutLCwmJiLUUbiWoQRxaUb,TBD,Green,F21 Jacket,VR,TBD,Red Beret,TBD,Normal,TBD,Green,TBD,Laser Gun
 3784,4.89,731,68.25,https://magiceden.io/item-details/47cd4ovdTRvUvp3nnY44ZsqHeFQZhMgfmTqkAJZE3XVW,TBD,Blue,White Krish,Blue,TBD,Japanese Casual,TBD,Demon,TBD,Red,TBD,Machine Gun
 3810,5,4758,34.94,https://magiceden.io/item-details/BgghtHm5w9aQyv6ZZPjZgGAkB8tZMD2oSM3Eg4hcKCGf,TBD,Cyan,Green Willow,Purple,TBD,Formal,TBD,Normal,TBD,Normal,TBD,Saber
+3812,4.1,294,79.65,https://magiceden.io/item-details/HpN2nsrecjkBDqXniVyXzmqktE84hgZAPwc8ATd9LpkS,TBD,Red,Green Mage,Green,TBD,Aqua,TBD,Tokyo Ghoul,TBD,Green,TBD,Stargaze
 3825,4.229,4710,43.03,https://magiceden.io/item-details/5UqrRT9YrpQvNmpHZ1hYzpeeQSTQzK4eanv5ztgMujVC,TBD,Brown,Dotted White,Crimson,TBD,Man Bun,TBD,Normal,TBD,Purple,TBD,Claws
 3830,3.06,1838,77.7,https://magiceden.io/item-details/5J2mohVq7RJ5LW8kq3pjNhiqv3m8P4cqBmrbUXoQBGxY,TBD,Brown,Green Mage,Disco Shades,TBD,Japanese Casual,TBD,Normal,TBD,purple,TBD,Transformer
 3842,4.19,1836,66.41,https://alpha.art/t/Gam99PUNSUSoWcQfdtiNfLGeguhrp11WRAejQUVyd8UP,TBD,Brown,F21 Jacket,Disco Shades,TBD,Red Casual,TBD,Normal,TBD,purple,TBD,Transformer
@@ -549,6 +549,7 @@ id,price,moonRank,💎 score (%),storeURL,Assist,Background,Cloth,Eyes,Games Won
 3932,3.29,457,86.44,https://magiceden.io/item-details/7arAx12NGKRhmscGyrf3q6ahGkSLahq5Cj6UPtBNfiyn,TBD,Green,Green Mage,Yellow,TBD,Red Casual,TBD,Tokyo Ghoul,TBD,Green,TBD,Boulder Spike
 3934,5,4034,40.73,https://magiceden.io/item-details/AjRE1Ziippz1waiuFmaLtnQ2X6PX1254wPsHuLqMnLzb,TBD,Purple,Black-Tee,Cyan,TBD,Captain,TBD,Normal,TBD,Red,TBD,Dp-28
 3948,3.47,2936,64.81,https://magiceden.io/item-details/EFJYgLBYmtVGKG7cpobmgdz8nHNAQW8mbZU1iu1KoaVG,TBD,Purple,X18 Hunter,Cyan,TBD,Captain,TBD,Normal,TBD,Red,TBD,Stargaze
+3962,2.3,3714,70.29,https://magiceden.io/item-details/86XMTET4CCYVMHnk6pgpWrKWDT1K6MNEDtH7RrtX67ry,TBD,Purple,Shelby,Brown,TBD,Pony Tail,TBD,Normal,TBD,Red,TBD,Laser Gun
 3966,11,3822,0,https://magiceden.io/item-details/3GUhFUENjVqpt94r4mwK8or83rkuNebEG5city7XvQTp,TBD,Brown,Blue Kimono,Crimson,TBD,Cadet,TBD,Normal,TBD,Purple,TBD,Dino Thunder
 3968,12,2656,0,https://magiceden.io/item-details/AuXrzvbTtGZFCb22U6LXZc1PDRRd2Tz36ibhnXzMYC34,TBD,Purple,Red Riot,Band Blue,TBD,Master,TBD,Normal,TBD,Red,TBD,Grim Reaper
 3973,12.75,46,0,https://magiceden.io/item-details/EWEyx2RUMdNZRmupz1Hu8R4rwfhxpRfBwBqzDhL98Te3,TBD,Dark Cyan,Brown Sheriff,Sunglass V1,TBD,Red Casual,TBD,Normal,TBD,normal,TBD,Westar 34
@@ -567,6 +568,7 @@ id,price,moonRank,💎 score (%),storeURL,Assist,Background,Cloth,Eyes,Games Won
 4048,3.99,534,78.83,https://magiceden.io/item-details/AHKTYpFxxRBvogjqwrwQHNgU24aRzc6nwfNvQUpiVnkq,TBD,Dark Cyan,Dotted White,Sunglass V1,TBD,Red Casual,TBD,Normal,TBD,normal,TBD,Westar 34
 4057,4,4755,44.96,https://magiceden.io/item-details/GJNyoofE94AWtURA1iWrpxdHox65UaAPKmkE79v3NY4j,TBD,Cyan,Green Kimono,Purple,TBD,Aqua,TBD,Normal,TBD,Normal,TBD,Claws
 4058,45,330,0,https://magiceden.io/item-details/HJtmVayE4RKeBn6a3R5n8EgpBTM4FsxEUMGfGLFfQ9K5,TBD,Red,Yellow Tamba,Sunglass V2,TBD,Ponytail,TBD,Normal,TBD,green,TBD,Boulder Spike
+4060,2.3,4858,61.14,https://magiceden.io/item-details/GbX5nNSqGKrJUgo72QuHKQv29ibh7MRQWaEMoJWMXmgu,TBD,Blue,Black Krish,Green,TBD,Flames,TBD,Normal,TBD,Red,TBD,Igniting Glare
 4062,69,6,0,https://magiceden.io/item-details/6aLm46mr1fe34vdYb35JypZTa2Nb3bGmcbVaizDYW1Uh,TBD,Red,Arab Violet,Purple,TBD,Violet Kaffiyeh,TBD,Tobacco Pipe,TBD,Normal,TBD,Tentacles
 4069,6.2,1440,49.48,https://magiceden.io/item-details/84b16B5aR2t2tMax5qDhnMahGQfnkqWeLGB8LMSQEcwU,TBD,Cyan,X18 Hunter,Green Shades,TBD,Man Bun,TBD,Normal,TBD,normal,TBD,Unheard Agony
 4078,6.3,2312,41.5,https://magiceden.io/item-details/9ucxLvwVN4YPyNy6YnkL19rFogJVku6FCYxrQLrdFpoH,TBD,Red,Blue Clinch Rifles,VR,TBD,Red Beret,TBD,Normal,TBD,Green,TBD,Dino Thunder
@@ -584,6 +586,7 @@ id,price,moonRank,💎 score (%),storeURL,Assist,Background,Cloth,Eyes,Games Won
 4156,4.5,2544,57.65,https://alpha.art/t/DctwWCPYUa5RQvUGmfzgcP7hU5mui3fzovVF9iJZKBzm,TBD,Red,Blue Stripe,Cyborg Green,TBD,Breton,TBD,Normal,TBD,Green,TBD,Igniting Glare
 4171,6,3049,38.61,https://magiceden.io/item-details/9A6UZDq2zCNkCSCVwNN1d7P1zjTm9p7EuTTYAY7BWyun,TBD,Violet,Brown Riot,Crimson,TBD,Pony & Band,TBD,Normal,TBD,Purple,TBD,Claws
 4173,4.5,4503,41.98,https://magiceden.io/item-details/BZ3H3RssEJZZopDGzFxeeXKLjB4FNBHjXzCQKeegWvDq,TBD,Green,Green Sheriff,VR,TBD,Flames,TBD,Normal,TBD,Green,TBD,Blue Knife
+4179,2.3,2158,82.74,https://magiceden.io/item-details/Gr2rQZZsD8TpubUWyrTNGMqKYABQ7noAtMrMB4euLQUF,TBD,Purple,Z26 Warrior,Band Blue,TBD,Blue Ivy,TBD,Normal,TBD,Red,TBD,Claws
 4182,8.88,1853,19.38,https://magiceden.io/item-details/CYZXGK4NAs1UUExQ2hYJ6qHagQiT67pGqGaNP7ZPuaG6,TBD,Brown,Crimson Mage,Sunglass V3,TBD,Japanese Casual,TBD,Normal,TBD,purple,TBD,Saber
 4190,4.39,2042,62.76,https://magiceden.io/item-details/Bvd6cxNpULaXX2GQrMgZyCJZN8mBJWoQyttXYzDqLeaR,TBD,Red,Z26 Warrior,Cyborg Green,TBD,Captain,TBD,Normal,TBD,Green,TBD,Demon Head
 4208,4,3813,52.5,https://magiceden.io/item-details/HNmrxbgZXXdkKxqBWo7GTgEptp3RHyp7ChFDgFnbdXvs,TBD,Violet,Blue Kimono,Blue,TBD,Blue Breton,TBD,Normal,TBD,Purple,TBD,Dino Thunder
@@ -604,6 +607,7 @@ id,price,moonRank,💎 score (%),storeURL,Assist,Background,Cloth,Eyes,Games Won
 4292,8.9,551,29.59,https://magiceden.io/item-details/7jHP2u4Jg3SWi4DNQNtwcxiZzoWv8voCqUwsZzNEEhJq,TBD,Violet,Medieval Purple,Brown,TBD,Formal,TBD,Oni,TBD,Purple,TBD,Radium Gun
 4294,3.3,2456,70.35,https://magiceden.io/item-details/uvkaWomhqa27fbnb3EpmU3MRSyjymVtkTgEwSRibg8Y,TBD,Brown,Red Luffy,Cyborg Red,TBD,Violet Hat,TBD,Normal,TBD,Purple,TBD,Claws
 4312,3.6,1597,74.22,https://magiceden.io/item-details/Gpd7vHo2vaC1qMQw8bChJH87E7gNujYKQSuos9z9DgyP,TBD,Violet,Grey Jacket,Steampunk,TBD,Red Casual,TBD,Normal,TBD,purple,TBD,Demon Head
+4329,4.4,3735,49.12,https://magiceden.io/item-details/3s9MfePfeSB3cscH258aqPYF9hRVysEnov9jnFmsh4NU,TBD,Purple,Squid Game,Brown,TBD,Rasta Bandana,TBD,Normal,TBD,Red,TBD,Dp-28
 4352,5,969,65.25,https://magiceden.io/item-details/FZBZTEQnh84REZtEC4E9BxRnSq5LYBMY55hrcbitoYUa,TBD,Blue,Green Mage,Green,TBD,Japanese Casual,TBD,Demon B&W,TBD,Red,TBD,Demon Head
 4353,50,1684,0,https://magiceden.io/item-details/DKRFvdwHYk8xuKDiysBHGMHkihFyd7JrZ3C9Y8hLU1HS,TBD,Dark Cyan,Black Willow,Thug Life,TBD,Japanese Casual,TBD,Normal,TBD,normal,TBD,Machine Gun
 4364,12,4688,0,https://magiceden.io/item-details/5onE66N9agyWaVUuo3bCiaSAZwqF8Z4bupVUJkdhxutg,TBD,Violet,Silver Terminator,Blue,TBD,Aqua,TBD,Normal,TBD,Purple,TBD,Grim Reaper
