@@ -1,5 +1,4 @@
 id,price,moonRank,💎 score (%),storeURL,Background,Expression,Extras,Eyes,Face,Headgear,Lines,Name,Neck,Skull
-6,0.59,6651,59.68,https://magiceden.io/item-details/2bCqymm8xmzFkTmYa6QXuwUyS9SWqaVH9GLkxNejGd3q,Grey,Deadpan,None,Single Blue,None,None,Cheeks,Axel the Badass,None,Teal Bucket
 18,5,2948,37.8,https://solanart.io/search/?token=6cNhZxxx2PAoU8wExFsxaqyEckhEckyiRJWDLX2bjqVT,Teal,Deadpan,None,Single Orange,Orange Record,Royal Blue Durag,Cheeks,Eduardo the Wrathful,None,Nebula
 21,7,4109,10.84,https://magiceden.io/item-details/D4D8JSHrZLX3LLRebS4e8D2ptscHp91iXUhkknraSYJn,Royal Blue,Deadpan,None,Slime,Green Record,Blue Spiked Mohawk,Worry Lines,Pascal the Drop Dead Gorgeous,None,Blue Marbled
 25,5,5235,24.08,https://magiceden.io/item-details/9gn1ndvJpME9dKsz5gjf7wJjd8yR4uUu3qxNvsqaSoP6,Teal,Deadpan,None,Blood,Razor Blade,None,Worry Lines,Thaddeus the Doomed,None,Zombie Brains
@@ -67,6 +66,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Expression,Extras,Eyes,Face
 443,69,259,0,https://magiceden.io/item-details/CmrAnrAzfqzMnr58FNaYRUBKQfo4CVMFh4FcqBTRGXpm,Zombie Green,Deadpan,None,Joker Paint,Blue Poker Chip,Blue Mohawk,Cheeks,Ripley the Adorable,None,Nebula
 446,1.25,2267,79.39,https://solanart.io/search/?token=4o8Fiw7vUB9egcpAB2cfeVu5LUrgV4DLvP3bWUb9A1rY,Blueberryish,Deadpan,None,Blood,Melon Hammer,None,Worry Lines,Rocky the Punk,None,Blue Crosshatch
 456,10.5,6446,0,https://solanart.io/search/?token=Hbfa4j3CaNJt853tbKVHihGvAEVBGHRjqxPqFXpVXwdG,Orange,Fearsome,None,Sunglasses,Razor Blade,None,Cheeks,Mark the Inescapable,None,Brains
+462,0.75,1090,91.46,https://magiceden.io/item-details/5CXZqQwasQM9mrq3yfcVsqsFQKMNzk9CMb7kdXLXH6Zh,Purple,Fearsome,None,Sunglasses,None,Tiny Wizard's Hat,Divot,Tommy the Schemer,None,Hard Scrape
 466,16.1,6357,0,https://magiceden.io/item-details/2PDMe4YzeURRArvbLwdkTjsWyHw18Gs1YGaYJ9CLXZUR,Red,Deadpan,None,Single Purple,Blue Poker Chip,None,None,Michael the Extremely Endowed,None,Brains
 471,15,432,0,https://magiceden.io/item-details/AfUjMqPSDZS9qXUv4o9gY5Zy2tXspK59wDLvvM7N9pqg,Mango,Deadpan,None,Pit Vipers,Green Record,Emo Party Hat,Divot,Judas the Champion,None,Candy Corn
 472,0.85,1495,88.03,https://magiceden.io/item-details/97UoxTuRbW3Z3eNnqSMwB8vMQuwYwiAQ9xX2BNPFFkw6,Fuschia,Fearsome,None,Tiny Pupils,Orange Record,Red Durag,Worry Lines,Tyler the Anaconda,None,Camo
@@ -235,7 +235,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Expression,Extras,Eyes,Face
 2219,0.7,2450,83.79,https://magiceden.io/item-details/CSxAKmac34WFCyX396YaMM3gKeevywMyiTCjS1foS31J,Royal Blue,Deadpan,None,Blue Worms,Melon Hammer,Blue Mohawk,None,Icarus the Dope,None,Blue Crosshatch
 2222,1.1,4580,67.01,https://solanart.io/search/?token=EhjAnKuEaxY2YguHL9PuYCWwYGbSeJFzKYeQsTsA652B,Purple,Deadpan,None,Blood,Green Record,Party Hat,Cheeks,Alistair the Adversary,None,Pop Art
 2243,4.45,6528,21.82,https://magiceden.io/item-details/7FSuxtb2AUpjRuy1bufyAsJ8382TWQ6wh5Xx4MnVLtqH,Royal Blue,Fearsome,None,Red Flames,None,None,None,Caesar the Truly Obnoxious,None,Hard Scrape
-2247,0.55,6265,62.39,https://magiceden.io/item-details/Aqd4yxTbTPXWceqWzwmJXnN72UyY99hYpGuHE7owkHA4,Orange,Fearsome,None,Twin Green,Razor Blade,None,None,Baron the Wrathful,None,Brains
 2250,3.9,1752,55.98,https://solanart.io/search/?token=H5AG3vEWfidGfLeCAdu4qit6mRpQHdyzxko1wsZ6EQ7p,Grey,Deadpan,None,Dead Xs,Mango Hammer,Dark Crown,Cheeks,Wade the Terror,None,Camo
 2260,3.3,5391,40.14,https://magiceden.io/item-details/Gf4s3x9H7i6XiEA2seB88RQRDJu2Nih8QkQRqQeh1b95,Grey,Deadpan,None,Single Blue,None,Ice Scream Cone,Cheeks,Tyler the Undaunted,None,Zombie
 2261,1.69,5579,55.11,https://magiceden.io/item-details/2FaEjzYKyDKXPztVqCfhUXQmiFHcirtxXAHeKAPy8fki,Seafoam Green,Fearsome,None,Red Flames,None,Halo,Cheeks,Baron the Lamebrain,None,Jungle
@@ -594,6 +593,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Expression,Extras,Eyes,Face
 5684,8.5,1851,9.39,https://magiceden.io/item-details/6kkfpwQKXvTo6pfwcZaMnow8kGyhBHFjtn8GWxFJEwSy,Purple,Deadpan,None,Nine Ball,Green Record,Pit Vipers,None,Hector the Unbalanced,None,Yellow Spray Paint
 5688,1.5,3131,71.71,https://magiceden.io/item-details/67FnaeXskSkBtmBymSvmFrz6pTCUddKV2C4qUkKG2LoT,Fuschia,Deadpan,None,Zen,Blue Poker Chip,None,Worry Lines,Hugo the Rad,None,Purple Bucket
 5692,3,2681,59.41,https://magiceden.io/item-details/3GwncGpZEBZ7HhBsZFBd7eBQEYLax7smQo9wypXgpkkM,Royal Blue,Deadpan,None,Red Flames,Blue Poker Chip,Horns,Worry Lines,Caesar the Ultimate Blue Chip,None,Fuschia Tie Dye
+5693,1.49,187,89.48,https://magiceden.io/item-details/5NF4UDtxSAiTxWJ6PVGjEWFT7NPd873AmFrmTyppoRWK,Teal,Deadpan,None,Blue Flames,None,Fried Egg,Cheeks,Hector the Destroyer,Black Bowtie,Bloody Splatters
 5703,14,3554,0,https://solanart.io/search/?token=9D8zetpV2MtqbJfrd73gE8XYew4958RfEaMGKytUtTeC,Orange,Fearsome,None,Dead Xs,Razor Blade,Red Baseball Cap,Worry Lines,Santiago the Cursed,None,Putting Green
 5706,2,4437,58.87,https://solanart.io/search/?token=3adPV4v1sJ4FdtfsWxxHpDr46mT1w1VXPYFLEE8cNeUj,Purple,Deadpan,None,Red Flames,Blue Poker Chip,Ice Scream Cone,Cheeks,Chad the Mauler,None,Purple Creepy Crawlies
 5727,3.4,4200,46.29,https://magiceden.io/item-details/DvV8mpP1vjzS72tXRpGUXq2ch4Gr8jEspaY2tgiT7xkg,Red,Fearsome,None,Matches,Tongue with Eyeball,None,None,Cash the Extremely Endowed,None,Emptyheaded
