@@ -1,5 +1,6 @@
 id,price,moonRank,💎 score (%),storeURL,Background,Base,Clothing,Eyes,Head,Mouth
 25,3.99,35,61.25,https://magiceden.io/item-details/B77EMoJXq8BRYpX8whah4TvxwaZkWdPYt7SDBTSrB15t,Red,baseCub,Camo Jacket,Cute,Fireman Hat,Vampire
+46,0.3,3655,61.85,https://magiceden.io/item-details/6XALuVFFFBM9sEzgwtjQCGoiSk1xZfzVuah3V4RTWbxN,Orange,baseCub,Overalls,Brown,Beanie,Kawaii
 49,2,913,72.34,https://alpha.art/t/B75t1pTKHT7wdWxuGJgLxdP3Chw6pnkf92T7DRYKsTRD,Pink,baseCub,Sweater,Grumpy,Blue Trojan Helmet,Tongue
 59,0.99,2416,67.37,https://magiceden.io/item-details/6KBgjrC6n585kX9GkgpRuH9EbjMkLTxAP4CkPc9kS5Yv,Pink,baseCub,Water Kimono,Eye Patch,Bucket Hat,Bone
 116,0.8,3414,59.27,https://magiceden.io/item-details/2V9Dtm14tZsN8fYzANGrEAbaKnXtBEFW1y5dpcJaMTN2,Green,baseCub,Coconut Bra,Squinting,Elf Hat,Tongue
@@ -19,7 +20,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Clothing,Eyes,Head,Mou
 228,1,59,90.91,https://magiceden.io/item-details/8G5Ek1jcD8mjaK5YMa75xtb6FUBVwZsgcyYcY6yKX28,Red,baseCub,Referee Shirt,Blue,Bucket Hat,Brown Beard
 240,0.77,3888,54.81,https://magiceden.io/item-details/CdvmCJB9v9zQ7eNpqMxrUM4ifiwrst5bqmoJx6spKXA6,Blue,baseCub,Blue Apron,Brown,Fireman Hat,Scared
 242,0.3,935,89.12,https://magiceden.io/item-details/4G3vtYcExHG764SyLfJL8zoQh7bQxf7DJL7XK4ZQ7e1k,Pink,baseCub,Hawaiian Shirt,Mad,Clubhouse Hat,Bubble Gum
-260,0.15,1294,87.02,https://magiceden.io/item-details/Fo3dhmvyMSPFtDBKp6cp9Zt4cUkoMrodffBMZwZBRmKS,Orange,baseCub,Pink Apron,Monocle,Banana,Bone
 278,1.74,1256,71.51,https://magiceden.io/item-details/EuAbKFhSTdNtnYsB2qi2ZFizmTdQVcwrEEMPh2gixaEa,Purple,baseCub,Red Polo,Eye Patch,Ramen,Whistle
 279,0.3,1264,85.83,https://magiceden.io/item-details/H1mUhUCnGk25z9q92j6bwziwnVKrKTjA9eJ7uZoFXQsj,Orange,baseCub,Hawaiian Shirt,Derpy,Banana,Drooling
 284,0.5,2222,74.22,https://magiceden.io/item-details/DBwy4AjmNTrj2CKC2BSaqt7J5RNtvi8wdPP8MxS4Z33y,Purple,baseCub,Blue Sweatshirt,Mad,Blue Trojan Helmet,Drooling
@@ -63,7 +63,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Clothing,Eyes,Head,Mou
 481,0.3,542,93.07,https://magiceden.io/item-details/AfJyEAaE9C3Dn4mYduDCCam3kJu9Q1aqh4Sght7jTKPo,Green,baseCub,Poncho,Eye Patch,Pirate Hat,Frown
 504,4.2,9,59.41,https://magiceden.io/item-details/BW5zu9WSmFeoDpi4exmTwFESyZKFkXjS3R1iHn2PsmAQ,Tan,baseCub,Tribal Tattoos,Eye Patch,Island Boy,Serious
 507,0.6969,1340,81.09,https://magiceden.io/item-details/2NaVi9AYFU9XKrT2dp4D93Z9chRhfy7HLwB9LV4fQQeh,Pink,baseCub,Sweater,Cute,Cub Hat,Scared
-517,0.15,3214,67.77,https://magiceden.io/item-details/3RbdJe91nq3GbHGdWpJwRBXaWZXBc4ttq6rhVa66NgKt,Purple,baseCub,Hawaiian Shirt,Red Retro Sunglasses,Duck Hat,Scared
 522,10,3976,0,https://magiceden.io/item-details/FaVEk6dyXFeDfx1CgRSxTWaDEEaHqFh21q57d3KNJavc,Orange,baseCub,Blue Apron,Brown,Cowboy Hat,Scared
 524,0.5,2399,72.44,https://magiceden.io/item-details/8dspK7eoqturzVLEGsboG4QMS7e6BAVrARV2CRcm4YMS,Teal,baseCub,Blue Uniform,Squinting,Duck Hat,Smirk
 525,2,394,77.55,https://magiceden.io/item-details/HaouHqs6gYjoUBRADvLaGE9EWybh8Ns8CUFm2kQVuXyf,Green,baseCub,Poncho,Eye Patch,Red Trojan Helmet,Drooling
@@ -790,7 +789,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Clothing,Eyes,Head,Mou
 3914,0.16,3098,68.83,https://magiceden.io/item-details/AVJEFkVCJi6GjRm8tVSpu9UDYiws2zAYGdpJJeBUPGZH,Yellow,baseCub,WAGMI Shirt,Blue,Clubhouse Hat,Happy
 3916,5,452,46.97,https://magiceden.io/item-details/CCXkFmf9Ksn6vE2cY1rWddnNM922CpNDKHFUAXCFj8TQ,Green,baseCub,Zebra Print Jacket,Shades,Cowboy Hat,Ice Beard
 3917,0.6,2806,67.36,https://magiceden.io/item-details/FE2AGMBzRunvDvmt8hfE4uNeA55gaVWS1fAwJq3AYQnW,Green,baseCub,Blue Apron,Monocle,Rainbow Headband,Frown
-3928,0.25,1565,83.31,https://magiceden.io/item-details/9XS97nDHd68NXDa11e6Y8De2HzY2Nd73rJcDMxo41z4G,Purple,baseCub,Water Kimono,Squinting,Ice Cube,Bubble Gum
 3934,0.42069,359,93.69,https://magiceden.io/item-details/2BPXiChY4AmmBaNfk7apuEfyXxT98bRGk3ucpK5gRBfV,Red,baseCub,Hawaiian Necklace,Black Retro Sunglasses,Top Hat,Kawaii
 3937,0.5,3600,60.4,https://magiceden.io/item-details/AfWiRGySnx2cR29enJrXu6KN8ZzeANVfzzSszZvdEdj,Orange,baseCub,Rain Jacket,Mad,Ninja Headband,Tongue
 3942,0.4,2766,69.76,https://magiceden.io/item-details/2fu1XkBrtFC9YW8v9AYA1pkysbWjqhaT9mmHw4Wnu6TH,Orange,baseCub,Pink Apron,Cute,Clubhouse Hat,Happy
