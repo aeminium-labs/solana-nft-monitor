@@ -4,7 +4,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Edition,Eyes,Head,Mouth,Out
 47,7.6,4406,43.19,https://solanart.io/search/?token=CPJx9PF1Wa4oFwnDAgDKLkrPgGXuH6zXSrahxZdPQu6P,Straw,,Angry,Sportsband,Closed,Shirt Green,Natural
 50,50,630,0,https://magiceden.io/item-details/54Zvnf9MGYUWZmAsm9W9m2AswS8C633VsPyYRQs1XXZT,Alabaster,,Scar,Viking Light,Grin,Scarf Purple,Natural
 99,9.99,6241,9.79,https://solanart.io/search/?token=Dstv9xSvTUTmPqUyoZK6EsmHs57PHphbwYiqNc2uBii4,Amaranth,,Wink,Cap Pink,Smirk,Hoodie Pink,Natural
-214,4.8,2661,80.22,https://magiceden.io/item-details/PHyicbchnKouGnJrkm87nCRbo4V1CE2NUgdgXNrBv8g,Pink,,Sleepy,Bucket Hat Green,Fangs,Scarf Striped,Natural
 227,6.5,1522,69.12,https://magiceden.io/item-details/Cvqm2RF1udveXnrsh1N5DiT8joSvyo4cZdPCFjyshTVx,Blue,,Scar,Bucket Hat Green,Stache,Hoodie Light,Natural
 232,18,4748,0,https://magiceden.io/item-details/Cia67d1R5Q8Hckk1tbaRPmWU2NBhLReuQ7HRdBXvbSfE,Rose,,Angry,Backwards Cap Blue,Smile,Sweater Light,Natural
 259,10,6592,7.88,https://magiceden.io/item-details/CR53JRQ4oHf43HC8KKHb6o8XfSLDv4P7LJtj8sjw331v,Pink,,Wink,None,Grin,Shirt Pineapple,Natural
@@ -86,6 +85,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Edition,Eyes,Head,Mouth,Out
 1614,15.8,2047,0,https://magiceden.io/item-details/CVzM1Q7ecVzYZyC3Pegg4g1MHa7XyYZPSznh6bDuRSje,Blue,,Mutated,COPE,Grin,T-Shirt Yellow,Natural
 1630,6.8,7574,34.79,https://magiceden.io/item-details/9piLiVy9ud2dDPqKBRMQQw3ozBkdGkXPpwzQc4vRv563,Sand,,Wink,None,Closed,Turtleneck Orange,Natural
 1661,8,6464,28.54,https://solanart.io/search/?token=3AUX8oUWEP4dBAHNipdfT71L1KCbzFsRKb64mGPp48Rs,Straw,,Standard,Headband White,Blep,Hoodie Pink,Natural
+1676,8,2017,51.56,https://magiceden.io/item-details/AxdxcUFLJSAnYs2kwMi1eAso5kBi1AionVjdfBWU3Lzd,Persimmon,,Raised,Safari,Drool,Shirt Flannel Yellow,Natural
 1678,12,6124,0,https://magiceden.io/item-details/Bb3751hi5PwohVRCfFfxZd8gjhqpSrUAkYBjf8KNyMvU,Blue,,Wink,Cap Pink,Fangs,T-Shirt Yellow,Natural
 1695,4.25,6864,63.97,https://magiceden.io/item-details/CWsshwkVu8kgKAqitjV2UrjvWoBUCc8zV7YmmtkRDyWf,Rose,,Standard,Bucket Hat Green,Smug,Scarf Red,Natural
 1723,9,893,47.38,https://magiceden.io/item-details/5ScieEGxNf9kWN3dpWtH5y5C8GQD9bMf8spmwyqNPRiM,Blue,,Eye Patch,Monster Trainer,Grin,Tank Top Pink,Natural
@@ -176,7 +176,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Edition,Eyes,Head,Mouth,Out
 3416,40,58,0,https://solanart.io/search/?token=Dr93786ULehnERLbps387B5i7C8DuJ8vXbFTZLs8Mc8L,Purple,,Wink,Captain,Beard,Shirt Camo,Natural
 3422,111.11,6192,0,https://magiceden.io/item-details/ByxjRMtzzGxrREgwUEy1PS8UEE5tu61st74y8Rtg942V,Champagne,,Wink,Bucket Hat Ivory,Grin,Sweater Light,Natural
 3431,13,2284,0.18,https://solanart.io/search/?token=9xJonrBNXQzW26gxC8rfh52EEGBNzkV91dgoHqN4Le1T,Mint,,Standard,COPE,Stache,Sweater Purple,Natural
-3449,9.4,1530,40.08,https://magiceden.io/item-details/E9o1ews9k8zcC29KjrRgFGTmT5o7WZ9PGdKQVEJLFL7h,Persimmon,,Spectacles,Cap Blue,Grin,Shirt School,Natural
+3449,9.8,1530,36.08,https://magiceden.io/item-details/E9o1ews9k8zcC29KjrRgFGTmT5o7WZ9PGdKQVEJLFL7h,Persimmon,,Spectacles,Cap Blue,Grin,Shirt School,Natural
 3461,12,3210,5.38,https://magiceden.io/item-details/9ceq8ZEE9dYm4RBmdX4j8rn6k9CRzX9rDqsYHEDqDmah,Green,,Standard,Safari,Closed,Tank Top Dark,Natural
 3471,8.12,6843,25.38,https://solanart.io/search/?token=Gr5XbAsFq2eS3ZzXb7BvDCYavSxcptcqnAf2m5xvchvA,Straw,,Standard,Sportsband,Grin,Scarf Purple,Natural
 3483,4.7,5224,67.96,https://magiceden.io/item-details/BBZQAoLuJ9ydnZRG3ThCaNRcCTQ3bjbd4k9SboFzUZ8F,Yellow,,Blank,Headband Patterned,Drool,Shirt Flannel Red,Natural
@@ -349,11 +349,13 @@ id,price,moonRank,💎 score (%),storeURL,Background,Edition,Eyes,Head,Mouth,Out
 7131,29,101,0,https://magiceden.io/item-details/3wu3hYHmhXJvVVvES8gRQjN2hz9jRQFNFjedPMXGMt2h,Straw,,Shades,Crown,Stache,Sweater Green,Natural
 7158,25,2223,0,https://magiceden.io/item-details/9SpEXceHFJ84i7kj23cpyuuyXsEqW3svSjDnkpmTbKwu,Alabaster,,Angry,Cap Pink,Stache,Sweater Green,Natural
 7161,7.5,2820,52.4,https://magiceden.io/item-details/9i2AuM7rHYVucGBNsVBmV1ZoP2iJxMcjGCKZef7zEsyQ,Amaranth,,Wink,Afro,Fangs,Turtleneck Dark,Natural
+7168,6.69,3803,55.41,https://magiceden.io/item-details/J3EwiEUZhMbMiXcVXYE5BCXe8oDqJtDA5c5kDjw8JBaw,Persimmon,,Jaded,Cap Pink,Stache,T-Shirt White,Natural
 7169,7,6046,40.7,https://solanart.io/search/?token=EGaEGyGoDwJPRYLbu3zgx1QMGDxLb2Y2qpJUBvvQQNiU,Rose,,Jaded,Backwards Cap Dark,Grin,Sweater Purple,Natural
 7188,5,6038,60.74,https://magiceden.io/item-details/7XzXb8vbHBX9WYkzgCPizZPDgTTeVQB2zoKaQxSGKir7,Amaranth,,Standard,Bowler Dark,Fangs,Shirt Blue,Natural
 7189,6.1,4022,60.18,https://solanart.io/search/?token=DqSMxPfsnZVTtmbQesTeq6gw9jaeUNX9RfzFXABR6rbE,Persimmon,,Blank,Backwards Cap Pink,Grin,Shirt Flannel Green,Natural
 7195,5.75,5921,53.85,https://solanart.io/search/?token=4ALS3hRTCArxGRYctEUZrvSf1r2c7ayAWwDZshWbjjbV,Pink,,Standard,Bucket Hat Green,Drool,Scarf Striped,Natural
 7246,10,5045,15.88,https://magiceden.io/item-details/6f8mtrLKvmRtVSmQ9NzgKt242TNMJ5A35Rhjat2Auf4,Alabaster,,Jaded,Backwards Cap Dark,Blep,Turtleneck Dark,Natural
+7255,6.5,2605,63.51,https://magiceden.io/item-details/8UurgGskCQXJ3r7VFbJX4Jh2hF3LGZzutCey2BNfW4Uh,Sky,,Wink,Afro,Fangs,Turtleneck Green,Natural
 7266,42069,5591,0,https://magiceden.io/item-details/5BH8PJpiFHdyYNfmG7v2QHQSdqsBrMzpKEC5kgH8KqCG,Purple,,Standard,Afro,Smug,Turtleneck Blue,Natural
 7271,32,1253,0,https://magiceden.io/item-details/EreSVpXj9mSny2fbVxUTN3FHuMrvjf1oHRqygLXaGb7f,Violet,,Solana,Cap Pink,Smile,Shirt Camo,Natural
 7284,20,221,0,https://magiceden.io/item-details/7DYNRuPjLiYBfM75rZiSPxrSqaX3ukT5hTDvvws3atVS,Champagne,,Synth,Afro,Smile,Astronaut Light,Natural
@@ -380,7 +382,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Edition,Eyes,Head,Mouth,Out
 7694,10.8,5851,3.71,https://solanart.io/search/?token=FXoGSgWHGKZ4ZRf7kjsxwsSDxGsE1w8FeqVYPNvHQEV8,Yellow,,Jaded,Bucket Hat Blue,Fangs,Hoodie Green,Natural
 7698,4.8,6268,61.55,https://magiceden.io/item-details/HAkojLsDhrd1jfsrZ2reAfxkTcxpUsTjY4BLauNYuTZK,Violet,,Wink,Sportsband,Grin,Shirt Green,Natural
 7704,500,196,0,https://magiceden.io/item-details/2XtLVT4mNSmb2Qe9Q3WKfzvgEVY6BjcMRUvTevYRpX7F,Champagne,,Solana,Centurion,Fangs,Hoodie Blue,Natural
-7708,11,1614,23.64,https://solanart.io/search/?token=53SV1LjFAeuLiQSC4YMe52P2KRZPym3jJhpkB5y6e2Hx,Rose,,Jaded,Halo,Smirk,Shirt Blue,Natural
+7708,9.5,1614,38.64,https://magiceden.io/item-details/53SV1LjFAeuLiQSC4YMe52P2KRZPym3jJhpkB5y6e2Hx,Rose,,Jaded,Halo,Smirk,Shirt Blue,Natural
 7723,20,3015,0,https://magiceden.io/item-details/4eVDKJEZWPCGisguLUMyAnjg2KLFQyeYbX9i3S7vdv1A,Orange,,Raised,Cap Indigo,Fangs,Sweater Purple,Natural
 7728,16.5,226,0,https://magiceden.io/item-details/9rjuqhpL2DEQ3qmMpUqPvZE2W5RyvT3WoX6TJnPNwHHz,Blue,,Angry,Astronaut,Stache,Sweater Red,Natural
 7732,7,7291,34.26,https://magiceden.io/item-details/8qRQTATAVPA5TBLxJ1HXhH8RguX7Mf5guX3w5hs4xDBx,Yellow,,Eye Patch,None,Blep,Hoodie Blue,Natural
