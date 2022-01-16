@@ -1,5 +1,6 @@
 id,price,moonRank,💎 score (%),storeURL,Background,Body,Earrings,Eyes,Face,Hat,Head
 27,2.4,2633,60.42,https://magiceden.io/item-details/EJcqRCuBuhTxRBGcRkqcX2VFfWT4jTTyY5UmV4U3LSi2,Tangerine,Zilla,None,FeralEyesRed,Mammoth,BeanieCream,GrapeFlavored
+30,4.8,561,53.01,https://magiceden.io/item-details/2QPWTcMqeQix8hnaA1WHGkmQAaoJ5ySMmwYXYJtwwbtW,GrannySmith,BubbleTeaFever,GoldPair,Unamused,Mammoth,OctoPink,Blonde
 32,1,4170,62.12,https://magiceden.io/item-details/9vgegM8zNnAAre9pE2rSpoRcvmZYf4yjhU7vbfXraiMM,GrannySmith,BubbleTeaFever,None,Unamused,GramGram,None,RedHead
 34,1,4783,57.21,https://magiceden.io/item-details/kXLYJNxxQCt8Rdy5BS3EYuC3YnSVjZ5FhcadzXBUidK,Pomegranate,Bat,None,Unamused,GramGram,Crab,RedHead
 36,3,1854,60.66,https://magiceden.io/item-details/6z4HXGAx2JkCHU38dNad9nSTzWhwTPfdYVLFR13ouTMJ,GrannySmith,Zilla,Bone,CuriousJorge,GoodBoy,PlumberGreen,GrapeFlavored
@@ -86,7 +87,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Earrings,Eyes,Face,Hat
 351,1.15,3961,62.29,https://magiceden.io/item-details/FCeVXuoGzJ2Av32bkuqHMqxEUhLGW4RRV1o1yfp9mPzv,DustyBlue,SkullShield,None,Steamboat,BaconBoar,BandanaBloodz,CottonCandy
 356,3,4211,41.79,https://magiceden.io/item-details/DZgPMKAoKbQpXm6fwiWzrJLYo8iifa5Vk9vMextFHLzs,GrannySmith,Plug,None,OhGodNo,DingDong,OctoPink,Night
 360,0.9,3224,70.69,https://magiceden.io/item-details/3eL6PNwunkkQSyNiitdgpc22e6HLPikzWTVtJ7goeiSV,Mustard,StreetPirate,None,FeralEyesRed,WickeyMouse,ImmortalBlade,Night
-363,0.59,1423,88.21,https://magiceden.io/item-details/HDAxhWvpAy2Z5TJog14gvcJtcNafe7ZnstXYLi2PNxto,Tangerine,Bat,Dagger,Unamused,ThugzBunny,ShellRed,Clay
 369,2.3,1117,73.56,https://magiceden.io/item-details/3kKFMdE9Hn4Bd9PEXre5HRwUH22zRyhpVW2zYFxgdM1J,Salmon,Zilla,None,Vengeance,WickeyMouse,PimpNamedSlickBack,Blonde
 376,1.49,4908,51.31,https://magiceden.io/item-details/GzoDd3ogatC2pZSzTYmtvjPe6VQaNrMeVnsiiX9XQYfU,Cyan,SkullBomb,None,PissedOff,GramGram,GoonGoon,Clay
 383,2.5,3754,50.45,https://magiceden.io/item-details/2GJSnNUGgogDwdhA7ag2KX6AgDvhjcBnoLcgvrUDZhWh,Citrus,Kong,None,FeralEyesRed,ThugzBunny,BeepBoop,BudGreen
@@ -207,6 +207,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Earrings,Eyes,Face,Hat
 889,1.99,4120,52.62,https://magiceden.io/item-details/86U19wW93c9a47UjdACjoGskqpsYbTKyfrEqfa9iDjVW,Cyan,Hockey,None,BlindfoldBlack,GoodBoy,BeanieCream,Clay
 890,0.65,3772,68.81,https://magiceden.io/item-details/G4zLTbxoi32AoxZqN1ni9hU7Mjenj7UC5MZDwHo3cjdt,Mustard,SkullShield,None,BlindfoldBlack,GramGram,AllSeeing,Clay
 898,2.79,4451,41.97,https://magiceden.io/item-details/8fxYR8fzFSZ3ANxmSFXqHpNX9jYJrSig3Yx1mHDjupsg,Pomegranate,SkullBomb,None,PissedOff,BaconBoar,Gluttony,BudGreen
+901,1.95,2589,65.28,https://magiceden.io/item-details/9stZ8ffaVfkxEpHfNg7P3vtZ4ax9V8MqDY3mJxCRvLF,RubyGalaxy,MegaGoon,None,Steamboat,BaconBoar,BandanaBloodz,CottonCandy
 911,2.82,4149,44.09,https://magiceden.io/item-details/Dx9CESuhDT8PF5pbp4nF2vkrzc1haK31yKzqLRqAJDGU,Salmon,StreetPirate,None,PissedOff,ThugzBunny,Gluttony,Clay
 913,5,1608,42.63,https://magiceden.io/item-details/HM7WEdV93CKuZg27biZK8w2cpRv97GdLio3MPkvLaGho,Tangerine,Devil,None,CuriousJorge,GoodBoy,ViperJade,BudGreen
 914,10,568,0.95,https://magiceden.io/item-details/5RV7aymddS67CRDDmSrvXwyHQ3LSNKQqeLbqwZNnhE5d,Indigo,StreetPirate,Gold,PissedOff,GoodBoy,ShellGreen,Clay
@@ -754,7 +755,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Earrings,Eyes,Face,Hat
 3149,1.2,4245,59.52,https://magiceden.io/item-details/B3upmwf3L6SinTDAeebLpz9LcQKJKnczZwsUz3c9yPjU,Acid,LuchaLibre,None,ClassicToon,BaconBoar,Gluttony,Night
 3151,1.5,1430,79.05,https://magiceden.io/item-details/H7S4ZToALbFbMaWmj8ZBPgWVZ27tkeopKsafnKdi16SK,Leather,Plug,PocketMonster,FeralEyes,ThugzBunny,Crab,RedHead
 3154,2.5,4480,44.64,https://magiceden.io/item-details/7uHmWPyonW7QJp8BibKYkEcri4qBbR7sYe9UunWbbqUs,DustyBlue,Zilla,None,Steamboat,RuffyDuck,BandanaCrip,Clay
-3162,1.07,3021,70.62,https://magiceden.io/item-details/FV6YmZbPB59HA8qvs1s6QW1TdBeP62smZ7w7vJfqEKh7,Leather,Hockey,None,StarryEyed,BaconBoar,PlumberGreen,RedHead
 3163,3,284,73.23,https://magiceden.io/item-details/Eme6HAV7z5VqbwzNWNQDs96kLJg6ToHrG9H4if8y4d8d,Citrus,Paladin,Silver,Unamused,GoodBoy,Anon,CottonCandy
 3165,6,700,39.9,https://magiceden.io/item-details/3nkA91hrWKcbiyP6NWWX6ChaHzZ764BL6Fi5ne6T6P52,Lavendar,Hockey,Silver,CuriousJorge,RuffyDuck,GorgonPink,DustyBlue
 3166,2,690,79.98,https://magiceden.io/item-details/EBg5EcxCSbH2BAZwLFs7XAspV9nMHWNiGapkgpzoHsjU,Tangerine,Yakuza,EyeofZauron,Steamboat,GramGram,OctoPink,Blonde
@@ -1090,7 +1090,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Earrings,Eyes,Face,Hat
 4513,1.59,3490,61.66,https://magiceden.io/item-details/GQTznzXggphx8hSqy7kPctZ8A4EDFdXjd1ECkeE4xHNb,Pomegranate,DeathAngel,None,FeralEyesRed,GoodBoy,Gluttony,BudGreen
 4517,1.3,522,88.32,https://magiceden.io/item-details/97ERoeWHg8NN4LiZpLViuQuqcS9TigF6zqZzgvEf1x4V,Cyan,SweetChocolate,Silver,BlindfoldWhite,DingDong,PlumberRed,Night
 4518,2.95,3751,45.97,https://magiceden.io/item-details/5dSoj778LCEuWGZQ7aL7uSoH5UWgj2t2S3dzmCycKPC8,GrannySmith,Thug,None,CyberStyle,GramGram,Crab,Blonde
-4523,1.5,2844,67.73,https://magiceden.io/item-details/7umaoK3WpceL7B6ytpDt4akfQWk3gUB68WX7VYKZxqxc,Blue,BoxerPink,None,Unamused,WickeyMouse,Sunnyside,RedHead
 4525,4.21,128,62.38,https://magiceden.io/item-details/CvEd9buTYV8GJdjVK5zVaznxzPcHnNZKZUYWBw5kpFku,Pomegranate,Cerberus,Silver,BlindfoldBlack,ShinRaShiFlood,BandanaBloodz,GrapeFlavored
 4526,1.75,1757,73.94,https://magiceden.io/item-details/CeMn5kvhDZJEeoSqLXjCX1U63yVgLuZeTQreGTWgBhXg,Leather,Bat,Gold,Steamboat,WickeyMouse,PimpNamedSlickBack,CottonCandy
 4528,10,119,4.55,https://magiceden.io/item-details/GqPqZDAfi4cohHWbpSrNpr9mAEfhPsKPYuA52eodPkJw,Pomegranate,BallerBulls,Silver,ClassicToon,Baztard,ViperJade,RedHead
