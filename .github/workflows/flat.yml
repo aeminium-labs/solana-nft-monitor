@@ -1538,3 +1538,10 @@ jobs:
           http_url: https://api-mainnet.magiceden.io/rpc/getListedNFTsByQuery?q=%7B%22%24match%22%3A%7B%22collectionSymbol%22%3A%22the_remnants_%22%7D%2C%22%24sort%22%3A%7B%22takerAmount%22%3A1%2C%22createdAt%22%3A-1%7D%2C%22%24skip%22%3A0%2C%22%24limit%22%3A500%7D
           downloaded_filename: the_remnants__magiceden.json
           postprocess: ./postprocess/magiceden.ts
+
+      - name: magic_mushies - Fetch Magic Eden data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://api-mainnet.magiceden.io/rpc/getListedNFTsByQuery?q=%7B%22%24match%22%3A%7B%22collectionSymbol%22%3A%22magic_mushies%22%7D%2C%22%24sort%22%3A%7B%22takerAmount%22%3A1%2C%22createdAt%22%3A-1%7D%2C%22%24skip%22%3A0%2C%22%24limit%22%3A500%7D
+          downloaded_filename: magic_mushies__magiceden.json
+          postprocess: ./postprocess/magiceden.ts
