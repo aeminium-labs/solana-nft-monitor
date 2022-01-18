@@ -2,7 +2,7 @@
 
 Monitors Solana NFT projects at **MagicEden**, **Solanart**, **Alpha Art** and **Exchange Art** marketplaces and updates data every 20min.
 
-Browse all data at https://flatgithub.com/pgaspar/solana-nft-monitor and use "Data File" picker to select one of the available collections.
+Browse all data at https://flatgithub.com/moon-landing-crew/solana-nft-monitor and use "Data File" picker to select one of the available collections.
 
 ### Tracked collections
 
@@ -15,13 +15,13 @@ Browse all data at https://flatgithub.com/pgaspar/solana-nft-monitor and use "Da
 
 ### Requesting new collections
 
-If you want me to add a new collection to the site, please submit an issue by clicking [this link](https://github.com/pgaspar/solana-nft-monitor/issues/new?assignees=&labels=add+collection&template=request-a-new-collection-listing.md).
+If you want us to add a new collection to the site, please submit an issue by clicking [this link](https://github.com/moon-landing-crew/solana-nft-monitor/issues/new?assignees=&labels=add+collection&template=request-a-new-collection-listing.md).
 
 Thanks!
 
 ### The add_collection.rb script
 
-I added a very rough Ruby script that'll generate the required files. You just need to give it the collection identifiers for Moonrank, Magic Eden, Solanart, Alpha Art and Exchange Art (in that order):
+There's a very rough Ruby script that'll generate the required files. You just need to give it the collection identifiers for Moonrank, Magic Eden, Solanart, Alpha Art and Exchange Art (in that order):
 
 ```shell
 # ruby scripts/add_collection.rb <moonrank_id> <magiceden_id> <solanart_id> <alphaart_id> <exchangeart_id>
@@ -52,8 +52,11 @@ And I did the same with `.github/collections.json`, which defines the collection
 
 ### Was this useful?
 
-I'm glad 😊 I accept tips! Solana wallet: `6HvBqNvZ8zTJRshvaDyLCqXm6V5wM5Dgke4tvjoUw6KP`
+We're glad 😊 We accept tips! Solana wallet: `6HvBqNvZ8zTJRshvaDyLCqXm6V5wM5Dgke4tvjoUw6KP`
 
 ### Credits
 
-Thanks to [@braposo](https://github.com/braposo) for working on the original [Gloom Monitor](https://github.com/braposo/gloom-monitor)!
+* [@braposo](https://github.com/braposo) built the original [Gloom Monitor](https://github.com/braposo/gloom-monitor) and is the resident TypeScript guy!
+* [@pgaspar](https://github.com/pgaspar) extendeded the monitor to support multiple collections, added support for Alpha Art and Exchange Art and writes the Ruby scripts.
+
+This project was originally on **pgaspar/solana-nft-monitor**, but we moved it to the **Moon Landing Crew** organization, where we keep working on it together 🚀
