@@ -29,12 +29,13 @@ collections.each do |collection|
     id = m["name"]
     id = id.split("#")[1] if id.include?("#")
     rank = m["rank"]
+    mint = m["mint"]
 
     processed_attributes = m["rank_explain"].map do |a|
       [a["attribute"], a["value"]]
     end.sort_by { |a, v| a.downcase }
 
-    [id, {rank: rank, attributes: processed_attributes.to_h}]
+    [id, {rmint: mint, ank: rank, attributes: processed_attributes.to_h}]
   end
 
   processed_data.sort_by! { |a, b| a.to_i }
