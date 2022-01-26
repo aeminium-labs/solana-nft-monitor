@@ -28,7 +28,7 @@ const csvData = await cleanCSV({ fileName: csvFilename, market: "magiceden" });
 
 // 2 - Fetch all other result pages (Magic Eden paginates)
 const allTokens = data.results || [];
-const limit = 500;
+const limit = 20;
 let page = 2;
 
 const collections: Array<CollectionItem> = await readJSON(
