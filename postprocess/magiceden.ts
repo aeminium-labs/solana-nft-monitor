@@ -35,7 +35,7 @@ const collections: Array<CollectionItem> = await readJSON(
   `.github/collections.json`
 );
 
-while (page > 1 && data.results.length > 0) {
+while (page === 1 || data.results.length > 0) {
   const collectionId = collections.filter(
     (c) => c["moonrank"] === collection
   )[0]["magic_eden"];
