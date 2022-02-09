@@ -19,7 +19,7 @@ type RawData = {
 
 const filename = Deno.args[0];
 const collection = filename.split("__")[0];
-let data: RawData = await readJSON(filename);
+let data: RawData = { results: [] };
 
 const csvFilename = `${collection}.csv`;
 
@@ -29,13 +29,13 @@ const csvData = await cleanCSV({ fileName: csvFilename, market: "magiceden" });
 // 2 - Fetch all other result pages (Magic Eden paginates)
 const allTokens = data.results || [];
 const limit = 20;
-let page = 2;
+let page = 1;
 
 const collections: Array<CollectionItem> = await readJSON(
   `.github/collections.json`
 );
 
-while (data.results.length > 0) {
+while (page > 1 && data.results.length > 0) {
   const collectionId = collections.filter(
     (c) => c["moonrank"] === collection
   )[0]["magic_eden"];
