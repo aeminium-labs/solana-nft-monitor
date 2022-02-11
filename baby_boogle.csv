@@ -3,6 +3,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Chest,Eyes,Hat,Model,Mouth
 111,1,54,88.88,https://magiceden.io/item-details/7v6fMfqZjWZrszDWRwqfNcXn4uvRLEB4XQzP5WrsSmki,Space,Smiley,Dark Green,Chullo,Long,Fangs
 116,0.0969,313,90.17,https://solanart.io/search/?token=CYRgPw2TKBsLABofbRdkbxKoUpqKzqiaviUMd8CMRQp8,Door,Talisman,Black,Priestess,Standard,None
 120,2,656,60.87,https://magiceden.io/item-details/CF9miBo1XDgtbaLZuJK3NpVEJoJhhopXt3m78kkeoe1L,Solid Purple,Potion,Grey,Winter,Standard,None
+121,0.5,536,79.46,https://magiceden.io/item-details/AMrJ2Fohbo8ELpQfxLtq94d4NCj41tMZFXWPVzC3YJLg,Japan,Button,Dark Green,Halo,Portrait,None
 124,3.42069,269,58.25,https://magiceden.io/item-details/GdQZzG5hmUnmQnA9dEhcxs69pUbs7mqiP3RCw1MqV3oF,Wave Camo,Spade,None,Winter,Portrait,None
 131,1.43998,105,82.96,https://magiceden.io/item-details/Aaqs8TdedFvh1gMACc6Vewza66dHZp1V8nomLL3PkyyJ,Solid Purple,Hourglass,Red,Halo,Long,Cigar
 132,0.5,1209,59.33,https://magiceden.io/item-details/2RUwGDChnQporFad5Rsvcx7YmxNhDgUs5N1BYRpZfrUi,Solid Orange,Button,Dark Green,Sombrero,Standard,None
@@ -12,7 +13,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Chest,Eyes,Hat,Model,Mouth
 148,3.5,387,53.92,https://magiceden.io/item-details/FVhUHRyLbDQFS6hNJoYaDCCZCnYS1wogzgM14SdfE3np,Solid Turquoise,Heart,Brown,Priest,Portrait,Mask
 150,2,1087,47.98,https://magiceden.io/item-details/HA2x18QPtRi1zdHFhR66LqMike1FFxrwnXN9nV5wkvm8,Wave Grey,None,Blue,Priest,Portrait,None
 153,1,939,62.41,https://magiceden.io/item-details/CRNo5yKSKJPyAi6MYF8jnwTbgsTJq3iEJxops2KFmFnP,Wave Turquoise,Stethoscope,Black,Rice,Long,None
-154,6.88,777,8.45,https://magiceden.io/item-details/CK42m2a3HgniJJP43LmhYe1jhCBy5u5DG77UndYGGSVD,Scorched Grey,Tea Light,Brown,Bowler,Portrait,None
 158,3.7,964,34.66,https://magiceden.io/item-details/2ucX5mBR3GdHDYru6tW5F2yWX4fivfPkK9YJVC6NSzZF,Solid Dark Blue,Button,Green,Goggles,Standard,None
 159,0.08,784,76.24,https://magiceden.io/item-details/BXbQvWSCT7xKtvUEEFSryBHPDmxCGDg4vShXhKe8Lv7u,Split Black Yellow,Rook,Yellow,Winter,Long,None
 166,1,587,72.94,https://solanart.io/search/?token=3Xi4Bos4rc7pVBcJ8zy4E48G8iYHHCZCrNJkUAoY4Nc3,Scorched Turquoise,Talisman,Black,Bowler,Portrait,None
@@ -56,7 +56,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Chest,Eyes,Hat,Model,Mouth
 293,0.07,1229,63.03,https://magiceden.io/item-details/6cP6UqLDbeVjggXw5g1rZWy2hZxsz1oRn91G4mUsk9nW,Solid Grey,Alien,Grey,Bowler,Standard,None
 294,0.29,567,80.64,https://solanart.io/search/?token=FxjcT6cTz6FJoa3dKsoZPcFp8Whxi2xQc1Kz9MRhEtxd,Scorched Grey,Hourglass,Turquoise,Explorer,Standard,None
 297,0.378,1022,66.14,https://solanart.io/search/?token=2C7SZZzajVYZNMi6uchiVYGSEyRJJjJb1eTq9Rgq8AFD,Solid Purple,Rice Ball,Grey,Cap,Long,None
-305,14.9,17,0,https://magiceden.io/item-details/En9xBx79vrcjTmCzzmyfepuSTFFQKCBh6HrX7sGqkZWV,Solid Orange,Spider Grey,Yellow,Monkey,Hooded,Smirk
 310,0.23,963,69.39,https://solanart.io/search/?token=32za3Eiy5B5L5ZGWRVVKo144guBw6Y8zgBFFPsdPneQg,Spider Web,Button,Blue,Beret,Portrait,None
 311,0.15,483,84.55,https://magiceden.io/item-details/8z4FexrazUigyjYuXonExEoYSxW9nnLMLj13sULqmic1,Solid Green,Rice Ball,Dark Green,Beret,Long,Smile
 314,0.4,848,71.13,https://solanart.io/search/?token=9e6LAxjStzfDg31x5n65viRTZTGmVSR9HTi5F5mNvfSj,Wave Red,Smiley,Black,Rice,Demon,None
@@ -64,6 +63,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Chest,Eyes,Hat,Model,Mouth
 321,0.5,518,80,https://solanart.io/search/?token=4jddPDsBvjXAdf76rUncPKBSoyqeBRYCxejT4W3zNo6g,Solid Orange,Potion,Black,Monkey,Long,None
 323,1.5,865,59.62,https://magiceden.io/item-details/HDjqJaaytAVP5jy5GG9v1hx6SiDawSXSHGzNrPV53WdT,Wave Solana,Candle,Grey,Goggles,Standard,None
 324,0.9,1187,55.99,https://solanart.io/search/?token=AN9kfY324pro7u2Bp4hf8wR2MKpktoiXmikLsPAgpDSm,Solid Blue,Spade,Grey,Cap,Long,None
+325,0.5,913,68.19,https://magiceden.io/item-details/FdaELWzQGyTtw1RkirfWBvW55L8jEhJDQWAnB3PtUacy,Wave Brown,Bow Tie,Brown,Winter,Standard,None
 326,0.9,790,67.86,https://solanart.io/search/?token=AjWd9kQsnReRqRqRF5gvgLE1dtsu6qgVEto84eYpyhez,Graveyard Yellow,Rook,Blue,None,Hooded,None
 329,3.5,967,36.57,https://magiceden.io/item-details/9XE8BTFVzQC7gqK4RhsTYGDa4sHae5TKF96rpE5ZHCT2,Solid Black,Money,Grey,Goggles,Standard,None
 331,0.3,56,95.82,https://magiceden.io/item-details/6Xcb6UhJWu74fANQAbxUL29WqWSVxzYcbaCyLxZTUSPP,No Entry,Tea Light,Blue,Headband,Portrait,Fangs
@@ -100,6 +100,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Chest,Eyes,Hat,Model,Mouth
 441,0.3,1200,61.6,https://solanart.io/search/?token=DfFQhnXPayfCJcnwCiJeq9ctZui8B1vMaz8ARerN1gTf,Solid Blue,Rook,Brown,Headband,Hooded,None
 446,0.1,1212,63.24,https://magiceden.io/item-details/8iVbKeCbpQH4sj5bTgNkacY1X4Ai9sDF9R3HGr23SraD,Solid Grey,Smiley,Dark Green,Winter,Demon,None
 448,8.83,1294,0,https://magiceden.io/item-details/PE3KZHe7zyhWV25F5rj5zZZe8oGCYPwmNrHTrA4a7Sp,Solid Blue,Spade,Blue,Bowler,Hooded,None
+450,0.5,1287,57,https://magiceden.io/item-details/7DoAV88Z4kWSvsLXaeRYL5kohPpBEPBMJcxTbE99KTHR,Solid Green,None,Dark Green,Cap,Standard,None
 452,2,584,63.03,https://magiceden.io/item-details/2dj81yBogBhPRo7FzorBUy89AJpQ9rUALC6qUpgHaRsX,Wave Orange,Wings,Blue,None,Hooded,None
 460,2.3,1197,41.69,https://magiceden.io/item-details/A3bKBFYDbNwEP3W9MrcxtEkcycVB54b8We1f3c2ek4Kw,Solid Green,Stethoscope,Dark Green,Bowler,Long,None
 462,0.5,255,87.87,https://solanart.io/search/?token=HZ8BkcQQ98vekJLjjHKpAvL69o6RVPYUE1cbAQtah7as,Pattern Red,Heart,Grey,Priest,Portrait,Smile
@@ -206,6 +207,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Chest,Eyes,Hat,Model,Mouth
 814,2,733,58.57,https://magiceden.io/item-details/4JeMi2PPpksa9Qf1LJPrHXXZzJjAD2DYhaWDvEfs2ULM,Wave Camo,Smiley,Blue,Priestess,Demon,None
 819,3.4,903,39.48,https://magiceden.io/item-details/B8Egh7ZxduGzmsMYMWVCTNqcH9FdeG2tvA3KrEAZvK3y,Scorched Green,Button,Blue,Beret,Standard,None
 829,0.33,1281,58.88,https://solanart.io/search/?token=3FEVCYHp6Cqx8eEAuhZjKdt9Xxc7jvFHcahxZ6b5LA4A,Solid Green,None,Blue,Chullo,Portrait,None
+830,0.3,861,71.74,https://magiceden.io/item-details/AmtYFbVRCYTFMZTnptcKgfG4tfwTa4Gwf22ThtVswfWe,Scorched Grey,Rice Ball,Black,Bowler,Portrait,None
 832,1,1277,52.3,https://magiceden.io/item-details/4GvJVGGWFgTvLNgj2veJ7BKFwXC27oVxQfHAKDCity2W,Solid Purple,Spade,Brown,Beret,Portrait,None
 833,0.17,475,84.59,https://magiceden.io/item-details/2ePbNL4QQN2URU1CnrmVANbj18ngUk2EbVgywppjP6gq,Solid Orange,Potion,Green,Rice,Demon,None
 834,5.69,578,26.31,https://magiceden.io/item-details/DavieTCkyozn6mHEAn3M9AMXmttemtNoLrtgRQWTU27L,Solid Orange,None,Dark Green,Headband,Demon,Smirk
@@ -245,6 +247,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Chest,Eyes,Hat,Model,Mouth
 928,1.4,1243,49.31,https://magiceden.io/item-details/ALg6S1ZdmUkJjimUcG4ooUghuZKTfk2fV6UJmPNoBEWY,Solid Turquoise,Yin Yang,Grey,Headband,Demon,None
 931,0.2,328,88.69,https://magiceden.io/item-details/5mgWpBxmAEwsZ6SrpRmc9ZgfXZR8dS4d8RmCMBPjQ3n,Solid Pink,Spade,Orange,Headband,Demon,Smirk
 933,4.5,202,49.46,https://solanart.io/search/?token=EQUePzPD6kVD98CxNeirQKFkSJwBr1HzqhQcaxcG5KK9,Solid Pink,Heart,Yellow,Priest,Demon,Smile
+945,0.3,827,72.76,https://magiceden.io/item-details/7DKZ9Lrrom9ZRiNtghy4zbDwHoHC5iYUafeETSdE6BkK,Space,Stethoscope,Blue,Priest,Standard,None
 951,4.6,691,33.83,https://solanart.io/search/?token=8SW9y7wbxW7azx3nWkCFyhRfFrdMXZA3LZ2SnrpEJ8n2,Pattern Red,Stethoscope,Orange,Sombrero,Hooded,None
 952,0.25,251,90.49,https://solanart.io/search/?token=FbhAKmynJ6usm7N8Pjo7ufq3XDHAyE3dsCqCBc4TLrs,Ace,Alien,Green,Horns,Standard,None
 954,1.4,340,76.33,https://magiceden.io/item-details/FLJZ3UA9WpGw8B2fTudrZBpQfpahVE6Cs3cZoYPUpBrN,Solid Orange,Cross,Brown,Horns,Portrait,Smile
@@ -260,6 +263,8 @@ id,price,moonRank,💎 score (%),storeURL,Background,Chest,Eyes,Hat,Model,Mouth
 974,3.83,217,55.71,https://magiceden.io/item-details/2hpPjc9RCnN8eTbUBnUaEfQRYzrg9Jzce9kDkk5VQ9x9,Scorched Grey,Spade,Dark Green,Winter,Demon,Smirk
 977,0.434,457,82.49,https://solanart.io/search/?token=8SrWwB9gmew6i6Lz47Xra69FYGeSQ7i5LmpuieroXQd1,Solid Orange,Headphones,Pink,Beret,Standard,None
 979,3.9,216,55.04,https://magiceden.io/item-details/H1DzPdBQya2wQQCBYNrSmw7pnXr2QPb4snXvZTVri8wn,Wave Grey,Vase,Purple,Beret,Standard,None
+980,0.4,580,79.15,https://magiceden.io/item-details/22puophM6YxKKU8vZw6AeEhuzTAXA9qjJ1Xtd57JrThP,Wave Pink,Alien,Grey,Halo,Portrait,None
+981,0.6,256,86.84,https://magiceden.io/item-details/5oB4jE4tow2Cgxi5Gf3yvMoHdpzEmEcS5YsovLqEj4zx,Solid Green,Button,Orange,Sombrero,Hooded,Mask
 985,2.5,629,56.68,https://magiceden.io/item-details/CoBvRzqcWPu4Hb6wpL6DZwrrLHEXTVPDXFVjAdBmu5EQ,Scorched Grey,Rook,Red,Winter,Demon,None
 988,1,305,81.38,https://solanart.io/search/?token=KuofEg1ovscGyLa6FvJRNkh5TSSoFAvZ5ZcrR1Ccuiz,Scorched Grey,Pharaoh,Dark Green,Priestess,Hooded,None
 994,0.07,349,89.36,https://magiceden.io/item-details/DthuWDep9ZdRHJqbkcxXduSntKnxvyHeH8Suzdkv4LPv,Solid Blue,Spider Grey,Yellow,Cap,Demon,None
@@ -298,6 +303,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Chest,Eyes,Hat,Model,Mouth
 1094,6.67,355,23.18,https://magiceden.io/item-details/G7ENWX37p3BqsLsEmGybzUpkQkxuhz1xJdAgcqms91jQ,Rainbow,Yin Yang,Dark Green,Monkey,Standard,None
 1102,0.1,776,76.28,https://magiceden.io/item-details/HT2CjwvfLLsXYihfVbd9x3hjh4CmKesiYkfUcw8tMxVU,Solid Blue,Heart,Pink,Winter,Standard,None
 1103,0.8,1173,57.41,https://solanart.io/search/?token=GkktUv5yqR4PPg2hNPaPKj6fupRU7yAkjizXupWtNYn8,Solid Grey,Alien,Dark Green,Bowler,Hooded,None
+1104,0.5,403,83.44,https://magiceden.io/item-details/BPfuQVBDNRXkDbk9xS2qM3yKdYiNV4BYnSntWV6Jz7gu,Scorched Grey,Headphones,Black,Explorer,Hooded,None
 1107,1.75,1275,44.85,https://magiceden.io/item-details/FKzjWE7497G6KKJhn8Ee3jtSa6NamNi44YBQUN9H3BqG,Solid Blue,Spade,Dark Green,Goggles,Long,None
 1108,1,470,76.44,https://magiceden.io/item-details/2rQcaf5FFC7i7821TjsFYQXoJFpda78kBbVw2PDr7T2f,Spider Web,Banana,Dark Green,Goggles,Demon,None
 1109,0.112,1008,69.22,https://solanart.io/search/?token=54PG4q4Qv5ArujzC3HR3rA6ZejGVLpCqPmuTjFFsS9Hz,Solid Blue,Crystal Ball,Brown,Bowler,Portrait,None
@@ -311,6 +317,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Chest,Eyes,Hat,Model,Mouth
 1133,0.8,137,88.4,https://magiceden.io/item-details/G9y5VFDCVdaEnGwrWEnVcCvwL8ZnhTN5x1Csxjwu9pEG,Moon Black,Banana,Purple,Winter,Standard,None
 1136,0.161,815,74.51,https://solanart.io/search/?token=8VaAkgnpgD6XYy2As3TN9osnbCYPU82xT2ZmauKhNSe4,Solid Purple,Talisman,Grey,Bowler,Long,None
 1143,0.3,746,75.18,https://solanart.io/search/?token=Girp372mMjHKRGthJ6nS3vZ5mWuTHm538gWypjv6yzVd,Wave Brown,Bow Tie,Brown,Headpiece,Portrait,None
+1148,0.4,660,76.75,https://magiceden.io/item-details/CysAWXCihfkejtrU3zJyTW76v773FVQatcPNq63ygiC1,Solid Blue,Banana,Turquoise,Goggles,Portrait,None
 1150,0.5,1069,63.52,https://solanart.io/search/?token=8YZv6bx8StLuTZzy12wmemBNeetp6KRSWTbywrE8w3BH,Solid Green,Hourglass,Black,Tiara,Demon,None
 1151,0.08449,521,84.07,https://solanart.io/search/?token=C8UmYacMh718LzCjcGBy82XR3zjgqMB64NRQKRCSRoti,Solid Grey,Doll,Turquoise,Explorer,Demon,None
 1155,3,1293,31.82,https://magiceden.io/item-details/1Sv36niwRGqxaNzeWAXWpJTe4XySwLVYXC7ByGYKDkz,Solid Pink,Yin Yang,Brown,Beret,Hooded,None
@@ -324,6 +331,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Chest,Eyes,Hat,Model,Mouth
 1171,1,1242,53.34,https://magiceden.io/item-details/8dvdj9PSZXP4DXkAFDt8ujifyw5dr2y9onvM2J51dyec,Solid Pink,Rice Ball,Blue,Headband,Long,None
 1172,0.38,544,80.42,https://solanart.io/search/?token=HbTtoN5MctGBoL15YJW4Ajh7pUJRJAP5p2Wx3gar3Z4C,Wave Red,Rook,Dark Green,Chullo,Standard,None
 1173,7,1061,0,https://magiceden.io/item-details/Cx4CH5JejVcAd9pw1am3vTN7ALuiinpc1azYu8V2aQNm,Solid Pink,None,Pink,Sombrero,Demon,None
+1174,0.45,1095,63.24,https://magiceden.io/item-details/J7pJDRLHKHWCtfhSScZqqRCGFhKaKzp2ue2iNaXbw8pV,Solid Pink,Button,Orange,Winter,Long,None
 1175,0.379,133,92.73,https://solanart.io/search/?token=GEpt8mEZRViUoNCHSygmbnZErcGXzG7TZpttc1yZ3uaN,Desert,Diamond,Brown,Beret,Standard,Smirk
 1180,1.1,306,80.35,https://solanart.io/search/?token=3YVcgzoV6bnr45n3mgQsvcsicxbPSyCQda3Hz5FPWkif,Jungle,Rice Ball,Yellow,Priest,Long,None
 1183,12,876,0,https://magiceden.io/item-details/HXrnhEP5tHfCBDLfQnvzBLQ8jutmMBSFiYfyDhnLvKkR,Solid Grey,None,Blue,Egyptian,Portrait,None
@@ -373,7 +381,9 @@ id,price,moonRank,💎 score (%),storeURL,Background,Chest,Eyes,Hat,Model,Mouth
 1305,5,111,47.18,https://magiceden.io/item-details/pCTF4rvwRsAFsYEqpN3J7Y6Yr1iSPnTGTtT2oT9FY8K,Solid Blue,Rice Ball,Light Red,Explorer,Long,Smirk
 1308,66,245,0,https://solanart.io/search/?token=4Wc6XogYmGBemnAj1mSGRLsKKoChzSKrkqEk1xxBCidA,Solid Grey,Banana,Brown,Sombrero,Long,Smile
 1310,0.49,878,69.33,https://solanart.io/search/?token=G5jPiGCrgvbCp1aXujd5kzyjhCZDhiAdpATQxt7ToArP,Solid Pink,Banana,Black,Priest,Long,None
+1315,0.58,1273,56.61,https://magiceden.io/item-details/FxxCgv1etdiAxAZZe4ThG3YjV5epnZSdz4njhT6FT8Ro,Solid Black,Cross,Brown,Rice,Standard,None
 1320,0.4,615,78.1,https://solanart.io/search/?token=6x51Afje2bdJiHFVs73BjnTdXZpeFZbBdx84fmjNqqTg,Scorched Blue White,Spider Blue,Black,Headband,Portrait,None
+1322,0.4,1323,56.92,https://magiceden.io/item-details/Ccfqbtbd45Nfq7PYkWVortwKZ9gb57g1Z2t8ApnwprF5,Solid Green,Hourglass,Brown,None,Hooded,None
 1325,0.12,259,91.55,https://magiceden.io/item-details/7qpWiCCC3Y3g4LT4ckJPKDJR7G7HyzmxxyQjbo8K6tk7,Solid Grey,Rice Ball,Yellow,None,Standard,Smile
 1328,0.49,113,92.22,https://magiceden.io/item-details/6VSrMd6ZDRxqNTi8hEttaRjkszXhrfVCeSYUkmuaLD8N,Solid Green,Gravestone,Dark Green,Tiara,Portrait,Cigar
 1329,0.16,427,86.13,https://solanart.io/search/?token=DeUTAUfAiydU3TSiz1TbKWqcc9ojnYfrBZtL9WCHjLB1,Wave Blue,Cauldron,Blue,Bowler,Demon,None
