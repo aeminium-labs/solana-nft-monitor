@@ -1,6 +1,5 @@
 id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Eyes,Eyewear,Helmet,Mouth,Skin,Teeth
 0,0.7,3985,59.94,https://magiceden.io/item-details/GuTGdif6rasgbvhs2hxPRpuCQQW1KF8w8QbwhL8ZM8gr,Silver Earring,Purple 1,Red,Sun Glasses,Chef,Gum,Brown,None
-4,5,3791,18.66,https://magiceden.io/item-details/H5GDUu5NAw84koxayiotjJ1LQvnDKBsuvUmij6GSJWbr,Gold Earring,Sky 1,Red,3D Glasses,Captain,Gum,Brown,None
 5,0.66,3946,60.69,https://magiceden.io/item-details/7C6rYju7undbPNSFr9g9UfKTA1XhLDntU44ntLPja3bi,Silver Earring,Purple 1,Yellow,White Sun Glasses,Glass,Gum,Red,None
 10,0.99,2457,70.64,https://magiceden.io/item-details/4nem569BLJLPrjeqVEuxdmsQwsNnDmo2ntq9v3rSdQuo,Silver Earring,Sky 1,Yellow,Sun Glasses,Glass,Banana,Gold,None
 30,1,2424,70.83,https://magiceden.io/item-details/8m1Aa8oozgW1RxKbU1oaZPTa4PHZyiqfFcCwCaZxUQ4o,Silver Earring,Rose,Green,Clear Goggle,Pilot,Banana,Cow,None
@@ -76,6 +75,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Eyes,Eyewear,Helm
 557,3.5,2645,43.86,https://magiceden.io/item-details/Dcx9C2eGnY499K8YZJnscBeQLAotH5fSP47mThbYzN5B,Silver Earring,Blue 1,Rainbow,Pixel Glasses,Chef,Chocolate Milk,Purple Red,None
 563,2.1,4453,41.77,https://magiceden.io/item-details/FZq6B1Tt3afKckZBtjus1xEvzn3z8z7Jb38hNDi2tXAr,Gold Earring,Mint,Yellow,Pixel Glasses,Glass,Gum,Blue,None
 569,0.75,3264,65.85,https://magiceden.io/item-details/z1tyDbgriQDvwUt1okL8SzbUhcw5kwsLzpChHLhjzaf,Silver Earring,Lime 1,Green,Sun Glasses,Broken Glass,Soda,Coffee,None
+570,2,156,81.01,https://magiceden.io/item-details/6MWY8x4MkfztfzrUhfo8TjAYRGhoP1naWzZoEkDXwbpC,None,Cerulean 1,Closed Eyes,Sun Glasses,Fast Food,Saliva,Sky,One White
 576,2,4063,46.24,https://magiceden.io/item-details/HgtazML6PVKMShv6RPpksDyxoPNiwWoHHi4yNj9KkccL,None,Rose,One Blue,None,Headphone,Banana Milk,Purple,None
 581,0.49,3502,66.34,https://magiceden.io/item-details/D9xd1WtqNCD1rM1ziVx8rWkzpRAwNeXfPwSpSv3XBkff,None,Peach 1,One Red,None,Chef,Chocolate Milk,Orange Blue,None
 583,2.5,3546,45.84,https://magiceden.io/item-details/FjUCwKkxrabJhPdr5ThvUkPV3kte8XK4jquDAHSfNW3W,Gold Earring,Lavender,Blue,Pixel Glasses,Sticker Boom,Baby Bottle,Brown,None
@@ -140,7 +140,6 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Eyes,Eyewear,Helm
 796,0.75,1219,84.05,https://magiceden.io/item-details/6pDsGhztJZXfq1wiq6QXsYBdxktPmNzGwDU71ZGCAjX8,None,Rose 1,Red,3D Glasses,Broken Glass,Lollipops,Yellow,Three Gold
 797,0.55,834,89.48,https://magiceden.io/item-details/HmUGZaC6JCbzhvJUxpKV8XECpPT1ZYcudvjYfY2XFHhR,Bone Necklace,Mint 1,Red,Sun Glasses,Police,Banana Milk,Pink Blue,None
 800,1.03,1437,79.31,https://magiceden.io/item-details/GAbj7Qy2Ya4GkVgLVPC4BP36nAGRBdUTDiX6DSTRNMNH,Gold Earring,Cerulean,One Green,None,Ice Hockey,None,Purple,Two White
-802,5,2022,34.41,https://magiceden.io/item-details/4Yv7CKwtxhcWQ8NGJZAtPKE6YCscg2jYQw8eQXvaY83U,Gold Earring,Lavender 1,One Red,Clear Goggle,Bear,Pizza,Purple,None
 806,4.3,495,55,https://magiceden.io/item-details/6f3CD2UfVK7y4kWhmCuBhUAbcHaMVjNvUahoPN2ZmozX,Gold Earring,Lime,Star,Clear Goggle,Fast Food,Lollipops,Green,Two White
 812,0.3,4394,60.3,https://magiceden.io/item-details/GKPW6XQ1Rx3v61tzzok842ypMZjP19V3efjhMs8cAsMX,None,Purple,Blue,None,Broken Glass,Banana Milk,Blue,None
 822,0.87,2746,69.26,https://magiceden.io/item-details/Fj8jmRkPzi35CP8rrHtQJXbuiXVQeKQhjRjs5sS3qGv7,Gold Earring,Peach,Blue,None,Glass,Lollipops,Blue,Three White
@@ -171,12 +170,14 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Eyes,Eyewear,Helm
 919,1.6,3359,56.51,https://magiceden.io/item-details/2BVtCPyghYbfNPTnGPuSDRSTY1KJtpTtLf3T6XidKECQ,Silver Earring,Yellow 1,Blue,Sun Glasses,Chef,Banana Milk,Olive,None
 923,1.2,1755,74.78,https://magiceden.io/item-details/GGRWJwFQ86z1idhf2JNdWQsE59tpHCovonmob5VEBgce,Silver Earring,Violet,One Star,Pixel Glasses,Leaf,Chocolate Milk,Red,None
 924,1.5,362,84.18,https://magiceden.io/item-details/FG9t2WCPeKt2XF7SkYDW5mWCy3WfvB1ErBoBZUCVky3M,None,Yellow 1,One Blue,Pixel Glasses,Sticker Boom,Bone,Multicolor,Two White
+927,0.69,1602,81.24,https://magiceden.io/item-details/ATdyopNAvPkzqiqKRkj2agfd1Pj9EEwCnvmfpkJ4XTCr,Silver Earring,Cerulean 1,Red,None,Baby,Lollipops,Yellow,Three White
 932,2,2484,60.3,https://magiceden.io/item-details/H2Vjof1yyt4Tio9gqGfZ3g8X5gyayjtwQ6EgiRFcxuCS,None,Rose,One Yellow,None,Glass,Pacifier,Multicolor,None
 934,2.4,836,70.96,https://magiceden.io/item-details/AbFpcQD3pW92XDB1cSN94ho1NS7VVrmwMe5FQK7jx7MS,None,Violet,Green,White Sun Glasses,Pilot,Lollipops,Black,Two White
 935,2,340,79.37,https://magiceden.io/item-details/GUMRkA7euvaND9zVF24Z9PtDR9hmMju5S1Jwfqisk9sR,Silver Earring,Cerulean,Green,White Sun Glasses,Tiara,Bone,Black,One White
 944,2.4,1431,65.67,https://magiceden.io/item-details/A1dcwf51frQrVqF28M7QyqQ2NdQAV85DmcEHXMbChTxK,Bone Necklace,Lavender 1,Yellow,None,Fireman,Pacifier,Blue,None
 945,40,967,0,https://magiceden.io/item-details/HyEejZZ216SVwPdrYDLm1VeBfdcsWYRhvne19bVYmhnC,Silver Earring,Rose,Red,None,Headphone,Gold Bone,Cow,Three Gold
 946,2.2,3987,44.92,https://magiceden.io/item-details/AytV1GeUqvigTjuFuWefkJ1A66hQhdtDSEDZCHWNT9ga,None,Lime 1,One Red,None,Headphone,Banana,Olive,None
+947,0.9,1567,79.46,https://magiceden.io/item-details/QudGGLVEntfkFjwhUGbNvah9c1VkEbWr1S6EWxEu1Sx,None,Lavender,Star,None,Broken Glass,Saliva,Blue,One White
 948,2.99,2011,54.6,https://magiceden.io/item-details/AKhM1UbPwXGqhzcKqBw5CgUSHFotSF4cHkWwnQcHYoN3,Silver Earring,Pink,One Green,Clear Goggle,Bear,Banana,Black,None
 952,2.5,4294,39.19,https://magiceden.io/item-details/AphbGfUfHUAHFrq1q1Arw9NNWk4HcLbyjhf6rQWVZrQA,None,Rose 1,Yellow,3D Glasses,Glass,Gum,Olive,None
 953,10,285,0,https://magiceden.io/item-details/BaHCbSzcVCvJSQSrYGBm729gAcU2dgWwdZHJpgByKfMa,Gold Earring,Peach 1,Red,Pixel Glasses,Santa,Bone,Leopard,Two Gold
@@ -222,7 +223,6 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Eyes,Eyewear,Helm
 1111,1.55,2268,66.72,https://magiceden.io/item-details/Fe7MtAA7oArQZ9oMDBhs5o7bkKFkdNrvwRyYUY6eQakh,None,Lime,Green,None,Angel Ring,Chocolate Milk,Purple Red,None
 1122,4,590,57.15,https://magiceden.io/item-details/2LhZhtmgj1jDPJkP3Y5jzv4TdX31Zgf13Y4CzfpK59mw,None,Blue 1,One Gold,None,Crown,Soda,Green,None
 1128,1,2606,69.21,https://magiceden.io/item-details/7eGcLJyhroLBSfgHpEF4vUAvEgq2k1Nbgb1dL49xm7nf,None,Mint 1,Green,Pixel Glasses,Baby,Chocolate Milk,Orange Blue,None
-1132,5,2165,33.13,https://magiceden.io/item-details/Dnk5mf6N3P4P5PVDRkfU4YTAC67RB19TzwURwm6yka3K,Silver Earring,Pink,Yellow,Clear Goggle,Tiara,Chocolate Milk,Yellow,None
 1135,1.8,536,79.63,https://magiceden.io/item-details/2qiM9MvPAis1YG8teYErmyoGPjUAVWAEBXQRLFwQooMZ,Silver Earring,Rose 1,One Gold,Pixel Glasses,Santa,Baby Bottle,Yellow,None
 1138,0.278,1943,82.33,https://magiceden.io/item-details/23wJo9rifK7CW9DNR2dRMbB1SwwNa5EqQPUfCg8EhWpA,Silver Earring,Yellow,Blue,None,Police,Saliva,Brown,One White
 1163,1,2768,67.77,https://magiceden.io/item-details/DdANvGHUzziYkGFbpvhdyDFjcix6fLU2iTWWj8fsbzHe,Silver Earring,Violet,Red,Sun Glasses,Pilot,Gum,Cow,None
@@ -239,7 +239,6 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Eyes,Eyewear,Helm
 1221,199,4,0,https://magiceden.io/item-details/F9YBDh633cRchzNdSvgoJLapsvM9RdX8LfbCzmVkZDoE,None,Pink 1,Blue,Solana,Crown,None,Solana,Single White
 1224,5.5,90,46.6,https://magiceden.io/item-details/E9HEbVcYvUpbH8KErqaQfzcEbnsUkAwyptbJEEXGVpCF,None,Rose 1,One Yellow,3D Glasses,Glass,None,Orange Blue,One Diamond
 1232,3,1715,57.14,https://magiceden.io/item-details/EKLAJkigeLnHWKUa2HTHspLpPvKgewbxnBYP22ycZxhB,Gold Earring,Pink 1,Blue,Pixel Glasses,Crown,Banana Milk,Yellow,None
-1238,5,1604,38.13,https://magiceden.io/item-details/FVtKJhom6s7Q5KwoQAQ4iXLEZR98VDSFnrz8UJzwvHx8,Gold Earring,Purple 1,Blue,Pixel Glasses,Leaf,Saliva,Purple Red,Three Gold
 1240,2.9,80,72.69,https://magiceden.io/item-details/FyzhxBcYqrpnxyQBCpJBVtfJgQopGLFj4jmvcB7GngjU,Silver Earring,Yellow,Closed Eyes,Sun Glasses,Captain,Gold Bone,Black Gray,One White
 1243,2.55,2587,53.88,https://magiceden.io/item-details/8F7BJkvsbBoCFzNX2EaeJnMMF1zCtbhDaFafCevKdDXR,Silver Earring,Mint,Red,White Sun Glasses,Chef,Pizza,Olive,None
 1250,1,2378,71.24,https://magiceden.io/item-details/CWWpDzPMheiue6cWRoGpujUdcGRcXBLqvJqc3pFxhPs3,None,Lavender 1,Red,None,Leaf,Lollipops,Olive,Two White
@@ -258,7 +257,6 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Eyes,Eyewear,Helm
 1293,0.5,1481,84.22,https://magiceden.io/item-details/6qpXvjTihnoRYxNuFLHhq7EBMVRR97Atvu22CsXXqaEj,None,Lime 1,Blue,Sun Glasses,Chef,Lollipops,Purple,Three White
 1294,2,2575,59.49,https://magiceden.io/item-details/GuCJC9ZYqF4gU1gSVPjgyiGVQUUos14p9NTsE6Xkh8Ad,Silver Earring,Sky 1,Blue,Pixel Glasses,Fireman,Soda,Solana,None
 1297,2.2,4380,41.42,https://magiceden.io/item-details/5HhjUo3xYrcQrz9pTP7QaoBvWtq2bXFasNm5Zmsxg6qW,Gold Earring,Cerulean 1,Red,Clear Goggle,Glass,Gum,Olive,None
-1300,5,1067,42.91,https://magiceden.io/item-details/HxTppouCreNDH5GnBD2xtHoCCyjDHTbvA3pW5DgM11vX,None,Mint 1,Blue,Sun Glasses,Baby,Gold Pacifier,Solana,None
 1302,2.3,2276,59.15,https://magiceden.io/item-details/CwuyUdWsgSy1Tc5vY7EMVgETUd8266DmWSb8JFoqbrnz,Silver Earring,Mint 1,One Yellow,3D Glasses,Chef,Banana Milk,Cow,None
 1304,1.5,1232,76.44,https://alpha.art/t/7nYWFfUUZoHL4TBSRd8cNuJ8jDcikzrpizst77MdKiSw,Gold Earring,Cerulean 1,Green,None,Sticker Boom,One Lollipop,Purple,One Gold
 1307,6,16,42.26,https://magiceden.io/item-details/3AVbtz6uvYg9WNNTPMQmpeNsWgdq6vr3kSG4dpZrAD3H,Gold Earring,Blue,Zombie,Clear Goggle,Tiara,Zombie_Mouth,Zombie,Zombie
@@ -338,10 +336,8 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Eyes,Eyewear,Helm
 1555,4,187,60.74,https://magiceden.io/item-details/3KWq35AEuQCQ4kh75jzTQw38fXst4EZc9cMmtCqb6fCX,Silver Earring,Banana,One Green,Solana,Leaf,One Lollipop,Olive,One White
 1561,1.5,375,84.06,https://magiceden.io/item-details/CzjcpYV7sNtPPGfB5GymPkP79AyV3dET58HxQQdJHqwe,None,Yellow,One Star,None,Chef,Saliva,Black,Three Gold
 1564,0.7,1633,80.87,https://magiceden.io/item-details/4kPK8tjqnHUvPomwEdNK8BK6jTyVF3K2LE5CbuQFS9bc,Silver Earring,Peach 1,Gold,Sun Glasses,Chef,Gum,Sky,None
-1566,5,771,45.54,https://magiceden.io/item-details/FMknT1nxVWUukpkAobc8uKcNSwTLqXfAywgKT8yj25DE,Silver Earring,Peach,Star,None,Chef,Bone,Purple,Two Gold
 1570,1,488,88.06,https://magiceden.io/item-details/95Neb1PV2vzBasw9gtfzdDQL9qEHMdyBcSvxGVNL3Zcn,Gold Earring,Mint 1,Blue,3D Glasses,Leaf,One Lollipop,Orange Blue,One Gold
 1571,2,4094,45.97,https://magiceden.io/item-details/2DQBCZrfzvXXUQ3wKd2bJwZ6GUhY24xmXiohjPQr3CmN,None,Lavender,Red,None,Headphone,Baby Bottle,Purple,None
-1578,5,2681,28.54,https://magiceden.io/item-details/47XjjWsCYnQKHkkphaH1HxieZKGKNQAL6itpkYgS3FXx,None,Lime,One Green,None,Fireman,Chocolate Milk,Pink Blue,None
 1579,4,3977,27.01,https://magiceden.io/item-details/94VdiX14QAKz2669NthXLqhDp5FFhYA9rfJTQ3C6QTJR,Silver Earring,Purple 1,One Yellow,Sun Glasses,Glass,Gum,Blue,None
 1583,0.36,781,91.85,https://magiceden.io/item-details/37jxh2qYoiJ1nuYAspDqiqWuEd4gM2WTdMRjSEQp5n84,Gold Earring,Violet 1,One Red,Pixel Glasses,Fast Food,Lollipops,Yellow,Three White
 1584,3,2136,53.39,https://magiceden.io/item-details/CYH4qCD8xnCd7PQ4NmMnnDS2ezeJZFYnM4wByaq2686j,Silver Earring,Mint,One Green,None,Glass,Saliva,Brown,Three Gold
@@ -503,7 +499,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Eyes,Eyewear,Helm
 2283,2.5,461,73.3,https://magiceden.io/item-details/F4kBp3AWvVDZ4a7LQToTsb6cwoKqW9nWBBJZ7SGPV64f,Silver Earring,Yellow,Star,3D Glasses,Police,Bone,Green,Three White
 2287,1.5,594,82.11,https://magiceden.io/item-details/CxGPkuKo9QiWUq2N1Vcb2ckQUtREWTM2Sv4ixNdDmkGV,Gold Earring,Banana 1,One Blue,White Sun Glasses,Tiara,Pacifier,Black Gray,None
 2298,0.3,730,92.9,https://magiceden.io/item-details/HcK2DHss4UYm3Ee1ZwwQYWKzqBrCNr3WHnWDgAjdsUqr,Gold Earring,Mint,One Green,3D Glasses,Leaf,One Lollipop,Sky,One White
-2303,0.4,2689,74.47,https://magiceden.io/item-details/9q9qAMAusNVppgdNayYDePVZitDjyf7NjHomsKZxNJy7,Silver Earring,Blue,Yellow,3D Glasses,Police,Gum,Pink Blue,None
+2303,0.3,2689,75.47,https://magiceden.io/item-details/9q9qAMAusNVppgdNayYDePVZitDjyf7NjHomsKZxNJy7,Silver Earring,Blue,Yellow,3D Glasses,Police,Gum,Pink Blue,None
 2304,0.54,2593,73.93,https://magiceden.io/item-details/HirmHokNGSZ2TJwrgTG12W8AsYMaeHJ6jYN9NHt88Byw,None,Yellow,Rainbow,None,Ice Hockey,None,Green,None
 2314,1.5,3039,60.36,https://magiceden.io/item-details/9eapjDH8J75p3fUmNt5LfeukLTiRL9nWNtXZ4pEGHqgz,None,Sky,Red,Pixel Glasses,Santa,Banana Milk,Purple,None
 2315,4,3162,34.26,https://magiceden.io/item-details/Cdfy8tk3YiLeGfeXMVvMVxjVB16NpAtHBdWA85Yk8Ea2,None,Lime 1,One Blue,Clear Goggle,Leaf,Banana Milk,Black,None
@@ -655,6 +651,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Eyes,Eyewear,Helm
 2979,1.5,1583,73.31,https://magiceden.io/item-details/8h1BwSV4e3bduVxnwiC8NWAi4JG3SxHvCDJ82gaXGjU9,None,Yellow,Red,3D Glasses,Angel Ring,Banana Milk,Black,None
 2986,0.75,2353,73.96,https://magiceden.io/item-details/BDDnYoX4J9Yk3bNiiMTB3tKmaWeenbrcnCxWMXbEazaQ,None,Rose,Blue,3D Glasses,Baby,Baby Bottle,Sky,None
 2995,0.5,3326,67.8,https://magiceden.io/item-details/7V75nhoF1pNwK7bdLAqNMpNLNLjMhqjAoAqxpZXMcAWS,Gold Earring,Rose,One Yellow,Sun Glasses,Chef,Gum,Olive,None
+2999,0.88,4119,56.95,https://magiceden.io/item-details/FotxtEJVt8VMsWtHkwRnGKTiGaYfZaNvUFjewjnQTwRR,Silver Earring,Rose,One Red,None,Headphone,Chocolate Milk,Red,None
 3000,1.99,231,80.44,https://magiceden.io/item-details/EStY9k291bhz1u5KhUGD8SbSFDWwA8YNWUaWW4UGhE79,Silver Earring,Rose,Star,Sun Glasses,Tiara,Lollipops,Pink Blue,Two White
 3001,2.5,3884,42.84,https://magiceden.io/item-details/8xgxmUYenMpN9sFkpojhfjfeboQ8NPqQ4ApEstjjoTCK,Silver Earring,Lavender,One Red,None,Headphone,Banana,Purple,None
 3009,1.25,237,87.79,https://magiceden.io/item-details/FncyYznmWuT2YcRXB7bi5METSTukfB6BxP5LrMm3oKQ6,Gold Earring,Mint 1,One Blue,White Sun Glasses,Santa,Lollipops,Albino,Two White
@@ -679,7 +676,6 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Eyes,Eyewear,Helm
 3068,4.9,491,49.03,https://magiceden.io/item-details/ESRiS5w9XT39B7oMArUcUrYapG2TBxVFVJqorQWAjVp9,Silver Earring,Violet,Gold,Sun Glasses,Tiara,Banana Milk,Orange Blue,None
 3083,1.1,1636,76.84,https://magiceden.io/item-details/Eyi12kTZuathh3aQAafx61JRawb1tnMCqFtZXZXA5Jn2,None,Lime,Green,None,Ice Hockey,None,Rainbow,None
 3085,4.5,925,49.17,https://magiceden.io/item-details/9tenCHj2pd1deXQ2Ect4XDvbbzwbkth7dNRb3pZZhvQz,None,Blue 1,Rainbow,Solana,Glass,Pacifier,Olive,None
-3091,5,3892,17.77,https://magiceden.io/item-details/DGU1qRZEQyxzgjZTHkNtpDEXSKPGQfBxvWjiwDJueDnH,Silver Earring,Peach 1,Red,None,Fast Food,Banana,Brown,None
 3092,1,1131,82.34,https://magiceden.io/item-details/3hj8Td1y7QXCcyJRV8DXpicCqDX99Lta27QBK7Vm9ZxB,Bone Necklace,Banana 1,Green,Pixel Glasses,Bear,Banana,Red,None
 3094,1.2,717,84.02,https://magiceden.io/item-details/CAK16YsL7FQUNtmBsUvSVGFc5o6MbDW6eV4a6FPJ6FUJ,Gold Earring,Mint 1,One Red,None,Baby,Lollipops,Leopard,Three White
 3106,2.2,1148,70.18,https://magiceden.io/item-details/Hu4hgCj1FgRAx2QSx3887eYg24vJiYjpX7KDmbn6Viyi,Gold Earring,Blue,One Green,Pixel Glasses,Glass,Bone,Olive,One Gold
@@ -780,7 +776,6 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Eyes,Eyewear,Helm
 3488,12,2731,0,https://magiceden.io/item-details/G3uAmWs2fjsrgczwDhibHhfa68RaUm17c55Y7PJ2G6ZU,None,Violet,One Blue,Sun Glasses,Broken Glass,Baby Bottle,Purple Red,None
 3489,1.98,899,74.6,https://magiceden.io/item-details/FAG6wyzasbKBxJs6haxM2JGMw6kuFyDgVzAQkoLBNPPB,Gold Earring,Banana,One Green,Pixel Glasses,Broken Glass,Bone,Brown,One Gold
 3490,0.352,4202,61.49,https://magiceden.io/item-details/Bu4Sv68VFdovw3VGBgKL7rGVJQ4Hxyw8K2UTdaZKQS9F,None,Rose 1,Yellow,3D Glasses,Glass,Banana Milk,Brown,None
-3493,5,897,44.42,https://magiceden.io/item-details/52UYsddv8qGTVb4ZcrrzJbMYmApNBKDQttzsWQtrJDAn,Silver Earring,Rose,One Green,Sun Glasses,Chef,Bone,Brown,Two White
 3502,10,2279,0,https://magiceden.io/item-details/A7LpSgwFF7v1Bqg4LtvzGSVcVTvfsfxw3BwsjnRsC1Xs,None,Violet,Blue,White Sun Glasses,Leaf,Soda,Pink Blue,None
 3507,5,3674,19.71,https://magiceden.io/item-details/FdCBwgzoSybbMqvbt71WSEGU4H9pg12csgzRf7R7ebgj,Gold Earring,Mint,One Red,Sun Glasses,Glass,Chocolate Milk,Yellow,None
 3510,3,3882,37.85,https://magiceden.io/item-details/2HpDJzagb9DRwouqdPWseKjFx1FH2JuRz9dWarG7styo,Silver Earring,Lavender,Red,None,Tiara,Gum,Sky,None
@@ -856,7 +851,6 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Eyes,Eyewear,Helm
 3779,0.399,2641,74.91,https://magiceden.io/item-details/6eUqfGgT5MmEPKTpXkBGg9wKCFuU5fDTsqzKyoJHcUA,None,Lavender,Yellow,Clear Goggle,Captain,Banana Milk,Coffee,None
 3784,0.65,2512,73.55,https://magiceden.io/item-details/D4V1ryVkz16TqGhr2cFVNvdgPFPHCoEhGzBziR19CkHW,Silver Earring,Lavender 1,One Green,None,Headphone,Banana,Multicolor,None
 3798,0.75,3516,63.61,https://magiceden.io/item-details/9MXmssZaurQwrWtiYU1CWQDPvxiXD2PbYqVDSZuXKjdd,Silver Earring,Peach,Blue,Pixel Glasses,Leaf,Gum,Pink Blue,None
-3802,5,3838,18.25,https://magiceden.io/item-details/AAnHhDXvHc3CBDokugLEt1RoAeeDF6cnTZHtMb69v8Ny,Gold Earring,Mint,One Red,None,Captain,Banana Milk,Yellow,None
 3812,2.2,4209,42.95,https://magiceden.io/item-details/7UyXdL9bKTYLZFrS6qcnozFveFTWRuz9nypcH7aHkMkb,Gold Earring,Peach,Red,Sun Glasses,Glass,Soda,Red,None
 3817,1.15,918,82.73,https://magiceden.io/item-details/6jLsCbizk9ztVenvecohVSoz8bo9CDPXA17HnkUoNAAQ,Silver Earring,Pink 1,One Green,3D Glasses,Chef,Lollipops,Purple,Three White
 3821,1,2171,73.08,https://magiceden.io/item-details/DUw6Ln2SED44EpGfPLFggPCmafS7w9UV5vjC99onX4V5,Silver Earring,Pink,One Yellow,White Sun Glasses,Taxi,Gum,Yellow,None
@@ -903,7 +897,6 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Eyes,Eyewear,Helm
 3968,1,2598,69.28,https://magiceden.io/item-details/DWo7arkBiPa488L5uWC5DXKu1dN6zsReXoohq3wkAQhj,Gold Earring,Purple 1,Green,White Sun Glasses,Broken Glass,Baby Bottle,Black,None
 3971,120,166,0,https://magiceden.io/item-details/9V2EVvgdJsJv31NgXS6mPGmu1svP9Yw5bcspcHxmkB9K,Gold Earring,Yellow 1,One Red,Sun Glasses,Angel Ring,Saliva,Blue,Three Gold
 3976,0.5,3193,68.99,https://magiceden.io/item-details/FJf3jyNqjnEm7BBDTBPDuaP5KnEx5ZLmUeyFAyBNUSjk,Silver Earring,Blue,Green,Clear Goggle,Glass,Pizza,Cow,None
-3980,5,4040,16.45,https://magiceden.io/item-details/9yPcNCe44UiTFPprS6veo4ERnvsSrjf98suQKbSRhZQq,Silver Earring,Purple,One Red,None,Headphone,Banana,Red,None
 3981,2,3644,49.97,https://magiceden.io/item-details/3Hi2Voh466WxD3nTmryWKb8yqWLExqrEmnqQ5mjQuApH,None,Mint 1,Green,White Sun Glasses,Glass,Soda,Yellow,None
 3984,7,3440,1.79,https://magiceden.io/item-details/9o9XZYqEjdoxp4WJVDkBcwQPForYUGJn9oUVWEFYEfP6,Gold Earring,Peach,One Green,None,Ice Hockey,None,Green,None
 3986,6.6,630,30.79,https://magiceden.io/item-details/9dkogsZ1Md5fqR7HXsoH8scy2AayvGaW6TCVjrfLvVno,Gold Earring,Violet,Green,White Sun Glasses,Fast Food,Saliva,Yellow,Two White
@@ -933,7 +926,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Eyes,Eyewear,Helm
 4082,7.5,3265,0,https://magiceden.io/item-details/9VrkcZjwMdmEZ4E2KDwPEyqbuGwBQ4rnq51VL4iSqDjv,Silver Earring,Peach 1,Star,Sun Glasses,Glass,Banana,Brown,None
 4085,2.69,296,72.87,https://magiceden.io/item-details/6tqaCrXjHsDqWFTuB3U4jN2iybm8wHmAUSAfsm3vjfxq,None,Banana 1,Rainbow,White Sun Glasses,Leaf,Bone,Purple,Three White
 4092,1.25,2360,68.9,https://magiceden.io/item-details/EyqQXC71ARHipdFgiom6VtgR8wxdAud4viyQFroR7gyE,Gold Earring,Blue,Green,3D Glasses,Sticker Boom,Gold Pacifier,Black,None
-4094,5,67,51.8,https://magiceden.io/item-details/3kVpEnigMWZ5Tah63Wwxthm7tjEXNNyMvPLFpmAuQ7HU,None,Peach,Yellow,White Sun Glasses,Bear,None,Red,Three Diamond
+4096,0.7,606,90.01,https://magiceden.io/item-details/E2hacD7KZzhufwoqHQsX5PqunE5DmVB2NowgdBFnsWWK,Gold Earring,Banana,One Red,None,Bear,Saliva,Black Gray,One Gold
 4099,4,4492,22.43,https://magiceden.io/item-details/BcYoTt5qPwPfoMpFREjB8MzuWSsAeZYet6qnge9Gzi9y,None,Purple 1,Red,None,Glass,Soda,Red,None
 4102,2,3767,48.88,https://magiceden.io/item-details/3L34EAMskC8DmKCWZz6QStG1PDnDWEspicFP15hrKCXa,Gold Earring,Peach 1,One Red,Clear Goggle,Glass,Soda,Olive,None
 4103,5,602,47.04,https://magiceden.io/item-details/3KnUS1MrkYHGQBZnCHFWqT9FbC6fBx2VJnVYEunCBQwN,Gold Earring,Violet,One Yellow,Sun Glasses,Chef,Bone,Orange Blue,Two White
@@ -941,6 +934,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Eyes,Eyewear,Helm
 4114,2.3,4443,39.86,https://magiceden.io/item-details/E7M2DRSRw2E8Tni1zg6w1xiq36TmMLvbSRgADVgdqZuY,Gold Earring,Lime 1,Red,None,Glass,Banana Milk,Orange Blue,None
 4115,5,4410,13.16,https://magiceden.io/item-details/FvSTuBQGZCcrnYZkrWMGiXYfegQ4ijJSQo522YTeuXtT,None,Purple 1,Green,None,Headphone,Soda,Brown,None
 4116,12,807,0,https://magiceden.io/item-details/FrYqEmmeyLngpkqVCWuVgNTu2hr2j3fcn5RehnqzxXnc,Gold Earring,Rose,Green,Pixel Glasses,Captain,Saliva,Black Gray,Two Gold
+4118,2,350,79.29,https://magiceden.io/item-details/BQmUBDTa6bJkjTnUekYfQb2Ho9iDDzqZw9Ttr7saCoLN,Gold Earring,Pink,Star,Pixel Glasses,Sticker Boom,Bone,Coffee,Two Gold
 4121,3,3914,37.57,https://magiceden.io/item-details/12sbazmsNHTTe9qKRgfzAajoamg2x1Ri13BhAKEGNcyf,Silver Earring,Banana 1,Green,Pixel Glasses,Leaf,Banana,Green,None
 4122,3,4332,33.85,https://magiceden.io/item-details/38EU6E8fm8cEMGruPrPY5nadJQrwvD9WnvwYKAC2kEg4,None,Blue,Yellow,None,Headphone,Chocolate Milk,Blue,None
 4129,1.5,2562,64.6,https://magiceden.io/item-details/5YY9A5EtZEoC5sWHSGGXgNu9mK6bRSc8k4neo3teM92N,Silver Earring,Purple 1,Green,Sun Glasses,Taxi,Gum,Solana,None
@@ -986,7 +980,6 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Eyes,Eyewear,Helm
 4325,1.2,2876,64.81,https://magiceden.io/item-details/FMMB4c9HBCEb5B6tDQYtfhpbrgc9dh91JWqQx6hutLe7,None,Pink 1,Yellow,3D Glasses,Fireman,Soda,Purple,None
 4330,1,2522,69.96,https://magiceden.io/item-details/6f8Cm9CsvFE2i8tjzYeq3nFtqHGAMKFQiYvop6x2X1We,Silver Earring,Lavender,One Red,White Sun Glasses,Glass,Baby Bottle,Blue,None
 4334,3,1653,57.69,https://magiceden.io/item-details/66V7TAKzbmUPCLKphgUwrGAVqwv5tFj1dzeKtmBAUoLY,Silver Earring,Sky,Blue,Sun Glasses,Santa,Gum,Gold,None
-4337,5,171,50.88,https://magiceden.io/item-details/FtyKW4vre8LENsnRxVuKricfYTRX1M3Tq8Byh8iMAvvV,Bone Necklace,Mint,One Red,Clear Goggle,Broken Glass,Lollipops,Albino,Three White
 4343,2.19,3574,48.7,https://magiceden.io/item-details/CR5ZrWmJA3ismXx7Gyy38hRDxKW1FUXfXHhyCpjUgPLo,Silver Earring,Blue,Yellow,None,Police,Soda,Albino,None
 4344,4,2501,40.14,https://magiceden.io/item-details/B4etVkUoowFerAGbydkExfz5apWPfHG85PsbqCBN1jSV,Gold Earring,Purple,Red,Pixel Glasses,Taxi,Gold Pacifier,Red,None
 4350,3.5,4376,28.46,https://magiceden.io/item-details/HXWCPJrPMpDHqXBW2YjiqYQe97y8evFkbt6SJQaBPG5e,Gold Earring,Rose,Green,None,Headphone,Banana Milk,Olive,None
