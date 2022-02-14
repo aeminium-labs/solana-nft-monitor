@@ -2,7 +2,7 @@ import {
   readJSON,
   readCSV,
   writeCSV,
-} from "https://deno.land/x/flat@0.0.13/mod.ts";
+} from "https://deno.land/x/flat@0.0.14/mod.ts";
 
 export type CollectionItem = {
   moonrank: string;

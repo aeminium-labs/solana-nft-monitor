@@ -1,4 +1,4 @@
-import { readJSON, removeFile } from "https://deno.land/x/flat@0.0.13/mod.ts";
+import { readJSON, removeFile } from "https://deno.land/x/flat@0.0.14/mod.ts";
 import { addScore, cleanCSV, parseData, writeData } from "./utils.ts";
 
 type Item = {
