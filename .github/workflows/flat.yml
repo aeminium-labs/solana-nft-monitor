@@ -1559,3 +1559,25 @@ jobs:
           http_url: https://reqbin.com/echo/get/json
           downloaded_filename: forgebots__magiceden.json
           postprocess: ./postprocess/magiceden.ts
+
+      - name: cyberfrogs - Fetch Magic Eden data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://reqbin.com/echo/get/json
+          downloaded_filename: cyberfrogs__magiceden.json
+          postprocess: ./postprocess/magiceden.ts
+
+      - name: cyberfrogs - Fetch Solanart data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://qzlsklfacc.medianetwork.cloud/get_nft?collection=cyberfrogs&page=0&limit=100&order=price-ASC&fits=any&trait=&search=&min=0&max=0&listed=true&ownedby=&attrib_count=&bid=all
+          downloaded_filename: cyberfrogs__solanart.json
+          postprocess: ./postprocess/solanart.ts
+
+      - name: cyberfrogs - Fetch Alpha Art data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://apis.alpha.art/api/v1/collection
+          downloaded_filename: cyberfrogs__alphaart.json
+          axios_config: .github/alpha_axios_configs/cyberfrogs.json
+          postprocess: ./postprocess/alphaart.ts
