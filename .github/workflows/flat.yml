@@ -1588,3 +1588,10 @@ jobs:
           http_url: https://reqbin.com/echo/get/json
           downloaded_filename: mile_high_ape_club__magiceden.json
           postprocess: ./postprocess/magiceden.ts
+
+      - name: solanadroidbusiness - Fetch Magic Eden data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://reqbin.com/echo/get/json
+          downloaded_filename: solanadroidbusiness__magiceden.json
+          postprocess: ./postprocess/magiceden.ts
