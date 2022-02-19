@@ -1,7 +1,7 @@
 name: Fetch All Data
 on:
   schedule:
-    - cron: "5 * * * *"
+    - cron: "*/20 * * * *"
   workflow_dispatch: {}
   push:
     paths:
@@ -1581,3 +1581,10 @@ jobs:
           downloaded_filename: cyberfrogs__alphaart.json
           axios_config: .github/alpha_axios_configs/cyberfrogs.json
           postprocess: ./postprocess/alphaart.ts
+
+      - name: mile_high_ape_club - Fetch Magic Eden data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://reqbin.com/echo/get/json
+          downloaded_filename: mile_high_ape_club__magiceden.json
+          postprocess: ./postprocess/magiceden.ts
