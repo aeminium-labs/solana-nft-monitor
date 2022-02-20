@@ -32,7 +32,6 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Eyes,Hat,Mouth,Ne
 662,12.9,2107,46.14,https://magiceden.io/item-details/57Y6Q2iNFrJcDQAvbm9fDrps39svS9LCQGm3aisFnfiV,Red Laser,Green,Normal Back,None,None,None,White,GZilla
 663,17,1166,20.71,https://magiceden.io/item-details/GqmRdpuTepRGcRhzFsLRVgwwRz1xNd6hDQqwhUNRHKY3,None,Full Moon,Green,Duck Gray,None,None,Dark,GZilla
 700,15,2293,22.07,https://magiceden.io/item-details/HGMrjLwQsuervGs4Lo4dPnikmfDbcPNFArGfiYAsEkZR,None,Solana,Normal,None,None,None,Dark,Catzilla
-716,12,1332,67.97,https://magiceden.io/item-details/7krTCcuW4byVt1H5S6a7P6GSruvNnAY59Lbu5wFXcfch,None,Magic Woods,Green,Kong King,None,None,Dark,Catzilla
 717,50,1208,0,https://magiceden.io/item-details/AnnwAw1x8wY4HrWwiBJAvyB4241DVa1D9daLjU4SCGEP,Tron Light Blue,Canyon,Normal,None,None,None,Alien,GZilla
 718,85,1687,0,https://magiceden.io/item-details/2iT1MyfLR3zNsFapq9pBW2E6SHVj1Qas4Q6APXNHmgaY,None,Pink,Dilated,Monke SOL,None,None,White,Dogezilla
 730,21,1084,0,https://magiceden.io/item-details/72HCzS5N4MMXmKsPhMMqyXyAWma4ibBVyvr6ti96RVow,None,Full Moon,Blue,Pengu Brown,None,None,Dark,Dogezilla
@@ -47,13 +46,14 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Eyes,Hat,Mouth,Ne
 945,18,602,20.04,https://magiceden.io/item-details/78paBrGGnvTyWRv2gyNrfMUpXyQoqWUautTBeFVKh5Qm,None,Magic Woods,Normal,Monke Skelly,None,Blue Hoddie,Ape,Monkezilla
 958,25,37,0,https://magiceden.io/item-details/GWAuqeGEgwd7Vb2Hxjq6QNmYKKbYZ9BS4gQfCtiAqiuA,None,Blue,Stoned,Monke Headphones,Cigar,Pink Shirt,Fire,Dogezilla
 969,23,821,0,https://magiceden.io/item-details/EpsE7GSqwXXN18A5KMSTXVNJCWocubCXJozcJUJZf4Q3,None,Rainbow Storm,Green,Bear Gray,None,None,Gray,Catzilla
-975,36,298,0,https://magiceden.io/item-details/XWYzdnFWmv1buLWemTs6Wc524xLZDZ3YM7vSeijFh9Z,None,Purple,Angry,Kong Orange,Blunt,None,Brown,Monkezilla
+975,18,298,25.07,https://magiceden.io/item-details/XWYzdnFWmv1buLWemTs6Wc524xLZDZ3YM7vSeijFh9Z,None,Purple,Angry,Kong Orange,Blunt,None,Brown,Monkezilla
 1003,15,680,48.75,https://magiceden.io/item-details/J55ru8KbwUUw919sM2rww7Apz1kfZcfkKACYHxRCmBGK,None,Red,Normal,Cats Punky,None,Pink Shirt,Shepherd,Dogezilla
 1004,16,790,36.93,https://magiceden.io/item-details/7RRJer5NsfaKneXcc5xRva6WzyXXcssDELnNbmEG2yBa,None,Blue,Blue,Toadz 3D,Piercing,None,Dark Green,Monkezilla
 1007,19.99,198,6.82,https://magiceden.io/item-details/DkmvqQwEEgDE4JNrm71K5CaWDhzP1zTCiivugN9WjED9,None,Pyramids,Green,Toadz 3D,None,Sayan Shirt,Martian,Dogezilla
 1031,24,47,0,https://magiceden.io/item-details/J5gEnjnZeAfEzmXGFaveTd5G7M3NRee71ZpsAUcz9aqU,Viper OG,Pink,Blue,None,Pipe,Pink Hoodie,Alien,GZilla
 1059,13.33,785,63.71,https://magiceden.io/item-details/9bAs1D1Uasre89AMkzMC99J81m27WYb25MifHoKmUnCi,Tron White,Green,Normal,None,None,Yellow Hoddie,Tiger Ginger,Catzilla
 1112,16.9,839,27.12,https://magiceden.io/item-details/3nqyFv24tjazyr1gcy7D9DyBgwR7NjKPRCb9S3Au7ibU,Viper Pink,Uyuni,Stoned,None,None,None,Zombie,Dogezilla
+1115,11,2093,65.38,https://magiceden.io/item-details/6ngLNX6ABWmq3JCjfwWECtKmXgUjix5szHwnttWVu8V3,Tron Pink,Purple,Normal,None,None,None,White,Monkezilla
 1192,69.42,118,0,https://magiceden.io/item-details/2PguZCuqJ1CR7v8y8CxebPfRhuPjtGf7pYKB14mxgpcX,None,Space,Normal,Kong Orange,None,Pink Hoodie,Collie,Dogezilla
 1204,14.9,629,50.59,https://magiceden.io/item-details/BqsiEPE463i81RjrxTnAns1ueMqHoaxL47Lk5npWmzZD,Tron White,Pink,Stoned,None,None,Lumberjack,Dark,GZilla
 1217,17,1097,21.85,https://magiceden.io/item-details/4EB7xPSa6CXqaPLA3g3EZ16QUHM3pywnCJnS9KmGwcpj,None,Green,Worried,Pengu Purple,None,None,Venus,Dogezilla
@@ -92,6 +92,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Eyes,Hat,Mouth,Ne
 1932,17.9,1894,0,https://magiceden.io/item-details/GS1CNTkW3fC4dzEQEciHfkVTsrWGNcz5Y8RvikVf9SuT,Tron Light Blue,Blue,Normal,None,None,None,Milk Chocolate,Dogezilla
 1944,21.5,1641,0,https://magiceden.io/item-details/DonAYVXceJjgBZgDyYE5ZTxjE1EC8vvB1ewiw4NK6B8y,Thuglife Red,Solana,Dilated,None,None,None,White,Dogezilla
 2002,11,2146,64.5,https://magiceden.io/item-details/2XLi1Z6LPTsnAiMFuvFbRUKXouM3ZJZ3gwCyWc8aRFFZ,None,Orange,Normal,None,None,Yellow Hoddie,Green,GZilla
+2008,11,473,92.18,https://magiceden.io/item-details/5L7L8NqhUieJ7joidZnyHUKCsCGGnjTE7vBTfyrJSQWF,None,Gray,Blue,Bear Cyclops,None,Armor,Yellow,Dogezilla
 2031,12,988,73.66,https://magiceden.io/item-details/14SJhq3jZwgEyzTp1QyeXJWVYgciXDF1cPpvQfLiGQEX,None,Blue,Dilated,None,Pipe,Yellow Hoddie,Brown,Monkezilla
 2053,15,547,50.95,https://magiceden.io/item-details/7MFNaC64wGwa4DZj8AJr7fjzPmprsxtfTUa4U2WNdpBf,None,Orange,Normal Back,Monke Red,None,Lumberjack,Yellow,Dogezilla
 2086,15,216,56.43,https://magiceden.io/item-details/CKCmP8QwxLa3gu88nBLrFuED2WH2HjbE2WYyydcy5tK7,None,Magic Woods,Green,Bear Banana,None,Shirt Blue,Vitiligo,Monkezilla
