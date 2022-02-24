@@ -1,98 +1,558 @@
 id,price,moonRank,💎 score (%),storeURL,Face,Feet,Generation,Hat,Outfit,Pants,Rank,Skin,Type
-00220,2.51,4208,57.14,https://solanart.io/nft/64GJ47tiJzb8oBTeh6Tm4NEGRjaxehvj9qurKXhYhyV6,Coolio,Black,Gen 0,Top Hat,Damaged,Chinos,,Pale White,Robber
-00671,2.489,2588,64.49,https://solanart.io/nft/F4kGZE5913yjdzRLmEKh3n7e4XuRBk1qzpRTkC4cNt5x,Nerdy,Orange,Gen 0,Wooly,Turtleneck,Prisoners,,Pale White,Robber
-01057,3.6,3463,49.52,https://solanart.io/nft/22WsG3zxEPrb1d5RYAx4CBk8fMiYzEeiiL3imjXkT6YK,Covid,Black,Gen 0,Fedora,Looty,Black,,Black,Robber
-01903,8,1320,14.98,https://solanart.io/nft/5nJSBrdqfTntR61hSUoaaYGeaoHiCoKJPgwVNnJFHufz,Speedo,Sandals,Gen 0,Top Hat,Looty,Black,,Orange Tanned,Robber
-03158,3.5,1646,58.54,https://solanart.io/nft/D5QpMvLSTodERVqm35K9FrkcPmPvzEDndhGhUjckfn2j,Speedo,Orange,Gen 0,Looty,Ripped,Prisoners,,White,Robber
-03739,1.29,4417,68.42,https://solanart.io/nft/78o3Kcq5vn7H27gaFhLAf9tVkaAmteibh82rfBpcDdWD,Show Off,Sandals,Gen 0,Pirate,Damaged,Chinos,,Dark Brown,Robber
-03745,4,1409,54.58,https://solanart.io/nft/9vVaRcUDKxxEpesDihMPJEkPEt4R289VLumJUJW2Fp9f,Monocle,Black,Gen 0,Zoro,Bloody,Prisoners,,Dark Brown,Robber
-04484,2.1,4997,57.76,https://solanart.io/nft/986hwgezyFLt713gYANyRboqornCC8gKQnLtW2HEBDkZ,Bandana,Sandals,Gen 0,Fedora,Damaged,Prisoners,,Yellow,Robber
-04666,1.5,9068,45.8,https://solanart.io/nft/7KqJEYa4Jzjid2jvNYPNULR7Mi2qwzLjDVyPVbz9s2ck,Bandana,Sandals,Gen 0,Wooly,Normal,Chinos,,Black,Robber
-05093,0.42,3337,81.88,https://solanart.io/nft/4sUfNGeb8dQPAJYVFR5kEe1Sfh8StVQosCin2mMWGPx6,Coolio,White,Gen 0,Zoro,Ripped,Chinos,,Black,Robber
-05938,0.15,6926,68.75,https://solanart.io/nft/HbaBcdogiGQGsPBe88wCUVBqC4uexyDsCFqbANdoRA4m,Covid,White,Gen 0,Wooly,Normal,Prisoners,,Pale White,Robber
-06111,8,3193,6.72,https://solanart.io/nft/HduuKuw7N4nxKr2xnJH9JhKunLKTmXqdb6gG72pCbgZY,None,Green,Gen 0,Fedora,Damaged,Ripped Jeans,,White,Robber
-06881,4,1058,56.13,https://solanart.io/nft/9ZDrSVFDKRvjysARXXiwyS6xJY6C33QKhT8pwA6ft6gZ,Clown Mask,Green,Gen 0,Fedora,Bloody,Jeans,,Pale White,Robber
-06957,1.94,1300,75.67,https://solanart.io/nft/FZZ6JTkSCZTsehGfCkdWVUgMJ925VVsYiYE8qBvgZe2w,La Casa,Black,Gen 0,Top Hat,Normal,Prisoners,,Orange Tanned,Robber
-07173,2.5,6758,45.99,https://solanart.io/nft/4HqHkyYT2ieetQkoaaQEJz422cKfm7ba4g584WNLxBy4,Show Off,Black,Gen 0,Wooly,Turtleneck,Chinos,,Pale White,Robber
-07490,2.96,8543,33.52,https://solanart.io/nft/7ytzXNPq6oKEsPNLLoELU5AFd4v5eBwyQgHz6viDngkf,Balaklava,Black,Gen 0,Wooly,Normal,Black,,White,Robber
-08926,0.8,2663,81.05,https://solanart.io/nft/GZUrtDXJPD9hGhggzqiXpJuYFfnJQzGavoexPUmYonnv,Bandana,Green,Gen 0,Pirate,Normal,Black,,Yellow,Robber
-09420,1.3,1171,82.63,https://solanart.io/nft/DqoY58p1rehi8zGxobiP738i5s6ftzirhy92iusqZS6d,3D,Red,Gen 0,Pirate,Normal,Jeans,,Orange Tanned,Robber
+00220,2.51,4208,58.75,https://solanart.io/nft/64GJ47tiJzb8oBTeh6Tm4NEGRjaxehvj9qurKXhYhyV6,Coolio,Black,Gen 0,Top Hat,Damaged,Chinos,,Pale White,Robber
+00290,0.1869,3522,84.75,https://magiceden.io/item-details/FKzhZ3YyiVc2ogeykNYhn5KTLmb98WacWX9b6KAvshf3,Zoro,Sandals,Gen 0,Zoro,Ripped,Jeans,,White,Robber
+00307,0.25,9904,58.43,https://magiceden.io/item-details/GWRj35f54zxnFVKJmuwiXZzTPSnGBxt3BS52Rfkkk7xd,None,Black,Gen 0,Wooly,Damaged,Chinos,,Dark Brown,Robber
+00671,2.489,2588,65.48,https://solanart.io/nft/F4kGZE5913yjdzRLmEKh3n7e4XuRBk1qzpRTkC4cNt5x,Nerdy,Orange,Gen 0,Wooly,Turtleneck,Prisoners,,Pale White,Robber
+00697,0.12,5740,76.49,https://magiceden.io/item-details/5YGT1JsKgSqZQKHpaD55SEhQnXw16jkYaPbhjW4rzGuh,Covid,Orange,Gen 0,Fedora,Normal,Ripped Jeans,,Tanned,Robber
+00712,0.25,1021,94.18,https://magiceden.io/item-details/7EaUzmpgmZLRJYBLQa8oAq2drswbmhJfpesGoFrmxJS9,Balaklava,White,Gen 0,Top Hat,Looty,Black,,Black,Robber
+00734,0.129,5246,78.39,https://magiceden.io/item-details/6HmKsBJGGBRxHXBruPqmDPkGCgsbgdLCYcJkWwSsLFAc,Covid,Orange,Gen 0,Top Hat,Normal,Black,,White,Robber
+00735,0.2,7795,67.42,https://magiceden.io/item-details/25QdQ9GVHtoThyUXSBLkKRoVWS4LpApQod43sY3eRR7L,Bandana,Black,Gen 0,Wooly,Damaged,Prisoners,,Tanned,Robber
+00755,0.149,9502,61.06,https://magiceden.io/item-details/6RTMbcYxQe1oGVcJUFWE5GiRWvegkUseJAKpoKRQYVHR,None,Sandals,Gen 0,Fedora,Normal,Chinos,,Yellow,Robber
+01031,0.22,1972,90.65,https://magiceden.io/item-details/5GRrJ2dyMtotbAGwMBMVMCPkuNzYRGm8aghv6zjGf3RB,3D,Green,Gen 0,Fedora,Normal,Bloody Jeans,,Dark Brown,Robber
+01057,3.6,3463,50.85,https://solanart.io/nft/22WsG3zxEPrb1d5RYAx4CBk8fMiYzEeiiL3imjXkT6YK,Covid,Black,Gen 0,Fedora,Looty,Black,,Black,Robber
+01156,0.18,2089,90.58,https://magiceden.io/item-details/61pfpfjAgfh7gUehJMzkjpbHaL54oeEuriA8UPXWC8F1,Coolio,Orange,Gen 0,Pirate,Bloody,Black,,Yellow,Robber
+01174,0.3,2143,89.17,https://magiceden.io/item-details/7cJ3CBjsLFds9TQHewFqunadhbfcGzs8w9Af62jedaMM,Bandana,Sandals,Gen 0,Pirate,Bloody,Black,,Orange Tanned,Robber
+01215,0.127,7423,69.65,https://magiceden.io/item-details/2nHoRsbTCSWmiaJYJakf1UyhpHBEff3msGZ7cnez1zB8,Bandana,White,Gen 0,Wooly,Normal,Black,,Orange Tanned,Robber
+01312,0.2,4489,80.72,https://magiceden.io/item-details/9s12vZ698QeTbtVtDkHRTUFnk1qAczqeqH1VmGoJBxGg,Speedo,Sandals,Gen 0,Zoro,Damaged,Prisoners,,Tanned,Robber
+01710,0.148,8641,64.53,https://magiceden.io/item-details/4kY4m2WLHjjoyerqnTaWXi6iFSmGVKLVgUzFkdovUnrG,Covid,Orange,Gen 0,Wooly,Normal,Jeans,,Yellow,Robber
+01735,0.219,7962,66.56,https://magiceden.io/item-details/CzYtF13xEM8SdR1G3HqwVNNGCCZdTatYBB1q8rPFbqC4,Bandana,Black,Gen 0,Wooly,Ripped,Prisoners,,Tanned,Robber
+01743,0.28,7353,68.4,https://magiceden.io/item-details/GgENLymbaexSUt7w7ta5APXPqPGTZhpHepuPftTjz7CK,Nerdy,Black,Gen 0,Wooly,Bloody,Black,,Orange Tanned,Robber
+01903,8,1320,15.48,https://solanart.io/nft/5nJSBrdqfTntR61hSUoaaYGeaoHiCoKJPgwVNnJFHufz,Speedo,Sandals,Gen 0,Top Hat,Looty,Black,,Orange Tanned,Robber
+02109,0.28,9317,60.49,https://magiceden.io/item-details/Cq3qaMJYMXwRXBmTZCAs5g9JJZs3q4gSvLCmNhJjqDpx,Show Off,Sandals,Gen 0,Fedora,Normal,Chinos,,Yellow,Robber
+02121,0.16,2837,87.77,https://magiceden.io/item-details/J6YCTQQRVK1hR7WGASTZbdSjXZ4KKN96TNNLzjDbVGQZ,Nerdy,Black,Gen 0,Peaky,Bloody,Prisoners,,Orange Tanned,Robber
+02142,0.2,9803,59.34,https://magiceden.io/item-details/EYhWZyyuKa7Em7a8FThYaXQ8mrsyd3GYMrgkwKHwRzpr,Show Off,Black,Gen 0,Wooly,Ripped,Black,,Tanned,Robber
+02370,0.124,2437,89.74,https://magiceden.io/item-details/BQ9kdkv9qbNc4iaQLJMK9ABG8uEoUdr8nwWdYAbgqYDK,3D,Orange,Gen 0,Wooly,Turtleneck,Chinos,,White,Robber
+02384,0.2,6269,73.56,https://magiceden.io/item-details/GxGaaADE4YSK6JH587jVcq37sCjgRXjCF9zQU6DMiK2H,3D,Sandals,Gen 0,Fedora,Normal,Chinos,,Black,Robber
+02518,0.12,9827,60.04,https://magiceden.io/item-details/dKzwHTHvZ4f7Hnoe5Sb1S53KUJGv1nTTHSDmRPHSubf,Covid,Black,Gen 0,Fedora,Normal,Chinos,,Orange Tanned,Robber
+02561,0.37,2260,87.99,https://magiceden.io/item-details/JAFAb72cHTE1TagaHNmz3yGZuvmbKxhSg3LHmPhtCBcy,Nerdy,Sandals,Gen 0,Zoro,Damaged,Bloody Jeans,,Tanned,Robber
+02755,0.149,5530,77.04,https://magiceden.io/item-details/6kmqXAFqiJs35V9K6DJo3mCeiy822kp2tnyHhy1doDc8,Speedo,Black,Gen 0,Peaky,Ripped,Prisoners,,White,Robber
+02804,0.13,9939,59.49,https://magiceden.io/item-details/r1BUtgp3kYXTbAgvaGnpCLF1fV4RcCrCkRvGWKofDq9,Speedo,Black,Gen 0,Wooly,Normal,Chinos,,White,Robber
+02885,0.2,2733,87.79,https://magiceden.io/item-details/37DPwzk98c33WCxftWVXY4maEQzBV2Yo4anJTioA9xCL,Monocle,Black,Gen 0,Fedora,Damaged,Prisoners,,White,Robber
+02889,0.26,7489,68.05,https://magiceden.io/item-details/3KFBvVpGD2HdWxHR5XeWb3kr8Y6B7Q2o7tVhP8Ce1tdj,Nerdy,Orange,Gen 0,Wooly,Normal,Prisoners,,Orange Tanned,Robber
+02894,0.17,7986,66.95,https://magiceden.io/item-details/HxTdL8gANfam3tsjUqpdQGoTzgTKo5VwCx7q9yK3uyqn,Covid,Sandals,Gen 0,Fedora,Normal,Prisoners,,Yellow,Robber
+02959,0.119,7978,67.49,https://magiceden.io/item-details/4iwgaLtgzEpQcG1YNGXKNRMygRWnusr2tWpDZvuwL9Ku,None,Orange,Gen 0,Wooly,Damaged,Prisoners,,Yellow,Robber
+02970,0.19,8807,63.45,https://magiceden.io/item-details/2xZQE176NCrwUXBkFjUZJvVe4eiWmSZAQsXaxG2DQZbp,Show Off,Orange,Gen 0,Wooly,Damaged,Chinos,,Black,Robber
+02982,0.185,2577,88.57,https://magiceden.io/item-details/2jviHuoQBsfX5NAiCpUFJtoCtXuhTxTpjmZdTzc48mPK,Speedo,Sandals,Gen 0,Top Hat,Bloody,Chinos,,Pale White,Robber
+03053,0.3,8975,61.67,https://magiceden.io/item-details/2h98eh5jhWZg2ZsM8y55dDP8AwxwxbmYGARhp89ZPRU2,Spy,Orange,Gen 0,Wooly,Ripped,Chinos,,Pale White,Robber
+03158,3.5,1646,59.17,https://solanart.io/nft/D5QpMvLSTodERVqm35K9FrkcPmPvzEDndhGhUjckfn2j,Speedo,Orange,Gen 0,Looty,Ripped,Prisoners,,White,Robber
+03178,0.18,9161,62.12,https://magiceden.io/item-details/2Yh8RWUd7yCd4h5kpE8ng1t9s47fjuRenSvnCPAx2ymh,None,Black,Gen 0,Wooly,Damaged,Prisoners,,Orange Tanned,Robber
+03377,0.3451,5211,76.37,https://magiceden.io/item-details/HF1LA8FQz5XgvvhGJfbjNzRagvFf1Lq1Xm4jS7C8ZoXg,Covid,Black,Gen 0,Wooly,Damaged,Shorts,,Tanned,Robber
+03739,1.29,4417,70.11,https://solanart.io/nft/78o3Kcq5vn7H27gaFhLAf9tVkaAmteibh82rfBpcDdWD,Show Off,Sandals,Gen 0,Pirate,Damaged,Chinos,,Dark Brown,Robber
+03745,4,1409,55.12,https://solanart.io/nft/9vVaRcUDKxxEpesDihMPJEkPEt4R289VLumJUJW2Fp9f,Monocle,Black,Gen 0,Zoro,Bloody,Prisoners,,Dark Brown,Robber
+03803,0.15,7566,68.84,https://magiceden.io/item-details/G3L8vy2BSBD6kQifupVw8J1ovs4vEaVDQ2kPU2JKQPga,Spy,Orange,Gen 0,Zoro,Normal,Black,,White,Robber
+03876,0.3,8272,64.5,https://magiceden.io/item-details/H2w65VnhbezP1S7PYCG1A8Q3Ch6UysaCr3HiJTiSbyGp,Covid,Sandals,Gen 0,Fedora,Damaged,Chinos,,White,Robber
+04148,0.219,5374,76.97,https://magiceden.io/item-details/c2pjNwwMBwdEPfpVuvg424boFmG867SkC5XQbrBkzZz,Covid,Black,Gen 0,Fedora,Normal,Shorts,,Pale White,Robber
+04374,0.149,4875,79.68,https://magiceden.io/item-details/7C4iKY95CJMWTvWiN86AFyZQssYWaXq6SB225pb7YBEm,Covid,Red,Gen 0,Wooly,Normal,Jeans,,Yellow,Robber
+04446,0.3339,5238,76.37,https://magiceden.io/item-details/pYALECcAy969hDvYRug9VpqAt7fo77cCt5sXz96a1py,Covid,Black,Gen 0,Zoro,Normal,Ripped Jeans,,White,Robber
+04457,0.168,5985,75.02,https://magiceden.io/item-details/FPTqr3zJES1vT2oXxg3T129eJqTTe8zNuTLSKvg74Qup,Spy,Sandals,Gen 0,Peaky,Damaged,Chinos,,Pale White,Robber
+04484,2.1,4997,59.68,https://solanart.io/nft/986hwgezyFLt713gYANyRboqornCC8gKQnLtW2HEBDkZ,Bandana,Sandals,Gen 0,Fedora,Damaged,Prisoners,,Yellow,Robber
+04653,0.274,6166,73.23,https://magiceden.io/item-details/HzJErcTig8LVsLVUKDNqUhSHcqYnNYfbnmSSuCMZXrsN,Spy,Green,Gen 0,Fedora,Damaged,Chinos,,Dark Brown,Robber
+04662,0.185,6048,74.6,https://magiceden.io/item-details/EMU2J34xeV2mXURtAQFi8rUo1HCBNL1R9B6ZrpfU4bxd,None,Sandals,Gen 0,Top Hat,Normal,Black,,White,Robber
+04666,1.5,9068,49.3,https://solanart.io/nft/7KqJEYa4Jzjid2jvNYPNULR7Mi2qwzLjDVyPVbz9s2ck,Bandana,Sandals,Gen 0,Wooly,Normal,Chinos,,Black,Robber
+04746,0.25,4321,80.9,https://magiceden.io/item-details/BDvj4MKWwcHBBjFGewa93HavpWCzASgeXMaYkzZd92r9,Covid,Orange,Gen 0,Fedora,Damaged,Ripped Jeans,,Pale White,Robber
+05059,0.124,4317,82.18,https://magiceden.io/item-details/DutWTTkpi5jShW6DzHGMGE1gR2X3jB4YeeG5UiRrNmLY,Bandana,White,Gen 0,Wooly,Damaged,Prisoners,,Pale White,Robber
+05093,0.42,3337,83.16,https://solanart.io/nft/4sUfNGeb8dQPAJYVFR5kEe1Sfh8StVQosCin2mMWGPx6,Coolio,White,Gen 0,Zoro,Ripped,Chinos,,Black,Robber
+05373,0.2,8830,63.25,https://magiceden.io/item-details/E8LavvGNZSfUx7PA8tmdzssKomCn2iNpeSZS2tVY7fZt,Speedo,Black,Gen 0,Fedora,Normal,Jeans,,Black,Robber
+05408,0.139,8274,66.1,https://magiceden.io/item-details/4FsovdQ1MmKhysePLoV7JYSsBapuNipJsLtrQcjnRTqX,Zoro,Sandals,Gen 0,Wooly,Damaged,Chinos,,Orange Tanned,Robber
+05492,0.38,8558,62.55,https://magiceden.io/item-details/ErYFZuVc968pzVyr7SGYEXoatknTiGJGyg9wqN65Ln3V,Spy,Green,Gen 0,Wooly,Normal,Black,,Dark Brown,Robber
+05628,0.124,7924,67.66,https://magiceden.io/item-details/8dgKXeLBTY4hEpSJL8HEuyXqrf4d9JXEhr41BHjaGAef,None,Black,Gen 0,Wooly,Ripped,Bloody Jeans,,Tanned,Robber
+05674,0.16,7609,68.57,https://magiceden.io/item-details/6S2xFiFd6Y37H75J5RjPouutRqq1HSqvQDEchL9Ys2mZ,Covid,Black,Gen 0,Fedora,Bloody,Black,,Pale White,Robber
+05722,0.33,6165,72.68,https://magiceden.io/item-details/5vK9znTg1crJFAWCqEJn2q9myGwjmzBoAesGHBWrx6BJ,Show Off,Orange,Gen 0,Zoro,Ripped,Black,,Pale White,Robber
+05874,0.25,7721,67.22,https://magiceden.io/item-details/A6CfT9TzqEzoEV91ZpLev9wmbHRym22LArVvZ7cZDGiH,Bandana,Black,Gen 0,Wooly,Damaged,Jeans,,Yellow,Robber
+05938,0.15,6926,71.42,https://solanart.io/nft/HbaBcdogiGQGsPBe88wCUVBqC4uexyDsCFqbANdoRA4m,Covid,White,Gen 0,Wooly,Normal,Prisoners,,Pale White,Robber
+06111,8,3193,7.94,https://solanart.io/nft/HduuKuw7N4nxKr2xnJH9JhKunLKTmXqdb6gG72pCbgZY,None,Green,Gen 0,Fedora,Damaged,Ripped Jeans,,White,Robber
+06120,0.12,3448,85.71,https://magiceden.io/item-details/63cQpYbgrTbtQwnvQFxC2kSjU3rg1c5RY78gpsqQpYAn,Zoro,Sandals,Gen 0,Zoro,Damaged,Prisoners,,Black,Robber
+06170,0.269,3584,83.68,https://magiceden.io/item-details/7LC2FzybqDXy2vzvfQHgmcVJ9BWVTskEf8fPPQsLRdYB,Covid,Black,Gen 0,Top Hat,Bloody,Chinos,,Yellow,Robber
+06273,0.126,5230,78.48,https://magiceden.io/item-details/GYMCvSJ9k3S49HQsQt54FP5P7pSgGZxaU6wyuHbBC4yb,Covid,Sandals,Gen 0,Wooly,Normal,Shorts,,White,Robber
+06309,0.195,1299,93.61,https://magiceden.io/item-details/HUmt14bWsLFo7mjEpNJgCM2dq4p7u12MziWpRzUtxYVj,Speedo,Red,Gen 0,Top Hat,Normal,Ripped Jeans,,Pale White,Robber
+06881,4,1058,56.53,https://solanart.io/nft/9ZDrSVFDKRvjysARXXiwyS6xJY6C33QKhT8pwA6ft6gZ,Clown Mask,Green,Gen 0,Fedora,Bloody,Jeans,,Pale White,Robber
+06887,0.3,1501,91.75,https://magiceden.io/item-details/4ge76dwdReWs8Mksyr5ifd51wXpp7xxBPEMY6ELSywRg,Balaklava,Orange,Gen 0,Zoro,Damaged,Ripped Jeans,,Orange Tanned,Robber
+06957,1.94,1300,76.16,https://solanart.io/nft/FZZ6JTkSCZTsehGfCkdWVUgMJ925VVsYiYE8qBvgZe2w,La Casa,Black,Gen 0,Top Hat,Normal,Prisoners,,Orange Tanned,Robber
+07173,2.5,6758,48.59,https://solanart.io/nft/4HqHkyYT2ieetQkoaaQEJz422cKfm7ba4g584WNLxBy4,Show Off,Black,Gen 0,Wooly,Turtleneck,Chinos,,Pale White,Robber
+07290,0.3,4899,78.07,https://magiceden.io/item-details/GnhBrWoYQ6oSEzJxDwuokAwaAqi26bLTKabacEXWWLMt,Nerdy,Black,Gen 0,Fedora,Ripped,Bloody Jeans,,Dark Brown,Robber
+07490,2.96,8543,36.81,https://solanart.io/nft/7ytzXNPq6oKEsPNLLoELU5AFd4v5eBwyQgHz6viDngkf,Balaklava,Black,Gen 0,Wooly,Normal,Black,,White,Robber
+07498,0.17,6168,74.27,https://magiceden.io/item-details/BAExLjuDqb4TP6L1Q5rcPgdTtaBvZ9PTZ6oWj5vmhqmC,Covid,Black,Gen 0,Fedora,Ripped,Ripped Jeans,,Dark Brown,Robber
+07514,0.19,3137,86.26,https://magiceden.io/item-details/CVPYpp7VJxi4bcU72bJDL59gpVw1r2A8noexerwLCdCU,Nerdy,Red,Gen 0,Fedora,Ripped,Black,,Dark Brown,Robber
+07616,0.3,7308,68.38,https://magiceden.io/item-details/2a9MphhB6xvfV5LgxqvKg4Z3LZWFGErZdqbLxgyKUisb,Speedo,White,Gen 0,Wooly,Ripped,Chinos,,Tanned,Robber
+07657,0.19,4605,80.36,https://magiceden.io/item-details/2UDAMjvdXJQEn1smGUfpJNCw777yzwpLtEu4tN4Ag85Q,None,Black,Gen 0,Zoro,Bloody,Jeans,,Dark Brown,Robber
+08014,0.144,7028,71.07,https://magiceden.io/item-details/9zXoh1UNayNimMzhZHDVVNKK7FQ7QUWWgE2xnYhUKxfd,Spy,Black,Gen 0,Wooly,Bloody,Jeans,,Black,Robber
+08038,0.4,4988,76.72,https://magiceden.io/item-details/BLDH2ACYjmH4z8YrwfKX46grVihBWSAirjFzAfEoMDr3,Nerdy,Sandals,Gen 0,Fedora,Damaged,Jeans,,Orange Tanned,Robber
+08110,0.159,8152,66.39,https://magiceden.io/item-details/H85HxhQWGk9VWNZPtL2CLLDTfBE3c3PJsST24Jixpmdb,Show Off,Sandals,Gen 0,Fedora,Normal,Jeans,,Dark Brown,Robber
+08113,0.149,7178,70.41,https://magiceden.io/item-details/2NdQHF5GQso3gdgnpWxWbXqADJYQyiNF88Zqe9ZMFNVC,Covid,Orange,Gen 0,Wooly,Bloody,Chinos,,Dark Brown,Robber
+08119,0.15,8615,64.62,https://magiceden.io/item-details/DvSsZLDv8gLo96jTdo8p1Z8LGGH1tRVrP7qvCFAEmG5J,Spy,Black,Gen 0,Wooly,Bloody,Black,,Pale White,Robber
+08238,0.36,2993,85.14,https://magiceden.io/item-details/GQUJD6xhqJEkoQHS3hT2ND91KCg4VyV3fcK1evByAsWY,Nerdy,Black,Gen 0,Zoro,Bloody,Prisoners,,Black,Robber
+08505,0.38,5911,73.2,https://magiceden.io/item-details/2DMeggMqdB9j7SVmDUMmB7ZhAQkcaRSSMk5uW3ZXfiDM,Bandana,Black,Gen 0,Wooly,Ripped,Bloody Jeans,,Pale White,Robber
+08559,0.14,6570,72.95,https://magiceden.io/item-details/CEsSQ7iRa3XKeJiu8ScpiVvy1vsRxTdRPWykvnAjSLEE,Spy,White,Gen 0,Fedora,Ripped,Black,,White,Robber
+08630,0.18,4693,80.1,https://magiceden.io/item-details/HTTZj1V8LrGFyfaMeg3cHSwi4UyuJAj2ZdtPM6MuMsqx,Coolio,Orange,Gen 0,Fedora,Normal,Bloody Jeans,,Pale White,Robber
+08773,0.185,8613,64.28,https://magiceden.io/item-details/3uamn3hoJLcfN25PSo6uwjceZ7fNACtbP9mjip4S4C9L,3D,Black,Gen 0,Wooly,Normal,Black,,Tanned,Robber
+08911,0.23,7593,67.93,https://magiceden.io/item-details/HL8eWrTxhtsTZYVfFLh7HdDbctjmggEvt5aTYk6q8xK7,Speedo,Sandals,Gen 0,Wooly,Ripped,Jeans,,Pale White,Robber
+08926,0.8,2663,82.07,https://solanart.io/nft/GZUrtDXJPD9hGhggzqiXpJuYFfnJQzGavoexPUmYonnv,Bandana,Green,Gen 0,Pirate,Normal,Black,,Yellow,Robber
+09129,0.16,4108,82.66,https://magiceden.io/item-details/9PUb7xMi2RVxLRUmTdfauofN8djDJAnCRMXdwjNiJAJK,Covid,Black,Gen 0,Fedora,Damaged,Shorts,,Black,Robber
+09215,0.2,5992,74.67,https://magiceden.io/item-details/CC4MsnJS4LtDAF5FUbyVAoQms5TPoPsFjS5qy6SVEb5f,Show Off,Orange,Gen 0,Peaky,Ripped,Black,,Tanned,Robber
+09310,0.139,4289,82.14,https://magiceden.io/item-details/6WMM9adNwkft48dvengDSJBGTEALZGEtRJMjwMA4sEji,Balaklava,Sandals,Gen 0,Wooly,Ripped,Prisoners,,Yellow,Robber
+09420,1.3,1171,83.08,https://solanart.io/nft/DqoY58p1rehi8zGxobiP738i5s6ftzirhy92iusqZS6d,3D,Red,Gen 0,Pirate,Normal,Jeans,,Orange Tanned,Robber
 09437,8,7214,0,https://solanart.io/nft/21AuPtfRQTwM2D8vrD2xwaWdCtW7t2PPSQaJ78BfwJMv,3D,Black,Gen 0,Wooly,Damaged,Chinos,,Orange Tanned,Robber
-09733,0.42,2185,86.96,https://solanart.io/nft/EMPLvjfra1cngzxaVEXXXePeG4zhfxbRiLq1YxjCSHYs,Nerdy,Orange,Gen 0,Peaky,Ripped,Bloody Jeans,,Dark Brown,Robber
+09529,0.4,6255,71.62,https://magiceden.io/item-details/BftQ1f9mvFgDtpq2WNH6exUDPcKKJJwE2AdLYi96xLdH,Coolio,Orange,Gen 0,Zoro,Normal,Chinos,,Orange Tanned,Robber
+09697,0.28,6090,73.48,https://magiceden.io/item-details/GZdFBZztpfsJyuVDPDyMFe3od3h7Uq7ZDNeii4pDeJpD,Show Off,Orange,Gen 0,Fedora,Bloody,Black,,Black,Robber
+09733,0.42,2185,87.8,https://solanart.io/nft/EMPLvjfra1cngzxaVEXXXePeG4zhfxbRiLq1YxjCSHYs,Nerdy,Orange,Gen 0,Peaky,Ripped,Bloody Jeans,,Dark Brown,Robber
+10048,0.15,NaN,0,https://magiceden.io/item-details/5AN3CLFKr5x5LKqoHzvPrdTVtMxMVbnrUAxusR7nSx94,,,,,,,,,
+10067,0.25,NaN,0,https://magiceden.io/item-details/6QX4siHzG9AVkBqjHrVuhM1LuDJBQTQQj57hEVL481Mp,,,,,,,,,
 10090,0.15,NaN,0,https://solanart.io/nft/4jK6vS9sUgU19icmH1bJhbEcF1B3JfhKN2SpGqGtcGjm,,,,,,,,,
+10127,0.1,NaN,0,https://magiceden.io/item-details/DWVo73Nhd3H9b1yXZeDRrKm4vrNQtMwwAfHwQVuyKtSz,,,,,,,,,
+10168,0.09,NaN,0,https://magiceden.io/item-details/GV4jvqcK9Q463uuLUauKPpA9HXwcC71vCJ9YCx4Wbj4r,,,,,,,,,
 10197,0.099,NaN,0,https://solanart.io/nft/FE8S1emnoyMTCVMjNCH5k7GmzTGsJCbaN4C5jLERprcv,,,,,,,,,
+10205,0.1,NaN,0,https://magiceden.io/item-details/EEReWCD4P5cKeFgRWaXYbJqNAnfywfwuxttHJAch4wBB,,,,,,,,,
+10210,0.4,NaN,0,https://magiceden.io/item-details/2FrsB9rGRW4W7L5q7QA7EW3DZAL4tNU7jo8HKbQYXwK5,,,,,,,,,
 10329,0.275,NaN,0,https://solanart.io/nft/9yBs5Lnr9cxtzW4hzhqdYcxCTTzghdL5h9WkqCeGKw6x,,,,,,,,,
+10334,0.4,NaN,0,https://magiceden.io/item-details/BzH4EFpwJyQVSJadwaSTJsRSVY9Kwndp9to8MGLUCRRA,,,,,,,,,
 10517,0.1,NaN,0,https://solanart.io/nft/2b4jV3aspKRYzFBB2fWsbq18Jr29DavCZyBy7jv9Kxvw,,,,,,,,,
+10590,0.25,NaN,0,https://magiceden.io/item-details/GgqxZTtL4i4zdjmd59LWvveW5jWZc8btvUhWtB1SXLoy,,,,,,,,,
+10725,0.4,NaN,0,https://magiceden.io/item-details/Dy2Ydg9zHShEKmN5Q9c6X8UU7M9qyYC488ha99eq6FmW,,,,,,,,,
+10789,0.25,NaN,0,https://magiceden.io/item-details/5utZ9xDg3LiCncdjGcJq6MDDajRLs2tAY58QazuCh4S9,,,,,,,,,
+10866,0.4,NaN,0,https://magiceden.io/item-details/DPzsiknRWZ4NaQsuEcb3DwoiYiJHwf7yJsvL9TLYaz8W,,,,,,,,,
 10932,0.15,NaN,0,https://solanart.io/nft/3yTCctKqCJnRf3rLyeG8ke6XyYza3raZ1MCUKiwAtbMB,,,,,,,,,
 10934,0.4,NaN,0,https://solanart.io/nft/46pdE9vCK9v4u19AY3NGTzC89CDpuWyqd9WoS6pHY1pD,,,,,,,,,
+10957,0.1,NaN,0,https://magiceden.io/item-details/pDzX39MzG4MwPtfJKZsn8HVFd9GiY6u9wJbP2dbfAY4,,,,,,,,,
+10994,0.12,NaN,0,https://magiceden.io/item-details/87fe6cfKQ6ojioRzohGtkE4uu3bnTaCzBbm1MfSrVo2Y,,,,,,,,,
 11077,0.11,NaN,0,https://solanart.io/nft/EqKb8pp9NJUh8p84sYmGPdivTMiH5ifXNXi83bpvgZSW,,,,,,,,,
+11087,0.24,NaN,0,https://magiceden.io/item-details/98oJYHppEnTGX59nPn1uZ6s5gXJpWWbUDsaK59REahSa,,,,,,,,,
+11099,0.25,NaN,0,https://magiceden.io/item-details/BjxtHyoxJ8rD6Sy9P1LT7M1gpD22sMe7sqVS4HzQEoYG,,,,,,,,,
+11120,0.25,NaN,0,https://magiceden.io/item-details/Hwh9LqteP3BmqbRebZ9bMMeTqbHCxFmtqhyCPi1uHQDU,,,,,,,,,
+11134,0.13,NaN,0,https://magiceden.io/item-details/4AJTCdZqQew13RAcirUunxQKXUqsvCVQsFze34zVfWMo,,,,,,,,,
+11390,0.35,NaN,0,https://magiceden.io/item-details/9dGL2QHfmy62KUM1GnKHoyjkFhkYe1tNv4ajmGfGYp7z,,,,,,,,,
+11397,0.25,NaN,0,https://magiceden.io/item-details/C16DZXxjVU6RDdFZrF59sHEQtWEPTWv7uyjhro9nAfC,,,,,,,,,
+11429,0.11,NaN,0,https://magiceden.io/item-details/HxMXpCYPg25DxPubUREYRdmmCP1k8emAujMx4T2KEfac,,,,,,,,,
+11550,0.25,NaN,0,https://magiceden.io/item-details/JB8wjhi7nwjCMoJUMRXBeS85EZ31wGXoVP2YqFvtBfXY,,,,,,,,,
+11566,0.28,NaN,0,https://magiceden.io/item-details/5tNsm25mWUTTFW7aJCNdsHigmzf4TprDGTZLhh1mz512,,,,,,,,,
+11582,0.25,NaN,0,https://magiceden.io/item-details/9z64PmBp9WmcBebXTLLwhhEN74sVaNK1Kst5gkFPwkY2,,,,,,,,,
+11597,0.29,NaN,0,https://magiceden.io/item-details/74ZX9mdyH8ntkNvHvirHGTCFrfbwhNE2FQyUNcyN3MZt,,,,,,,,,
+11875,0.22,NaN,0,https://magiceden.io/item-details/FATSQz63kDn9Phb2e6ndyccJLFcwoZJJ5NbiH4JsdWNE,,,,,,,,,
 11883,1.8,NaN,0,https://solanart.io/nft/889V1RSy9tf4BFtFFBwJYu2pBxRgo9FNH3hNhcJzpYG7,,,,,,,,,
 11888,0.75,NaN,0,https://solanart.io/nft/Ai1GPcoxtYH28SKQ1vNkKMBB4U3vuxq5YZb1joK96MNA,,,,,,,,,
+12164,0.1,NaN,0,https://magiceden.io/item-details/DcnESfLRz7vpUrcE677pHdDXRrqr5kkVG3LWoxSxt7Xx,,,,,,,,,
+12264,0.15,NaN,0,https://magiceden.io/item-details/HqGBxAxxQL8s6BfT4nscfwbsgoM1oJZkGpS9KAcvZp6r,,,,,,,,,
+12458,0.219,NaN,0,https://magiceden.io/item-details/AJLGupoVzdCaPfBHK8emxLzYfDoeH3ZsbEUeJo5cMmx5,,,,,,,,,
+12856,0.35,NaN,0,https://magiceden.io/item-details/7MDretXjz4W1T45aghuntk6KBFFTekR2tLMZjsZZ7rGJ,,,,,,,,,
+12920,0.3,NaN,0,https://magiceden.io/item-details/GuTDc98EC7UZPxH1aHLMMEuc1BfxWxgEdvjgM1h93fs4,,,,,,,,,
+12968,0.2,NaN,0,https://magiceden.io/item-details/bCKzrn5ZF21Bo4rBADPvNSc4H7Wgqpf8enS7vm7ZKmm,,,,,,,,,
+13351,0.1,NaN,0,https://magiceden.io/item-details/2swGZ63NgXFy2298uSkLF22sCRaeZjyZFfHRToEf9uMS,,,,,,,,,
 13389,0.17,NaN,0,https://solanart.io/nft/7LJQ3vP7MjMgCgBSuecCQYkCLccg1cMrxbnzrXTvH8kU,,,,,,,,,
+13435,0.3,NaN,0,https://magiceden.io/item-details/FnUSugEVgtNniWf51dyuJg1Q4VSFopyoCfZqiMQ2HuxN,,,,,,,,,
+13846,0.16,NaN,0,https://magiceden.io/item-details/3cwpYgyKYLAryQv4UdLHDyjsKK5NWkW5sxCPjH59HniB,,,,,,,,,
 14010,0.2,NaN,0,https://solanart.io/nft/4SeHoq2kjc1ob7ZAzwTAVUTMMT8jV5afqNczDidzKgPy,,,,,,,,,
+14201,0.15,NaN,0,https://magiceden.io/item-details/E6KRHWndck4XNHxEtcD35CV3MFuoqfKd8dDL399CJ8K2,,,,,,,,,
+14217,0.25,NaN,0,https://magiceden.io/item-details/84Uzqhknp8H9iKhLRVfz7ftk3ytTbw4TkfMVacAiKsRK,,,,,,,,,
+14242,0.23,NaN,0,https://magiceden.io/item-details/7qoeaUT9w3TyrQxpYFgwuJvt9fcoex85Si2iCzg3mCMJ,,,,,,,,,
+14279,0.19,NaN,0,https://magiceden.io/item-details/DSJ9t4jzUSMFPUQ4SyYAhMHXjnSB9K7qx3UxGCiwnfuZ,,,,,,,,,
+14298,0.18,NaN,0,https://magiceden.io/item-details/EvNzxQ3DJdAp8YCWHN2ZonpJW4wLu1Fqn3GdKKqiBoq,,,,,,,,,
+14379,0.3,NaN,0,https://magiceden.io/item-details/EWA4pKJzZVJjAssB1PqNgt1rG4ccwbcE2XVpwR8iFiab,,,,,,,,,
+14433,0.3,NaN,0,https://magiceden.io/item-details/D9zYbnFBga4KbBTyYSkWrrcjNmjp7id2Zajo6VW52Qds,,,,,,,,,
 14488,0.08,NaN,0,https://solanart.io/nft/7bVXgXtQBr48NDKuBDe82e2hVZLChmyQ6kfiav37Bp9r,,,,,,,,,
+14600,0.4,NaN,0,https://magiceden.io/item-details/o17YxaMud7ExJvu77beeqTth46NwNUXRdMtwaBDaQi1,,,,,,,,,
+14669,0.25,NaN,0,https://magiceden.io/item-details/4BWzWv5rX2mKS91fatsXPKjgT4FdJWWMBrZgJiPNV9L5,,,,,,,,,
 14678,0.091,NaN,0,https://solanart.io/nft/kgPvKJoxynzLXn4DBCgungwHk4X4GHa8DsCspsX9RMk,,,,,,,,,
+14844,0.13,NaN,0,https://magiceden.io/item-details/GKTa1Pn92WUV5kFD46cbXsGd3KEwxuzWUBaVbZdTRdRF,,,,,,,,,
+14853,0.26,NaN,0,https://magiceden.io/item-details/Aiz2fppo4SpBRaXTPgUErRDRTXNSFbE415Z2YxiyJveS,,,,,,,,,
+14855,0.1,NaN,0,https://magiceden.io/item-details/BnGetFBEQGWdgpwAzeEFQdeAZL5ZmNkSEZV6Bgxk8rr6,,,,,,,,,
+14862,0.13,NaN,0,https://magiceden.io/item-details/74rBGFGN2Kwaicf2BGvA6SRM7keyySr51hpUnh2C6GWY,,,,,,,,,
+14922,0.2,NaN,0,https://magiceden.io/item-details/96ypZMBUckUnjW7sqUCmqUfyYoX6BFfpSaMzisrTiJwf,,,,,,,,,
+15148,0.089,NaN,0,https://magiceden.io/item-details/Ehr8963GMTT9FabxwbodRSbEHRijJHWgQzDtbnQtd4Hu,,,,,,,,,
+15192,0.09,NaN,0,https://magiceden.io/item-details/7C1soVfx3X5Svm2SyXVb72JDkqm3PGabx7w9taGKr7Fk,,,,,,,,,
+15209,0.19,NaN,0,https://magiceden.io/item-details/AJebSEPDG6nQ5gr8QztfKWutqdR1otouv7Zr45E7egs9,,,,,,,,,
+15270,0.388,NaN,0,https://magiceden.io/item-details/88Ksd8FyaDRY8oJauf5xeNoEv8cCT9KxGtsf8CW1RbbK,,,,,,,,,
 15302,0.5,NaN,0,https://solanart.io/nft/5PhKg88zfSZgUFypUSpAUeKBueUmUe4KvEdtFfmACfo9,,,,,,,,,
 15358,0.1142,NaN,0,https://solanart.io/nft/4WihXKEt3qw6znq9oAi1zZnu2kxC6p4Qo2f8UnMT1ghP,,,,,,,,,
 15405,0.31,NaN,0,https://solanart.io/nft/AEaxBo41ct5WqSphJvE9FTaCzGKdaujeM3vgNdQSzpTM,,,,,,,,,
+15487,0.22,NaN,0,https://magiceden.io/item-details/2SXUPNk33d2cxw2D3Wy5Gf1GnmtBcjoCLTGnzSomY8Hv,,,,,,,,,
 15501,0.899,NaN,0,https://solanart.io/nft/CnqxyjARWz2RuHoCAz5HFSxrdJnHrAGCGqZ3r8GWaMts,,,,,,,,,
+15941,0.4,NaN,0,https://magiceden.io/item-details/DpLaah6ug33rTbPrgVSuGqTmqFhFA6iwisBt8BjRhdJV,,,,,,,,,
+16128,0.25,NaN,0,https://magiceden.io/item-details/9T5t9nvPGceatrEQ6uAsuzX8K6NKaHnownLqE5TFm4Ax,,,,,,,,,
+16149,0.3,NaN,0,https://magiceden.io/item-details/Em7vM8HNQhydCjbhGgHgz1WP1C96wvFhggxePveJxsM2,,,,,,,,,
+16154,0.2,NaN,0,https://magiceden.io/item-details/DkEe6B4aoXbjxPuF1dNhxZAFqKvc5GpToit4bo8qvFsN,,,,,,,,,
 16175,0.15,NaN,0,https://solanart.io/nft/4MCowqLuajwEkrU6K4DcnchwFzQTDLuSDNfefNa2HaeJ,,,,,,,,,
 16277,3.99,NaN,0,https://solanart.io/nft/2p2EwMJVE42zBPD1Ku3YTugWEaAq63yrtSxUpFbG8NBT,,,,,,,,,
+16390,0.1,NaN,0,https://magiceden.io/item-details/56mfGgeu4qL2sxcaGLn2gXJdGKn3tNSc4wZusVTNxp53,,,,,,,,,
+16400,0.3,NaN,0,https://magiceden.io/item-details/5vhgR2jode1MDxoztkEPSc8RGaMiPXGMLAbt5kJZTUyH,,,,,,,,,
 16457,0.25,NaN,0,https://solanart.io/nft/CkMVLHwiqFR2FARPK8sqFKjx42tirgMFXxK9nhXZb1PK,,,,,,,,,
+16567,0.15,NaN,0,https://magiceden.io/item-details/5gf7ytx2yXzLcVmcWMzEta4MtzqLQpLNxqHiJ6k4unxq,,,,,,,,,
+16574,0.25,NaN,0,https://magiceden.io/item-details/EtTpYD8S5ke4o9X8Ny6md5bVbmDX8pqvBsPghvuAkxkJ,,,,,,,,,
+16621,0.25,NaN,0,https://magiceden.io/item-details/2ce1Qcp3pNu94JKtQHiNJQrE3FAf6m2DA8KESHPgKHL2,,,,,,,,,
+16838,0.1,NaN,0,https://magiceden.io/item-details/8RZhApekz1WS6NQSXWNG1qcuHL6xwi3ixLCwvha7DTq6,,,,,,,,,
+16873,0.12,NaN,0,https://magiceden.io/item-details/BSodNNWfPx2p4GnaHRxbqbWRZ6ctHMh7fERadzvLqsUg,,,,,,,,,
 17024,0.25,NaN,0,https://solanart.io/nft/4iuZNwcjWsiqaK1Zpd8L7ALgXGwMBT6kJZRooWzEZRSk,,,,,,,,,
+17141,0.2,NaN,0,https://magiceden.io/item-details/H9My3Pa44QnVR3fzhFPDZ7MdaPwCaEtU2qjjtuXGxdiE,,,,,,,,,
+17382,0.1,NaN,0,https://magiceden.io/item-details/DRC2n9Qn1UcALdoimTaH7UKjZJ8LoqoC6DkxS4aenQJu,,,,,,,,,
+17438,0.18,NaN,0,https://magiceden.io/item-details/3wJiQD7mbFxRfgNFcdyV5JYQG33AUhARN26cpBvjYNT1,,,,,,,,,
+17455,0.25,NaN,0,https://magiceden.io/item-details/AoRXyFED7yFQ9RWiDy2k4aUHm6x98Q3wAizw2uAdoboH,,,,,,,,,
+17568,0.079,NaN,0,https://magiceden.io/item-details/6n5rQsAtvJFJ9NjM8qhcDfYfeaj4QREte1KjseJsf98m,,,,,,,,,
+17728,0.2,NaN,0,https://magiceden.io/item-details/71TrHsdPt9bjcpro8nme2Qk8Vx2NY9cabrYfXPg5iaCp,,,,,,,,,
+17765,0.35,NaN,0,https://magiceden.io/item-details/FztYGn7vc4koNcQ9vpknw1VUJJHYdj4ejf7Hfm6GHK18,,,,,,,,,
+17842,0.18,NaN,0,https://magiceden.io/item-details/FMnWtW4k2eWevepXhnayhE5W1rHaZSCVg9Lh4q91CCZJ,,,,,,,,,
+18068,0.2,NaN,0,https://magiceden.io/item-details/FqyUs2Vf1Nu1Hdk1rLMhyVJ1HA1yHAQQvaS62AhdJd8Y,,,,,,,,,
 18236,0.15,NaN,0,https://solanart.io/nft/2hmk5XYve28F3bsNxvRUWM7WWg8kViVDW52eeoFg1ohU,,,,,,,,,
 18292,0.25,NaN,0,https://solanart.io/nft/YPTDPJ6ktwq2xtezHYXB6hLTgcgqrLFAZt8VPpAkNjC,,,,,,,,,
+18397,0.153,NaN,0,https://magiceden.io/item-details/DXqQCVKhDd23WX1z4S2xi1NTuzUk4wTnthEx25i9mQmE,,,,,,,,,
 18411,0.11,NaN,0,https://solanart.io/nft/3QWemwDT2BwFzLcv197GyWgdvdXX69iCsv1ifYCFqmqX,,,,,,,,,
+18436,0.079,NaN,0,https://magiceden.io/item-details/4ssgyzWb9r7HTQzkyeoYWZSKLDdqg3CsuPAXzzCAQvwP,,,,,,,,,
+18547,0.1,NaN,0,https://magiceden.io/item-details/279aLX6Aj9UwHjgfjzdBbqUQnqugd39dPKmbfQy1nDFD,,,,,,,,,
+18576,0.12,NaN,0,https://magiceden.io/item-details/7rnGT1pJz2VPQWZwPqirJZDeAy7epkMJkfnCXSqLn32s,,,,,,,,,
 18726,0.12,NaN,0,https://solanart.io/nft/9k46zVtbgWBxbp5P21xUM4LqdZGf7tNLAJBvAcYcFL4a,,,,,,,,,
+18773,0.1,NaN,0,https://magiceden.io/item-details/AnS9adAL5XWiUqe43jqrZhDTNBfFCp6PnARiQxU9tBV4,,,,,,,,,
+18796,0.2,NaN,0,https://magiceden.io/item-details/28UQ2nNf2H1e7Hbh8MM9ftk9yvJWZWKktVRLK6FSmLaP,,,,,,,,,
+19137,0.15,NaN,0,https://magiceden.io/item-details/JtKkQxqHGr4j7Vu5MqE4mavVWtjeNJhTg3suvF6pmjZ,,,,,,,,,
+19308,0.16,NaN,0,https://magiceden.io/item-details/GxGjDe2z8kz1HFLyDSQtvyFvU58N2cyA5MEWFEo4qy3U,,,,,,,,,
 19396,0.6,NaN,0,https://solanart.io/nft/9ZV5DBkDxwUi5wBf7Rq7M2GMKj677MhPa6etUSr7vewf,,,,,,,,,
+19496,0.17,NaN,0,https://magiceden.io/item-details/CdjJEqMb2YDta2jef1YPcbyKrQ9EMsY6oSC17ZWWQGih,,,,,,,,,
+19497,0.2,NaN,0,https://magiceden.io/item-details/DDamm37KnLr1oawokXc3r2hoPfrzTN9EpTsneNDKJoGQ,,,,,,,,,
+19695,0.12,NaN,0,https://magiceden.io/item-details/6jxRETs5rBBm1BUXVSZS8hW1Dsq2qNJhPAjQcY8CPrJE,,,,,,,,,
+19756,0.3,NaN,0,https://magiceden.io/item-details/D9FhhGTPjNtQaiUXLQYsHGwFngMFsp72X8wwZLbw16Az,,,,,,,,,
+19885,0.25,NaN,0,https://magiceden.io/item-details/35c1XMGaGUjTaExGeXM3jX8eC4mwwSLEX8H1Hfso7pog,,,,,,,,,
+19886,0.35,NaN,0,https://magiceden.io/item-details/7bQER48kCei4gMqwX7cNvf4PGwj7Q2GdoHZ1wrF36jp3,,,,,,,,,
+19956,0.1,NaN,0,https://magiceden.io/item-details/7aFnAUwyMf5Mk7CD3R7e98cxf69zzJCxzxBcrwL2uZQi,,,,,,,,,
+20073,0.09,NaN,0,https://magiceden.io/item-details/25WSH2AkpsMsE21GJtpLyThQ8yaifGVYRfVgSePuhBsg,,,,,,,,,
+20084,0.4,NaN,0,https://magiceden.io/item-details/7Z9hUo37vyD8TGBD2FaHKQr98F4dqzdUiyBpRSWCE3Ps,,,,,,,,,
+20088,0.14,NaN,0,https://magiceden.io/item-details/Hcp5UDZMbwHb2yVhfveBuzaxKYMMFdC4xEEPfrenEJrF,,,,,,,,,
+20180,0.12,NaN,0,https://magiceden.io/item-details/Bs9zmKu6jKzVYVTFoWZs1GQdJdC9iz2Dryhmhyj141VW,,,,,,,,,
+20251,0.3,NaN,0,https://magiceden.io/item-details/GMSzFzGvWtUAHmB7zZ6ERpJxexrmNYqcFYimgqY5eAqW,,,,,,,,,
+20300,0.15,NaN,0,https://magiceden.io/item-details/3u7uSziJ9C8u1RuZC8b5TokQSSkwwXzwpUdWRckNoeDy,,,,,,,,,
+20446,0.15,NaN,0,https://magiceden.io/item-details/DED7cZRjmDWAv7NMsuTMM9BP3wvkVhiRCsDKfdHMgPZb,,,,,,,,,
 20506,1.8,NaN,0,https://solanart.io/nft/9QnVocScDxHcY7iwf2wkqWggYk1BW5Vk6iXJodP5gLa,,,,,,,,,
+20508,0.079,NaN,0,https://magiceden.io/item-details/8kjYZBPxFZwz5dxNi5gxRHoB6uo6SVBCLgP1a3yQqe23,,,,,,,,,
 20523,0.5,NaN,0,https://solanart.io/nft/2wAc7ZWP3oM6u2XkTE652FKHf7fZg4r6M674JjSp3D15,,,,,,,,,
+20565,0.21,NaN,0,https://magiceden.io/item-details/CCXh9enF7B2G8Hv74tQWb1p8V9mkpmgaryoh6cjPFvA9,,,,,,,,,
+20701,0.185,NaN,0,https://magiceden.io/item-details/AGdAeEzjtVV6B2tPPbGDdyjLHgxh19r8kUZymjdoCZmL,,,,,,,,,
+20732,0.21,NaN,0,https://magiceden.io/item-details/2y9eLgUqtQfvarzFE7doiWg3xAC7qBQ3EtKrZnFCumvw,,,,,,,,,
+20787,0.31,NaN,0,https://magiceden.io/item-details/9jVYhorVFq1fD7jBH3K4DePaPK7RQnLCcYyXkbp6zDQe,,,,,,,,,
 20812,0.49,NaN,0,https://solanart.io/nft/8a82cvSwP8Z7j8meDzL8qKpaSvztkEoN4zX5pXjymivr,,,,,,,,,
 20987,0.5,NaN,0,https://solanart.io/nft/E7SKxhpu9T62Hv4TDuSdwPrW7wgEkdWdnN4XpJMTuhfo,,,,,,,,,
+20997,0.4,NaN,0,https://magiceden.io/item-details/7UmvgV8HqpJMMAbyGYuAE5kBtJJcyvsWm2zSCevfhDBK,,,,,,,,,
+20999,0.15,NaN,0,https://magiceden.io/item-details/BKodN2e92tVCeYmxLCwriWCRXPFCRC5ooUSkN7mx1TmB,,,,,,,,,
+21007,0.21,NaN,0,https://magiceden.io/item-details/2LCS4U8nVsdnNuDXHgmGT3yv43faR6w4akBWfwtobP7S,,,,,,,,,
+21042,0.37,NaN,0,https://magiceden.io/item-details/GVLfeZEBWSs76WGDkUPBumdHDNMJ4DhtLMk2xWxhTsLg,,,,,,,,,
+21146,0.3,NaN,0,https://magiceden.io/item-details/y8rLDF7Ks4HUFR8GMRh5fX8c4SrLPwk6sn5h9CCSEeD,,,,,,,,,
+21165,0.11,NaN,0,https://magiceden.io/item-details/7EEFEaF6djPauUxwZWT8GuGaKcKUZHFEzQwXsiN7gjTW,,,,,,,,,
+21166,0.15,NaN,0,https://magiceden.io/item-details/8BBg1tKBceZUkcZM6JWsF8CRjiGwyZTXKcMxuhDunaay,,,,,,,,,
+21226,0.11,NaN,0,https://magiceden.io/item-details/E6ZBjYM86wkVfubfMa15k9Rt7suQR2vFLx84NqJVBbEM,,,,,,,,,
+21306,0.25,NaN,0,https://magiceden.io/item-details/253zgCGVNytRK8vYGx14pT7bhebQ9a36dZD6EaJwwxDy,,,,,,,,,
+21343,0.16,NaN,0,https://magiceden.io/item-details/6SH4tigWes66ro2CYE2DETGt2V9KGsZTsJnDbqKw163L,,,,,,,,,
 21387,1.95,NaN,0,https://solanart.io/nft/8YBRrBmdKy7P2H3B7ZWMZV1meAEYDjAHah7dPq7i69SL,,,,,,,,,
+21396,0.186,NaN,0,https://magiceden.io/item-details/BUJ4UhfoPJghx8J7tdqamPzCPAoqSxdC6NjBBAVhWwAo,,,,,,,,,
+21406,0.145,NaN,0,https://magiceden.io/item-details/6kyjSjEubb5KgcUHPERXnN2gE4vwUw4sCAFzZgDr6Q5c,,,,,,,,,
 21486,0.14,NaN,0,https://solanart.io/nft/7HtWWtQwYE7kegrfBmepZq1yWh7ApM4jEZWW7ksfCMpA,,,,,,,,,
 21502,0.15,NaN,0,https://solanart.io/nft/FkaSRb6EDH6LsZyTTiJLLkoYHZdBFvJrRBHQKBegizEd,,,,,,,,,
+21540,0.3,NaN,0,https://magiceden.io/item-details/4uoqtAs96TtHkxfb4MrgmhkaMjyfMAWycVayAaWaz6kJ,,,,,,,,,
+21554,0.13,NaN,0,https://magiceden.io/item-details/HYP8TuvVURCZaucvJVQWGMP5VCN48qRJovqUhUEUgq1z,,,,,,,,,
+21571,0.3,NaN,0,https://magiceden.io/item-details/9HiSkL8zjWZaL8UHipQP2hFjR1uz4cnrKAawfR72MZHi,,,,,,,,,
+21658,0.144,NaN,0,https://magiceden.io/item-details/T3hbjvcXkkKHDwvGphYsYgmUyQuNsWTkCxGKtvrQsSC,,,,,,,,,
+21663,0.3,NaN,0,https://magiceden.io/item-details/69qB5mLKABepQ3wQYfzkCG9p7pXJqhBbqqnnsEXKd49Z,,,,,,,,,
+21803,0.1,NaN,0,https://magiceden.io/item-details/61YYBejcguPBWSBEH5ocjP3exXg2sSXuvz13mrTua42J,,,,,,,,,
+21804,0.22,NaN,0,https://magiceden.io/item-details/8Px4xBgXcCRLU4iLogxqoTo4UzeY3atmDb4bKqMemgCb,,,,,,,,,
+21817,0.3,NaN,0,https://magiceden.io/item-details/F5df5PbgAMJQMGHeoXSAgB3chPGNc79nESt711QtiXuC,,,,,,,,,
+21907,0.11,NaN,0,https://magiceden.io/item-details/8eKtmkxTbwWVrgBaNmr1pcTHvKgXfBj4UTQVDhMWe1cs,,,,,,,,,
+21913,0.2,NaN,0,https://magiceden.io/item-details/E2jyvBGXW5tnNRZXiEC1GgmTREW9h8KvdSDmoV4Wdh9G,,,,,,,,,
+21972,0.1,NaN,0,https://magiceden.io/item-details/vWpZz5xUXCPm6hC7JKgGiRD3Riove7t8cw2Yc52KmWj,,,,,,,,,
+22072,0.2,NaN,0,https://magiceden.io/item-details/3HMTL8QEyZukWhZWzkWLNL6cJqTU74TrT7YUPbu5JyZj,,,,,,,,,
+22198,0.2,NaN,0,https://magiceden.io/item-details/HJ3osWn1rQTZJPZBubTy91i1odZQMi7291STbYCrSovo,,,,,,,,,
+22232,0.21,NaN,0,https://magiceden.io/item-details/CJAFvgwdvvKvYCLeyD22eq13yWYVauNGZhHdhK1uUx6d,,,,,,,,,
+22246,0.12,NaN,0,https://magiceden.io/item-details/APKS8gETXdnfZS9FrBBBPjLXPo1Qje9itWpZ5EYaH95A,,,,,,,,,
+22459,0.39,NaN,0,https://magiceden.io/item-details/7nNJPDqko5Qswdwhhiarv9tuENeEcDwwrupF68dZdHhZ,,,,,,,,,
 22503,0.29,NaN,0,https://solanart.io/nft/6bUXgn4FnH1WhCTr9Q6ixEaFvLo7m1mPytjnpCydSZNF,,,,,,,,,
 22508,0.12,NaN,0,https://solanart.io/nft/FZBUUoXWvUubnjarYH9ULXnwg18gkpTZU4gS3rQHx67d,,,,,,,,,
+22532,0.35,NaN,0,https://magiceden.io/item-details/AdmENmPy22gMsLgxpXMF9KMDYk26Kgf4xz3KhJ481pLy,,,,,,,,,
+22617,0.1437,NaN,0,https://magiceden.io/item-details/GUixA1jrgPdoJNPLhxbZcdkKKzhEknVpsKLtA7hZ28jp,,,,,,,,,
+22631,0.108,NaN,0,https://magiceden.io/item-details/GrLWUxMJ5DakUT4q6Vjn3YBUrwMvqCEeeLwSHF4fSWAJ,,,,,,,,,
+22756,0.16,NaN,0,https://magiceden.io/item-details/7Bydo6URJWcwxQkwFQzr34Rz5FiB6BiLFdTrzeUTM29z,,,,,,,,,
+22807,0.18,NaN,0,https://magiceden.io/item-details/9BESLysUvJLBHn11EZcHwnN5UR8Y4yjNjMqfepFM5hQv,,,,,,,,,
+22829,0.42,NaN,0,https://magiceden.io/item-details/FCjR18F5ugUqC3qhz96mqmE14miCszP9rmtCCNJzaSzK,,,,,,,,,
+22830,0.099,NaN,0,https://magiceden.io/item-details/B1Nnivb58wZY4wonNUNHrMhjAXMgd7rFiUeE7SST1YSV,,,,,,,,,
+22854,0.12,NaN,0,https://magiceden.io/item-details/2JgbVtXeiBagRHkYGDpz8oEMFUPQKeQJLQKyp4ohXoc3,,,,,,,,,
+22868,0.2,NaN,0,https://magiceden.io/item-details/DQG4EjkzYFmRUdzYS7Q3LG4rouDGhazBCjiy2Nvfwus9,,,,,,,,,
 22874,6,NaN,0,https://solanart.io/nft/Auphzn9M1f2xLEKad8mnnJNkb7n4HnQpcafSGa79fVeJ,,,,,,,,,
+22991,0.2,NaN,0,https://magiceden.io/item-details/2jPQPo9BnvEa9tvdyPyfAkBJx62cSyrUwD2CfAkLWG3w,,,,,,,,,
+23035,0.1,NaN,0,https://magiceden.io/item-details/B15AKVPzVwvYNNs9na4t1GM1x9sYPd9iBgfTHdBtyF29,,,,,,,,,
+23181,0.1,NaN,0,https://magiceden.io/item-details/3XAEChAcY2uzXd64c7hgwV2bKgZ5cTRGd86aWenv5LyU,,,,,,,,,
+23462,0.2199,NaN,0,https://magiceden.io/item-details/CXfd6mDPzAgQdimnjjFr3uQcczF8DUQDWMtwSXhyRrGG,,,,,,,,,
+23683,0.085,NaN,0,https://magiceden.io/item-details/7PJ9g26WAtYq1jSMWPtQkfpXDTv3L9j4trTQQcigKLTx,,,,,,,,,
+23751,0.18,NaN,0,https://magiceden.io/item-details/6EQDhzHBjMTDXRQtuNvUZgKhRSw9L7ntsb1fZzKfNow9,,,,,,,,,
+23759,0.3,NaN,0,https://magiceden.io/item-details/AWdULLjS6pzZUwMnVSmf1C7Cn5ZX5xwLprgoXAjDLcK3,,,,,,,,,
+23805,0.079,NaN,0,https://magiceden.io/item-details/4G9kPQzEQGYxKXNRMkvoJs4uyZWzHMAJNAZUohvuAKJg,,,,,,,,,
 23855,1.09,NaN,0,https://solanart.io/nft/Cb7Zw5nPnyCDtpXDbwqRAMHznFYvxVkCSZPwqteiFrLo,,,,,,,,,
+23872,0.149,NaN,0,https://magiceden.io/item-details/7c4ttYEpBzXogwSsqe8ZZGnQbX2hXUGEJfixXkgih2zv,,,,,,,,,
 23895,0.18,NaN,0,https://solanart.io/nft/87oPiq7pLw6r1DTqd36V7p95WeaPtgLubJWFbyBK2MrW,,,,,,,,,
+23949,0.09,NaN,0,https://magiceden.io/item-details/2g7qNv3ZkafeSCU8nMkcMXEpPK4Gpax67qReT3i7PfyT,,,,,,,,,
+23997,0.089,NaN,0,https://magiceden.io/item-details/5bUP6Hyrf2rGBG37QQMjob7FYhiqaMf7KKzn1oBLjhNA,,,,,,,,,
+24154,0.15,NaN,0,https://magiceden.io/item-details/GaAfEC1mQA4FsV2DHANbuZaYuPuDjPVRkgpAKTPop6ES,,,,,,,,,
+24210,0.2,NaN,0,https://magiceden.io/item-details/4UH8oNtmAZxb4FAbWktX7nkwdy1fmBwpfToX9zMJr6fe,,,,,,,,,
+24232,0.19,NaN,0,https://magiceden.io/item-details/87F1dhFPyNpXkQvKMa5mKwewS2zvg7oREYyiJadfH7dy,,,,,,,,,
+24324,0.15,NaN,0,https://magiceden.io/item-details/EdzekunErNfvdHMaHvmzUUro8tQom5XpzFs43XckMvrz,,,,,,,,,
 24431,0.35,NaN,0,https://solanart.io/nft/BGLXuFX1u3NjBiUDQqAP7pAf5L8tLZp7fN43bYbY338D,,,,,,,,,
 24442,0.1,NaN,0,https://solanart.io/nft/6nVQypmizYe7FcRfZ4YvDUHoik79pZ1gLrsPFkMRor6H,,,,,,,,,
+24457,0.15,NaN,0,https://magiceden.io/item-details/HacnTe5WkpPXA1gRPEHfAgaAkyrjnz3kJus5qLCe8M29,,,,,,,,,
+24490,0.25,NaN,0,https://magiceden.io/item-details/Ex6ozqscdaT6uYkDYc9Lw8aZiNthPU7Y4udutoHzYV8m,,,,,,,,,
+24567,0.209,NaN,0,https://magiceden.io/item-details/DaKMk7YWyZfFsguhnA6gRP2cgoSVB8s6ecHswmPkzJa,,,,,,,,,
+24572,0.3,NaN,0,https://magiceden.io/item-details/A2rYDHmMj8acyzDr1x89kQxVVCwVCALNz5kd26SMpYPu,,,,,,,,,
+24696,0.2,NaN,0,https://magiceden.io/item-details/8BZAJDQDBNNRyZ5fPQVNw6M44s8CiXqopDJrvFeXFM84,,,,,,,,,
+24770,0.2,NaN,0,https://magiceden.io/item-details/78ddt8kgur9VxBTHYZagkSnwEmCcDG6TVRLn8rSR7b5k,,,,,,,,,
+24871,0.1,NaN,0,https://magiceden.io/item-details/A5ZYjkQSmkahR47sWaRJPAJxjmNuMPs39eMh3dhUgzLc,,,,,,,,,
+24897,0.119,NaN,0,https://magiceden.io/item-details/Cv2VLzfpcwhSBsug3wZwNoBtS92hEFuH7iat61CqGRQn,,,,,,,,,
+24982,0.11,NaN,0,https://magiceden.io/item-details/Bd49uRP9yLzNQ2muKwEv1DcTzsEPqSacSvzeEkX4HHqq,,,,,,,,,
+24984,0.079,NaN,0,https://magiceden.io/item-details/HTgvYKegLsB8X9MnES5sPMdi5SHkAGDtzQe7Af4fVrou,,,,,,,,,
+25012,0.35,NaN,0,https://magiceden.io/item-details/FfSmuUWuEZnaA8s82BdEdryZxRtYYWbp2oxF3s427kJP,,,,,,,,,
 25015,3.99,NaN,0,https://solanart.io/nft/BKmDHBZcwQ9nKTfAfKxTUFUCP5x43kK8HYFTFDBhFWwE,,,,,,,,,
+25030,0.2,NaN,0,https://magiceden.io/item-details/49PHyqbM89XW8ynyqRsYyJmER5G9smzDEhqqUSbHeDHN,,,,,,,,,
+25048,0.4,NaN,0,https://magiceden.io/item-details/CwD6jbkkA5opbGdz1eDKj9SboZWdnqY8v1yyECw6KHM1,,,,,,,,,
+25092,0.35,NaN,0,https://magiceden.io/item-details/6noasrLki5cTzXSbuC1B41hDX4e6ua7G1s3zkCwAdU5L,,,,,,,,,
+25158,0.2,NaN,0,https://magiceden.io/item-details/DXipQ5tLx6nYuajaAv2SEbkEHNsyAfhq12nQ2HbSUZtD,,,,,,,,,
+25238,0.245,NaN,0,https://magiceden.io/item-details/GoLhTmV6exwVPdpRL3WgfYJnemSZpVZ4Cc62VX6focxK,,,,,,,,,
+25321,0.3,NaN,0,https://magiceden.io/item-details/BqgTzApgnj6K66JpdqerbG4noLZWYfWY8Zgs5EZY7H5K,,,,,,,,,
+25327,0.25,NaN,0,https://magiceden.io/item-details/FNZsD7UKAj6QyPbGbVj6ZqJyzWDAKAtSDsmG6yUBRRfF,,,,,,,,,
+25374,0.27,NaN,0,https://magiceden.io/item-details/BnyzMqw9kkxTdNn79PA52zLCpAfb31LfsW4F5dxswigJ,,,,,,,,,
+25379,0.4,NaN,0,https://magiceden.io/item-details/DdFLoDQXn2SDF2axP85v75e3ZubXZWVj6ThN5F5LyHts,,,,,,,,,
+25524,0.15,NaN,0,https://magiceden.io/item-details/Co5t54evzHk2vEXmxzjFMvcDT6puEsA8gntc55e1Ccvt,,,,,,,,,
+25554,0.108,NaN,0,https://magiceden.io/item-details/AFugKS8vskPYJiLKJ4aXxhU5tio1611RHc9v6vYQC2FL,,,,,,,,,
+25565,0.14,NaN,0,https://magiceden.io/item-details/8Ry9Njy9FT7UGwkVexSqJgA9orYtS8ujDEkLa5oyTHZe,,,,,,,,,
+25576,0.2,NaN,0,https://magiceden.io/item-details/Jtds5oG7HNNrkQMSDaF7k78M88ZrMLHvveDsx5Y2ReE,,,,,,,,,
+25578,0.2,NaN,0,https://magiceden.io/item-details/3ftMsvrHLJVMAuEY4SVrKHuouGNHFefa3qw8KZ28Dqx3,,,,,,,,,
 25667,0.375,NaN,0,https://solanart.io/nft/ChRkyQN8aTnHkZdaGxr441um3555x2PiZ93bZqEP5UYx,,,,,,,,,
+25700,0.09,NaN,0,https://magiceden.io/item-details/WAizt9nMPsUkZEiW3KkXG5BFVVkhn815BdVjkHcgSXm,,,,,,,,,
+25740,0.35,NaN,0,https://magiceden.io/item-details/DeND6Q1o6RgKWQkYRv45vEHxaydV3qvhmVSJdm8vKfVC,,,,,,,,,
+25786,0.2,NaN,0,https://magiceden.io/item-details/9AhHyvCewuXS1adutbS4YCHzVVYCL9nBq4Kf1fc9idcq,,,,,,,,,
+25836,0.1,NaN,0,https://magiceden.io/item-details/At6Mqpuog7b7XwmwJhMiDum1Qf8mPzP3kHitKpgic5G5,,,,,,,,,
+25867,0.1,NaN,0,https://magiceden.io/item-details/AwtsHHosfXsnNFizkJ3kjHJvfQneAbHpYEbfGwEgKfeo,,,,,,,,,
+25892,0.09,NaN,0,https://magiceden.io/item-details/2zqTPGBYkL3asQpvFjGVHnWXGuqrRm92Y5j5Ex3ADLEU,,,,,,,,,
+25895,0.25,NaN,0,https://magiceden.io/item-details/44rXY1aWZciGyGajiL2v1MmLqaNrgDYQNUhFiqV8EJkC,,,,,,,,,
+25965,0.09,NaN,0,https://magiceden.io/item-details/BFxibY9girnKoZTGyKRsugLCVBBMAkRyZVQouWqEfGNZ,,,,,,,,,
 26107,0.12,NaN,0,https://solanart.io/nft/cYah858KcraB9G6VB3M7ecmNcYWwhgLpLHvEuUMgVgk,,,,,,,,,
+26403,0.15,NaN,0,https://magiceden.io/item-details/9r5da3VXEkndKJWHbgEr4hpvaYyyd1sYZKEf2XDtSQED,,,,,,,,,
 26465,0.11,NaN,0,https://solanart.io/nft/BQkcGwnVMWj16SbEAS5y5yLias9SzJLiawobNZnkkuSF,,,,,,,,,
 26475,0.7,NaN,0,https://solanart.io/nft/ANpKxynimJrfJ9mEBPKpTjKP5xjd2SLp8QZr76RctxAy,,,,,,,,,
 26545,0.44,NaN,0,https://solanart.io/nft/64TJBG9UfuQ8di6PT4qKWM1jJQF52XdBoeAzsdz6Camh,,,,,,,,,
+26609,0.1469,NaN,0,https://magiceden.io/item-details/HqQ6U2hSt51CqpBB6DNc16KKWgJqtbGbdMhyCSmmczi3,,,,,,,,,
+26944,0.1,NaN,0,https://magiceden.io/item-details/6BNRvmjfPLX4XcqQzLcxzYcnDUCzUBEMza4crenmpFQS,,,,,,,,,
+26993,0.15,NaN,0,https://magiceden.io/item-details/2QRTxQAi1zCUv6VZkxNPrZEKvja2ESGDdd3KfdVLR2Ex,,,,,,,,,
+27039,0.35,NaN,0,https://magiceden.io/item-details/6Mz6niVLavy7GtKgPG4KnafyoWa2F4z5PmKPQzpkyoUo,,,,,,,,,
+27059,0.1,NaN,0,https://magiceden.io/item-details/4aek1NiXbNNE9WsJwvytYkBEL72aFqryXm12puiJ4MZm,,,,,,,,,
+27156,0.1,NaN,0,https://magiceden.io/item-details/5TfFDqZLjjuyESyRcYXUQd8sHz7S6T2kESp3oapPvxPF,,,,,,,,,
+27269,0.219,NaN,0,https://magiceden.io/item-details/8Cz7MXibTido37FCDNxEi6rD3TqtpuDuWjw6Rp65rF3e,,,,,,,,,
+27410,0.3,NaN,0,https://magiceden.io/item-details/6ttenYcCDNcarnYjvmUPSkJ1w8tRW6Kh52eVhJwHb6PV,,,,,,,,,
+27421,0.15,NaN,0,https://magiceden.io/item-details/5Xx26YmJB1jrkHry47ARM8QstkTUoVgkRs8rhKtpoba7,,,,,,,,,
 27470,0.49,NaN,0,https://solanart.io/nft/EEa5u6kpJprH4aSSj3TWnfRnDBcydr8xpHmAYKYyP9X5,,,,,,,,,
+27535,0.3,NaN,0,https://magiceden.io/item-details/ACYkZoyn7HoUqQw4fYjRXbF9MbUBCPDVBmaG215qXxvF,,,,,,,,,
+27628,0.108,NaN,0,https://magiceden.io/item-details/6aYay5wj2r1PtBixwxpqgeGxZ2Cx7AwdWe4b1iUMGoYZ,,,,,,,,,
+27650,0.2,NaN,0,https://magiceden.io/item-details/8s9EdegYVx9joLQEje6NR8bUJHz9Ny97CckegEcPn8KB,,,,,,,,,
 27677,1.78,NaN,0,https://solanart.io/nft/6ur4ciAZeKZxLEUzvQUyEVBKumKCZ74tgLyffdNA733M,,,,,,,,,
+27774,0.1,NaN,0,https://magiceden.io/item-details/2MTUWtMzagF2kV8cVS3T1zYVt19QbKqC7bkPXUX1d3ER,,,,,,,,,
+27790,0.145,NaN,0,https://magiceden.io/item-details/8ZQwiLjbDr7ieBKPTxqnZs3T1J6xHVrE9K4w1BKHdrJs,,,,,,,,,
 27829,0.199,NaN,0,https://solanart.io/nft/51GMw72n7Kqi4G1412YzN8Z26zpXHDnH5uSj2xkbMesX,,,,,,,,,
+27862,0.2,NaN,0,https://magiceden.io/item-details/6o99xdds5eZta2wM8rhttH8naYdcjt8WBt6YeiJFakjM,,,,,,,,,
 27889,0.15,NaN,0,https://solanart.io/nft/6ow3dvBi31TWobfZkt7A4wEd3osqvYXAFDJk4DrgBCAT,,,,,,,,,
+27927,0.1,NaN,0,https://magiceden.io/item-details/21i7jWcYrYajFY6GZ8CG3SGE2G4e9yTz7hLVLpEjRdjn,,,,,,,,,
+27976,0.2,NaN,0,https://magiceden.io/item-details/8stvoMUB29A1a1Jv4NBJdPfh8mY7Mio61qdJgjUuF62x,,,,,,,,,
+28149,0.14,NaN,0,https://magiceden.io/item-details/5Bnir8UsvR8T8qGmXVhmwBakU9G15ZUNSS5sdooUDtmn,,,,,,,,,
+28182,0.1469,NaN,0,https://magiceden.io/item-details/2u5yuWwZMUpe8zAjkcHpoENrX5svFc4SwaS9VzQxPD2D,,,,,,,,,
+28220,0.144,NaN,0,https://magiceden.io/item-details/CJqu56Z4b7jVE98G95yDNJMFAJ5ZxTf8d4ko39gdHuQZ,,,,,,,,,
+28242,0.18,NaN,0,https://magiceden.io/item-details/FA4EdehE4WcPZb4FWCVCTiG47So3ynypZn3C7BZvqHws,,,,,,,,,
 28313,0.15,NaN,0,https://solanart.io/nft/DBKSRNFWCmLJUy1JxBD6T1NdWLbdL24sd9AP8TpCevS3,,,,,,,,,
 28360,0.5,NaN,0,https://solanart.io/nft/BxQHdMd2NaZypmBBtsKUK3CWQGPtMRxFokLZCgy3jznQ,,,,,,,,,
+28414,0.17,NaN,0,https://magiceden.io/item-details/84si6tiSa19ZMad1nd13UV3LGUNXpFVaqFWZLEGgiWWe,,,,,,,,,
+28419,0.4,NaN,0,https://magiceden.io/item-details/9pevzujvctLBNN3G9TWj5Q64rTBo1E9748tKVkaBySXb,,,,,,,,,
+28457,0.09,NaN,0,https://magiceden.io/item-details/Ekf7uk1d5V59V9usGGCPc9oDfAyxoBwNUnaJWAchexuQ,,,,,,,,,
+28495,0.09,NaN,0,https://magiceden.io/item-details/8WoCGSoJE3hEKswPPHxB63opMEhFQ6PcZyHkCSximdi6,,,,,,,,,
+28514,0.36,NaN,0,https://magiceden.io/item-details/3gcocHw6asnaeBttSiBsMGqB4fFbdkSRFtmg3R1b7Vhj,,,,,,,,,
 28607,0.11,NaN,0,https://solanart.io/nft/5rWyWuC2oLMf7VZu8J8hEpCgB4nhyLfZ14rR2ur2iDXy,,,,,,,,,
 28616,0.2,NaN,0,https://solanart.io/nft/ErDpPy87bhWaEjY28ueTqmt2kdzpbHDbz2EtaNU4pRWu,,,,,,,,,
+28697,0.1495,NaN,0,https://magiceden.io/item-details/7Q5ACNQX4HuexSGndhS1eKxShHDWCDkAxDeY7aRW9B6R,,,,,,,,,
+28793,0.1,NaN,0,https://magiceden.io/item-details/4WM12ZZnehSfMuRJW7zoa8Dp4L37cZcoX5FgHUyh1i7d,,,,,,,,,
+28812,0.1,NaN,0,https://magiceden.io/item-details/5WoEnYFW9FjDkKB3LVzxnNzki7HfMUPHtNRZ86GPVmH1,,,,,,,,,
+28841,0.279,NaN,0,https://magiceden.io/item-details/4qT6DJhQSiXKw9d1J29paCj7gpzY1KFe15iiXJBx2QAy,,,,,,,,,
+28847,0.1,NaN,0,https://magiceden.io/item-details/Ctoh3GSbcL3owCezhVsCKcAKVgP4QHptoCjwKyh2fNyU,,,,,,,,,
+28947,0.1,NaN,0,https://magiceden.io/item-details/FSvfigQdH2xohFhRTXNnqJmXYav1amsr8n9BK5s6EcCr,,,,,,,,,
 29009,0.35,NaN,0,https://solanart.io/nft/CDAPYWjePPtAXBPFU1jZMpG4RThEx5Bjp4WXUYtroJ7G,,,,,,,,,
+29142,0.15,NaN,0,https://magiceden.io/item-details/2B52d5Qs88x9BHJo7SN39xRP4sp6NwoWcpkxwrw858DR,,,,,,,,,
+29151,0.15,NaN,0,https://magiceden.io/item-details/6CessgfFEra7vmewNQdoRYhHE7T7kHUoedsKoVYckeRJ,,,,,,,,,
+29262,0.35,NaN,0,https://magiceden.io/item-details/3AfFt5ku3NC24vHBCv8CThZoGXPx9s3YBGvPs9NSHXst,,,,,,,,,
+29301,0.2603,NaN,0,https://magiceden.io/item-details/8vLKteCSJBeE7n2qoEbkeDwqFFDmxx4kehpTqCZjoX2a,,,,,,,,,
+29307,0.172,NaN,0,https://magiceden.io/item-details/99Yf9SDiK8X8Xn5hxBDuUEHVTsQ2kBE2QL4JaZnvAEQL,,,,,,,,,
+29310,0.12,NaN,0,https://magiceden.io/item-details/2nCjN6YRrr8QRoBjHzydXPAyfLL5Zox6rsVaVqKw5TAQ,,,,,,,,,
+29404,0.1,NaN,0,https://magiceden.io/item-details/DnJNYenq59f39setHgdZPBRB7vq3L1fF9bC1eTTYCHDJ,,,,,,,,,
 29467,0.25,NaN,0,https://solanart.io/nft/8EGJMRW3C9tH79aNEvHe5igcMAzGXaPg6pL2BGrkPa3U,,,,,,,,,
+29567,0.31,NaN,0,https://magiceden.io/item-details/3cuCxiiJsAHR4FjJVhhQ3dypJ6h2AQuSHvxtdPGsHCVj,,,,,,,,,
+29568,0.29,NaN,0,https://magiceden.io/item-details/9QA2fKhTVpvP7yvvJaxm4fYaQDE1YXMWdj5ttWowGxt6,,,,,,,,,
+29575,0.2,NaN,0,https://magiceden.io/item-details/HYRYW7BJUvuXd4Gsqu6YWudvGSfL68HJKBLXZFEhFgvW,,,,,,,,,
+29587,0.1,NaN,0,https://magiceden.io/item-details/9M8wLEDdVAT6Y6o9hi5H1aCQSMa86az1nD3ndmTJdjNT,,,,,,,,,
 29648,1,NaN,0,https://solanart.io/nft/HzEsQNAXfxd1SNP4Lvib5WjG1YaJujJd6yWLqafdEnkL,,,,,,,,,
+29675,0.4,NaN,0,https://magiceden.io/item-details/h6MRXT6hzrfDZwit4cfiNJph8QdybRH1c9GFbUMEr1E,,,,,,,,,
+29830,0.14,NaN,0,https://magiceden.io/item-details/GXbwVFNeiPAqaPktmhayE2bGG3PNSgG7KJK5TEGB3PZo,,,,,,,,,
+29883,0.25,NaN,0,https://magiceden.io/item-details/4rRTzTTEP75EfR67UBWi1rUExC4wTfpqZBzhTTzGPaMf,,,,,,,,,
+29932,0.2,NaN,0,https://magiceden.io/item-details/AMbUX1quKsMycYcN7dFmTRL4txhUrPqZHZFNV33PbAgn,,,,,,,,,
+29948,0.15,NaN,0,https://magiceden.io/item-details/CuPpYmrZyWjoiEr2uAgaWYzCQsbowfmdoQrBi9qKz2H9,,,,,,,,,
+29960,0.16999,NaN,0,https://magiceden.io/item-details/Fto5EhS7FJ5jvMJUyf1KgctGL2D8LCg93qMnWqbqtLss,,,,,,,,,
+30020,0.08,NaN,0,https://magiceden.io/item-details/9w3y1hzCEBjoZsBoCDMXk9Ntp26Y39BuyNPwYUZjbuwS,,,,,,,,,
+30023,0.1,NaN,0,https://magiceden.io/item-details/CWv9wkfChVpaK7Nt4ipPUweQW3Wtz1GdWngN2Zor6AoK,,,,,,,,,
+30135,0.1,NaN,0,https://magiceden.io/item-details/AYP3KruogKw39ACELq7VCh39Tt1f83B2cYtoNdzuFKn5,,,,,,,,,
+30144,0.1,NaN,0,https://magiceden.io/item-details/BZ91ziyw5AajPrjir7jeJQxZk4WG9gAKAeWUK7nSDqfX,,,,,,,,,
+30166,0.1,NaN,0,https://magiceden.io/item-details/9KejjEHJTkvZT4jCb5jozqHABRfssaveXvcywJCVRMV2,,,,,,,,,
+30179,0.2,NaN,0,https://magiceden.io/item-details/9NrwaWiLvnruFRwTLhuuzcuvDWFDf3mRvsBMyL6DnRSs,,,,,,,,,
+30200,0.1,NaN,0,https://magiceden.io/item-details/7HKvZXPqgSeHy1UFGvBiYLqHvnrsfyL2niXS2M6gcLrJ,,,,,,,,,
+30320,0.108,NaN,0,https://magiceden.io/item-details/F6Q7m4qTsYE3QrvBHV3opVcQKyCzRyW9AT3j76CAhsKJ,,,,,,,,,
 30328,0.11,NaN,0,https://solanart.io/nft/7w7DRggbAo7tuGgaKsJHZcn3r68HTZrZuELifJZgHbHf,,,,,,,,,
+30338,0.18,NaN,0,https://magiceden.io/item-details/FbKiRbUQUQK9NPgwdJhsPRADgogmPf9AAuYcJeAYiJ4o,,,,,,,,,
+30459,0.108,NaN,0,https://magiceden.io/item-details/B5NEtVT19SQWHBM9NR1VqtMkxuHMfdS6sgiK8wZKrinc,,,,,,,,,
+30562,0.12,NaN,0,https://magiceden.io/item-details/8sTnsskBjFrbRNMvjKSSryZMbhSCBKDuy2fkwqPkH4hH,,,,,,,,,
+30760,0.33,NaN,0,https://magiceden.io/item-details/Ax4dhnXPsxqgAkQQ81UdqgV4hr9Wvd3WtWKkui1sM7aF,,,,,,,,,
 30827,0.15,NaN,0,https://solanart.io/nft/CjJtJqhRYdsmwoua9jCzVpt36T7przuVMADGRM6BtXRB,,,,,,,,,
 30883,0.6,NaN,0,https://solanart.io/nft/88h8zVVKWbWdA41dppNisGUnjphQvTrB685rczAWm5vj,,,,,,,,,
+30886,0.1,NaN,0,https://magiceden.io/item-details/7fLofnSdiSPu6od5zPK7YWNBenyr7FYQRZY17RnGA2iF,,,,,,,,,
+30983,0.235,NaN,0,https://magiceden.io/item-details/HpSZa7bYdyLJVSkFHp2ExXDV3pY7VRSL5c6tK6voFP6C,,,,,,,,,
+31059,0.15,NaN,0,https://magiceden.io/item-details/8961MU3knYc2BDFYDRjw7A9Th4caoQPeNkZnUmiBAzt2,,,,,,,,,
+31080,0.1,NaN,0,https://magiceden.io/item-details/xaK5farnp3vv3sbyH5VP2sTPfe4d8UiWx1n1vLiakV6,,,,,,,,,
+31192,0.1,NaN,0,https://magiceden.io/item-details/BEZVfxiUCdHRExzoTY8UPD4u8PBGCFgcPNdhvCeYEPSR,,,,,,,,,
+31312,0.1,NaN,0,https://magiceden.io/item-details/85v8Cuk4yr75uWiNmdBaQVT8pMUDeYS1bE3eyejFM1Yf,,,,,,,,,
+31322,0.2,NaN,0,https://magiceden.io/item-details/GMXpnYhxGrYCZdimhZjt9HRpYQnKhjP4QCNHtiHR3dHu,,,,,,,,,
+31324,0.3,NaN,0,https://magiceden.io/item-details/F2ZKKNPdvkksNVh86PtWDtsZQXjic3HqAYHnbW7jDztq,,,,,,,,,
+31349,0.4,NaN,0,https://magiceden.io/item-details/3LJtTKtYcLWxWzazttkN66q99bbTpKpAQa22aKq8Pk1E,,,,,,,,,
+31410,0.1,NaN,0,https://magiceden.io/item-details/D3oFFWcAMWhzmkaVhMFHXnDSZkWBd3oJjiF3Z4aWYNsY,,,,,,,,,
+31441,0.2,NaN,0,https://magiceden.io/item-details/8quj97Ch9sB1FqFHiC286ntXq1SFWrDh8HkqKELSdx8G,,,,,,,,,
+31540,0.4,NaN,0,https://magiceden.io/item-details/FgDzFq58nzQVM11VNwZ3UvZS1VNXUNnjUMxYT7XNaYYS,,,,,,,,,
+31623,0.16,NaN,0,https://magiceden.io/item-details/CrJTqADJbBmZofSHR8idzBvqFNKWXKUoz15sKJRkhgeF,,,,,,,,,
 31656,0.08,NaN,0,https://solanart.io/nft/8KHuotuqBru6Mr9ZPK2YvbBshx8S7sAfzxoYNkb4C2Dz,,,,,,,,,
+31709,0.1,NaN,0,https://magiceden.io/item-details/4Lw7MMNF5vhw5c9a7uuec5WJC7nmks1jwVzVRDZ4cYr9,,,,,,,,,
+31741,0.1,NaN,0,https://magiceden.io/item-details/Csd1sgTrLXbfiDULuAdTPtJ4iSHufdd1P12JKxUsJMNH,,,,,,,,,
+31786,0.2,NaN,0,https://magiceden.io/item-details/GXvX9ivcMUG55bGMguUURcWt3ywKfudYgVrFTfEr8RKM,,,,,,,,,
+31835,0.21,NaN,0,https://magiceden.io/item-details/ERa8ZF7qyqgQrEG6FrYy89w23G57LofStnZ6zgoVYWZh,,,,,,,,,
+31843,0.1,NaN,0,https://magiceden.io/item-details/DUqmMHEmk7oUR8Th84MAEf3wKwwcLTDphA3k9pXKexLQ,,,,,,,,,
+31855,0.32,NaN,0,https://magiceden.io/item-details/3UuNP2cuLUQogHbhNZm8wGFa441C8Y635tTvVG9Qxpn4,,,,,,,,,
+31933,0.3,NaN,0,https://magiceden.io/item-details/4zpE9YwqmUZ2C9Hr3jKJipp27nwiy4ZLgB7v4Rpbp7M2,,,,,,,,,
+32110,0.15,NaN,0,https://magiceden.io/item-details/APDJ5HiUXTXC4n2TNtmLHPatfEvi532PCcS6nwWPyoks,,,,,,,,,
+32198,0.17696,NaN,0,https://magiceden.io/item-details/ECCcx4MbrTCoppRBe7kEBpebdK5DACVDr8r8rDervPKV,,,,,,,,,
+32204,0.1,NaN,0,https://magiceden.io/item-details/CzuMDtRmvenczBGcX5ADYWGvxkG2mXWnMEPV8zhJ2iAs,,,,,,,,,
+32254,0.249,NaN,0,https://magiceden.io/item-details/DYU6UF24HwEu2sDBgPKAXcPoGDxSvo4GwnM1F7c7485m,,,,,,,,,
+32299,0.1469,NaN,0,https://magiceden.io/item-details/DrqtLfK3FFKjLRnBgJdGk6LhydAfibLMU6CKwRRYb5PH,,,,,,,,,
 32350,0.08,NaN,0,https://solanart.io/nft/6HmGg4iW4XWtY77CxJ23145CXU5v9gaE4zDNQc4NCD8w,,,,,,,,,
+32481,0.4,NaN,0,https://magiceden.io/item-details/Ca64GWPAVrcUswuxw13TcVXJZmtRdGDKYjjC5ni3gvmc,,,,,,,,,
+32527,0.1,NaN,0,https://magiceden.io/item-details/HooFQQeeLMwCRDfGouSaKwgffaLeUsjSWp6mRM1oE18n,,,,,,,,,
 32588,0.2,NaN,0,https://solanart.io/nft/9Jo1pUMzi3r5r2qRqpyGSevAnjYLVTn8cF6haj1wZ6rH,,,,,,,,,
+32622,0.289,NaN,0,https://magiceden.io/item-details/BAqM1bJa9CfRpWFsArC5JXW3Ngv81CM71hzTSyfq3xzX,,,,,,,,,
+32900,0.42,NaN,0,https://magiceden.io/item-details/CK5mf9eduq9MQtQo5UDPw8CosKTKJfhmqDSojwbRkY7p,,,,,,,,,
+32904,0.31,NaN,0,https://magiceden.io/item-details/Cu6kgD3ZHtTeYdspnLp1UPpWpjjgA38F9vPoEuc5XrFu,,,,,,,,,
+32907,0.15,NaN,0,https://magiceden.io/item-details/3SKjRrsq1WPBvdZC94MpB9dKo9MVG5vyGRZUhjwc6tbk,,,,,,,,,
+32928,0.1469,NaN,0,https://magiceden.io/item-details/9ovTJMbFMXS9dXSxkJMKiRyMEL1wftvjd5h7E1MxvntX,,,,,,,,,
+32954,0.15,NaN,0,https://magiceden.io/item-details/GoQyAvuDLBcBJ7rNCd9Nw5vtUdEstRpiffmdjsTjayok,,,,,,,,,
+33002,0.144,NaN,0,https://magiceden.io/item-details/3kJH67g4fiZ7GmuGaaUg9YmavyvKouRHwBUSLDHTwRAd,,,,,,,,,
+33050,0.15,NaN,0,https://magiceden.io/item-details/7TBAsiNs72CZaMxAKrYQAVo4WKdLa3H4wWgVQqHTpSjF,,,,,,,,,
+33068,0.26,NaN,0,https://magiceden.io/item-details/DjoK7kveEyiqDCnE4GcR1Zh5jA7xPqotnPFEn5omeY1e,,,,,,,,,
+33083,0.13,NaN,0,https://magiceden.io/item-details/45tvLqgG1Xvf1t4ijXno8JuHctJuwu54zJHM99mM2FRu,,,,,,,,,
+33119,0.108,NaN,0,https://magiceden.io/item-details/3THt7pecYrXrXbsNyXC5Fd4amFkNzwZ1zvD748ZRBGWj,,,,,,,,,
+33175,0.25,NaN,0,https://magiceden.io/item-details/CqtgxMgEBGWovMcHF8pZDEXQscViCXJsTkc3cnJzbRpd,,,,,,,,,
+33358,0.4,NaN,0,https://magiceden.io/item-details/25UFKjagfTWDwyMi4c6oDrwyZCxd9inHFZi5geDrueF3,,,,,,,,,
+33373,0.1,NaN,0,https://magiceden.io/item-details/8J94SRCFdwDLdARQTZqi5DnjJbBNhqDAA3jYoUzHyo8C,,,,,,,,,
+33398,0.14,NaN,0,https://magiceden.io/item-details/AJrpD3SqJb1yGZEChjeA2b7aGSaVcNBgsN29d4F6cyXX,,,,,,,,,
+33528,0.25,NaN,0,https://magiceden.io/item-details/9NzpeBxfTN8Q2TXHfLtvj1yyTyJrbutZnkYs9Foafvor,,,,,,,,,
+33594,0.33,NaN,0,https://magiceden.io/item-details/47LJAfDZy3hpSK27oRkSnHzQiYRBxUfjx8J6HToqYMbj,,,,,,,,,
+33606,0.35,NaN,0,https://magiceden.io/item-details/DBY3ofZju3otvRppUvbk9YUKGx7wYruiK2RiiWKTinNG,,,,,,,,,
+33618,0.22,NaN,0,https://magiceden.io/item-details/3uyJzkVQP1cb2MgX3rbsU2t66ESearUzNGfARehNaLC9,,,,,,,,,
+33704,0.13,NaN,0,https://magiceden.io/item-details/9EqdrWEat56aJCG38ZMMidcKqEns8Y9WrCzmpAk9usYL,,,,,,,,,
+33719,0.1164,NaN,0,https://magiceden.io/item-details/3Gq8G47qxNrJT6puXoD8SciADfQjvGC15JtsZBhWCYNJ,,,,,,,,,
+33761,0.108,NaN,0,https://magiceden.io/item-details/89ZQRkHU4xG461SZN4WN4BkAh5CzqXRrkPWHxzrgVB1z,,,,,,,,,
+33790,0.2,NaN,0,https://magiceden.io/item-details/5DpFvgbPuZJ3AXUtjCuD5PuN4f4RSzNj7FEdJBsv6sDG,,,,,,,,,
+34034,0.2,NaN,0,https://magiceden.io/item-details/JUsS1AsfEQYX5iS5928rZAto5bSg6LwyPDj21RgnzT8,,,,,,,,,
+34035,0.1469,NaN,0,https://magiceden.io/item-details/HHHoGqhXMg5k1m43jgwMS6YWpkPmpuwVmTxY6foGmS4K,,,,,,,,,
+34059,0.2183,NaN,0,https://magiceden.io/item-details/8aCdsmtwtqxR77H49SFLMMRRfJY9oM7VroUw6gKyw6yj,,,,,,,,,
+34063,0.39,NaN,0,https://magiceden.io/item-details/7iaabWzGrJP4VomjtcVVito2fsjskijjVJe3U4DzATtC,,,,,,,,,
+34095,0.129,NaN,0,https://magiceden.io/item-details/A2XJreGQRyYFdx3rQTVmY4Tzuo6UktXou2VPinKfZ6bE,,,,,,,,,
 34129,0.3,NaN,0,https://solanart.io/nft/93rgQsKNygRHtfPhabvJVdEnn8BE9bT6jhrjuc2RXofh,,,,,,,,,
+34198,0.33,NaN,0,https://magiceden.io/item-details/BfvERtmuFWzxMAFCoGQNXy95QuT9DZ5sXuA3HTUrLjYz,,,,,,,,,
+34246,0.1,NaN,0,https://magiceden.io/item-details/Cx3e1waJTyAVyTYowbCiH1AXjD4Y6P6nuj8UN7zxcXJz,,,,,,,,,
+34283,0.149555556,NaN,0,https://magiceden.io/item-details/EGLJPeVKGbb9o4Bobxyy73k7ofw6eHizhtfR789yQxUR,,,,,,,,,
+34353,0.1,NaN,0,https://magiceden.io/item-details/DXp2Q6zQoARrLDdsLtVUZDwtp7N2YRcEkWAMAu9C6zMr,,,,,,,,,
+34467,0.2,NaN,0,https://magiceden.io/item-details/EgTubqmfC8FQrsdBevkVGonq6xDBChsUfJXK5SWCU5Gt,,,,,,,,,
+34495,0.15,NaN,0,https://magiceden.io/item-details/7yTkzEZ3XRA6AaPqNn9dSqA4tTZZ75JQnEwVdBc3yvNE,,,,,,,,,
 34668,0.08,NaN,0,https://solanart.io/nft/48ogQfxybVspPTstCj2nKfX4VAZ6bRmiUUVHTBozid59,,,,,,,,,
+34692,0.15,NaN,0,https://magiceden.io/item-details/2nAVPeQxpaFPFNDrQ4af5yrLTtMsM8jv17FfCEh148Kn,,,,,,,,,
+34695,0.33,NaN,0,https://magiceden.io/item-details/EYt72y8xwG8BC7xSGPaNRxzvXjHu3sz3cTCkFt17uCZp,,,,,,,,,
+34823,0.15,NaN,0,https://magiceden.io/item-details/4nyjL19raqy6MTH5fb7NBjXNtyvLN2B2T66KVcDa7DJH,,,,,,,,,
+34907,0.15,NaN,0,https://magiceden.io/item-details/BcfguFbWrEkxrgR5ENr47d19cEtSvYybUvHbhuPMdHS1,,,,,,,,,
+34958,0.3,NaN,0,https://magiceden.io/item-details/BshqLiUvCEM3W8o7MMEV7rzYi9b3NxnTYXQSznEyPCZf,,,,,,,,,
+35021,0.289,NaN,0,https://magiceden.io/item-details/AHAtLxdT6QNtG5LnXwbVBBCmeq5YdfcKGTsGpJKNoBB8,,,,,,,,,
 35049,0.7,NaN,0,https://solanart.io/nft/25Dtg1wPCEz8XQko7J6oigrz7fh7uNP8mTroausYMBCb,,,,,,,,,
+35066,0.14,NaN,0,https://magiceden.io/item-details/CohZQ7WPALSwAe1yoXm98WsJVfnS4aJFTLFUV8m6t82t,,,,,,,,,
+35082,0.42,NaN,0,https://magiceden.io/item-details/7EL8e8eXvS17MQWRFWFXKMxiAqnaYCuaWtubJY1Q6E1k,,,,,,,,,
+35125,0.25,NaN,0,https://magiceden.io/item-details/BKkwrtcyESkh64CkLUPEhoTZQiA2Wi8cVatnHk2gXGTQ,,,,,,,,,
+35250,0.25,NaN,0,https://magiceden.io/item-details/Rx5tzqPqQc7rBXinRJzJhiiSKgGrDWzr7abrDXroFig,,,,,,,,,
+35257,0.1,NaN,0,https://magiceden.io/item-details/4mCFCp5bQmiiZCd14FQAzJDyx5tBDpjx8tuEgnhSVPbj,,,,,,,,,
+35259,0.108,NaN,0,https://magiceden.io/item-details/BCr6uziYwP5QmuzXrrVKKJHAiXMFj93xwacqhJbsJ7U9,,,,,,,,,
+35367,0.15,NaN,0,https://magiceden.io/item-details/7tUoMMgswVTGtbfPvCRuwa2PM2muXaBVSAaNbFxmtRRE,,,,,,,,,
+35491,0.15,NaN,0,https://magiceden.io/item-details/4sD7iBADabi4us6TZM5a6SseiKcjojAbNL2gNHzsYsLi,,,,,,,,,
 35589,0.1,NaN,0,https://solanart.io/nft/BCj5FYogr9jYVhyRLLDfq7QVUeZLGgypBZZdJRr29dT1,,,,,,,,,
+35681,0.1,NaN,0,https://magiceden.io/item-details/BjkZvsDZNw21yhGwAgC9xuR4n69baiE4VzVj154yV8s3,,,,,,,,,
+35752,0.3,NaN,0,https://magiceden.io/item-details/2EEYcV7FbxGdnHTdb2RRQUhRjdPJpGGTCBG8h7NHzDA8,,,,,,,,,
+35768,0.1,NaN,0,https://magiceden.io/item-details/D4d6NeJaPALaSyaHSzi4si56csKQD3xjSwqy59wnhkqr,,,,,,,,,
+35782,0.3,NaN,0,https://magiceden.io/item-details/WJS6Co3XVeLrH1kEanJtDLSD798iZZZiFBqx4xCB7ik,,,,,,,,,
+35831,0.25,NaN,0,https://magiceden.io/item-details/DwmXvtcPdKaKb4XNHDv2xbMYqLP6WtEyE7eidCmw3mkF,,,,,,,,,
+35857,0.14,NaN,0,https://magiceden.io/item-details/5EcqtKVRVXSWTNpLtZsE5jqvAnMvrTBspYpLTwAeQRU5,,,,,,,,,
+35890,0.15,NaN,0,https://magiceden.io/item-details/2MNg4cXgUtUgbwxy3t249xaNfBoFJDGEctuKD9NVtEiN,,,,,,,,,
+35892,0.25,NaN,0,https://magiceden.io/item-details/22MPGsgLyvAMi9gHsaNwnzmxHsHv8doRXZzNN9QXaxJ4,,,,,,,,,
+36106,0.16,NaN,0,https://magiceden.io/item-details/FH8KkY9aHwwWh1EhhyPmdrnfmj1JRc6mfMnC99W76hAn,,,,,,,,,
+36263,0.16,NaN,0,https://magiceden.io/item-details/CVBHiuzaWi5ru5jDEpJMzyxttB3zbyVq3frhMN7fhWSb,,,,,,,,,
+36303,0.11,NaN,0,https://magiceden.io/item-details/5p4nL4pRPkV87VhzwdXjRWXbeBXbDTfBQwSWSpMPW5mf,,,,,,,,,
+36424,0.1,NaN,0,https://magiceden.io/item-details/5NNEgWCn6M9c2QRbrCX4t6uSvFaUB2nHZRw1bx267yvj,,,,,,,,,
+36427,0.3,NaN,0,https://magiceden.io/item-details/6iN2KLqTeziDeW3BnMTUUrUihEMPdEREYNDKf8Q4yGfM,,,,,,,,,
+36447,0.209,NaN,0,https://magiceden.io/item-details/7HMzyu1935wMfHiptoCd4qD2do4LxixyHD9Jj8bJVwj3,,,,,,,,,
+36461,0.24,NaN,0,https://magiceden.io/item-details/GMxp6yNHD8DHfMJxeHNUtK54AxYKvN9PjiDoTYRVAn3u,,,,,,,,,
+36533,0.3,NaN,0,https://magiceden.io/item-details/AL7CcrEoZnfBqimk5AzjYtmiMpwdzEX8QkbXGRBmy2LP,,,,,,,,,
+36566,0.09,NaN,0,https://magiceden.io/item-details/EtXGnGn5zXzdFYBJapz6Lk74PwYGjBXv4hfDamnsmYMH,,,,,,,,,
 36636,0.15,NaN,0,https://solanart.io/nft/FjGE4a8J3mzVATxjo2n17rvSJYsj1HAzf12HRbP2ikaB,,,,,,,,,
+36742,0.12,NaN,0,https://magiceden.io/item-details/7EpA6ukNG38aUX1vbZQqtfWiwgJ9nD2AgG8mhSmKZa8J,,,,,,,,,
+36796,0.23,NaN,0,https://magiceden.io/item-details/G38G88RPkpn111Gp4919e1CX949rCEJHn3UENjDK6owP,,,,,,,,,
+36823,0.3,NaN,0,https://magiceden.io/item-details/GH63ZvEN65mXDHRTCd4bQ8SHjvrqHivk4mxcHWTh9NJD,,,,,,,,,
+36873,0.15,NaN,0,https://magiceden.io/item-details/7fuDqCifwndTu7mNLBcWA7vh9LmoSBCymS9cRw952Hw1,,,,,,,,,
+36918,0.28,NaN,0,https://magiceden.io/item-details/234dW1tCKqb9Buc7hf11ZhnmB7tLnVcmSej9xV5cUeYJ,,,,,,,,,
+36931,0.2199,NaN,0,https://magiceden.io/item-details/7ino5DgqGV7HSaW5TZrRmioV3yyVdteKPjwET6P5PC2P,,,,,,,,,
+36999,0.25,NaN,0,https://magiceden.io/item-details/FrY4dRXeAtkTRSt4imjujc6QwqA7AXimiUZu5s7f8fyE,,,,,,,,,
+37020,0.1,NaN,0,https://magiceden.io/item-details/B12VLG2nCSpR8goKeFmcCKpLwwak9rRG8134ZsK2byt6,,,,,,,,,
+37031,0.22,NaN,0,https://magiceden.io/item-details/HCjeSLU7kbhZ5zJLqkEnXW2Bqn93sg1BGpU6re6thhV,,,,,,,,,
+37096,0.32,NaN,0,https://magiceden.io/item-details/HyBW3mdLh2UqSxiLBRL4FwJTxEmneG8K3qzXFeJk8Jk7,,,,,,,,,
+37154,0.3,NaN,0,https://magiceden.io/item-details/GckaRZM6gsqDRjdchVKh1ykW8Vs12bEHuePrYZR5XvbD,,,,,,,,,
+37171,0.14,NaN,0,https://magiceden.io/item-details/Czn31X45drzZSastaYGvC8y4ecAqBmR12t9mxAFM9m5r,,,,,,,,,
 37255,0.65,NaN,0,https://solanart.io/nft/5M8NbZZDzeb5qBLcu6zoZVpPy7MWKcQ2mkLHW8ZUHPay,,,,,,,,,
+37264,0.12,NaN,0,https://magiceden.io/item-details/vJnHgkU1nbdec9QzsB8HkSfeB6qeuNyNeJveikTYRSL,,,,,,,,,
+37285,0.3,NaN,0,https://magiceden.io/item-details/C7bGRsQrddmoZwPFqvB1vwXqZ2bbf3kTim48jzgof3Sd,,,,,,,,,
+37293,0.1,NaN,0,https://magiceden.io/item-details/Dvq8rzWV17CVdQB1rBbDia4xMHPT66TdrdpnBRKqKfsJ,,,,,,,,,
+37418,0.33,NaN,0,https://magiceden.io/item-details/5m7KsoBwGKeMV6x9EMZrwB5KMkc3xKLFvApy6hekDm5x,,,,,,,,,
+37428,0.25,NaN,0,https://magiceden.io/item-details/9vnKtnexvsdnYcm45ieh6VZvPMP34Kkn6aQQJmP7KoTC,,,,,,,,,
+37489,0.16,NaN,0,https://magiceden.io/item-details/7dW11Fiv3ciVygQB5PadZx5w4FdaAX1dTSbC1mt1kh85,,,,,,,,,
+37541,0.234,NaN,0,https://magiceden.io/item-details/4MYbn5WaGUFRsRMSgdb92eV1ioPTYSDvT6woz4hnhhro,,,,,,,,,
+37573,0.1,NaN,0,https://magiceden.io/item-details/FtSFKA2RAvGhDV5SiQhZXs5c4xJuoo2i4Jj5gVJx7u6J,,,,,,,,,
+37608,0.2,NaN,0,https://magiceden.io/item-details/FZRaSuzS48JF1nt48yPrevpSVUWHD1todg1wPNrL4QaV,,,,,,,,,
+37892,0.1,NaN,0,https://magiceden.io/item-details/85awjmxyESYN41vc6jkMid1ExTS9WX4sk4xxChLtkrXH,,,,,,,,,
+37925,0.1,NaN,0,https://magiceden.io/item-details/3QZMdRgzdgfKdo7HK5rs2KVqkccSfvNxPpTP98osopkg,,,,,,,,,
+37998,0.12,NaN,0,https://magiceden.io/item-details/Dwy64Rqi5xNgBwaZ37m5z9VLdGfjprK5sLDHREeE9yiT,,,,,,,,,
 38027,0.75,NaN,0,https://solanart.io/nft/728p8rknBKZDscr9SH9oGV9dS5Zw1wC7m5EQVwqthG2r,,,,,,,,,
+38219,0.15,NaN,0,https://magiceden.io/item-details/BWHFDg2yQisQxy1M2rCfHhksGo5kEW61zyn5KTNo4Qfo,,,,,,,,,
+38364,0.35,NaN,0,https://magiceden.io/item-details/G6LipY1PXQXyXV16z3hThswiLZEgPZoMnR58s9WzzUS2,,,,,,,,,
 38616,0.14,NaN,0,https://solanart.io/nft/Ho9N8fdq5GTXn38aiPyKK2ewKit6GbigPTtXih2TxfLF,,,,,,,,,
+38654,0.1,NaN,0,https://magiceden.io/item-details/Go76KJKwnHrjxeZnH1PMdS8EK1HVxA34cGqYAgfHGQp5,,,,,,,,,
+38672,0.12,NaN,0,https://magiceden.io/item-details/FoGY1Gh6rrA3KrLU1Pv1fG5W4rZsKr8nkQz7LZRkQXwZ,,,,,,,,,
+38779,0.192,NaN,0,https://magiceden.io/item-details/Bzw1mp83ptsMGXA3PrHk1Aiq76A5tLoYRxvMtzWCxt57,,,,,,,,,
+38889,0.2,NaN,0,https://magiceden.io/item-details/GyzK5Rws49n69SFPc3VhnQ4bRVFZfJXW7AUZ6RyZGGyM,,,,,,,,,
+39072,0.18,NaN,0,https://magiceden.io/item-details/3Fg2ybyxuyfMtHbW5ZJtL2vYe5sjn9hT3obdS3LWPp35,,,,,,,,,
+39096,0.089,NaN,0,https://magiceden.io/item-details/HjjDzAFCck4vpNfdk8ujayTtt6w5MuM6CRCRazybSQZ2,,,,,,,,,
+39134,0.0889,NaN,0,https://magiceden.io/item-details/FPQYRWgqAfiD9jGZhYHF83jiQYJGUJoSsCFiTWta64LD,,,,,,,,,
+39187,0.089,NaN,0,https://magiceden.io/item-details/ExmvwrSqzS3mutVF228P4SsgcvUs5tkC2CJPhsQoUPRv,,,,,,,,,
+39246,0.3869,NaN,0,https://magiceden.io/item-details/8nrB7WFWSYyqFey5MZAiPV4kaiGRLbWXmL17izm3vdhu,,,,,,,,,
+39271,0.15,NaN,0,https://magiceden.io/item-details/zBxiZtpjL4E3W4GArW5E12Nv3QYcbLhUwoUNjHnEvqZ,,,,,,,,,
+39285,0.4,NaN,0,https://magiceden.io/item-details/3Sv6UuMpv72B79e7n5KhbQTvfXfbW1hGfFoHodWBpnSB,,,,,,,,,
+39347,0.32,NaN,0,https://magiceden.io/item-details/Cx5ZvAmYtzg9pmgrsae9HsAPdmFCBXQkQ1KfsMMb9JEo,,,,,,,,,
 39501,0.19,NaN,0,https://solanart.io/nft/J55Ts9iAXQ4abcHaGE9foG9cfexLLGRCWEwYuAHDNHh9,,,,,,,,,
+39546,0.15,NaN,0,https://magiceden.io/item-details/7BNLHt5vJEPS5tQ1KGqAJW7o3FzzEoryGwbQwjLwysxa,,,,,,,,,
 39693,0.269,NaN,0,https://solanart.io/nft/9ZHcf1WmZT5kzp589wL7TZCeWuHSdDr6bpGSihvh5kYJ,,,,,,,,,
+39700,0.165,NaN,0,https://magiceden.io/item-details/HVpCq25SHGVWJnGwwuCbedbGHpDma8LnmB4NRAPPeSVk,,,,,,,,,
+39728,0.4,NaN,0,https://magiceden.io/item-details/GJvaFSZD44mQau6XEkkjapXjAqTNH2H87rGNtrbLrJt6,,,,,,,,,
 39777,0.12,NaN,0,https://solanart.io/nft/2xupbypbvRsDqDMDpqzFs7KpTDuNDidwQoTGoidXAeYy,,,,,,,,,
 39805,0.575,NaN,0,https://solanart.io/nft/7V4wopGW3pP6ENDC27EVFDcVpJACZdL1vDoC6quFCxYv,,,,,,,,,
 39807,1.5,NaN,0,https://solanart.io/nft/4u3jT725jzKB9vSZ6UeSigDTYmuJXJUuZsyPKcUvgzro,,,,,,,,,
+39832,0.36,NaN,0,https://magiceden.io/item-details/Fwp8fwF7ykGyS1ZHPys5MxiKijx2sR57m9rqUXVdE5kJ,,,,,,,,,
+39878,0.1,NaN,0,https://magiceden.io/item-details/683AE7xPWwmuBHRNNJgrnzP62DgaEdjpsAEwsdcaxDV1,,,,,,,,,
+39894,0.2,NaN,0,https://magiceden.io/item-details/9ZqPVoVCLeVPmG8RNQWRA2pyAEChPCNusn2pZGZBQUfi,,,,,,,,,
+39911,0.4,NaN,0,https://magiceden.io/item-details/EF2MNrFRU5oJZ9nqmjKesgUFcFXbbeGA6reieQNzxhxp,,,,,,,,,
 39984,0.11,NaN,0,https://solanart.io/nft/A1R6jm4NQ7WmwNTiyvi7KtWRLKtLEfV8NMB1R6TYqYEy,,,,,,,,,
