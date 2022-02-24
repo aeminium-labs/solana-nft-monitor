@@ -62,7 +62,7 @@ const parsedData = await parseData<Item>({
   data: allTokens,
   getID: (item) => item.name,
   getPrice: (item) => item.price,
-  getUrl: (item) => `https://solanart.io/search/?token=${item.token_add}`,
+  getUrl: (item) => `https://solanart.io/nft/${item.token_add}`,
 });
 
 // 4 - Add scores
