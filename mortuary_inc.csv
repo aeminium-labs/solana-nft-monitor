@@ -7,6 +7,7 @@ id,price,moonRank,💎 score (%),storeURL,Artefact 1,Artefact 2,Artefact 3,Artef
 0113,1.99,929,81.12,https://magiceden.io/item-details/E7Rvfe5bNycwYYic5136X4ZWhDafcJWh8bohZuhPu3ru,Empty,Bonfire,Sword,Empty,Skull Pile,Swamp,Obelisk,Owl,2,Aurora
 0142,4,2302,38.89,https://magiceden.io/item-details/6VemqodLUDp7PDoZ1mGrLu78VqYM4cPphaGQrdCBhw3,Empty,Empty,Empty,Torch,Empty,Desert,Obelisk,Raven,2,Fog
 0152,2.5,1977,59.13,https://magiceden.io/item-details/EiUem3oL9Bccczzw4vx6yEY9bycqRY9EEvmytjgBbJRo,Bonfire,Empty,Torch,Empty,Empty,Forest,Crypt,Frog,4,Cloudy
+0187,3,160,83.42,https://magiceden.io/item-details/6YzJddN9Hjg8amSFw88RjSAWce9NfvDgQefu9CjAMaer,Tombstone,Ornate Tombstone,Chest,Ornate Cross,Coin Pile,Desert,Evil Chapel,Raven,4,Sandstorm
 0214,3.5,2358,42.98,https://magiceden.io/item-details/5Rx5epWNgWWMudYHSyx3wA3GYtVSZD7kSo8PYpZA5bvp,Empty,Empty,Empty,Urn,Empty,Garden,Shack,Scarab,2,Night
 0227,4,2360,37.95,https://magiceden.io/item-details/7jsCvkVJadpJ7XqvcfFgmf1ruxmKbwkFBqMJydRAWhxF,Empty,Empty,Empty,Urn,Empty,Forest,Hut,Frog,2,Cloudy
 0258,3.33,2362,44.62,https://magiceden.io/item-details/3RcZhaS93AAK6EN8adWQjpw5VkQiY43eZ4VDTJTS1ggH,Empty,Empty,Empty,Urn,Empty,Desert,Obelisk,Frog,2,Cloudy
@@ -31,7 +32,6 @@ id,price,moonRank,💎 score (%),storeURL,Artefact 1,Artefact 2,Artefact 3,Artef
 0517,5.069,1380,43.06,https://magiceden.io/item-details/HM36vnFRsWFSCfyuyBnQTVEwKGiNtqDG6UgDQEDAiDb9,Sword,Torch,Bonfire,Empty,Empty,Jungle,Chapel,Scarab,4,Night
 0555,3,2375,47.71,https://magiceden.io/item-details/7q3jdoFkzjSNi6KMZNJAYZXQTahjj99rL397uWmpV7cS,Empty,Empty,Empty,Torch,Empty,Desert,Shack,Scarab,2,Sunny
 0561,12,200,0,https://magiceden.io/item-details/Chy43rw8e7PVVCS32yWAo8UmsDTKi8y1jWmu3DvJyNiF,Tombstone,Empty,Sword,Tombstone,Tombstone,Heaven,Arch,Snake,2,Golden Snow
-0568,1.6,2376,61.69,https://magiceden.io/item-details/J8aXL4FTERwxrBqqynasKwTpdyGJ4YSuDJBNoZAsDqiJ,Empty,Empty,Empty,Torch,Empty,Garden,Obelisk,Scarab,2,Fog
 0601,2,2161,61.16,https://magiceden.io/item-details/Gazm2fW9SWinUt9ZhK7h3VXSCJW6Xo9DwTNEbdi4BEoD,Empty,Empty,Empty,Torch,Tombstone,Garden,Hut,Scarab,2,Cloudy
 0610,2.8,569,78.83,https://magiceden.io/item-details/HRRVBZgjTRcjtNbnew2LuRJEUoYn8VXdwKfPPz5qe2UZ,Chest,Urn,Chest,Empty,Torch,Tundra,Evil Chapel,Owl,4,Cloudy
 0625,2.35,1951,61.04,https://magiceden.io/item-details/AmPWusGVN63wQm4qxhGnvZ23FosjsrxkRz3xHCM3PpKz,Empty,Empty,Torch,Cross,Empty,Tundra,Shack,Raven,2,Cloudy
@@ -114,6 +114,7 @@ id,price,moonRank,💎 score (%),storeURL,Artefact 1,Artefact 2,Artefact 3,Artef
 1825,1.75,1899,67.88,https://magiceden.io/item-details/DyDjgf7v7UJgiR2RAEKgMT9axbVHprmdFCAvivG1c4sy,Empty,Empty,Urn,Chest,Empty,Desert,Obelisk,Raven,2,Cloudy
 1831,19.69,3,0,https://magiceden.io/item-details/HUQGzhSJeCzLCaK3gHX2R2UMJRpwnWjBGv9v7Ut6HwVj,Bonfire,Fountain,Ornate Cross,Bonfire,Coin Pile,Jungle,Ziggurat,Unicorn,10,Rain
 1850,4.94,936,51.51,https://magiceden.io/item-details/4aVXuXQVzC1QfLVzhWkHKF3PRLppC3Mxg38xLiXkX6bk,Empty,Empty,Cross,Cross,Sword,Desert,Mausoleum,Scarab,6,Sandstorm
+1888,1.65,511,91.26,https://magiceden.io/item-details/DmP8RoABRcWbmGxaa6ufE555TToZdTNiGj5fLMtA5hcQ,Chest,Empty,Torch,Chest,Urn,Garden,Arch,Wolf,2,Radioactive Rain
 1889,3.75,1253,58.3,https://magiceden.io/item-details/77Y4Bw4dQBDhJg6JRGZYrsvybtJe3heMXXP8vqfhxW95,Cross,Bonfire,Empty,Empty,Tombstone,Swamp,Chapel,Frog,4,Rain
 1903,6.069,821,42.07,https://magiceden.io/item-details/HCdUB5XWyXu3ZzLHgM8z1PtZ5hYfMTPcjiZaoPGXi9C9,Urn,Sword,Chest,Cross,Empty,Desert,Altar,Raven,6,Cloudy
 1926,2.65,2068,56.16,https://magiceden.io/item-details/GqM4USFYwSw49PF2f2j3Jpec6Dw1RNz2JDXbEVw8LLZw,Empty,Empty,Empty,Cross,Torch,Garden,Arch,Frog,2,Fog
@@ -138,6 +139,7 @@ id,price,moonRank,💎 score (%),storeURL,Artefact 1,Artefact 2,Artefact 3,Artef
 2208,1.99,1552,71.08,https://magiceden.io/item-details/EKXvx1eywAdYK2eCtX7MthfxHyqBVveKWdw7w54pZZ1d,Empty,Cross,Empty,Cross,Skull Pile,Forest,Arch,Cat,2,Cloudy
 2209,7.9,304,32.1,https://magiceden.io/item-details/HRXjB1shh1rVQ5VfMF78fqfd5CJFLqmMhx5kbLvvSMym,Skull Pile,Ornate Tombstone,Cross,Chest,Skull Pile,Desert,Mausoleum,Raven,6,Stormy
 2228,4,1141,57.6,https://magiceden.io/item-details/DjHRBJXkzuSG4B2ykphKNGk2RNf8vzAKUiaxnfArL3V3,Sword,Skull Pile,Cross,Empty,Empty,Swamp,Altar,Cat,6,Sunny
+2232,4.4,472,64.39,https://magiceden.io/item-details/BZ7ZvrpZCc4FGjcEheefJXyytiYf2CYTkn9rmt3QcXxv,Skull Pile,Ornate Cross,Bonfire,Empty,Urn,Swamp,Bloody Altar,Cat,6,Eclipse
 2237,4.79,1547,43.16,https://magiceden.io/item-details/BYghsaZuvGXRSVkk9ZaWVtyBoRxSZacAAtmcFwQPfu82,Bonfire,Bonfire,Empty,Empty,Skull Pile,Forest,Mound,Scarab,4,Fog
 2240,3.7,1514,54.59,https://magiceden.io/item-details/NxnYKsabPSwSgRq7rRY67Fttsr6usz5gwuEwEd6uEwK,Bonfire,Empty,Tombstone,Urn,Empty,Swamp,Crypt,Scarab,4,Fog
 2250,5.9,813,43.89,https://magiceden.io/item-details/G8NHbrj2ZJsCHoR3KMrVxCbpLCuycD4EzS1uwhfudhEu,Skull Pile,Cross,Bonfire,Empty,Torch,Jungle,Altar,Scarab,6,Rain
