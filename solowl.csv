@@ -33,6 +33,7 @@ id,price,moonRank,💎 score (%),storeURL,beak,body,eyes,eyes_accessories,hat,ne
 222,2.5,1024,39.16,https://magiceden.io/item-details/4tvzbdqgdYjdFW31HwNn1TFvsCpq49boZehF8VWPq719,Empty,Phoenix Owl,Electric,,,,Hogwarts Letter,Crescent,Rune Tree
 241,2.5,41,74.81,https://magiceden.io/item-details/7AKfbkHBceAKj8HXhJQGqJa1zhydFPauQDZDr8htNpy6,Plague Mask,Gummy Owl Green,,,McOwls,Eye in a Glass,Beads,Mountains,Sakura
 243,0.9,124,87.8,https://magiceden.io/item-details/FPaCnKBvLAKHvWx11oTwU4MTtmHe8GxTVVuudpiUwHpE,Amanita Muscaria,Great Gray Owl,Closed Eyes,Solana Eye Patch,Crocodile Dundee Hat,,Keys,Fuji Mountain,Ent
+254,1.69,366,71.13,https://magiceden.io/item-details/BvECfS3RYyWt1Gw8T9GBFVNJirJ6YP3Akjy34GG1raFe,Breaking Bad,Phoenix Owl,Stoner Owl,,L hair,Gold Chain,Empty,Moonlight Night,Leaning Tree
 257,1.4,110,83.31,https://magiceden.io/item-details/GBShs1UpUAyu4GUUqADtn49abVCinDbaBpZxbLEJ1KNS,Joint,Tawny Owl,Demon Inside,Disco Glasses,Devil,Bow-Tie,Empty,Fiery Glow,Rune Tree
 264,0.45,680,72.14,https://magiceden.io/item-details/6zqTZMdU7ZMPm6Kw7oWD19ZE6YzHQT11HT4XpSL8pHSA,Empty,Great Gray Owl,Pearl,3D Glasses,Straw Luffy Hat,Gold Chain,Empty,Fiery Glow,Birch
 265,3.33,551,48.02,https://magiceden.io/item-details/4FDNHiqwjSFdr1r5b46kGK8yM5gbxg6WQTgXQaRMpa6r,Empty,Drago Owl Blue,Blue,Disco Glasses,,Peace to Peace,Keys,Fiery Glow,Rune Tree
@@ -58,7 +59,6 @@ id,price,moonRank,💎 score (%),storeURL,beak,body,eyes,eyes_accessories,hat,ne
 443,0.3,369,84.92,https://magiceden.io/item-details/3g1jGFH5jsYhAdUa3bAJTax9S1v8NXZzBPVAaKJVNB49,Plague Mask,Phoenix Owl,,,,Silver Chain,Sinigami Identity,Starlight Night,Rune Tree
 457,2.22,220,71.12,https://magiceden.io/item-details/9dbm4kySdBN9vQpi3YE9eQX4UNJq5iyQHvFztyeVTC2d,Empty,Parrot Owl,Electric,Thug Life,Witch Hat,Gnome,Empty,Storm,Bicolor Tree
 462,2.22,115,74.93,https://magiceden.io/item-details/9WFYHt8cjZdX5pxAuKG3xpU3u8rgzP5kKc1jkAQYkHK3,Smoking Pipe,Eagle-Owl,Electric,,Crocodile Dundee Hat,Living Flesh,Rat,The Dawn,Totem
-466,0.43,857,65.92,https://magiceden.io/item-details/3wrFq5A2VNU2qEUrZPfzwM7dSHMjd4Ue1qqEdc643qnx,Empty,Snowy Owl,Scar,,,Gold Chain,Tanjiro Kimono,The Dawn,Birch
 467,134,276,0,https://magiceden.io/item-details/9RfLVbjhXibsYb1mG5kmAVPdx6qAWj691wAvoie1rZc4,Smoking Pipe,Phoenix Owl,Pearl,Disco Glasses,L hair,Peace to Peace,Empty,Crescent,Totem
 471,0.32,1092,58.5,https://magiceden.io/item-details/HwNPHqPU7j3LTKWdAKzmKh6KBGfrUXAR2ksFKQYZTV3Z,Empty,Drago Owl Blue,Soul Fire Eyes,,,,Empty,Blood Moon,Leaning Tree
 474,0.9,735,65.65,https://magiceden.io/item-details/9jzPVvoxat6Lt4vqsUT86WmoncJ6oGqqBwi5w5W3qsoY,Empty,Eagle-Owl,Hypno Eyes,,Mario,,Pepe Wanted,Moonlight Night,Ent
@@ -88,11 +88,8 @@ id,price,moonRank,💎 score (%),storeURL,beak,body,eyes,eyes_accessories,hat,ne
 613,1.44,966,51.87,https://magiceden.io/item-details/4MgWkAuD61rUGXeLVPAbCoTi27iZPZ8bvoYg8pcLArEU,Breaking Bad,Skeleton Owl,Stoner Owl,,,,Empty,Northern Lights,Birch
 617,1.9,1009,45.71,https://magiceden.io/item-details/3F3n447ezZcv35ks9oGrwVJcZTvRYyCWgqj7PzgBW7WV,Empty,Eagle-Owl,Tracker Eyes,,Totoro Hat,,Empty,Moonlight Night,Bicolor Tree
 632,1,606,69.32,https://magiceden.io/item-details/9UAPVVZ3fvzQpTeYmwduGfciEEnY4uFh75SA1QZoPzKP,Empty,Drago Owl Blue,Suspicious Owl,3D Glasses,,Living Flesh,Empty,Starlight Night,Totem
-638,0.63,254,85.79,https://magiceden.io/item-details/6BBjp8dnSfyLNKhDChzAGiA1Xzs22pYLyxgKJoBFQdED,Joint,Parrot Owl,Green Eyes,Aviator Glasses,Neko Ears,,Hogwarts Letter,Fiery Glow,Totem
-639,1,300,80.42,https://magiceden.io/item-details/uCruEf8zpfFxvHEmei5TJZe4kvjwV4AQhV8ocQQwgmF,Curls Mustache,Parrot Owl,Closed Eyes,,Straw Luffy Hat,,Keys,Storm,Ent
 640,1.69,227,76.17,https://magiceden.io/item-details/D3GJx4D3TymzgAXtwaRVag2UiJBTVpctYFJeYy4hdsYD,Bubble Gum,Drago Owl Red,Pearl,Monocle,,Bow-Tie,Imp,Crescent,Leaning Tree
 643,0.39,570,76.73,https://magiceden.io/item-details/8g8E9g9opCktJ4jDEma4c3jWJpBxv6mmxLkpAfTjhc3x,Empty,Tawny Owl,Green Eyes,Monocle,Straw Luffy Hat,,Sinigami Identity,Blood Moon,Bicolor Tree
-647,1,725,65.01,https://magiceden.io/item-details/8vEiotM6WS8SjBh3L2BmGcj5B9QC3vJKvQqjZpq4rBCz,Empty,Gummy Owl Green,Scar,Monocle,Knitted Hat,,Empty,Crescent,Bicolor Tree
 650,25,363,0,https://magiceden.io/item-details/2TjVRuZjeaeF8T9jrias3uoxrmQV7mpD9Y33wKskdJ38,Empty,Phoenix Owl,Electric,3D Glasses,,Katana,Big Love!,Fiery Glow,Rune Tree
 651,0.5,670,72,https://magiceden.io/item-details/HmvSQoBcugRngZECKyvVExwyvjfaK3ybEbw9XXGhkKuU,Empty,Tawny Owl,Green Eyes,Monocle,Halo,Bow-Tie,Empty,Starlight Night,Bicolor Tree
 654,0.3,183,91.66,https://magiceden.io/item-details/3HBtnnxCXFEroCfmZDEfUVkcmRfF5QnA326xpUzPbXjH,Joint,Great Gray Owl,Electric,,Witch Hat,,Golden Baby Roshan,Blood Moon,Sakura
@@ -110,6 +107,7 @@ id,price,moonRank,💎 score (%),storeURL,beak,body,eyes,eyes_accessories,hat,ne
 709,1,538,71.79,https://magiceden.io/item-details/7zT61czzQdYQFQDbytrLnULg4sPm5KsMD8Je1ygukWt6,Empty,Great Gray Owl,Pink,Disco Glasses,,Living Flesh,Rat,The Dawn,Ent
 710,1,893,58.92,https://magiceden.io/item-details/GrnfM94TrNpRJEHbGCgmcogeKqwLcxtizxmrkpPbCzig,Empty,Eagle-Owl,Pearl,Thug Life,,Konoha Headband,Empty,Moonlight Night,Ent
 716,0.69,832,64.23,https://magiceden.io/item-details/6jGSKCCBsesdx68BQJA8bcHJ5MpX4ueaGEGbLsRr6QUn,Plague Mask,Tawny Owl,,,,Illuminati Pendant,Empty,Fiery Glow,Leaning Tree
+717,1.69,534,65.03,https://magiceden.io/item-details/63xLam8PRpTCsuNECUWw178D9UUWc5xde46YkSKUkPiR,Empty,Gummy Owl Red,Pink,3D Glasses,L hair,,Rose,Fiery Glow,Totem
 718,1,247,82.34,https://magiceden.io/item-details/2pU8ND3ZNMj1hRTUgzFpEGktnoyHPF2iDr352QeWjbcK,Barbell Piercing,Great Gray Owl,Pearl,,Eight-Blade Cap,Blue Tie,Keys,Crescent,Totem
 720,0.95,750,64.6,https://magiceden.io/item-details/3ZeJCEhTv9JdVpHaVaaqFMxJKjbhdkgVkEDnARaU15sM,Empty,Zombie Owl,Hypno Eyes,,,Peace to Peace,Rat,Starlight Night,Ent
 722,1.3,200,81.05,https://magiceden.io/item-details/BZSevXMQCvCsGtVQrbKQM7tUa5ppQKeMArKBTHN8qjZt,Curls Mustache,Drago Owl Blue,Tracker Eyes,,Straw Luffy Hat,,Sinigami Identity,Mountains,Birch
@@ -122,19 +120,18 @@ id,price,moonRank,💎 score (%),storeURL,beak,body,eyes,eyes_accessories,hat,ne
 740,0.5,253,87.13,https://magiceden.io/item-details/2K1RK5oTDqnfv1xu64nLX4SGQiGZ8dhS56okBkwHzv3Z,Joint,Robo Owl,Stoner Owl,,Top Hat,,Beads,The Dawn,Sakura
 745,2,156,75.64,https://magiceden.io/item-details/HXBgtK4aG9S4MA9U6ow2NtMtZtftRDP32FQkiE2W9NxC,Barbell Piercing,Phoenix Owl,Pearl,3D Glasses,Crocodile Dundee Hat,Konoha Headband,Empty,Storm,Leaning Tree
 747,2.5,989,40.43,https://magiceden.io/item-details/BKJkyAcETykPHy2SefncwSRmdiZVJqDSby7eMBrw4xTz,Empty,Drago Owl Red,Sharingan,,Bamboo Hat,,Empty,Starlight Night,Rune Tree
-748,0.77,733,67.02,https://magiceden.io/item-details/DSgAxM73QGiorGj99cZZS1MWQuVV5nrRHb4PQ1TXtoYP,Metal Beak,Great Gray Owl,Demon Inside,,,,Tanjiro Kimono,Starlight Night,Totem
 750,1,405,76.61,https://magiceden.io/item-details/EvGZ97dmQuQMuWssL74S2U8LFYiizzfHZVHFVcHi2y2S,Joint,Great Gray Owl,Soul Fire Eyes,Monocle,,,Imp,Starlight Night,Sakura
 752,2,206,73.83,https://magiceden.io/item-details/2cuDRZRqoxc6PMLzuuowABsWFKmjaSv45y128mCy5Qef,Smoking Pipe,Robo Owl,Blue,,Straw Luffy Hat,Bow-Tie,Imp,Starlight Night,Rune Tree
 754,1,941,57.17,https://magiceden.io/item-details/CL88htnx4ogwzMV96FHJcfK2ofSwnbKjTJQgvcetRd5z,Empty,Great Gray Owl,Closed Eyes,,,Gold Chain,Keys,Starlight Night,Bicolor Tree
 755,1.99,784,52.97,https://magiceden.io/item-details/aWNvKrSGaVg8vLzLpkcpbHHrBznqWg5Xq7VjvaTATU1,Empty,Robo Owl,Closed Eyes,Solana Eye Patch,,,Big Love!,Crescent,Ent
 759,1,1067,52.61,https://magiceden.io/item-details/95ZbFPJSppj2KUy3cDcKzgs2j47pzeWkbeTgnUrjxPFZ,Empty,Snowy Owl,Pink,Solana Eye Patch,,,Empty,Starlight Night,Ent
 761,2,88,78.11,https://magiceden.io/item-details/GTcErTXGDZbDChxNC677UUFjYQt2b71WYnAfngp46LRx,Barbell Piercing,Snowy Owl,Hypno Eyes,,Bamboo Hat,Noble Furs,Hogwarts Letter,Crescent,Ent
-764,1,910,58.3,https://magiceden.io/item-details/6AaSUKKLcjYwNKoDhdmxHAbAfWxKb3SJ4se7N6uWoDiw,Empty,Eagle-Owl,Blue,Disco Glasses,,,Beads,Fuji Mountain,Bicolor Tree
 778,0.2,1042,61.51,https://magiceden.io/item-details/7eDsXpLwXmX5jusH5byLw4AEPpFbUEaKquEjY1Gmp2Li,Empty,Gummy Owl Red,Pink,,,Gnome,Empty,Northern Lights,Birch
 785,0.95,365,78.56,https://magiceden.io/item-details/CHV3LxbFdbpsvsvzoUj1zEyhRKnk1RNHjAtnqgu6Pgm,Empty,Great Gray Owl,Demon Inside,Disco Glasses,Top Hat,,Sinigami Identity,Northern Lights,Leaning Tree
 789,1,222,83.25,https://magiceden.io/item-details/Acjn38AnsMJSjSvV8s6BqN9WaC2oRVTXqf23EQvJtRaM,Empty,Parrot Owl,Stoner Owl,Disco Glasses,Pharaoh's Nemes,Rune Pendant,Potion,The Dawn,Birch
 793,1.5,142,81.15,https://magiceden.io/item-details/7NCjnsbUzNkvaLsocE7ofJ1B5xq7m6BxtmKJKzDgytJP,Empty,Eagle-Owl,Electric,Aviator Glasses,Gnome Cap,Gnome,Beads,The Dawn,Totem
 795,2.3,1091,38.74,https://magiceden.io/item-details/DWK44reqmbN5o5DSa6Lss3XutM5rEkFF1zda6CwEW3W2,Empty,Parrot Owl,Suspicious Owl,,,,Empty,Fuji Mountain,Rune Tree
+801,1.5,466,69.4,https://magiceden.io/item-details/5YLvi33W8tf6QYjcctXhBS513WUp7SCLNQ3pyB3oqhhV,Empty,Gummy Owl Green,Pearl,Disco Glasses,Witch Hat,Rune Pendant,Empty,Fiery Glow,Bicolor Tree
 809,0.3,667,74.11,https://magiceden.io/item-details/BtA2dVr3KLr227JJYN1rkFLCpFhceR4K5UYMM7jqJEK4,Smoking Pipe,Great Gray Owl,Blue,3D Glasses,Mario,,Empty,Mountains,Bicolor Tree
 811,0.8799,516,73.79,https://magiceden.io/item-details/564CF4FtNsjQjNHpjfFGgZALF7UjAboxty9QhopsDn56,Amanita Muscaria,Tawny Owl,Closed Eyes,,,Illuminati Pendant,Tanjiro Kimono,The Dawn,Totem
 814,0.35,639,74.63,https://magiceden.io/item-details/9xJZoJDFNrB1Vfbybss5j8eCqwbBd1zG3KZVjqANYqmv,Metal Beak,Eagle-Owl,Pearl,,Neko Ears,Nail Pendant,Empty,Northern Lights,Bicolor Tree
@@ -144,7 +141,7 @@ id,price,moonRank,💎 score (%),storeURL,beak,body,eyes,eyes_accessories,hat,ne
 831,1.33,279,77.88,https://magiceden.io/item-details/8M8RebTJGsSTofg5UpWT28KbN9kyWQnV4fBj2Ho5EKLc,Empty,Gummy Owl Green,Green Eyes,Aviator Glasses,Neko Ears,Nail Pendant,Imp,Crescent,Leaning Tree
 836,0.989,313,80.06,https://magiceden.io/item-details/Abf9eaYZoxMB7bRDmeMYtYxSTFsj5QP2k4RJo34LUUVZ,Empty,Great Gray Owl,Green Eyes,Disco Glasses,Neko Ears,Noble Furs,Rat,Moonlight Night,Rune Tree
 841,1,617,68.92,https://magiceden.io/item-details/nQxjNgXQeFtdLDSYqNfhBLipXsA8CsiH1UeWdDacAKM,Empty,Eagle-Owl,Green Eyes,Thug Life,,Blue Tie,Beads,Northern Lights,Bicolor Tree
-849,1,281,81.11,https://magiceden.io/item-details/HHiijPQwPA8kv4ckmYGArSCmUWpwPUnCQUsc2RtJTkJT,Amanita Muscaria,Snowy Owl,Pearl,3D Glasses,,Silver Chain,Rose,Storm,Birch
+859,1.99,729,54.96,https://magiceden.io/item-details/9YvDeVHT9NVktoQaEKdk7ur7sxrpEfY6tvn5ZDM4WWkz,Empty,Tawny Owl,Pearl,,Crocodile Dundee Hat,Rune Pendant,Rose,Mountains,Birch
 865,0.39,280,87.25,https://magiceden.io/item-details/9u24Ueyp9g4da3bUifYNCJWfi7uAUgj1FzySbowJFrzp,Barbell Piercing,Zombie Owl,Hypno Eyes,,Eight-Blade Cap,,Tanjiro Kimono,Crescent,Leaning Tree
 867,1,495,73.35,https://magiceden.io/item-details/D5aNe9yy89rtCVitfRQeYpYHjvQrUXobXoVDMkfqmqRL,Plague Mask,Parrot Owl,,,Devil,,Empty,Blood Moon,Sakura
 870,0.45,441,80.81,https://magiceden.io/item-details/DbnNzW2av33Q5H3LEcqrgFVRDftw1E54EaJuzBoL6yZf,Empty,Gummy Owl Red,Blue,Monocle,,Living Flesh,Potion,Starlight Night,Leaning Tree
@@ -177,6 +174,7 @@ id,price,moonRank,💎 score (%),storeURL,beak,body,eyes,eyes_accessories,hat,ne
 1050,0.43,228,88.73,https://magiceden.io/item-details/8j6zFyGyhkhLnAUUejrpAgT7LfsF55LYA7PBLFVKCJE6,Barbell Piercing,Great Gray Owl,Green Eyes,3D Glasses,Devil,,Potion,The Dawn,Leaning Tree
 1053,3.66,81,61.76,https://magiceden.io/item-details/4hwPYDHGee8ZryiLSNb197CC3PmArEfGxVUTsjR21kCN,Metal Beak,Skeleton Owl,Pink,,Crocodile Dundee Hat,Eye in a Glass,Golden Baby Roshan,Northern Lights,Totem
 1070,7.9,1000,0,https://magiceden.io/item-details/AEkeeiBd8zrSnSaqgCD1hJWD8GSKvbjR4DdaE91VThfp,Empty,Phoenix Owl,Soul Fire Eyes,,,,Rat,Mountains,Rune Tree
+1072,1.4,138,82.3,https://magiceden.io/item-details/8GaLhNnNaaWkEfDjRJuXvzNSoJ493eb1haLPTyCGW6Ng,Curls Mustache,Snowy Owl,Green Eyes,Solana Eye Patch,Knitted Hat,Silver Chain,Empty,Storm,Leaning Tree
 1081,1.42069,1028,49.81,https://magiceden.io/item-details/Ez8T5Z6yQe6yA6u19FtC3dDYJhVvYc6uUnB8Ehkq2rwG,Empty,Parrot Owl,Electric,,,Silver Chain,Empty,Northern Lights,Birch
 1085,1.99,86,78.28,https://magiceden.io/item-details/4nYTHjxXtpLbCKhmQxyYHMGtWEwsRXzcHPAyjBqbcWj4,Kaneki's Mask,Eagle-Owl,Scar,,Neko Ears,Peace to Peace,Keys,Blood Moon,Birch
 1088,0.79,885,61.31,https://magiceden.io/item-details/DA8ebVgW7RYvYoDNav3QFQ9dVk36qMt7rxigfs7ZAB8F,Curls Mustache,Great Gray Owl,Pink,,Halo,,Empty,Moonlight Night,Totem
