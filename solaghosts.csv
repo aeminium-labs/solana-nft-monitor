@@ -28,7 +28,6 @@ id,price,moonRank,💎 score (%),storeURL,Accesories,Age,Class,Eyes,Gender,Perso
 392,0.3,96,95.98,https://magiceden.io/item-details/6VFZqH66ovwTyaqsFfCAdQoPcGhFwBNGjqo99khLDY69,Blue sunglasses,45 years old,Yellow merchant,Pink,Male2,Loyal
 395,0.1,2437,61.25,https://magiceden.io/item-details/GVMJMiyuZdZiTcHzBj46KMibyVHECenqJAfia5Di36Zw,None,15 years old,Green sailor,Blue,Female1,Mocking
 410,1,1252,70.84,https://magiceden.io/item-details/7FpvDqrMmRDQh8iHyBCP2w75nxEbb7pNsqgARyGjJ82V,None,30 years old,Black merchant,Brown,Female1,Melancholic
-427,0.55,410,88.56,https://magiceden.io/item-details/6aZtx16ZBDgiGrf47TvLq7r84AGRcgoxFwSwA3Te9Fip,None,45 years old,Red monarch,Green,Female2,Seductive
 430,0.45,729,84.55,https://magiceden.io/item-details/8CPf1carPm6KNXJTrMLKjr9UtmQKPg4Dkkae9Xp7gLzp,None,30 years old,Red samurai,Purple,Male3,Thirsty for justice
 454,0.15,1619,73.58,https://magiceden.io/item-details/BCXVEo1Jnf9QUXV3qqB21fv37xftmnjo1UPaSKworvPS,None,15 years old,Yellow samurai,Orange,Female3,Mocking
 466,0.058,2216,65.14,https://magiceden.io/item-details/7AxPKYv9qWeEyESrcHicKikiZrECNGiXzGzuZfk5Sjh9,None,21 years old,Soldier,Blue,Female2,Seductive
@@ -38,6 +37,7 @@ id,price,moonRank,💎 score (%),storeURL,Accesories,Age,Class,Eyes,Gender,Perso
 506,0.13,1540,75.02,https://magiceden.io/item-details/HCP6mUcB9DKZnSRnn1TExkxUhwDv1aRYRnaGXmM7PjVK,None,30 years old,Green sailor,Blue,Female2,Seductive
 527,0.2,1826,69.84,https://magiceden.io/item-details/GkfhzL2zv38qusv62htTid5frmLCfxXoYJCAW4NVr1j5,None,15 years old,Green sailor,Green,Male3,Mocking
 535,1.4,2324,50.02,https://magiceden.io/item-details/ALmPaUZxf16qzxBCsD3CH6F4MuV1DzbYybsr5PqGRV1r,None,15 years old,Brown merchant,Red,Female2,Protective
+540,0.15,1561,74.49,https://magiceden.io/item-details/CNJTcDvJ8EAB681wUUKSHpRYuuLaYFwxuuLMAEcNK78k,None,21 years old,Purple apprentice,Brown,Female1,Revengeful
 541,0.24,796,85.6,https://magiceden.io/item-details/BquYHZrEp2Eacg5YGUSbPE4WFQHtnknM3uezbYkdknsy,None,70 years old,Brown merchant,Brown,Female2,Seductive
 548,0.4,283,92.05,https://magiceden.io/item-details/Tqz3B4aNHEDgtkcHxVkRVXyVjLNQxLAcB4xo9ANM7ce,Red sunglasses,21 years old,Purple alchemist,Red,Male2,Revengeful
 568,0.95,512,82.96,https://magiceden.io/item-details/5phih6EfVtwsm341B8ADn4PGcbiUFh16HWQo59emgfPp,None,15 years old,Red monarch,Black,Male1,Revengeful
@@ -208,6 +208,7 @@ id,price,moonRank,💎 score (%),storeURL,Accesories,Age,Class,Eyes,Gender,Perso
 2193,0.5,615,85.84,https://magiceden.io/item-details/6reNognofNd8BVu8ypjLJybHMuEAjwwr4Tw8X49fJhJ5,None,30 years old,Blue pirate,Orange,Female3,Kind
 2216,0.1,2060,67.16,https://magiceden.io/item-details/53YepXPgHUSUVFGf5BSqNhNxk128bYuw93QjqKi6Mg6t,None,15 years old,Yellow samurai,Orange,Male1,Kind
 2224,0.25,1965,67.15,https://magiceden.io/item-details/9YEkd4b3K5oZcYc9p6SEMj9oPsdv9f1CX9qHHnjCfvsL,None,21 years old,Brown merchant,Green,Male2,Melancholic
+2234,0.24,1614,72.76,https://magiceden.io/item-details/AmLAAhZf3fXm9ZjN5P6noZbMDc8GUmtxaPnxU5gg5TX6,None,15 years old,Medical soldier,Brown,Female3,Loyal
 2249,0.25,2117,64.77,https://magiceden.io/item-details/8LkcFL3zadMt2JMJvtbXV14KHTgixC9q2NaZphnUmKdJ,None,21 years old,Yellow samurai,Red,Female3,Loyal
 2277,0.139,2539,59.26,https://magiceden.io/item-details/8C8GF8CLvXtqRfdEtjoQ7EdJgLZftmGBWAKsR118irYc,None,15 years old,Black merchant,Red,Male1,Melancholic
 2283,0.9,7,91.38,https://magiceden.io/item-details/EwMLowJaVFhKAZWLWT4xeH8hUEAK2qmubq7hkbXJSPuo,Red makeup,100 years old,Red samurai,Yellow,Female3,Protective
@@ -218,11 +219,11 @@ id,price,moonRank,💎 score (%),storeURL,Accesories,Age,Class,Eyes,Gender,Perso
 2345,0.33,2472,58.4,https://magiceden.io/item-details/7kvevSGn93u7ndkcxmuGpCsRdbgr9LZvbiVeiwYnKgBN,None,21 years old,Yellow merchant,Red,Male1,Protective
 2368,9.99,477,0,https://magiceden.io/item-details/4ABakewstSeFwSXRMnWfWtgECafxmJAhmGLArNwxrDVv,None,70 years old,Purple cleric,Purple,Female1,Mocking
 2369,0.35,216,93.6,https://magiceden.io/item-details/AhiFbXepWn3SEFTb7En2VAiPXuh7t5oeXjr4rudmnqW1,Blue sunglasses,15 years old,Red apprentice,Orange,Female1,Commander
+2380,0.2,2021,66.78,https://magiceden.io/item-details/5bsMYxcYi6oJgN8XfPFhBCgRAGn9UPEqchrXnVWEHXvo,None,15 years old,Red apprentice,Yellow,Female3,Seductive
 2387,0.049,2184,65.73,https://magiceden.io/item-details/7XmvcCYqEobqRQdrFfGxCkr2gdGcPTWQQTrcSX71FCz1,None,15 years old,Red apprentice,Blue,Female3,Seductive
 2389,10,2321,0,https://magiceden.io/item-details/CDAAjusV5gu41VYuVUwxRLH1L7cnxj8sXGDXq4QMqqdU,None,21 years old,Red sailor,Blue,Male2,Kind
 2404,0.15,2460,60.39,https://magiceden.io/item-details/BczEKU5yg2uZ1iDgb47jRboeAk6r3L7Xc2nDs9gPjDjT,None,21 years old,Medical soldier,Red,Male1,Loyal
 2414,1,552,81.83,https://magiceden.io/item-details/4rWVfe2QZV13eQszZaAucLcCk5QJStiZ6BKkDr5E5bVH,None,30 years old,Silver holy knight,Purple,Male2,Mocking
-2437,0.6,1265,74.64,https://magiceden.io/item-details/EdoM8Y1X7sANt3fpvQoe895eSLd28fuPqyUEAjweQ1yV,None,21 years old,Black samurai,Pink,Male1,Mediator
 2439,0.11,1559,74.93,https://magiceden.io/item-details/6N9dwr71feqSFeU6DTywZThaomjxdSDv413EPK1pwN7T,None,30 years old,Green apprentice,Blue,Male2,Mediator
 2449,0.1,247,95.61,https://magiceden.io/item-details/9xDhox9azo6DutyZyVMeepzgJS2PsxmqRsS5AkHvZ2nT,Blue sunglasses,70 years old,Red samurai,Yellow,Female1,Mediator
 2456,0.06,1186,81.28,https://magiceden.io/item-details/6vnumNdg5m5fQBAEBVMviYtNDaoLbBPMSsqE9nSCFes5,None,30 years old,Red apprentice,Orange,Male2,Loyal
