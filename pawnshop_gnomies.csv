@@ -16,6 +16,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Beard,Body,Cloth,Ears,Eyes,
 154,3.74,1196,71.97,https://magiceden.io/item-details/AUfsv8u3avF58oGuCBrbLjYrEH889fzbtR5uUtciu5s3,Gallery,Hagrid white,Classic,Sailor,Nothing,Classic,Green mushroom,Nothing
 156,10,96,17.31,https://magiceden.io/item-details/8NwJuWjJgT2fogDAe2p9BDWuDnWnNYTnAJNEhpo8Hy6m,Yellow,No beard,Hologram,No cloth,Nothing,Hologram eyes,No hat,Nothing
 167,11.11,1393,0,https://magiceden.io/item-details/krKBd1W5i6ajGhvnWJLN22bqSb7ANCn3XgVnPFen4t4,Lavanda,After shave,Zombie,Classic cloack,Nothing,Night vision,No hat,Nothing
+170,3,1768,75.25,https://magiceden.io/item-details/ABwdY6PTPuQhBbLsb9ZLipLtfeDVyoau9pbYSLXgrNvW,Yellow,After shave,Orange monkey,Princess dress,Nothing,Classic,No hat,Nothing
 177,2.37,2899,73.39,https://magiceden.io/item-details/3PXJKA5jNH7sMSq8hDWb8fMtBpWSLFn9d4DG42zbRNWj,Mint,Half beard,Rainbow,Turtleneck,Nothing,Classic,No hat,Nothing
 183,11.8,106,0,https://magiceden.io/item-details/5WRvLT6LPKLCg78bryNbh4gzVHTuPKiosYbwYt8QkxpA,Yellow,No beard,Hologram,Gnomie uniform,Nothing,Hologram eyes,No hat,Nothing
 204,5,722,62.79,https://magiceden.io/item-details/2VCXbPbhXGDzhMvmFtce5Rz1jH6ERyLn84fpu5qa6366,Mint,Hagrid,Dirty miner,Prison robe orange,Nothing,Classic,Bandana,Nothing
@@ -26,7 +27,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Beard,Body,Cloth,Ears,Eyes,
 259,5.89,3254,35.63,https://magiceden.io/item-details/8991HLsh9n1KYsfJi91kA9aUCjwWGdVbAKoY3apvkSWm,Mint,Hagrid white,Classic,Turtleneck,Nothing,Bruise,No hat,Nothing
 265,15,1781,0,https://magiceden.io/item-details/AVYpZApdQ5cqbJQgntNVg5zfzhkhSn1JLHQxMiUUdW9E,Lavanda,Goat,Classic,Turtleneck,Nothing,Laser eyes,No hat,Nothing
 272,8,439,34.83,https://magiceden.io/item-details/BJ3MkneYwv2592MgcqqrmrVnENNQjv56MB4SsK7qi13X,Pink,Goat,Golden,Prison robe orange,Nothing,Bruise,No hat,Nothing
-286,1.8,4610,66.75,https://magiceden.io/item-details/8qDsr7dWfRBxxLAxVXP5tAd3eYkhJ6xubc7MsvnRysdt,Peachy,Swirl red,Classic,Weed sweater,Nothing,Classic,No hat,Nothing
 291,2,3222,74.76,https://magiceden.io/item-details/GboByNNxFimYHwv5HWKJZg3KeQeXU8LamTLs3KJsgaLo,Yellow,Swirl,Classic,Blue cloack,Nothing,Classic,No hat,Cigarette
 292,5.9,997,51.81,https://magiceden.io/item-details/GT9sXjoNBw8BuW8LTeYvMh7gBtxSuGDdHBQBASwHxCxQ,Blue sky,Swirl red,Pepperoni,Sailor,Nothing,Classic,Cop,Nothing
 298,4.59,4592,38.98,https://magiceden.io/item-details/63gwb2qkDAv1x6VVLxR6gLA9zirwJ2NDPJx7ZqFMjfPm,Pink,Half beard,Classic,Turtleneck,Nothing,Classic,No hat,Nothing
@@ -65,12 +65,15 @@ id,price,moonRank,💎 score (%),storeURL,Background,Beard,Body,Cloth,Ears,Eyes,
 884,2.15,2003,82.05,https://magiceden.io/item-details/6BDbXSbRJvyYVV1r5jQ2d4kRvELS8qekPcH3jrPJU9Qk,Blue,Golden rings,Classic,Hoodie,Nothing,Classic,Sombrero,Nothing
 932,2.5,2733,73.29,https://magiceden.io/item-details/9ZQRBQvPaXnJcdzbTZDfZtYgFNGFCwvehhDyyPVoecAW,Pink,Hagrid red,Classic,Prince jacket,Nothing,Classic,Bandana,Nothing
 940,19.9,16,0,https://magiceden.io/item-details/DDtgWi9zULuNDS3X8nrTSmTzKNjMAP2xvBc1DUESDvhc,Lavanda,Hagrid red,Red monkey,Gnomie uniform,Security,Steampunk,Peaky Blinders,Nothing
+944,2.8,1280,80.77,https://magiceden.io/item-details/3qNC9Wx12oCUPrYRYusCgJsEiu1iRhxC9bqKhTGAYW2K,Lavanda,Huge mustache,Giraffe,Lether coat,Nothing,Monocle,No hat,Nothing
 965,6.89,4427,17.17,https://magiceden.io/item-details/Gd5KkCQc6SMQnukfzzv2Nr534x9Ma35VYxpyQxys5jxU,Blue,Golden rings,Classic,White t-shirt,Nothing,Classic,No hat,Nothing
 1005,4,134,77.03,https://magiceden.io/item-details/3djEzgK4MkxL1mb6oBUd96BZKMT76SRP4naySPicEdWG,Blue sky,Hagrid,Pepperoni,No cloth,Nothing,Ray Ban,No hat,Bubblegum
 1029,11.9,424,0,https://magiceden.io/item-details/ABRCY5399We5YNomK1whEkyirXuV5mrQEAVMKCA4CC2Z,Mint,Flowers,Classic,White t-shirt,Security,Classic,Green mushroom,Nothing
 1030,4.099999999,2098,61.87,https://alpha.art/t/BdmCYHLiRLZDvinbQntwTHwGXtABNX2pPKVdgjD4atbF,Yellow,Classic dark,Classic,Prison robe orange,Hands-free,Classic,No hat,Nothing
+1045,2.3,4391,63.33,https://magiceden.io/item-details/HQYQfzMrk3i5FxjzBQQCQwGTsi7FRoYtvxS9LYLyQ4iK,Lavanda,Hagrid red,Classic,Prison robe orange,Nothing,Classic,No hat,Nothing
 1052,5,159,66.85,https://magiceden.io/item-details/CG6Pqs9ojWBcY81GJJJq4fdxnVFYpqLqUzJnUqWXjg2j,Yellow,Classic dark,Monkey,White t-shirt,Diamond earring,Bruise,No hat,Nothing
 1060,2.7,4131,61.21,https://magiceden.io/item-details/4dSMjp8s5cqTC6771PpnCMVsMopxYHikrvjKEpKwbzFK,Peachy,Huge mustache,Classic,Gnomie uniform,Nothing,Classic,Peaky Blinders,Nothing
+1076,1.9,4130,69.21,https://magiceden.io/item-details/A9mPj5655j966barrHQwBiuvDEQ7nbfWJSmm59ekG4Vz,Yellow,Swirl,Classic,Winter jacket,AirPods,Classic,No hat,Nothing
 1079,6.5,2052,38.2,https://magiceden.io/item-details/E6f9FbXtp9XLyuJ3i7hzvwcqRaWmjDML2xqE8B7TEXzY,Peachy,Half beard,Dalmatian,3-piece suit,Nothing,Classic,No hat,Nothing
 1091,2.96,4455,56.27,https://magiceden.io/item-details/8L116tkFPKBWhEb36oUYQor4aAxVxCtPnnUmCrCoBU4s,Mint,Flowers,Classic,Poncho,Nothing,Classic,No hat,Nothing
 1104,6.49,3552,27.48,https://magiceden.io/item-details/6s3itfw2iAgorzeT5DeaVTx5JxwWUFp5njZFkPWnR6sL,Peachy,Classic dark,Classic,Turtleneck,AirPods,Classic,No hat,Nothing
@@ -89,6 +92,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Beard,Body,Cloth,Ears,Eyes,
 1291,4.69,5521,31.28,https://magiceden.io/item-details/9gqoj54JSM2r79juUWzjYo4x3exHQrkpK5mauUbLYtCN,Yellow,Huge mustache,Classic,Hoodie,Nothing,Classic,No hat,Nothing
 1324,1.94,4049,69.4,https://magiceden.io/item-details/GNhCgjKS3vvCYjAG2LfFWA55VFpRkYEXu4HPeNsZeCP8,Yellow,No beard,Classic,Cop vest,Nothing,Classic,Peaky Blinders,Nothing
 1354,3.4,2989,62.44,https://magiceden.io/item-details/H6GDorGkjrDhicxL2k18X8A2jqdTkB6a1Z4qJdxCphqN,Mint,Huge mustache,Classic,3-piece suit green,Nothing,Steampunk,No hat,Nothing
+1355,2.3,4674,61.29,https://magiceden.io/item-details/6g6MRccLLEaczy1sDtTQJCKn1AfMtwVnsMNkgEteQ8x,Lavanda,Goat,Classic,Weed sweater,Nothing,Classic,No hat,Nothing
 1364,3.6,1221,73.19,https://magiceden.io/item-details/eHjax6WxwgHcUoeHL5Bth1ghruP9enxU6unyLw7qDFP,Blue,Hagrid red,Classic,Hawaii shirt,Nothing,Classic,Afro,Bubblegum
 1387,4.5,2434,55.45,https://magiceden.io/item-details/AgsSDcKsTBMvxbpWq9y9mTCuB165jzwkMiZpCtAZ4s1D,Lavanda,Golden rings,Classic,Sailor,Diamond earring,Classic,No hat,Nothing
 1397,3.39,3683,57.54,https://magiceden.io/item-details/3XhxbrPoiEx1gKjhfuT53fRTjSqCXpgVTaJzYbz5JrUq,Blue sky,Goat,Classic,Hawaii shirt,Nothing,Classic,Cop,Nothing
@@ -98,6 +102,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Beard,Body,Cloth,Ears,Eyes,
 1429,1.97,4317,67.16,https://magiceden.io/item-details/pHvJbsYGYdMcR6jznFZJRY1C5ZsKySgWPqHTFgCYXJV,Pink,Hagrid white,Classic,Squid game,Nothing,Classic,No hat,Nothing
 1439,1.93,5270,60.69,https://magiceden.io/item-details/9ikvUToC3x7hEuWnRb9ow6ivYKAhtkGFsLTSG4eGsNv5,Pink,Long mustache,Classic,Gnomie uniform,Nothing,Classic,No hat,Nothing
 1455,2.5,1631,81.24,https://magiceden.io/item-details/wsd17h4pipGfN2i3Jp1yqqHGp6qPTWpZUwYFDeRAbrK,Peachy,Classic,Bubblegum,Classic cloack,Nothing,Cybereye,No hat,Nothing
+1470,1.85,4619,66.19,https://magiceden.io/item-details/49Yq2gYd7SFPNHHeUe6EcorSxzHpSbzVR4LDEbXmEJRH,Lavanda,Hagrid,Classic,Weed sweater,Nothing,Classic,No hat,Nothing
 1471,2.4,3373,69.67,https://magiceden.io/item-details/7qhLAnHBi5KrFo9xiCed64G254rsbPQvMRFE2wZGQtPW,Blue,Huge mustache dark,Classic,Fur coat,Nothing,Classic,Top hat,Nothing
 1483,12.5,1718,0,https://magiceden.io/item-details/4s6kxFvx5gswoQbUNLix3Y4rCSPPtTGpF2jJ4L2BXHEv,Mint,Classic dark,Monkey,Prison robe,Nothing,Classic,No hat,Nothing
 1484,7,2409,30.63,https://magiceden.io/item-details/3KHXYV3qye9MNMYN1QsWbutBDnvz5xcWKyQEAvxS6fGG,Blue,Long mustache,Bubblegum,Prison robe orange,Nothing,Classic,No hat,Nothing
@@ -114,6 +119,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Beard,Body,Cloth,Ears,Eyes,
 1623,5,109,67.21,https://magiceden.io/item-details/ERTB1Bw6PXTUoyHUnBGbkZao5xApf3pzLVXtXgHBtxdJ,Blue sky,Goat,Dalmatian,3-piece suit green,Nothing,Classic,Sombrero,Bubblegum
 1624,5,3922,39.71,https://magiceden.io/item-details/23dzbk9YiipPNcvj8biKo1XsUEsbUuiJ1fkZaGagE863,Yellow,No beard,Classic,Hawaii shirt,Nothing,Classic,Peaky Blinders,Nothing
 1638,3.8,2996,58.39,https://magiceden.io/item-details/94EddQQyHDGdfTnS5vXpxaTPPhbfXgexvuiGgt6Uw9BT,Lavanda,Classic red,Classic,Turtleneck,Nothing,Classic,Wizard cone,Nothing
+1645,1.85,1285,90.23,https://magiceden.io/item-details/4mVv3XGkNGNHmbDzro1madhaUHUWYKLY5PMaHw3Fb13Y,Yellow,Classic dark,Classic,Lether coat,Diamond earring,Classic,No hat,Cigarette
 1653,2.5,1535,81.93,https://magiceden.io/item-details/4YUBY4BWbabKXSpzfysnf1yMn2Hk51rHzpBcQJ5D12AS,Blue sky,Classic,Classic,Lether coat,Diamond earring,Steampunk,No hat,Nothing
 1655,4.5,1106,65.02,https://magiceden.io/item-details/Cc361voSSK5271fYmi43ZvcB2qJC6E9M1HLz1ZpPmPb5,Lavanda,Classic,Robot,Princess dress,Nothing,Classic,Miner,Nothing
 1663,49,2172,0,https://magiceden.io/item-details/AwCuKixM7wtnPUtQ8zryqFPokTpYT17HgkroC8Vd7TAr,Mint,Classic dark,Classic,3-piece suit green,Nothing,Viper,No hat,Nothing
@@ -126,6 +132,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Beard,Body,Cloth,Ears,Eyes,
 1780,24,2797,0,https://magiceden.io/item-details/E2L5sv4f5KojxK9brjjgoJLUD4t9uJz9Yec9rvZLiMdh,Yellow,Golden rings,Giraffe,Poncho,Nothing,Classic,No hat,Nothing
 1785,14.2,378,0,https://magiceden.io/item-details/HGXLQsB4GmTTcKSaaMBDi66JUhBmdpTrcotgd96EtJjx,Yellow,Huge mustache dark,Solana,3-piece suit,Nothing,Steampunk,No hat,Nothing
 1787,9.99,3615,0,https://magiceden.io/item-details/9d9aYQC1pwhvU4FysAyoDg6auuPv7BTkV2Cy4f7mqtV4,Blue,Huge mustache dark,Classic,Lether coat,Nothing,Classic,Top hat,Nothing
+1789,2.3,3259,71.49,https://magiceden.io/item-details/6GFgBm4CtcqeXuv4k9P41UauJfhh1kjx4Ubc1XjPHvU7,Yellow,Hagrid red,Classic,3-piece suit,Nothing,Classic,No hat,Bubblegum
 1806,3.9,3196,55.95,https://alpha.art/t/5VDhTj8BZCkTYSnjm1QAifLhEero6RMe1GC42rKdXRUr,Peachy,No beard,Bubblegum,Gnomie uniform,Nothing,Classic,No hat,Nothing
 1832,6,2584,39.36,https://magiceden.io/item-details/8Wu5fsCnxxVoj7sx92eJ5THCrsgvjoGfv6xgrnDQxNae,Pink,Golden rings,Zombie,Hoodie,Nothing,Classic,No hat,Nothing
 1844,2.69,5390,52.23,https://magiceden.io/item-details/HBSSQ8spnvv3vpaV7YdEfrTWJCtp7413tpgtCraxcdiX,Yellow,Classic dark,Classic,Classic cloack,Nothing,Classic,No hat,Nothing
@@ -139,11 +146,13 @@ id,price,moonRank,💎 score (%),storeURL,Background,Beard,Body,Cloth,Ears,Eyes,
 1980,7,4321,16.84,https://magiceden.io/item-details/GSb8ezjYX1zy9QBMTbKyLyjM1tn81F46E4CmFojTPxVJ,Blue,Huge mustache dark,Classic,Prince jacket,Nothing,Classic,No hat,Nothing
 1989,8.99,517,24.37,https://magiceden.io/item-details/6GQvgncTebzfYnQsCefB9ayrL3pSJKZDV84Ya26t3xNu,Peachy,Hagrid red,Amonita,3-piece suit green,Nothing,Stoned,No hat,Nothing
 1995,2.6,5231,54.27,https://magiceden.io/item-details/4oZDuTTuAFwmunuoLHD1ST6GhFhdCjKUL8E1EFzkfyw6,Blue sky,Huge mustache,Classic,White t-shirt,Nothing,Classic,No hat,Nothing
+2014,2.3,4076,65.6,https://magiceden.io/item-details/FD8dBMWjXYYSVqq4GkhLCqB4arTbt8VMSpNHahuVUxqK,Yellow,Goat,Giraffe,Cop vest,Nothing,Classic,No hat,Nothing
 2020,10,1928,4.09,https://magiceden.io/item-details/B9nPcicuRaidZRFeTBGwYxwxqiucyBFcouA2PUNFZmSt,Pink,Long mustache,Classic,Blue cloack,Nothing,Diving mask,No hat,Nothing
 2027,3.9,2649,59.89,https://magiceden.io/item-details/2UgRUVswaNirrLcnFazsuhnZKZ5AngUSdtZtoudEiKqg,Peachy,Swirl,Classic,Princess dress,Nothing,Stoned,No hat,Nothing
 2037,2,5149,60.86,https://magiceden.io/item-details/A1U5u85aGzMxY6bLJ7vCYJaNaLfMh6SJ9mMo3e17m2LE,Blue sky,Classic,Classic,Blue cloack,Nothing,Classic,No hat,Nothing
 2038,3.45,5286,45.38,https://magiceden.io/item-details/CLqqKoqUnCBNCGrk7zU4idFvQhQhbQcryyVxKR2omAPn,Peachy,Hagrid,Classic,Sailor,Nothing,Classic,No hat,Nothing
 2052,1.89,3326,75.11,https://magiceden.io/item-details/5ZK2vrjSdxbnaHHDyJHS26tCkQ62xs3nrQ9awkLM818u,Mint,Huge mustache,Classic,Blue cloack,Diamond earring,Classic,No hat,Nothing
+2076,1.9,5222,61.34,https://magiceden.io/item-details/CYBAtu5JW4NcLf26pVFhGqJeyYtc9CSWr3p6cMDVnRvF,Mint,Long mustache,Classic,Gnomie uniform,Nothing,Classic,No hat,Nothing
 2109,9,1055,20.39,https://magiceden.io/item-details/Bkjm5kqzKBt1iuvdwsEgWjYNxW9Ym5fiScSF5hVpWwVp,Yellow,Swirl red,Rainbow,3-piece suit,Nothing,Crying,No hat,Nothing
 2110,9.99,2692,0,https://magiceden.io/item-details/7QSkokzH954iX3bxUckTUJivmrBb9rdxc2vwsJsMTK7x,Yellow,Long mustache,Classic,Sailor,Nothing,Classic,Amonita,Nothing
 2125,2.4,3654,67.65,https://magiceden.io/item-details/FtMtc2AFgEMh1f39vQqZGvs6Jpv9n9VxwENwsfa4xCij,Lavanda,Swirl,Classic,Gnomie uniform,Nothing,Bruise,No hat,Nothing
@@ -164,10 +173,12 @@ id,price,moonRank,💎 score (%),storeURL,Background,Beard,Body,Cloth,Ears,Eyes,
 2320,15,597,0,https://magiceden.io/item-details/5A5sNcb98sX1JJr7999aiDnc3hRgdsbuTxth9pRbHJE8,Peachy,Huge mustache,Rainbow,3-piece suit,Nothing,Classic,Space Warrior,Nothing
 2325,6.5,1866,39.54,https://magiceden.io/item-details/3oDVdxeuXDG2PL2HgR8RbPfPwdDF9pP7XvXEqzqrabcw,Pink,Flowers,Pepperoni,Lether coat,Nothing,Classic,No hat,Nothing
 2329,2.85,4879,54.31,https://magiceden.io/item-details/BP8a35uT22ywxn6ZnVpAqJcunXvz9kPwZ5ut55xVYMsQ,Peachy,Classic red,Classic,No cloth,Nothing,Classic,No hat,Nothing
+2362,3.3,1332,75.39,https://magiceden.io/item-details/71cC5638kZqJscDwWsTkst7Qmaj44zcT2dyNojxeZTyA,Mint,Long mustache,Giraffe,Classic cloack,Nothing,Classic,Wizard cone,Nothing
 2394,13.99,204,0,https://magiceden.io/item-details/E9kfeEJwUrm7MCE6yrG5VpBwuPKi5foZ3Toi1TX4dF8x,Peachy,Huge mustache dark,Bubblegum,Fur coat,Nothing,Classic,Iroquois,Pipe
 2401,5.5,350,60.48,https://magiceden.io/item-details/CtM6FbnFB5i8meP91GQoenwa9XfsopkqhUzS9XWUho4V,Yellow,Swirl,Alien,Poncho,AirPods,Cybereye,No hat,Nothing
 2404,9.14,419,23.58,https://magiceden.io/item-details/AwDWn9UtwJBwKDs3Vjr9zG8PX82gTEpg6XupAp3Jkr3y,Mint,No beard,Giraffe,Gnomie uniform,Nothing,Classic,No hat,Medical mask
 2409,3.74,376,77.89,https://magiceden.io/item-details/49GTXCddRrpHScLmM9Hz6syX9ozt9BKft3Sn3hnDtroe,Mint,Apple stub,Orange monkey,Lether coat,Nothing,Classic,No hat,Cigar
+2421,3.5,2403,65.67,https://magiceden.io/item-details/6Y3hXjz88Ene77M1aDJQVgrNxck7GY5taKmtQwxzmEzQ,Lavanda,No beard,Classic,Cop vest,Security,Classic,No hat,Nothing
 2443,5.9,1987,44.67,https://magiceden.io/item-details/FxCdDMMmHLjkANxNjxwQJ967yEJ79peQT8AT27rYbCiB,Yellow,Goat,Dalmatian,Prison robe orange,Nothing,Classic,No hat,Nothing
 2480,3.5,2131,67.63,https://magiceden.io/item-details/9xT3xtGsLFhEpbgporpp6arw3pJcHpfGRskfMAdP9r6M,Blue,Half beard,Classic,Prison robe orange,Nothing,Classic,Cowboy,Nothing
 2510,3.69,2927,59.99,https://magiceden.io/item-details/EukTxyEQhNdESwJ83q8UJ9oGLJaVddtgU1p9rji3CQLL,Mint,Half beard,Classic,Fur coat,Nothing,Stoned,No hat,Nothing
@@ -178,6 +189,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Beard,Body,Cloth,Ears,Eyes,
 2530,4.5,2140,57.57,https://magiceden.io/item-details/A34Nq5na5b24MTmo3QWEMLeW4amqTQjGf8ksJEruQHUc,Lavanda,Classic,Classic,Cop vest,Nothing,Classic,King's crown,Nothing
 2546,6.29,5437,15.89,https://magiceden.io/item-details/8Z4YpprsL6F4mKApwc6EqJf3dJv5ZFxCzcGQCRwhJQoX,Yellow,Swirl red,Classic,White t-shirt,Nothing,Classic,No hat,Nothing
 2547,5,3048,46.02,https://magiceden.io/item-details/6sN4XSETSe2QqKyBbCMW9tWavMT5XsgrraFQnpmv2vRP,Mint,Hagrid white,Classic,Classic cloack,Flower earring,Classic,No hat,Nothing
+2557,1.9,5023,62.77,https://magiceden.io/item-details/3vHSSKoP7caopXdufYA2nNAQT4U9NFhpBitxLrLuZsTc,Blue sky,After shave,Classic,Hawaii shirt,Nothing,Classic,No hat,Nothing
 2559,2.4,5114,57.12,https://magiceden.io/item-details/2aFLvLf9SAJzdXBMqt3Tjx29AConqcGE1SwkEqtNMpv9,Peachy,After shave,Classic,3-piece suit,Nothing,Classic,No hat,Nothing
 2560,5.95,5434,19.31,https://magiceden.io/item-details/3bT5PWZ17RwzqjjRwGcZEs3eX8YaSkuJMUkE6XqTQXbw,Blue sky,Swirl,Classic,Poncho,Nothing,Classic,No hat,Nothing
 2567,2.35,3821,66.94,https://magiceden.io/item-details/D5yA1v4jHgF1FvbphkTY2tnVXmLcDpPWGjQvUhfxojPR,Peachy,Swirl,Rainbow,Gnomie uniform,Nothing,Classic,No hat,Nothing
@@ -201,6 +213,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Beard,Body,Cloth,Ears,Eyes,
 2739,9.49,635,18.52,https://magiceden.io/item-details/pvHzUWiKndMgvKGnCQPzhKGq4uusst85jdUCEEBwXzD,Blue,Goat,Classic,3-piece suit green,Nothing,Classic,Nest,Pipe
 2741,2.99,345,85.61,https://magiceden.io/item-details/3ekHZw3MCSARzNoJCrFvSNzHJR2FF4EW6NJMCLAMVEkT,Pink,Classic red,Giraffe,Winter jacket,AirPods,Classic,No hat,Tounge
 2751,2.4,3397,69.5,https://magiceden.io/item-details/7pErKVWTriQwb9ibtaJx77bT8mNxRi8ZUh1vyPwEGt1f,Blue sky,Huge mustache dark,Classic,Hoodie,Nothing,Bruise,No hat,Nothing
+2764,2.2,4853,61,https://magiceden.io/item-details/7kLASDihzRaZ1CZAzp3B2N2MFwGTzhpAnCg9qyyNazQ7,Peachy,Classic dark,Classic,Turtleneck,Nothing,Classic,No hat,Nothing
 2768,4.95,2873,47.78,https://magiceden.io/item-details/CuCnXda2NHMjWsLifX91NK7m1baEDULVfqDwBoJsnNx8,Pink,Hagrid,Classic,Fur coat,Nothing,Classic,Cyborg brain,Nothing
 2779,3.99,3454,53.19,https://magiceden.io/item-details/h1uJVC8a82Ny3iB6BLT72CyFjrZvppJ71Amu7zLxMom,Office,Golden rings,Classic,Cop vest,Nothing,Classic,No hat,Nothing
 2794,4.25,4116,45.81,https://magiceden.io/item-details/8g8VAfYzeznTTd1SwdNDdGvATizeyW1XspPwWtB9yv9N,Peachy,Long mustache,Classic,Cop vest,Nothing,Classic,Peaky Blinders,Nothing
@@ -211,13 +224,14 @@ id,price,moonRank,💎 score (%),storeURL,Background,Beard,Body,Cloth,Ears,Eyes,
 2850,4.199,3831,48.38,https://magiceden.io/item-details/2zvAGx8AqsXVxrqyzE4YN4kakVHZLTTuYeuG3DC1Hy3p,Blue sky,Hagrid white,Classic,Blue cloack,Nothing,Cybereye,No hat,Nothing
 2882,5.5,102,62.26,https://magiceden.io/item-details/B24zbCckxJ6LmzEad1kguUeYS4qvPtAEnrpe6vmYsaj7,Blue sky,Swirl red,Classic,Weed sweater,Nothing,Steampunk,Amonita,Sushi
 2893,6.3,3957,26.46,https://magiceden.io/item-details/BtvefGSgmS8ApZ4nFq2ML7panQyCr5cciEsWewr8YRfF,Blue sky,Long mustache,Classic,Gnomie uniform,Nothing,Stoned,No hat,Nothing
-2914,2.34,3862,66.75,https://magiceden.io/item-details/4dBvaKSYUYX9JW5xF3MEh3VmNBFrUuoyJwk8edL2qXVR,Blue sky,Classic dark,Classic,Gnomie uniform,Nothing,Classic,Cowboy,Nothing
+2909,2.2,5068,59.45,https://magiceden.io/item-details/9NiHf2yrx4mM5tNRyDkbDSDEdXBn1p1CAzdkPnbFqazN,Lavanda,Hagrid,Classic,3-piece suit,Nothing,Classic,No hat,Nothing
+2914,1.99,3862,70.25,https://magiceden.io/item-details/4dBvaKSYUYX9JW5xF3MEh3VmNBFrUuoyJwk8edL2qXVR,Blue sky,Classic dark,Classic,Gnomie uniform,Nothing,Classic,Cowboy,Nothing
 2915,22,269,0,https://magiceden.io/item-details/4Xqjr3QvYZpeSxfqWchHtjpSe1RYBq5hj36NSAx5tx6Z,Matrix,Apple stub,Classic,Prison robe,Nothing,Classic,Cyborg brain,Nothing
 2935,4.95,4732,34.37,https://magiceden.io/item-details/GxDDpboV8CzgM9RGHA6cAvBFuWurcDLjUHSWrT9XfCKT,Peachy,No beard,Classic,Poncho,Nothing,Classic,No hat,Nothing
 2970,5,1453,57.52,https://magiceden.io/item-details/J5hL4xQA5WhHEzAWevn4n6ZQUCdJugUxCi2KkHV1uvvZ,Lavanda,No beard,Classic,Winter jacket,Nothing,Classic,Bandana,Pipe
 2972,5.75,4110,30.86,https://magiceden.io/item-details/7GSuUYEsrYVU6Y8sfibiakt2yEHSBJqeVxMKrTRnHpmX,Lavanda,Huge mustache,Classic,Classic cloack,Nothing,Classic,Bandana,Nothing
 2981,4,2146,62.52,https://magiceden.io/item-details/GngudHZbTPAWVEj75hQSNiP9jxyUjEjHx8619iLkPeyu,Yellow,No beard,Classic,Princess dress,Flower earring,Classic,No hat,Nothing
-2992,2.33,2698,75.24,https://magiceden.io/item-details/62DQafqAzhW8WgCqbpTQjFH7mMqkHK7oCVJ234vdfHVc,Blue sky,Hagrid white,Classic,Classic cloack,Nothing,Ray Ban,No hat,Nothing
+2992,1.98,2698,78.74,https://magiceden.io/item-details/62DQafqAzhW8WgCqbpTQjFH7mMqkHK7oCVJ234vdfHVc,Blue sky,Hagrid white,Classic,Classic cloack,Nothing,Ray Ban,No hat,Nothing
 3002,15,118,0,https://magiceden.io/item-details/B4C3jCLEXNRQdKpZtuCiUZF1nKG5BAMf24EnnHnttYto,Blue,Swirl,Pepperoni,Squid game,Nothing,Viper,Bandana,Nothing
 3012,10,27,17.81,https://magiceden.io/item-details/AGPbr8UsfTW8tTacFHHyfiAWCRWykWRAFt8fDK25ymEX,Yellow,Flowers,Giraffe,No cloth,Diamond earring,Golden glasses,Viking,Nothing
 3020,4.5,153,71.9,https://magiceden.io/item-details/DrL7bEnj1A1kspM8dGP9c7ymrLt3Yu5mqbmiud3JVWzY,Peachy,Hagrid,Dalmatian,Cop vest,Nothing,Classic,Top hat,Joint
@@ -232,10 +246,13 @@ id,price,moonRank,💎 score (%),storeURL,Background,Beard,Body,Cloth,Ears,Eyes,
 3134,3.75,506,76.85,https://magiceden.io/item-details/ChbRX4sDNxDmPK8Luz8NrAnKZ9Y2YDpxz4DkxDuNrxDK,Lavanda,Long mustache,Dirty miner,3-piece suit green,Security,Classic,No hat,Nothing
 3141,5.5,1271,53.83,https://magiceden.io/item-details/ETaVKNdEGHj8PUeufWQUHUeL4QqHBSJziVPGi5wFMKR9,Blue,Huge mustache,Zombie,Sailor,Nothing,Monocle,No hat,Nothing
 3163,11.6942,1151,0,https://magiceden.io/item-details/FMnui9R5DAmt3ETPHXYzWTqNunpqdGKU9RcJoD83BE7Y,Lavanda,Half beard,Solana,Gnomie uniform,Nothing,Classic,No hat,Nothing
+3168,2,1110,89.99,https://magiceden.io/item-details/Drdt88hz3RcPiRqACmn9snMgqjqiABNNhyC87585R26r,Peachy,After shave,Zombie,3-piece suit green,Flower earring,Classic,No hat,Nothing
 3173,8.696969,4512,0,https://magiceden.io/item-details/GPpPTBCrC7wzNCP7CRwyfnApd6HmiSh4ZFUHiP62vywV,Blue sky,Golden rings,Classic,Lether coat,Nothing,Classic,No hat,Nothing
 3198,3.5,2958,61.67,https://magiceden.io/item-details/CTM7wsUpgfzfeothqmhAfVinrtSwdVxSP5VqkKEkyG3v,Blue,Hagrid red,Classic,Fur coat,Nothing,Classic,Wizard cone,Nothing
 3226,7.5,232,41.33,https://magiceden.io/item-details/Eh1S9Xep7xNtQ2iav21X6W5vzeeBQxbFqupoXGzVqaU9,Mint,Long mustache,Classic,Fur coat,AirPods,Ray Ban,No hat,Cigarette
+3227,2.2,4918,60.53,https://magiceden.io/item-details/HWHyFF8tgZvU74JkTcBEBCxAebSAsdjg5shoC9tjQFCM,Lavanda,Hagrid red,Classic,Turtleneck,Nothing,Classic,No hat,Nothing
 3228,2.4,2575,75.43,https://magiceden.io/item-details/7Qk8JJ4PrTjPDBDQMojGZa6j4zxHZT5ovJFtvKCvkZNh,Lavanda,Long mustache,Classic,Prison robe orange,Nothing,Classic,Top hat,Nothing
+3243,3.5,2125,67.67,https://magiceden.io/item-details/59udszHXXM7zFyAxho8zd5k1iEzpUt4eH2RX9fzWrsPp,Dark night,Huge mustache dark,Classic,Poncho,Nothing,Classic,No hat,Nothing
 3278,6,252,56.18,https://magiceden.io/item-details/FmkxotKUgz3rHgRsKkjf8RyWJLjUjbDTHv2ihvB7rMHJ,Peachy,Long mustache,Rainbow,Prison robe,Nothing,Stoned,Afro,Nothing
 3285,6.66,2953,30.1,https://magiceden.io/item-details/8gS972Jc4yRMBE1jNq8fm6P3VPqBx18msDtkGp1A6Ez4,Pink,After shave,Classic,White t-shirt,Nothing,Classic,Cyborg brain,Nothing
 3290,4.96942,518,64.57,https://magiceden.io/item-details/B7NRLCZBFeb6pwBcyfVvzJscFUVWPro6vENUpAn351GR,Yellow,Hagrid,Classic,Tatooed,Nothing,Night vision,No hat,Tounge
@@ -245,6 +262,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Beard,Body,Cloth,Ears,Eyes,
 3343,2.4,3805,66.56,https://magiceden.io/item-details/G9R6uV2ATwSz5CRdJsTk66oS4wLCp8mJztPmykN8cMXt,Pink,Classic dark,Classic,Sailor,Nothing,Classic,Cowboy,Nothing
 3354,7.49,622,38.61,https://magiceden.io/item-details/EJRU8oqMBXuwgTZFX1hLkMqE7nwmLt2EknFqK1UQzRrn,Yellow,Huge mustache,Classic,Squid game,Nothing,Classic,Iroquois,Cigarette
 3362,5.6,4982,26.07,https://magiceden.io/item-details/CVk6RpfUUJTyuAdX5iYHCSgZiqLXqgwaDt6wnqkztXaW,Blue,Hagrid red,Classic,3-piece suit,Nothing,Classic,No hat,Nothing
+3369,2.8,2213,74.04,https://magiceden.io/item-details/CNxVEWM6pikdUSDxBjMmkhkw1mHtnbyX4zSnXsnHSmKK,Mint,Classic dark,Classic,Weed sweater,Nothing,Monocle,No hat,Nothing
 3388,30,26,0,https://magiceden.io/item-details/D6a5eBr4N2W83xzqfn5tgjmYgakVokKqF2aC56m4QEyy,Yellow,Classic,Red monkey,Sailor,Flower earring,Bruise,Cowboy,Nothing
 3405,3.15,3023,64.7,https://magiceden.io/item-details/8GdPoizUrhx1sq62C26Wg8LVE6qUSqjH8fQ9AYm5YQRr,Peachy,Classic red,Classic,Poncho,Nothing,Golden glasses,No hat,Nothing
 3410,2,5235,60.24,https://magiceden.io/item-details/4JSpo4DN1Z8cvXVCaovnhkcbj2z3PxJzaTPCpwWB5uho,Yellow,Classic red,Classic,Hawaii shirt,Nothing,Classic,No hat,Nothing
@@ -257,6 +275,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Beard,Body,Cloth,Ears,Eyes,
 3523,2.66,2551,73,https://magiceden.io/item-details/8ewJ2vAKhANaDvsVtNNg5X3NbLcJj9B8TVpMAg8NoGde,Pink,Hagrid,Zombie,BDSM,Nothing,Classic,No hat,Nothing
 3546,4.89,5075,32.5,https://magiceden.io/item-details/7Z2B3qZhPjVL9J3ADhcKiNoGvZxSmxnxgenxiWUTny34,Peachy,Hagrid,Classic,No cloth,Nothing,Classic,No hat,Nothing
 3547,9.5,170,21.77,https://magiceden.io/item-details/HygmTn5J4nf6dY5kfLSZRPtE36ZUsRUhggnwNu5ir88C,Lavanda,Long mustache,Rainbow,White t-shirt,Nothing,Thug life,Wizard cone,Nothing
+3564,2.2,3687,69.41,https://magiceden.io/item-details/D575zdQBqFzUdBYoKUy6r1p3xPcqu4pvXQjKwrLobjTC,Peachy,Hagrid,Classic,Turtleneck,AirPods,Classic,No hat,Nothing
 3579,2.8,2821,69.65,https://magiceden.io/item-details/BotQNsPrfnuTVhKYsFrS4hqojv3DAjuwbtMiQVtyX5pz,Mint,Half beard,Classic,Hawaii shirt,Nothing,Steampunk,No hat,Nothing
 3624,2.5,3233,69.68,https://magiceden.io/item-details/9GAo2DohpiskdmdEMcVjyupctSiunkTE3MbZAHMYYzc4,Pink,Swirl,Classic,3-piece suit green,Nothing,Classic,Miner,Nothing
 3628,7.5,870,36.73,https://magiceden.io/item-details/8mkyYJQr9oMTwfRW28MLtzB14XBaWdHD6VaqYhRv1iS,Pink,Classic,Classic,Cop vest,Nothing,Monocle,Sombrero,Nothing
@@ -270,6 +289,8 @@ id,price,moonRank,💎 score (%),storeURL,Background,Beard,Body,Cloth,Ears,Eyes,
 3739,2.8,4890,54.73,https://magiceden.io/item-details/8MGfXLKjCdXnj5tgutaypyD9dERWuKBnFCiZCKsACYzb,Lavanda,Huge mustache dark,Classic,Gnomie uniform,Nothing,Classic,No hat,Nothing
 3749,4,5264,40.03,https://magiceden.io/item-details/6Dsp5Cqe1njY44Xh84fqgNAU1RJbN44UhpfkC8p9Gy8g,Yellow,Hagrid red,Classic,Fur coat,Nothing,Classic,No hat,Nothing
 3767,1.92,4669,65.13,https://magiceden.io/item-details/4V5VcRTzKxqSgVy4AJT8gPU5NRa5oTkadQuvKMGehuhz,Lavanda,Swirl,Classic,Weed sweater,Nothing,Classic,No hat,Nothing
+3769,2.2,3593,70.09,https://magiceden.io/item-details/G3giMJKAmuQMgCZDELyRCQNG64f5xcDZ2NQHYwBCxaM3,Blue,Hagrid red,Rainbow,Hoodie,Nothing,Classic,No hat,Nothing
+3785,1.85,5331,61.05,https://magiceden.io/item-details/k6aBE41ZjoS3piRrbQ6eoVc5jzTf8roSZD3RREVqH8Y,Blue,Huge mustache,Classic,Poncho,Nothing,Classic,No hat,Nothing
 3841,4.5,3720,46.17,https://magiceden.io/item-details/7q1ARAfsKnRcjcccQBKhU86XM59jRU9TYpW6JXpdxc9T,Mint,Classic dark,Zombie,Winter jacket,Nothing,Classic,No hat,Nothing
 3847,10,332,15.61,https://magiceden.io/item-details/3HPbzm9QwHYmWZbMjxdrZmfbZB5PijQqqcPWncZscxdD,Peachy,Classic dark,Classic,3-piece suit green,Nothing,Diving mask,King's crown,Nothing
 3849,8,3798,10.61,https://magiceden.io/item-details/GezBeViA5pfRsUWpGqLiJkiGZw1FthBvP68MgrQGxacP,Lavanda,Hagrid white,Classic,Cop vest,Nothing,Classic,Miner,Nothing
@@ -288,8 +309,10 @@ id,price,moonRank,💎 score (%),storeURL,Background,Beard,Body,Cloth,Ears,Eyes,
 4019,10,1958,3.88,https://magiceden.io/item-details/5uuERnSFFLxLFhM4VfnhQVRML7aXaGbdopPwUVSywBjx,Peachy,Goat,Classic,Turtleneck,Nothing,Classic,Foil hat,Nothing
 4030,3.5,818,77.1,https://magiceden.io/item-details/8kG7PseMytLskA4nWZAvRZT2CtqF2WUaaJ1Mr1tdwAm1,Pink,Golden rings,Classic,Poncho,Nothing,Golden glasses,Afro,Nothing
 4056,4,3116,55.53,https://magiceden.io/item-details/2fQJsCoH3JFoStJdQDQeJk1iCy3g6fHrgVyFhWbPCAUf,Peachy,Hagrid red,Classic,Blue cloack,Flower earring,Classic,No hat,Nothing
+4060,2.3,5060,58.51,https://magiceden.io/item-details/ADwMdbj4FJysGKTLcFXYcDySgSLNPidiKdqXAencQ8y1,Pink,After shave,Classic,Turtleneck,Nothing,Classic,No hat,Nothing
 4072,5,243,66.25,https://magiceden.io/item-details/3uetdAeNRK8RJLT9dUYvPtfL5vRRLJjBSRNVd19GqMM6,Blue,Hagrid,Bubblegum,Classic cloack,Nothing,Classic,Cyborg brain,Tounge
 4077,5.1,3890,38.94,https://magiceden.io/item-details/CEDwRidLPFK32mYNeZACaU5HfEsDgErzDZx4qzEwu3BC,Mint,Classic dark,Classic,Gnomie uniform,Nothing,Classic,Miner,Nothing
+4093,5,2075,53.03,https://magiceden.io/item-details/4KHtt2KdW2stLNJgWZ3GxyzKAik9bdTvwHNuErcGXnQV,Blue sky,Classic red,Purple monkey,Sailor,Nothing,Classic,No hat,Nothing
 4099,4.42069,508,70.13,https://magiceden.io/item-details/GXS5m5CvxzobwkqAjMNCnuPEytLnXfgKw6jYedM1VC3X,Mint,Flowers,Classic,Winter jacket,Robot ear,Classic,No hat,Pipe
 4133,8.99,574,23.96,https://magiceden.io/item-details/GsF2btTUqhd66R7L8qRiAD4gzGkK2vNMdu2c5bh2qgaR,Pink,Hagrid,Dalmatian,Squid game,Nothing,Classic,Blue cap,Nothing
 4139,3,2568,69.48,https://magiceden.io/item-details/6aabHMbUf75Cgv73FRznnamTG7pjcU8UjgmyTHgGE1Xy,Yellow,Huge mustache,Classic,Weed sweater,Nothing,Monocle,No hat,Nothing
@@ -338,6 +361,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Beard,Body,Cloth,Ears,Eyes,
 4718,2.4,4911,58.58,https://magiceden.io/item-details/GUP7Nn6pj1Zd59E95x3qtkuauH9tJiSmeA7iW1f6Wgtq,Yellow,No beard,Classic,Hoodie,Nothing,Classic,No hat,Nothing
 4735,10,2362,0.96,https://magiceden.io/item-details/5Ma7viHnPxzzTzyj6feyc3j719Z1SHLnKPaUXbj1AQie,Blue sky,Long mustache,Classic,Black ninja,Nothing,Monocle,No hat,Nothing
 4794,8,188,36.64,https://magiceden.io/item-details/3fm2XNGuHY35KUoV3Jx36ceCmzD5XpK46kmGER6uwNRg,Gallery,Huge mustache,Zombie,Princess dress,AirPods Max,Classic,No hat,Nothing
+4806,2.1,5500,57.33,https://magiceden.io/item-details/FH9JokbTQZquaP4cBYywqb3ha71Uy4xz35HjTiD6tBXe,Yellow,Classic,Classic,Turtleneck,Nothing,Classic,No hat,Nothing
 4810,2.98,4701,54.29,https://magiceden.io/item-details/J9LgSzcmrJvHm9CCtzUP7cQtDHtzfE11agy6EB7WQuAQ,Pink,No beard,Classic,Fur coat,Nothing,Classic,No hat,Nothing
 4827,1.88,1470,88.6,https://magiceden.io/item-details/AztZzo8iUGraspUm3kq8ehfXsnP3w3dSb45VhmviCkpM,Pink,Huge mustache dark,Classic,Lether coat,Nothing,Cybereye,No hat,Bubblegum
 4844,4.45,3327,49.5,https://magiceden.io/item-details/E7EehtD1KuVxDnKXmtPa8x55ausbeLBLqYFVVrCv5JfR,Blue,Huge mustache dark,Bubblegum,Poncho,Nothing,Classic,No hat,Nothing
