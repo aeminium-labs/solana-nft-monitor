@@ -1595,3 +1595,17 @@ jobs:
           http_url: https://reqbin.com/echo/get/json
           downloaded_filename: solanadroidbusiness__magiceden.json
           postprocess: ./postprocess/magiceden.ts
+
+      - name: drippies - Fetch Magic Eden data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://reqbin.com/echo/get/json
+          downloaded_filename: drippies__magiceden.json
+          postprocess: ./postprocess/magiceden.ts
+
+      - name: drippies - Fetch Solanart data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://qzlsklfacc.medianetwork.cloud/get_nft?collection=drippieverse&page=0&limit=100&order=price-ASC&fits=any&trait=&search=&min=0&max=0&listed=true&ownedby=&attrib_count=&bid=all
+          downloaded_filename: drippies__solanart.json
+          postprocess: ./postprocess/solanart.ts
