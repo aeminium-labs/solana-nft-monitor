@@ -9,7 +9,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Ears,Eyes,Head,Mouth
 215,1.2,2242,70.07,https://magiceden.io/item-details/Cm7xsUe8LU6L4o6tZeJwSy7MyLF1krmhttMdjAWu29VS,Blue Gradient,Red,Nothing,Nothing,Shark,Smile
 217,2.5,1990,60.1,https://magiceden.io/item-details/Fzdi1L2bBthyFsjATMkaJDX6jJj8BS2UypEYHPXUw7hV,City,Blue,Nothing,Nothing,Pilot,Smile
 248,1.3,2305,68.31,https://magiceden.io/item-details/FVUxw6GuKbUvwbPxdv7yRpqgQD6WmH2o4RA5nxtJRv2h,Cream,Zombie,Nothing,Nothing,Gambler_s Hat,Nothing
-252,1.3,2125,70.47,https://magiceden.io/item-details/958nH3tsHw4ahonrfdYbytsi1mE6hnBVs5MnhQ1jGmEe,Brown Gradient,Zombie,Nothing,Nothing,Elf,Nothing
 253,7.33,2220,9.03,https://magiceden.io/item-details/CjzLgxirtEoRYpqFp26EgbwPwB6Wp1Rq2NvqpAyHMMqb,Cyber Age,Blue,Nothing,Nothing,Ice Cream,Nothing
 262,20,2131,0,https://magiceden.io/item-details/DRjfuqy196hqoK7zeDu9osHy431hfaGvDiKZP8CSGWhK,Blue,Blue,Silver Earring,Nothing,Nothing,Smile
 268,2,1819,67.15,https://magiceden.io/item-details/2b5jNyWuUJ7rzHqRT2zcfVXNuLnuydr6dHJxPWF5xtu1,Violet,Cyan,Nothing,Nothing,Afro,Green NT Mask
@@ -17,6 +16,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Ears,Eyes,Head,Mouth
 288,3,1145,65.25,https://magiceden.io/item-details/9iTy1Fohzj2RpaVmRXJo5UjX1D2bkbRTCUFEz9hfDHot,Violet,Red,Nothing,Nothing,Pilot,Red NT Mask
 295,2.69,957,70.6,https://magiceden.io/item-details/GLGYZb4WRfr3wnT3cjgDfPcAXVPLLcdWX7AsKa7VU9ZG,Brown Gradient,Brown,Nothing,Cyborg Eye,Nothing,Gold NT Mask
 302,50,13,0,https://magiceden.io/item-details/DF1HR5HJB9YTeKNrsBKyS6zjjTd1UnEL7iHhF2Sf6b46,Blue Gradient,Albino,EarPiece,Virtual,Ice Cream,Blunt
+322,0.9,1137,86.34,https://magiceden.io/item-details/CTg8FkMsj1AR97FLSUPMGBpkUHye5QUaDY1vM2srHyPr,Blue,Blue,Nothing,Stoned,Bunny,Smile
 334,5,2369,30.54,https://magiceden.io/item-details/HUs6rpgg6Fj3j4EGZr5guPFF49doJLAQs7dLNyV9fuP9,Blue,Cyan,Nothing,Nothing,Crown,Nothing
 341,1.99,744,80.16,https://magiceden.io/item-details/G1yRFz3fhjUJvPTVnm5dS1pLGUyjNFBM8mja8fD2NLNa,Blue,Albino,Neon Earring,Nothing,Naruto,Nothing
 345,1.15,2728,64.73,https://magiceden.io/item-details/8Vz7SrN7KhksuAGL783pmdBRyqKEPfntZ8zu7ZV4Kuvn,Blue,Red,Nothing,Nothing,Ice Cream,Nothing
@@ -103,7 +103,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Ears,Eyes,Head,Mouth
 1095,1,850,88.79,https://magiceden.io/item-details/8fbmXV961wyAcEPZTrni5ZE5wTZ9VBK7MszLdtZjT8Lp,Cyber Age,Blue,Nothing,VR,Monke,Nothing
 1098,1,2659,67.06,https://magiceden.io/item-details/4EKUsrkhQ3oooyTxdUAACMz3V3DZH827W16WLijpc1AX,Red Gradient,Albino,Nothing,Cyborg Eye,Nothing,Nothing
 1120,3.5,1035,61.57,https://magiceden.io/item-details/8kDw75sRe2EpkHYCWGTYwGUcqV31y5Z1RVEHSgUynxCb,Blue,Cyan,Neon Earring,Virtual,Nothing,Nothing
-1131,2,209,86.49,https://magiceden.io/item-details/3onacd2tjzkK6MaT97JniHoqhF3g58LBba2iYzQBcU6C,Binary,Blue,Nothing,Stoned,CEO,Blunt
+1131,1.8,209,88.49,https://magiceden.io/item-details/3onacd2tjzkK6MaT97JniHoqhF3g58LBba2iYzQBcU6C,Binary,Blue,Nothing,Stoned,CEO,Blunt
 1136,2.5,251,80.98,https://magiceden.io/item-details/FXuUjknfckboWbiXyZghZaRDnom6FtNJz7jodd8C66GX,Purple Gradient,Cyan,Nothing,Cyclowear,Military Hat,Vape
 1139,1.23,2313,68.92,https://magiceden.io/item-details/HyTmNK9FNV8xQk5pQRpCYqHEoDzhziYeUeCYKdBmHVSE,Cream,Cyan,Nothing,Nothing,Pan,Smile
 1143,1.1,1723,77.3,https://magiceden.io/item-details/5vcFyRazNBebwki9daE2sjqyALPArQ4miuR2czwXAV24,Psychedelic,Cyan,Nothing,Nothing,Pan,Cigar
@@ -126,6 +126,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Ears,Eyes,Head,Mouth
 1262,4.25,750,57.49,https://magiceden.io/item-details/bamuv6dXnDFHgQFxtgYuZYnCeYBbMkosmPSsCUrcmka,Psychedelic,Gold,Nothing,Nothing,Afro,Jaws
 1265,5,467,53.39,https://magiceden.io/item-details/9roaS8CxaUEf6qJojGKZp1EgYGc4HKUfdjTDqFXiexVf,Blue,Black,Nothing,Angry Visor,Saka,Smile
 1268,3,2947,43.6,https://magiceden.io/item-details/23TzE4HLxWhpkZGH3aESsQpZX9rbdTkjPV6qczJtirmn,Blue,Albino,Nothing,Nothing,Nothing,Cigar
+1279,2,88,87.94,https://magiceden.io/item-details/XNMMAubhg4UE5vvZyGNPJ65iTauhg1XDjKEAhyJmTdQ,Red Gradient,Cyan,Neon Earring,Cyclowear,Ice Cream,Nothing
 1280,4,265,65.82,https://magiceden.io/item-details/HJFKTttsh8SGHNjYx1jJHrU1MRTy9k7GkaBzEumqqaa2,City,Brown,EarPiece,Cyborg Eye,Nothing,Smile
 1298,1.35,1561,76.75,https://magiceden.io/item-details/DzHyth51QaVqbnTvY5h42ZqHyXjmAMzLtPMriS9wqhPE,Violet,Black,Nothing,Metallic Visor,Bunny,Nothing
 1309,1.2,2643,65.25,https://magiceden.io/item-details/GFj4JLL7sMkRtavR5BprTiZFdfgTYSWC1uEFnAFq82Du,Violet,Red,Nothing,Angry Visor,Nothing,Nothing
@@ -151,6 +152,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Ears,Eyes,Head,Mouth
 1534,2.89,2961,44.53,https://magiceden.io/item-details/4Uu6yZvWyKEU84AwbPKnCGDowkqWU2veefDjBHVWMWfG,Cream,Cyan,Nothing,Nothing,Usanka,Nothing
 1542,2,2186,62.74,https://magiceden.io/item-details/EM7xtTZfqiuXMpR8ZKHEAHx2m5PmmV8vC6FVgxWQG92y,Blue Gradient,Blue,Nothing,Nothing,CEO,Smile
 1549,1.4,1042,82.48,https://magiceden.io/item-details/7ixfMh2sQR8nBvxC19xyd1J9orRvqQaCUu9zX8RWW1bi,Purple Gradient,Albino,Nothing,Solana Visor,Elf,Nothing
+1554,0.9,2993,64.05,https://magiceden.io/item-details/95YnRCMwRBr3SwWj2p4pP3xo5vHjLrPwaHWHLdCDuxTe,Violet,Black,Nothing,Nothing,Bunny,Nothing
 1571,1.8,2983,55.17,https://magiceden.io/item-details/9M1YrHdB5WLKEPDJHEabwiRLNTBEjReDDr2XCQ9nHvxm,Psychedelic,Brown,Nothing,Metallic Visor,Nothing,Nothing
 1589,1.75,2295,63.93,https://magiceden.io/item-details/HT4gKdi5JVpBsbHhqKhgrJ3wgro7xLnSh1SbffjhoW4J,Blue,Zombie,Nothing,Nothing,Military Hat,Nothing
 1596,1.75,1792,69.97,https://magiceden.io/item-details/B18oEDgofwAFLeSaGtELpktsnGfxAWsaskaXsnTx1dSu,Blue Gradient,Mutant,Nothing,Nothing,Nothing,Green NT Mask
@@ -196,6 +198,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Ears,Eyes,Head,Mouth
 1999,1.23,2323,68.8,https://magiceden.io/item-details/9jGYxLYWnQqbqEvyWdrJxiEaTjWvieG9ydBDhJ4mXcVu,Cream,Cyan,Nothing,Nothing,Shark,Smile
 2006,2.5,1186,69.75,https://magiceden.io/item-details/8oAjJcsaXQ3rf7QBWdMr9FSKdkqPmBqyxDo3hcJbGGKZ,Purple Gradient,Brown,Nothing,Cyborg Eye,Naruto,Nothing
 2016,2,562,82.25,https://magiceden.io/item-details/68xGeqn97ic4kA4evKwH5i8ovVfmsAcCefMv9gpCCMTy,Violet,Blue,Nothing,Cyclowear,Santa,Green NT Mask
+2018,1.1,822,88.13,https://magiceden.io/item-details/EXoPGygqtfmKni5zbSmebJkMmiX2qymJr3nDypbSLBbZ,Brown Gradient,Robot,Nothing,Virtual,Gambler_s Hat,Nothing
 2077,1.3,1427,78.86,https://magiceden.io/item-details/5j8dXg3vGqSE7pKvDYVQt3Q9xPUgPR7MMedwcLYRstwW,Blue Gradient,Blue,Nothing,VR,Nothing,Cigar
 2103,10,1449,0,https://magiceden.io/item-details/DvAnRNMVvvMLDVoTzWNjkiPavEAoZ1wirkxh2yWA72kK,Red Gradient,Cyan,Nothing,Nothing,Usanka,Blunt
 2105,1.2,2724,64.28,https://magiceden.io/item-details/FzuNAm72an3dfb31KVWU5DQNZw8PaE8GjZ62WiHrpbde,Violet,Red,Nothing,Nothing,Nothing,Red NT Mask
@@ -328,6 +331,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Ears,Eyes,Head,Mouth
 3196,1.5,1333,77.99,https://magiceden.io/item-details/CHwWapxdA3qhJqMXQ1CnbmkHZDY15i5jUsx87w6nCHJE,Psychedelic,Gold,Silver Earring,Nothing,Nothing,Nothing
 3201,5,2940,23.68,https://magiceden.io/item-details/3j79iSD6vgmqGcbAnqkxSqhsaK2U47PzHsQpC79pVPx9,Red Gradient,Brown,Nothing,Nothing,Shark,Nothing
 3203,1.1,2987,62.12,https://magiceden.io/item-details/8iZUt7zDvsEpKvDmdo6AnZWk2AGATeP8XpeECYeSaR4V,Psychedelic,Albino,Nothing,Nothing,Afro,Nothing
+3204,1.1,1570,79.14,https://magiceden.io/item-details/cD8RAEiYqea8gXxp83vsU9NahxocANWAVqkDPpKhAGJ,Cream,Blue,Nothing,Stoned,Nothing,Red NT Mask
 3221,3,3131,41.39,https://magiceden.io/item-details/3Vy1TCSj2ayPjLJBSPJ1yLDBe8nCPS7mRxaig94DpCyK,Psychedelic,Red,Nothing,Nothing,Fez,Nothing
 3242,5.9,75,49.1,https://magiceden.io/item-details/EF6B6ZrnjKMhitaAvpJVmtKpJGueoSRHuuFgDmjaBDzA,Cream,Cyan,Silver Earring,Stoned,Fez,Smile
 3262,5,382,54.41,https://magiceden.io/item-details/4f3fZbhe5AZpShvvVeqShUenziVFjYDPpr2s7JBgKQaD,Violet,Mutant,Nothing,Angry Visor,Nothing,Vape
