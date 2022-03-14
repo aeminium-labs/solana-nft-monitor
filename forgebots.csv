@@ -1,5 +1,4 @@
 id,price,moonRank,💎 score (%),storeURL,Back,Background,Body,Body Color,Chest,Head,Metal,Topper,Visor
-30,2.99,592,71.88,https://magiceden.io/item-details/9Fgx73Kttq15r5kFQNbzLgsaxyct7nGQ6dEAN4YjU442,Minis,Hologram,Issue,Blue,Facet,Flattop,Steel,Gold Insignia,Black
 35,1.1,2114,72.49,https://magiceden.io/item-details/CTKDXh2RSmYsJa4WsvXLtZQ6u1jKFRbVqLqVmjiAKKMh,Zippy,White,Heat Sink,Orange,Jolt Pack,Hydro,Steel,Dish,Black
 47,2.2,933,75.69,https://magiceden.io/item-details/DuGtnAiy5Hj2mEYZpwbWFjsVhDnNFqJqAh4GKyKM9FyJ,Minis,Forge,Workforce,Green,None,Airframe,Steel,Duel Antennas,Black
 50,3.8,774,61.6,https://magiceden.io/item-details/97ngQtcwUwicej9bsgGR7yV8eaWyT8irNvHMWAtB33nE,Drip,Blue,Scout,White,Absorption Shield,Spirit,Steel,Duel Antennas,Black
@@ -11,6 +10,7 @@ id,price,moonRank,💎 score (%),storeURL,Back,Background,Body,Body Color,Chest,
 99,1.2,1086,83.85,https://magiceden.io/item-details/AkCA3gi4xqySazVSStWnFFsBQPokxjRMQQmENBSh1m3K,None,Plum,Issue,Yellow,Gold Insignia,Spirit,Copper,Fins,Black
 117,2.999,584,71.89,https://magiceden.io/item-details/AeKn6FwoYkm3ERpz7zrm8YJw5Wtj4uA2uFw2TFkSx629,ERL-16,Orange,Quadrid,Blue,Jolt Pack,Airframe,Steel,Fins,Black
 119,1.04,2691,66.16,https://magiceden.io/item-details/BvwLeW5twu487tuQXm2ycekD6hNyZpxvn1rDd5isEhL1,Squidy,Orange,Vector,Red,Facet,Miner,Steel,Duel Antennas,Black
+121,0.92,3287,60.19,https://magiceden.io/item-details/HAGN3zRXgpcKQbSPGrJd69QTPYmF3pj6xxPd6AYQhkaP,Volt Pack,Black,Breach,Red,Pump,Boxy,Steel,None,Black
 142,50,65,0,https://magiceden.io/item-details/4aknD1kbpdf4gzyaqz6f3FGyBUKYpnvEg9uusqj6us9K,Foils,Teal,Heat Sink,Orange,Pump,Grin,Steel,Duel Antennas,Glowing Blue
 154,2,2147,63.09,https://magiceden.io/item-details/7R2H6QyLhdZyUgfoxzcXzw3NmubwzkJMrG6bva6WjD2M,Blasters,Plum,Breach,Teal,None,Atomic,Steel,Duel Antennas,Black
 162,3.6,1197,58.51,https://magiceden.io/item-details/HDu2mFj38doPvJHqvJoAvKR7Chg2NAoVFcS6bXcBADVP,Staff,Gold,Issue,Copper,Vent Pack,Boxy,Steel,Duel Antennas,Black
@@ -23,7 +23,6 @@ id,price,moonRank,💎 score (%),storeURL,Back,Background,Body,Body Color,Chest,
 224,0.99,2648,67.17,https://magiceden.io/item-details/6orLfD7oCVdk9aKamRsktBVzy35QMDcSUCCo24uMFmjD,Volt Pack,Black,Heat Sink,Teal,Copper Insignia,Flattop,Copper,Extensions,Black
 225,0.99,3097,61.78,https://magiceden.io/item-details/3pCqWd5qykzXuLy1sA7UTG6wdRLuau4AhzvbFBiBsKD3,Drip,Sage,Issue,Black,None,Aero,Steel,None,Black
 236,0.969,2602,67.94,https://magiceden.io/item-details/4Wth2i94EewwEt6XB3o1AvuhqZ91rsNqJXHyCPruH19v,Staff,White,Issue,Orange,Copper Insignia,Boxy,Steel,Steel Insignia,Black
-242,1.35,1545,76.83,https://magiceden.io/item-details/5a4ZaE1dv5DagW1eukG4xtJ2Y1VJqPTqefjrFqgxa3T6,Squidy,White,Scout,Red,Facet,Regulator,Steel,Steel Insignia,Black
 253,1.95,1312,73.63,https://magiceden.io/item-details/FKHYTebdBD6dsxhSp2r8ASmexdXZHtyjzFaqtimgewew,Squidy,Sage,Heat Sink,Magenta,CryoFlow,Slim,Copper,Extensions,Black
 266,1.3,3099,58.65,https://magiceden.io/item-details/8aZzvtds7cVx6MAkZJV2KEyXoqJ7Q9nUx8WQzHZh2jWY,Volt Pack,Sage,Issue,Green,Facet,Entry,Steel,Fins,Black
 306,1.5,2902,59.02,https://magiceden.io/item-details/Ewcv4mQntajZ1Ki8FRDnbcEti3r1hCtN2johRnqogrjf,Zippy,Blue,Workforce,Red,Steel Insignia,Slim,Steel,None,Black
@@ -58,12 +57,12 @@ id,price,moonRank,💎 score (%),storeURL,Back,Background,Body,Body Color,Chest,
 697,2.69,2003,57.93,https://magiceden.io/item-details/DdBrMsuTpHnojt53xM3ioSLfVGYWzbvCTpHDw9w6Q38G,Zippy,Orange,Breach,White,CryoFlow,Slim,Steel,Extensions,Black
 700,1.99,442,83.69,https://magiceden.io/item-details/5C6MKPAFiQUWaaZX6e7CsrWZZQD45FrU8a1Qum1oygKq,Sector,Forge,Scout,Red,Facet,Hydro,Steel,Steel Insignia,Black
 753,1.5,2965,58.26,https://magiceden.io/item-details/3H16kLumuHBxDs2FTuJD3fACCDKcLnRYjDr39E8VaY8U,Minis,Blue,Heat Sink,Blue,Copper Insignia,Atomic,Steel,Dish,Black
-754,5,58,58.2,https://magiceden.io/item-details/2xv5ZDBjch9RbrQFdcqFVhW38y6reDATG3gf4pdiuAJA,Sector,Forge,T3,Teal,Vent Pack,Aero,Copper,Electrogem Horns,Black
 764,1.9,1122,76.41,https://magiceden.io/item-details/GbMprSXto2iCy4oWscsiYmYNjNbtnybSzm7S23N4VXEB,None,White,Scout,Orange,Jolt Pack,Aero,Gold,Fins,Black
 779,1.4,2456,65.38,https://magiceden.io/item-details/wz3GBhKHu2XLu5ThocmfZjUzDpXEvagWA6SdU2Psmit,None,Black,Breach,Green,Jolt Pack,Entry,Copper,Fins,Black
 799,3,205,76.44,https://magiceden.io/item-details/FCeW3PoCxgPHCNFNUcstmpxmaemtGZHscMgbdvJf8kv3,Minis,Gold,Ventilator,Blue,Gold Insignia,Swivel,Steel,None,Black
 816,2.2,444,81.56,https://magiceden.io/item-details/HCfXUnENVABrEg3WZYvUciqsRpeabLBdCiPMW5TVw4nc,Minis,Sunburst,Breach,Blue,CoreBoost,Flattop,Copper,Copper Insignia,Black
 820,2.69,920,70.94,https://magiceden.io/item-details/Cc6CQpUcrWyghhDPuFcKVUPLxipAVA4F7eUE36bSGwZu,Zippy,Cave,Workforce,Blue,Vent Pack,Cyclops,Steel,Duel Antennas,Black
+863,1.1,1697,77.5,https://magiceden.io/item-details/8jY3TtR59F2Z7BcPN9Sz2ZpidgjYrFKLkSN994YmWyha,Cryo Charger,Plum,CryoTank,White,Filter,Flattop,Steel,Dish,Black
 868,2,192,86.59,https://magiceden.io/item-details/2y76zQNqVyTVGf2KnNEdjup7Rbs4HUsu5sfqq8iSEfJe,Zippy,Plum,Ventilator,Copper,Pump,Regulator,Gold,None,Black
 898,1.3,1784,74.46,https://magiceden.io/item-details/B8Pfau3969CAEicEZeVD2nVrhpUZnfGHFbckXTF8Ae9p,Zippy,Blue,Workforce,Magenta,None,Slim,Copper,Cryo Bulbs,Black
 935,2.5,652,76.06,https://magiceden.io/item-details/G1zCPmEYxHddpyspJdrh4pHcGX8b9Vxu7BzTySHhKKAR,Volt Pack,Surface,Vector,Yellow,Steel Insignia,Hydro,Steel,Fins,Black
@@ -177,6 +176,7 @@ id,price,moonRank,💎 score (%),storeURL,Back,Background,Body,Body Color,Chest,
 2366,1.3,2799,62.26,https://magiceden.io/item-details/CiaqgRuEWLRWLDyq5t5RrSkvSsxou5diFSF1myTavonP,None,Orange,Vector,White,Vent Pack,Miner,Steel,Extensions,Black
 2368,1.15,2591,66.26,https://magiceden.io/item-details/xFr3NXGX5zwJ6dZd3TpN41pJJLQYApkcKRBqKjUuiGd,Minis,Blue,CryoTank,Blue,Facet,Regulator,Steel,Duel Antennas,Black
 2396,10,2376,0,https://magiceden.io/item-details/GAczgTWGjL69VyLhEV6rs1UxN67UDXnoDgb9zYkTrfBK,Staff,Sage,Scout,Green,Copper Insignia,Boxy,Steel,Copper Insignia,Black
+2398,0.9,544,93.36,https://magiceden.io/item-details/E6nR4evYUHsmwRDa5dQ3qWm3LWBZdJSQ8pyMQwtxpFBy,Minis,Blue,Scout,Magenta,Gold Insignia,Spirit,Steel,Cryo Bulbs,Black
 2410,1.5,1359,77.57,https://magiceden.io/item-details/316ptYozftHJ1zg2mgskzj1LXcsuCWujUNu2Hezg9HqF,Volt Pack,Solana,Heat Sink,Black,Pump,Hydro,Copper,Extensions,Black
 2417,3,835,68.86,https://magiceden.io/item-details/2ukaevm8hz9erkfmyqZsJuzmkXMveJ7gHn2r7KZPMbBv,Blasters,Orange,Scout,Rose Gold,None,Boxy,Steel,Cryo Bulbs,Black
 2431,1.1,3050,61.24,https://magiceden.io/item-details/8wTMFZw3hULAenP19wGWxnqJXvL4qYZoPWPAZUNjBiXb,None,Blue,Issue,Blue,Copper Insignia,Spirit,Steel,Extensions,Black
@@ -200,7 +200,6 @@ id,price,moonRank,💎 score (%),storeURL,Back,Background,Body,Body Color,Chest,
 2602,1.8,2446,61.5,https://magiceden.io/item-details/9XPnJyGreNVm8esLqnwVAQhDNU3PgGXGhMNdTtAwk4JB,None,Red,Issue,Black,CryoFlow,Aero,Steel,Fins,Black
 2636,1.25,2645,64.61,https://magiceden.io/item-details/4yn8sfnETkj4wJc5aNZktrUEPeWtGwD7Gt6edY3g2BFs,Cryo Charger,White,Workforce,Magenta,Pump,Atomic,Steel,Extensions,Black
 2640,2,1774,67.58,https://magiceden.io/item-details/D9KzUYosMZEg1cA9haibtxR4BZCpcuP2EK3ZvKSTUV19,Drip,Sage,CryoTank,Yellow,Grid,Boxy,Copper,Extensions,Black
-2641,0.94,873,89.01,https://magiceden.io/item-details/6B3pLJuKVC6y5w3tfKPLTme5YeVMAJavSYodVgcXrix,None,Red,Vector,Copper,Facet,Slim,Copper,Cryo Bulbs,Black
 2642,1.33,3303,55.9,https://magiceden.io/item-details/FB9rbhjs4wAFk4VAWad9hL4pUHgznc1KoWVjQY6d7tjv,Volt Pack,Black,Issue,Blue,Jolt Pack,Slim,Steel,Extensions,Black
 2644,0.99,2606,67.68,https://magiceden.io/item-details/G7xPTKjbzbDFNJ61tZFQcN6oYp7KhX93RFuQV2f9uQqd,None,Teal,T3,Black,None,Miner,Steel,Duel Antennas,Black
 2647,2,1265,73.7,https://magiceden.io/item-details/EnNP19R8RY56kexkwfb28EuiUFcDaQLLL3XLWHnyWsbX,None,Blue,Breach,White,Facet,Slim,Steel,Extensions,Glowing Blue
@@ -235,6 +234,7 @@ id,price,moonRank,💎 score (%),storeURL,Back,Background,Body,Body Color,Chest,
 3027,0.97,2824,65.26,https://magiceden.io/item-details/Ab54XeeUbfTueDhW5TcCs7y5PPcRUf8TZtPBymUCT5n3,Drip,Blue,Quadrid,Red,Pump,Aero,Steel,Duel Antennas,Black
 3040,2.3,999,73.89,https://magiceden.io/item-details/GB9YG5EaxFbyhaPH8DjaKxEDyVHdoaKAexmWTC8xc7Tq,Blasters,Orange,Issue,Yellow,Vent Pack,Atomic,Steel,Electrogem Horns,Black
 3041,3.6,641,65.2,https://magiceden.io/item-details/72SuNBSeNkeM9sJxgbRSeXavGw8mwd8Ay8iS23R3ao6J,Volt Pack,Sage,Issue,Orange,Facet,Cryophant,Copper,Intake,Black
+3048,0.92,3169,61.61,https://magiceden.io/item-details/E6bAHaiJ24zVVAxdVjbK6Maw7Hc6r6JxBq4y7jj5xpif,None,Blue,Issue,Blue,Copper Insignia,Miner,Steel,Dish,Black
 3064,1.5,1463,76.32,https://magiceden.io/item-details/F2Sg6kR2h3nQobV9taiqjhQyMo3WNoi4kQUs3hMxX9Rh,Sector,White,Quadrid,Yellow,Vent Pack,Entry,Copper,Intake,Black
 3071,39,1250,0,https://magiceden.io/item-details/DszcJusdioyV6w7EvhWkQuXm7JimhjAMdfkku1TtHfNi,None,Sage,Scout,Black,Solana,Boxy,Steel,Dish,Black
 3119,1.98,267,85.89,https://magiceden.io/item-details/5rDikAt1w39e2SEeSuyVbu9q5xQgjjjoeGq8HhUTKNbA,Zippy,Sage,Ventilator,Steel,Facet,Slim,Gold,Intake,Black
