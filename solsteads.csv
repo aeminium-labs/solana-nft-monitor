@@ -8,6 +8,7 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 23 Teeps Lane,21,609,25.14,https://magiceden.io/item-details/Ghrcg87xS7vt5XqUFCPPSWAKYCCENv7od1U2KwkhR6X,Volcanic,Blue,23,Cottage,,Dark green,Rounded,,Pale green,Shingle,Day,Teeps Lane
 24 Teeps Lane,20,1377,22.71,https://magiceden.io/item-details/86M83GwLMNZSw8Gw9Z2KUtnx4yFJ6hBBzYXFzNA9tF6w,Field,Blue,24,Modern,,Yellow,Rounded,,Mix,Mushroom,Day,Teeps Lane
 27 Stewart Avenue,15.55,2206,53.79,https://magiceden.io/item-details/BFFRLup689pshtUc3GRcemaibHr7mei61xsu7PbN5rDE,Field,Yellow,27,Cottage,,Blue,Rounded,,Dark green,Skylight,Day,Stewart Avenue
+29 Jump Street,80,1466,0,https://magiceden.io/item-details/BSRXdKBoK8Wrr2ZFzvMoQUGS4MqGdZyt7nGjRfNBiQ5P,Beach,Red,29,Cottage,,,Glass,,Green,Skylight,Day,Jump Street
 31 Teeps Lane,29,1286,0,https://magiceden.io/item-details/4UBrfNLAyYPwYRYvy9PJStqa8ztkFDjZsAuaL2rUtkXJ,Desert,Red,31,Art Deco,,,Crystal,,Green,Skylight,Night,Teeps Lane
 32 Supple Circle,23.45,1203,0,https://magiceden.io/item-details/4mbH8KP43wmWXJt2s3KwLv4K84KYcqf5ZFa9ctU1VMs4,Woods,Lavender,32,Modern,,Pale green,Rounded,,Yellow,Shingle,Day,Supple Circle
 34 Teeps Lane,89,177,0,https://solanart.io/nft/Fwb5z3dnwwdzH78SuekvAEg8QacDhY3GZhRj8mSDxZWg,Underwater,Dark green,34,Modern,,,Glass,,Dark green,Skylight,,Teeps Lane
@@ -95,7 +96,6 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 219 Bit Boulevard,20,764,32.63,https://magiceden.io/item-details/DM4RHDkZDxmopc4PC57VMt8JDZS73ASSBZbqvgYqtd67,Treehouse,Red,219,Art Deco,Brick,,Glass,,Dark green,Tin,Day,Bit Boulevard
 222 Baker Street,55,445,0,https://magiceden.io/item-details/VKUgcrTV98CXYQ9SVx9cMEdmxjr4vKSt6JYNxg5yMcw,City,Yellow,222,Art Deco,Vines,Green,Shuttered,,Mix,Grass,Night,Baker Street
 224 Bit Boulevard,100,1624,0,https://alpha.art/t/9xmfLg5Vf7XGVqE3YDMZrh37TKUEimUZuSNKjh4rbuPe,Mountain,Yellow,224,Cottage,,,Crystal,,Yellow,Skylight,Day,Bit Boulevard
-226 Baker Street,16,1940,53.6,https://solanart.io/nft/Ckr1T6w9FvwyUh2cWHsZrzQJuvqAbchAZPZMB13viYog,City,Green,226,Cottage,,Blue,Shuttered,,Mix,Food,Day,Baker Street
 227 Bit Boulevard,24.97,1920,0,https://magiceden.io/item-details/8jTD8faHDT6eXaQgTnvYozmmCEH3UnPo4bbUUQ9JSP9x,City,Green,227,Mansion,,,Crystal,,Green,Shingle,Day,Bit Boulevard
 229 Baker Street,19,53,54.14,https://magiceden.io/item-details/8Vs7SxgqqdEzoznQXWm9P4VFTAQ3TSskfPec7JYMXTQX,Mountain,Green,229,Modern,,Blue,Rounded,Snow,Dark green,Tin,Night,Baker Street
 238 Baker Street,39.974998,2318,0,https://solanart.io/nft/HkKAcWpWs9u9vUiECd4X2c2xbjaCw3nuWhBSu3VCLb46,City,Green,238,Cottage,,Red,Rounded,,Red,Shingle,Day,Baker Street
@@ -216,7 +216,7 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 589 Helix Avenue,100,170,0,https://solanart.io/nft/68am4pWwtB8UXXtWGSe6ce5SsscB2SBkSWHULTCR3APs,Mountain,Green,589,Art Deco,,,Crystal,Snow,Yellow,Tin,Day,Helix Avenue
 595 Cluster Lane,30,387,0,https://magiceden.io/item-details/53qSfd3nvz7i1zQdjFpMBo3B8LfpMoE7ZDi8K9ijG2xi,Mountain,Green,595,Cottage,,Yellow,Rounded,,Dark green,Skylight,Night,Cluster Lane
 597 Helix Avenue,25,834,0,https://magiceden.io/item-details/Gky5U83RLQ6LJ697k1i69tBVHQpVQiFzJQaYtnFBxPwQ,Volcanic,Yellow,597,Modern,Vines,Lavender,Shuttered,,Yellow,Tin,Day,Helix Avenue
-601 Dip Drive,15,1533,70.18,https://magiceden.io/item-details/3dyXDFFDrJC732nyBybvmnke3VqHKRd7VefVFW2zTZSu,Desert,Blue,601,Art Deco,,Red,Shuttered,,Pale green,Shingle,Night,Dip Drive
+601 Dip Drive,14.9,1533,71.18,https://magiceden.io/item-details/3dyXDFFDrJC732nyBybvmnke3VqHKRd7VefVFW2zTZSu,Desert,Blue,601,Art Deco,,Red,Shuttered,,Pale green,Shingle,Night,Dip Drive
 602 Helix Avenue,19.99,2205,9.41,https://magiceden.io/item-details/8cmsWP9NeH1Vxwb3XjYrNaD2FXN8oXuXUbtzVqPCNqdD,Mountain,Red,602,Modern,Brick,Red,Shuttered,,Blue,Shingle,Day,Helix Avenue
 605 Poplar Street,30,1150,0,https://magiceden.io/item-details/5uTmLvgkygjcookVwNtNqd1gWHju1V9C4GNV2meBa8E3,Woods,Dark green,605,Cottage,,,Glass,,Dark green,Patio,Day,Poplar Street
 616 Helix Avenue,29,460,0,https://solanart.io/nft/FA5E5b4TURQ7uKztcpKGiejebiBdwQJZ5qGK9axbrxK6,Underwater,Yellow,616,Cottage,Vines,,Occult,,Pale green,Shingle,,Helix Avenue
