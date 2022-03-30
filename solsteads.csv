@@ -60,6 +60,7 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 123 Wall Street,70,1640,0,https://magiceden.io/item-details/7MaAemsRtiM9x97JPowtYhzqztRxt2iiH5dwSTahFB1b,City,Green,123,Art Deco,Vines,Red,Rounded,,Green,Shingle,Day,Wall Street
 128 Stewart Avenue,50,378,0,https://magiceden.io/item-details/F6pxGWs21TZgBhgrNp9HoWhU7QJ2tcLAE2zSr9TfYXYh,Desert,Pale green,128,Cottage,Brick,Lavender,Rounded,,Blue,Tin,Day,Stewart Avenue
 136 Canal Street,99,154,0,https://magiceden.io/item-details/EAduMUiDrWm8QcKFH5J3P1BRVahLasWAeRgC2KMEYqch,Woods,Dark green,136,Modern,,Pale green,Shuttered,Rain,Mix,Food,Day,Canal Street
+143 Canal Street,49.99,1348,0,https://magiceden.io/item-details/FkHifGqBmKmcAZJbYX4JEu3dsE9VABJuQ9eKJFGwzUzy,Field,Green,143,Art Deco,Brick,Red,Rounded,,Mix,Food,Day,Canal Street
 154 Wisteria Lane,49.4,105,0,https://magiceden.io/item-details/8qLykeSPt9kvMZZ6AmtzBtZNvVdHhuZLS1xe7aPmRyke,Woods,Green,154,Modern,,,Occult,Rain,Blue,Shingle,Night,Wisteria Lane
 158 Stewart Avenue,39,2013,47.41,https://magiceden.io/item-details/8Su559QGPooEXS6cuseXKtJCg3R8kLSznZSpJV8ACJk3,Field,Red,158,Cottage,,,Crystal,,Red,Tin,Day,Stewart Avenue
 162 Stewart Avenue,44,1002,13.78,https://solanart.io/nft/6fJAVc2jjwR9Z2K6viiw1Vi3isy27cSUaQP3WCvGwjG5,Treehouse,Red,162,Modern,Vines,Green,Rounded,,Green,Skylight,Day,Stewart Avenue
@@ -140,7 +141,6 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 430 Blaze Boulevard,78.78,405,0,https://magiceden.io/item-details/EcbmBWsUSLofRtLiCEUicrjqn2iWWctyWgGY4e4X7Hzd,Treehouse,Yellow,430,Cottage,Brick,Red,Rounded,,Green,Tin,Stormy,Blaze Boulevard
 430 Lamport Lane,69.690002,1449,0,https://solanart.io/nft/G5mVihYsKJfwHvjuDbf8rz8E8oZsDLcR9yk328P9NYrS,Arctic,Red,430,Mansion,,Yellow,Rounded,,Red,Patio,Day,Lamport Lane
 431 Blaze Boulevard,420.690002,2080,0,https://solanart.io/nft/HrW8qAYjoZBMbfPvsSfxZDMmCwbKH7HZAMQ2fp5xnWrq,Woods,Red,431,Modern,Brick,Red,Rounded,,Red,Shingle,Day,Blaze Boulevard
-432 Blaze Boulevard,42,1311,28.78,https://magiceden.io/item-details/3Q8dMFe5LXcno9viNkdk3Bwp5N9Lq8uwUgjqtB7N7cLJ,Beach,Red,432,Cottage,,Green,Rounded,,Blue,Tin,Night,Blaze Boulevard
 434 Bamboo Boulevard,55,2092,0,https://magiceden.io/item-details/3XNgNjnhngdRgUMoUzpTYpihxFJvXf1AG8fBvrJMYiLn,Woods,Dark green,434,Cottage,Brick,Yellow,Shuttered,,Green,Shingle,Day,Bamboo Boulevard
 436 Lamport Lane,150,94,0,https://magiceden.io/item-details/99B1cYZCDoxqGKVNPyZSzH6i5Mf1vL3SjuP4qY88KB4A,Woods,Blue,436,Modern,Vines,Yellow,Shuttered,Rain,Dark green,Tin,Stormy,Lamport Lane
 438 Block Hills Drive,88,2138,0,https://solanart.io/nft/9aNvjW3xqAVVzWT2PwStBTQu7pgBDptATaW5kFUiwy5n,Beach,Blue,438,Cottage,Brick,Yellow,Rounded,,Green,Shingle,Day,Block Hills Drive
@@ -185,6 +185,7 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 634 Epoch Avenue,60,1393,0,https://magiceden.io/item-details/DztdM2PhCCoRZg65vqxE8vEeVo3LKgnHW2huTyj7ieMj,Field,Green,634,Art Deco,,Lavender,Shuttered,,Green,Shingle,Night,Epoch Avenue
 634 Helix Avenue,79,937,0,https://solanart.io/nft/24W1NUkzByf5SDh7ocJyLHhFFtX3fmkuJobR5XVNstcE,Field,Pale green,634,Cottage,Brick,Red,Shuttered,,Lavender,Shingle,Day,Helix Avenue
 638 Rip Street,42,1210,30.41,https://magiceden.io/item-details/8C2BmgCt798fiPQhXYvur6AnXJhNE5W5EpZUET8eJPKJ,Beach,Lavender,638,Art Deco,Brick,Red,Rounded,,Red,Tin,Day,Rip Street
+639 Helix Avenue,44,572,20.74,https://magiceden.io/item-details/25WLoxAUaK3PFptQQer7k9j1hmxZW1jyUWiGGuYbEoo5,Woods,Lavender,639,Art Deco,,,Occult,,Blue,Shingle,Night,Helix Avenue
 639 Epoch Avenue,76.69,2283,0,https://alpha.art/t/EW6V6nmx8bHUFhDhiMD1iFXsYR7mfDSKVyAgakbENgxG,Field,Yellow,639,Cottage,,Pale green,Rounded,,Red,Tin,Day,Epoch Avenue
 640 Poplar Street,50,471,0,https://solanart.io/nft/EWAnk5roh45xLaJezjimswQWyPKZmPAfV1aGCvkYKqwm,Underwater,Green,640,Mansion,Brick,,Crystal,,Yellow,Shingle,,Poplar Street
 640 Helix Avenue,175,8,0,https://solanart.io/nft/3P8aU7yzf2ARZwLkiRqrTrz4ADAdDh3dQ7koQ7DvbCac,City,Gold,640,Art Deco,Gold,Gold,Gold,Rain,Gold,Gold,Night,Helix Avenue
@@ -197,6 +198,7 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 654 Rip Street,69.42,95,0,https://magiceden.io/item-details/8wRy7yucaSZCC9YXs3ahEHSvvAjF73WxN3v4pK51oFuD,Arctic,Dark green,654,Cottage,Brick,Yellow,Shuttered,,Lavender,Shingle,Stormy,Rip Street
 658 Dahlia Drive,88,1410,0,https://alpha.art/t/9WLCqgYrwkXMkUQ9frMbiDNq3FEoTaxMQgBZHGxXjiz6,Desert,Red,658,Cottage,Vines,Blue,Shuttered,Rain,Red,Patio,Day,Dahlia Drive
 659 Poplar Street,40,975,54.22,https://magiceden.io/item-details/AcQHbyFmt9cSkbEZBUkNRBUwcsZz8rC5wjps8a9dLcx7,City,Dark green,659,Cottage,,Lavender,Shuttered,,Lavender,Skylight,Day,Poplar Street
+660 Ramsey Street,80,1447,0,https://magiceden.io/item-details/GvzUErtww2ZsdNEs7HPpaimQyPkj2zNM4tEPGGZbKoHe,City,Dark green,660,Cottage,,Red,Rounded,,Green,Skylight,Day,Ramsey Street
 660 Clipping Drive,200,960,0,https://magiceden.io/item-details/8tdAhw3P9zyAa1iTyUZ4BLCCNhQqhoqN93RnxvXnDv4K,Underwater,Blue,660,Cottage,,Red,Shuttered,,Mix,Mushroom,,Clipping Drive
 666 Poplar Street,666,1538,0,https://magiceden.io/item-details/ErNZu4uMNWbrxanQB1cVcPLmGF19aUdCQhL2kAR3HmDP,City,Green,666,Mansion,Brick,Green,Rounded,,Yellow,Shingle,Day,Poplar Street
 668 Dahlia Drive,45,1629,0,https://magiceden.io/item-details/JMryFRfHqa9vn3crFNdQQcDKPCBVswQVT4uhRabWwye,Field,Blue,668,Cottage,,Dark green,Rounded,Rain,Yellow,Shingle,Day,Dahlia Drive
