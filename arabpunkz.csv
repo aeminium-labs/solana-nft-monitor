@@ -146,7 +146,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Character,Eyes,Eyewear,Faci
 801,2,4862,42.09,https://magiceden.io/item-details/7YRG5jwTB53dQ8q2k2TsnLszRPDGo6Rzzt2dwuWJDGxA,Blue,Sahara,Green,Classic Shades,None,None,Mouth,Vape,Standard
 804,0.25,4214,64.77,https://magiceden.io/item-details/2LZfPiTBht5kZTt7C6zoTGwBWhXCQ6duxZnnGATvKPPZ,Blue,Sahara,Green,None,None,None,Smile,Cigarette,Standard
 809,3.5,2018,49.85,https://magiceden.io/item-details/BiL7vUzXBHi2AGRfGHLAQW4hdWoGqbZ39LjZM2mStZJs,Blue,Sahara,Brown,None,None,None,Frown,Sheesha,Standard
-812,0.2,662,93.7,https://magiceden.io/item-details/4vw7UqxCwF14Xa2A5wg7opm7mrvDHj2WrW4jyJx6mFqN,Red,Sahara,Green,3D Glasses,Handlebars,None,Mouth,Covid Mask,Standard
 813,27,1579,0,https://magiceden.io/item-details/GBi8u4za98aXPSmh85tAuS4Lfxi79Kg4fRvLTxFVDLbM,Red,Gunpowder,Brown,Big shades,None,None,Mouth,Cigarette,Standard
 828,4,2007,44.94,https://magiceden.io/item-details/7A9n1DooDi3L8y7vE1ZJiP2urGvojR66LyG47WFsYUCT,Red,Light,Green,Eye Patch,Soul Patch,None,Frown,None,Standard
 829,4,4164,27.67,https://magiceden.io/item-details/BoeS1KoGbbHDneBapifFtkhadbCK4mUsxb5uAJ2NKuCZ,Blue,Sahara,Blue,Regular Shades,None,None,Mouth,None,Standard
@@ -296,6 +295,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Character,Eyes,Eyewear,Faci
 1598,0.35,4445,61.93,https://magiceden.io/item-details/Fyat9UqjnqdXSG686iE16FE7UtddCJE3P1XsdkpfRybA,Blue,Pale,Green,Nerdglasses,Stubble,None,Mouth,Cigarette,Standard
 1600,4.5,369,53.05,https://magiceden.io/item-details/J68MMinUW8Q36tuYV3VZVjZoHt9o8CCKNaLnxU7fj3kx,Blue,Sahara,Blue,Classic Shades,Handlebars,Earring,Mouth,Cigarette,Standard
 1603,0.3,4816,59.46,https://magiceden.io/item-details/AaaD4iAtbGr8oCiYZpP32GjACx1jTMSUSt8j5gtiipwf,Blue,Sahara,Green,None,Stubble,None,Mouth,Cigarette,Standard
+1605,25,8,0,https://magiceden.io/item-details/48jvXHCVxKAAaE23HYW6Ya9oJGyybh2SCgC3skBxa5SL,Purple,Soot,Brown,3D Glasses,Leader,Gold chain,Smile,None,Standard
 1611,8,2487,1.1,https://magiceden.io/item-details/A7Lrarv6fJVHhXY6KjvaUeumMZFgwHyqWJCcrnmUUW6F,Blue,Pale,Green,Unibrow,Long Stubble,None,Mouth,Cigarette,Standard
 1620,0.2,4932,59.53,https://magiceden.io/item-details/AD54HtoYF7gw2zTuR51MBXW8yzFiopvUK5WQj4Jx4rK1,Blue,Pale,Green,None,None,None,Mouth,Pipe,Standard
 1632,4,4201,27.38,https://magiceden.io/item-details/3vM3qJJDQ1bthf3q1c4cPGCMUPSkFNpRgq8p3nn6GYMj,Blue,Soot,Green,Dark glasses,Soul Patch,None,Mouth,None,Standard
@@ -325,7 +325,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Character,Eyes,Eyewear,Faci
 1735,0.19,1756,85.05,https://magiceden.io/item-details/AsRV1Qp22QsV9n26iFx2vYAc3QewG4bnbbWPjmRD1Tp,Blue,Sahara,Blue,Blue glasses,Handlebars,None,Mouth,None,Standard
 1738,1.5,57,85.54,https://magiceden.io/item-details/DBa1uT5E8uf3VzcXK3P9mQ4PGwpuPTQQ2HWsLMJ7Hq8q,Blue,Sahara,Blue,Blue glasses,Luxurious Beard,Earring,Mouth,Pipe,Standard
 1739,3,3288,44.69,https://magiceden.io/item-details/ET4nFsDa5MqQGheq7U7nmEgTGHWYVoHmZeKkXPJ8SWcy,Blue,Pale,Green,VR,None,None,Smile,None,Standard
-1740,0.1,4895,60.82,https://magiceden.io/item-details/81HGfCQXxH4XV4naPY5MLEvxWbWW1asHdsQfLMuabHSi,Blue,Light,Green,Classic Shades,Long Stubble,None,Mouth,None,Standard
 1746,4.5,308,53.54,https://magiceden.io/item-details/HQQSAPyhBgJQg2kEmo4o9t76x2jzPJquqSn9QDwqBdgh,Purple,Pale,Green,Eye Mask,Front Beard,Gold chain,Mouth,None,Standard
 1751,0.91,4796,53.52,https://magiceden.io/item-details/GhTAbf83JMLa1Y2DYEgTxEFuZuoQkE96uXkpder32xhT,Blue,Pale,Brown,Classic Shades,Soul Patch,None,Mouth,None,Standard
 1757,1,108,90.14,https://magiceden.io/item-details/71f1BT7E6JiWthEMkLtfJhypqu2tGP6fJHiV9CDBUMdw,Purple,Sahara,Blue,None,Leader,None,Mouth,Covid Mask,Standard
@@ -348,12 +347,19 @@ id,price,moonRank,💎 score (%),storeURL,Background,Character,Eyes,Eyewear,Faci
 1851,0.2,3377,71.97,https://magiceden.io/item-details/FR4ESiZcqdt1AzH35e8PFyZz6kvUgQ5hkP2waMHrE5Si,Blue,Pale,Green,Nerdglasses,Anchor,None,Mouth,Covid Mask,Standard
 1854,0.7,123,93.02,https://magiceden.io/item-details/F3rNKe9nrurdchPUu95DpSyfr7YQHeVRcf2t4vyVGT1g,Purple,Soot,Brown,None,None,Earring,Frown,Pipe,Standard
 1859,0.5,4636,58.9,https://magiceden.io/item-details/EZpNZaFuQiv53MNvdbrUjxb77EHCdkDvgMrv76JEMGmG,Blue,Sahara,Green,Regular Shades,Soul Patch,None,Mouth,Cigarette,Standard
+1860,0.1,2430,80.55,https://magiceden.io/item-details/EqHHxdESo2L5ZAmp3VQLdR2s8tvG6gWcECYkhgg3DoDb,Blue,Sahara,Green,Nerdglasses,None,None,Smile,Covid Mask,Standard
 1864,0.69,400,90.9,https://magiceden.io/item-details/AYXchD8CH7y7dKUackA4FiSZLkSWywdStv6wvNS7AG3j,Blue,Light,Brown,Regular Shades,Leader Mustasche,Gold chain,Donkey Teeth,None,Standard
+1866,0.1,2759,77.92,https://magiceden.io/item-details/885CdivkhBcbuJ2obBTJZoXKikGuLCL19tmnkBmcH8VU,Blue,Soot,Brown,Classic Shades,Goatee,None,Mouth,Pipe,Standard
+1873,0.1,573,95.41,https://magiceden.io/item-details/HsxpzGLRJ3KHomqfSqkYhUWYGDy1FMkZe5Ey99uqBA4W,Blue,Soot,Green,Dark glasses,Anchor,None,Donkey Teeth,Cigarette,Standard
 1885,0.7,665,88.68,https://magiceden.io/item-details/3ADzdozD52zdpuHxryRQvKsdc97tLH246kmFiSoCtg3N,Red,Pale,Brown,Big shades,Anchor,None,Mouth,Sheesha,Standard
+1892,0.1,3684,70.52,https://magiceden.io/item-details/HmKTkY55f7g4fhrsZLyqKhnF1G5NkLnLeohN9EqzAhx2,Blue,Light,Green,Regular Shades,Long Stubble,None,Mouth,Covid Mask,Standard
 1902,1,1849,76.2,https://magiceden.io/item-details/2KcrtwPVCj6BYKUxctuYcu5Pr94nrgW6LQix5rvFZQVR,Red,Light,Green,Nerdglasses,Goatee,None,Frown,None,Standard
+1908,0.1,1833,85.33,https://magiceden.io/item-details/5izACU4bXtVzERUyRVzuBqvBu9kb379Die5XBo1aPxbV,Red,Pale,Brown,Dark glasses,Goatee,None,Mouth,Vape,Standard
 1909,0.3,1481,86.15,https://magiceden.io/item-details/CthHT6AXAwk145726wSwXQiF3UQeY5ds9KA13LmHqFFb,Purple,Pale,Green,None,Soul Patch,Gold chain,Mouth,Cigarette,Standard
 1912,5,6,50.95,https://magiceden.io/item-details/4PgLH7q1HWsE4iR5pT8r31XRy6RVxqZqtTrasZLTzhBs,Red,Soot,Green,Classic Shades,Normal Beard,None,Smile,Cigarette,Clown
 1917,0.6,894,87.85,https://magiceden.io/item-details/CmRgd9kXyZ1XC5A67EUNvgox5bE7jVwQe48FHgHEEmsE,Blue,Pale,Green,3D Glasses,Soul Patch,None,Frown,Vape,Standard
+1920,0.1,1316,89.47,https://magiceden.io/item-details/ADhToZ7EpXQFVHZR6K2d7XpbVgDRGuzcKCGxWkzSBpKd,Red,Sahara,Green,Classic Shades,Handlebars,None,Frown,Vape,Standard
+1929,0.1,3874,69,https://magiceden.io/item-details/B6yfvQ3JCDNLWVXzQdffYHaYSX7jRkS45L6U4fSq9dJx,Red,Pale,Green,None,Leader Mustasche,None,Mouth,Cigarette,Standard
 1938,5.5,1416,34.67,https://magiceden.io/item-details/ByLin6iBYSbnhLxipt3mRRHUJ26AVkYjbCJE9iNRGpSj,Blue,Soot,Green,Nerdglasses,Front Beard,Gold chain,Mouth,Cigarette,Standard
 1939,0.78,4751,55.18,https://magiceden.io/item-details/EtNhLavEE4zCTjbHFzcAjy8mqqTSrkjWMHovNvdGYeg8,Blue,Sahara,Green,Blue glasses,None,None,Mouth,Cigarette,Standard
 1941,8,966,13.27,https://magiceden.io/item-details/9t1xUxS7L62csDVpEe5auPNsH8VRHqqDD8mhRmsssbAr,Blue,Light,Green,Dark glasses,Chinstrap,None,Smile,Covid Mask,Standard
