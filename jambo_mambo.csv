@@ -15,12 +15,11 @@ id,price,moonRank,💎 score (%),storeURL,Breed,Eyebrows,Eyes,Head,Mouth,Outfit,
 530,5.89,1338,60.95,https://magiceden.io/item-details/9K8rbD2NSaYCTK86DRaFjQyFhKi8aYkZ3xWEqYWsBQQk,Playboy,None,Degen,Narwhal,Wavey,Roo Band,None,Heckcoin,Voodoo
 549,3.2,3457,68.62,https://magiceden.io/item-details/7a5PM5sZKKFvQZDWq6G2qc7pcXR3yuS78VUiNdCoQCiu,Predator,None,Glistening,Pineapple,Happy,None,None,Expensive Rock,Starlight V2
 620,6.99,596,56.69,https://magiceden.io/item-details/42L73q1Msg94LP6eorVDgBaUTwQQAqpJFR4ZUSXQ2hoF,Predator,None,Degen,Pink,Classic,Gold Chain,None,Butter Knife,Starlight V2
-707,4.95,4283,43.62,https://magiceden.io/item-details/8C36WGmFecfcaVGXuLRQdwHzrndGnZD669hCfFqDrEzU,Classic,None,Classic,A Hair,Classic,None,Hungry,Butter Knife,Starlight V2
 746,4.4,3005,60.72,https://magiceden.io/item-details/CQ2912qZ3YtgKAq3zmoqPGLGCkSRjvKzs6HU7LpfyQbV,Playboy,None,Cheeky,Black,Classic,Hard Floaties,None,Foosh,Bonbon
 761,14.99,258,0,https://magiceden.io/item-details/DcjRmUrA1TBvsDENgNmc8pwQ47azvza1c8Fd2tjD1pz7,Squid,None,Eyeliner,Pineapple,Nyah,Hard Floaties,Hungry,Durian,Agua
 789,4.9,3017,55.61,https://magiceden.io/item-details/RQxnJm9WHCg9Vz7trn7Y8f6jJexX7qiZGx1tpnYQmss,Squid,None,Cheeky,Bot Rod,Happy,None,Hungry,Expensive Rock,Agua
 795,5,2767,56.88,https://magiceden.io/item-details/8rgANEQqWf54gbAU3SK6zsUedjFdGouYdzKF9kUx1eYT,Classic,None,Suss,Pink,Classic,Box Armor,None,Heckcoin,Bonbon
-844,6,2108,52.86,https://magiceden.io/item-details/HFpraj7M3Ckw5zbr9MFLn4drWoWwNud1szhLH3ZwSPGm,Unplugged,None,Sky,Bot Rod,Classic,None,None,Foosh,Starlight V2
+844,5,2108,62.86,https://magiceden.io/item-details/HFpraj7M3Ckw5zbr9MFLn4drWoWwNud1szhLH3ZwSPGm,Unplugged,None,Sky,Bot Rod,Classic,None,None,Foosh,Starlight V2
 875,4.49,2087,68.15,https://magiceden.io/item-details/6XS4H5WkF4487ecD2b6ivLFzBpCZ3DQ6u4MBW6jrLJeo,Playboy,None,Degen,Spinny Hat,Wavey,None,None,Bone,Starlight V2
 972,9.99,124,30.97,https://magiceden.io/item-details/69tcCvgkNVum3ouxEEzcfEMvDrdbhvyAcMYWyjzAa15r,Confetti,Mad,Glistening,Classic,Toothy,Box Armor,None,Drumstick,Starlight V2
 998,3.69,3362,64.58,https://magiceden.io/item-details/BgNseLkpk7LwYoGpTd73NbkxQT71Hx6gFhEhTFKjgbZo,Woolly,None,Classic,Bot Rod,Happy,None,None,Drumstick,Starlight V2
@@ -28,6 +27,7 @@ id,price,moonRank,💎 score (%),storeURL,Breed,Eyebrows,Eyes,Head,Mouth,Outfit,
 1064,5,192,80.26,https://magiceden.io/item-details/EGPshVFSZ8whAPssmeuSpS1hMZ2vKeLSMujpRwb29i5P,Woolly,FUD,Cheeky,Pink,Fried Eggy,Gear Belts,None,Foosh,Voodoo
 1100,5,332,78.99,https://magiceden.io/item-details/5UaPrJX6HPp7GhcTuCiFD1nkrAiW7CfY7S9jopTmfe2K,Woolly,FUD,Eyeliner,A Hair,Big Grin,Spiked Collar,None,Drumstick,Agua
 1120,5,2049,63.4,https://magiceden.io/item-details/93Rj22veAnbYGUqTFjX2omdwxrG5FaMWQWi7UJKSX2wS,Woolly,None,Degen,Pink,Classic,Gear Belts,None,Heckcoin,Bonbon
+1135,3.2,2624,76.18,https://magiceden.io/item-details/DvFwoWLTQ375JCANKMuS3teoPLnqxbbE3aWSjS9qyw3c,Woolly,None,Sky,Bot Rod,Blep,None,None,Heckcoin,Voodoo
 1208,4.25,3161,60.8,https://magiceden.io/item-details/6hYvJZSeumJrgwfRL3BUbZTxBa6dUSiqAo3PvZcoGHmc,Playboy,None,Sky,Black,Classic,Gear Belts,None,Butter Knife,Bonbon
 1290,4,2748,67.05,https://magiceden.io/item-details/CbGvjb8uCn8NwXbmDnEYmAMfZSciHkdVUZU9Mc6qQDub,Playboy,None,Glistening,Black,Toothy,None,None,Cactus,Starlight V2
 1318,6,714,65.52,https://magiceden.io/item-details/EWT5EZDmAhVzbKUhQdTLPuKvbCEy2V6KcVNdSUEfzrWa,Confetti,None,Glistening,Bot Rod,Toothy,Spiked Collar,Hungry,Bone,Voodoo
@@ -62,7 +62,6 @@ id,price,moonRank,💎 score (%),storeURL,Breed,Eyebrows,Eyes,Head,Mouth,Outfit,
 2485,4.44,1956,69.84,https://magiceden.io/item-details/Hp8vYoTxvERhixLdf6GkawbTcLYgm9BBZGyDXno3oSPL,Predator,None,Crybaby,Narwhal,Classic,Roo Band,None,Drumstick,Starlight V2
 2488,180,4406,0,https://magiceden.io/item-details/H5H11vKesuL5b7FxqMReN6t59r534fSo3EE75q9Y1CY5,Classic,None,Classic,Spinny Hat,Classic,None,None,Foosh,Agua
 2510,8,174,50.42,https://magiceden.io/item-details/C5DFFmGZdtBucUhFgxPdMbUkqER7XR9mTRUJ6EFTpLZ6,Classic,FUD,Degen,Pineapple,Classic,Hard Floaties,None,Jambunny,Bonbon
-2533,3.2,3227,70.7,https://magiceden.io/item-details/HkTSSriGQXmDKJcRjUehCjf88baKJiw6bUAD8qFQkwke,Warrior,None,Classic,Spinny Hat,Nyah,None,None,Foosh,Starlight V2
 2565,7.89,29,52.84,https://magiceden.io/item-details/9bKF73DJajXwLZ7wYVwbMzqD7Eaonx6uxYWsb8P3GinM,Squid,FUD,Toxic Trip,Bunny Hood,Happy,None,None,Jambunny,Agua
 2580,6.66,2124,46.12,https://magiceden.io/item-details/9MrgmzMJ9X2wimNAiVsfY3JzougshGR8NJAALXYYa2KZ,Badass,None,Eyeliner,Narwhal,Happy,Roo Band,None,Bone,Voodoo
 2623,3.2,3922,64.39,https://magiceden.io/item-details/5CprZrF627CMehM7hvtVV2wAvE376sYw79iKm8BNBLpr,Playboy,None,Cheeky,Pink,Toothy,None,None,Butter Knife,Bonbon
@@ -70,14 +69,12 @@ id,price,moonRank,💎 score (%),storeURL,Breed,Eyebrows,Eyes,Head,Mouth,Outfit,
 2639,4,3626,59.08,https://magiceden.io/item-details/5LzuU1NBGr6mqNUXzDHNxcyGLVR3op19woKd7nCpc8cJ,Predator,None,Sky,Alpha,Classic,None,None,Expensive Rock,Bonbon
 2642,3.2,3229,70.69,https://magiceden.io/item-details/5wrCG77zi62wdHLqeLmLVTwVeg2WdysyqQ5VpVtu53cr,Classic,None,Eyeliner,Classic,Big Grin,Gear Belts,None,Butter Knife,Agua
 2647,3.9,942,84.45,https://magiceden.io/item-details/2rZLfRTUbe4Uu9xXMoMNA7ySdXhY5nZ9DpVfuRfPNd5g,Classic,Mad,Degen,Horns,Classic,None,None,Expensive Rock,Starlight V2
-2657,3.2,3706,66.35,https://magiceden.io/item-details/51auxxwLsWeFzEvQUg3xgNiXMiqAxQnNi3AZsDS8DLAS,Playboy,None,Glistening,Alpha,Happy,None,None,Drumstick,Agua
 2672,3.2,4001,63.68,https://magiceden.io/item-details/Fhbvw6xpgU8h4giAhKmwYV3cu4WRHnVUAWYfNQTUWJmZ,Warrior,None,Classic,Pink,Toothy,None,None,Bone,Bonbon
 2685,6.9,65,62.41,https://magiceden.io/item-details/GzGGRpXfUD7LdbqnJmEV1yNdNm8Kk9tWvs37Yt2bEeUH,Predator,None,Crybaby,Roadrunner,Fried Eggy,Gear Belts,Hungry,Heckcoin,Voodoo
 2694,3.2,3119,71.68,https://magiceden.io/item-details/Cfb6W5RcThg6kb66x5gcrYrKEq7v4QJ2tVhhKSc2v7q2,Warrior,None,Cheeky,Pink,Toothy,Roo Band,None,Bone,Voodoo
 2712,4,1324,79.98,https://magiceden.io/item-details/H2SgsXqLUxzj6TAEejVfX3c2k2H1TkQrJucnsTTdNjvi,Classic,None,Degen,Spinny Hat,Wavey,Gear Belts,None,Expensive Rock,Agua
 2767,4.04,4376,51.87,https://magiceden.io/item-details/6XPXqVMXqHjrjVrGZoitGWkUcExH6iXyN8aEUSntiBNt,Classic,None,Eyeliner,Pineapple,Classic,None,None,Butter Knife,Agua
 2778,6,2334,50.81,https://magiceden.io/item-details/DKpbjhnTLEckQNbCN3KN85AgYX4xaetHqSz1dvhxWPu5,Badass,None,Glistening,Alpha,Toothy,None,None,Drumstick,Voodoo
-2823,5.5,1480,63.56,https://magiceden.io/item-details/ECMLeXPSArVFH5a1S6wbyrjM6Y2n7Byd8E5mvfZJTeb7,Badass,None,Glistening,Narwhal,Classic,None,Hungry,Jambunny,Voodoo
 2894,5,1883,64.91,https://magiceden.io/item-details/HvcAe6TqetTWv8ZXd5oWNNWNPtjDP51JJ245u7oW7HPz,Classic,None,Hunter,A Hair,Classic,Hard Floaties,None,Expensive Rock,Agua
 2918,10,522,27.26,https://magiceden.io/item-details/3jYfipsZADxxcwE6xVCyN9xPtfm2qvZzG8t6sEFp5Uei,Pinata,None,Hunter,Pineapple,Happy,None,None,Foosh,Agua
 2942,4.99,297,79.4,https://magiceden.io/item-details/GAJhcPgb6QezJnMeybBYToayBKoBJ7ewF2ys2jyUHZgh,Playboy,None,Suss,Bunny Hood,Blep,Spiked Collar,None,Durian,Starlight V2
@@ -109,9 +106,9 @@ id,price,moonRank,💎 score (%),storeURL,Breed,Eyebrows,Eyes,Head,Mouth,Outfit,
 3996,600,12,0,https://magiceden.io/item-details/Ehiru1pYAkSo6AbKP7XCfehsm61MJg9iatVi2bE9GqsM,Woolly,FUD,Monocle,Golden Doodoo,Refined,Box Armor,None,Cactus,Voodoo
 4020,8.89,309,40.29,https://magiceden.io/item-details/D2MtvhZDYmxcTmDSRdksNScaCowVwUsEp3Bh18qFVAf2,Predator,None,Crybaby,Classic,Gold Rush,Spiked Collar,None,Butter Knife,Agua
 4026,4.45,1790,71.25,https://magiceden.io/item-details/B4LqPyc6QjKFyq4t8ivZgi6KdKmsAeHEqWYQ2nkTiKwB,Woolly,None,Cheeky,Bunny Hood,Happy,None,None,Expensive Rock,Agua
-4082,3.2,3705,66.36,https://magiceden.io/item-details/G92yJg7THagmXVP1hXvTFEZZUZ9ZU7vxuzjg5CKDVED2,Classic,None,Sky,Bot Rod,Blep,None,None,Foosh,Starlight V2
 4145,12,2085,0,https://magiceden.io/item-details/2R6LfCwPThbvZ8mxAEg6BPvw3884Rj7AFDaCm3FhRZxW,Classic,None,Eyeliner,Pineapple,Classic,None,Hungry,Mischief Stick,Agua
 4155,10.99,1241,10.83,https://magiceden.io/item-details/7Vwnk15omzs5iEceSxhqK5Jmh2vauZJDQjjjhVpEgJ1N,Classic,None,Magical,Bot Rod,Happy,None,None,Butter Knife,Starlight V2
+4164,5.5,1407,64.23,https://magiceden.io/item-details/7oNjxABCkWdcpwxs2KTKWKyvgbh7Bd2J12yUyydFTg22,Badass,None,Cheeky,Black,Classic,Spiked Collar,Hungry,Drumstick,Agua
 4191,3.79,1943,76.46,https://magiceden.io/item-details/3DZw3tNUasP8t5S9BeedyPt75DCGKk1gwEBE6JBjd9MS,Predator,None,Suss,Black,Happy,Spiked Collar,None,Heckcoin,Starlight V2
 4424,4.99,1979,64.13,https://magiceden.io/item-details/DCG6c69QNCAJZHR4BetJuzMXmBceUD1ZwFR34S4fPMCh,Predator,None,Eyeliner,Black,Classic,Box Armor,None,Heckcoin,Agua
 4437,4.2,3960,54.05,https://magiceden.io/item-details/CdsbE4CzaQwYFeovMtvmRkQCFatDm185fyz1ZjQQj7oJ,Woolly,None,Sky,Classic,Classic,None,None,Foosh,Agua
