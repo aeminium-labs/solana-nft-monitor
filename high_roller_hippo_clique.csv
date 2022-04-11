@@ -48,6 +48,7 @@ id,price,moonRank,💎 score (%),storeURL,ACCESSORY,BACKGROUND,EYES,HAT,MOUTH,OU
 1163,5,4048,39.84,https://magiceden.io/item-details/A47N9TYQh5KgpZzZnYUCxHQ8LqfvbFQ5Sdxp2sQNVnEw,Whiskey Bottle,Retro Greenyellow,Spades,BigBrain,Bubble Gum,Superman,Red
 1169,4.5,2550,58.74,https://magiceden.io/item-details/GqLdm1bEHSHwQQB7u7ei3uQgNaVH7GmYYgXMcGjBpS82,Briefcase,Retro Greenyellow,Cyclops Laser Eyes,TV Set,Golden Chicken Nugget,Disco Suit,Grey
 1172,9,196,35.58,https://magiceden.io/item-details/HTpzwBaHsvd7KPwR64paGn78Usfc2bJmkPBb8C6488Ma,Briefcase,Gold Mansion,Red Lasers,BigBrain,Bubble Gum,Disco Suit,Solana
+1195,5,277,74.83,https://magiceden.io/item-details/7f323cNdiKCEujWFnonR6sjazzJrZRoSZtrJFm3fdJhX,Whiskey Bottle,Cotton Candy,Bloodshot Eyes,McDo  Visor,Bubble Gum,King Robe,Gold
 1218,4.5,256,80.02,https://magiceden.io/item-details/32KQumrZSbiEREMGWYTKeUs52jMpgp5FknQpwh87fXpR,Rolex Watch,Firey-Orange Gradient,Spades,TV Set,Thugbirdz Blunt,Rainbow Suspenders,Brown
 1230,42.69,3912,0,https://magiceden.io/item-details/7su6omU5Rgx7MK6G56oCHkKrVUP7UJ7JB1RL9VNzAmMB,Purse,Casino,Sunglasses,BigBrain,Bubble Gum,Monkey Suit,Grey
 1266,3.4,4076,55.58,https://magiceden.io/item-details/96xVSXigV9vkpyvQ8nqWc3WqyD3NQmWBy72GVt14m91F,Whiskey Bottle,Retro Greenyellow,Spades,TV Set,Grill,Solana T-shirt,Red
@@ -77,7 +78,6 @@ id,price,moonRank,💎 score (%),storeURL,ACCESSORY,BACKGROUND,EYES,HAT,MOUTH,OU
 2129,9.5,1292,20.41,https://magiceden.io/item-details/3shQDRQW2unhKMJ9nKK3H4NjZ6EzHCVVT7Vo9oCbJZzY,Gold Cane,Retro Greenyellow,Bloodshot Eyes,Gold TopHat,Cigarette,Cocktail Waitress,Grey
 2149,7,732,50.61,https://magiceden.io/item-details/2pnGSEgv7e3Vz839gqa9Zb3VrLaUU4NhvdChBiaiUiti,Martini,Retro Greenyellow,Bloodshot Eyes,McDo  Visor,Vape,Disco Suit,Diamond
 2176,5,183,75.7,https://magiceden.io/item-details/H75hQ3NcjDpnZM6rpR3zk64gtYRiXcAoe8hRKL1oSTe1,Rolex Watch,Cotton Candy,3D Glasses,WoolCap,Thugbirdz Blunt,Monkey Suit,Grey
-2191,4.6,614,75.7,https://magiceden.io/item-details/9N77rejPbjqWY55uCr7MYqdqCo6qFvToKrjG828Xanzz,Briefcase,Casino,Sunglasses,WoolCap,Cigarette,King Robe,Red
 2198,5.5,2060,53.29,https://magiceden.io/item-details/HDXyTP1zxtU6K42p9QQm3Mnmr13M49Gf1t5CvDeW5f9Y,Briefcase,Firey-Orange Gradient,PitVipers Solana,BigBrain,Cigar Solana,Disco Suit,Zombie
 2212,3.4,4213,54.31,https://magiceden.io/item-details/Gjyx1V8qsQ1UyPPAD7vz4KZE7DS4PxEYiezPB2W1dL1B,Whiskey Bottle,Cigar Lounge,Sunglasses,WoolCap,Cheeseburger,Solana T-shirt,White
 2224,9.5,1504,18.45,https://magiceden.io/item-details/4UX9ipdocstMpSjxFBCpd2UWXqAutBpzHH4J88NAh76q,Poker Chips,Cigar Lounge,Cyclops Laser Eyes,Thugbird HeisenHat,Vape,Tuxedo,Silver
@@ -88,10 +88,12 @@ id,price,moonRank,💎 score (%),storeURL,ACCESSORY,BACKGROUND,EYES,HAT,MOUTH,OU
 2247,9.69,632,24.64,https://magiceden.io/item-details/DFvUENy1NCdrN9t25NG2HPLeS72XE8S8q3D4tAKDZb6P,Poker Chips,NightClub,Steampunk Goggles,Gold TopHat,Vape,Mink Coat,Silver
 2316,4,3479,55.12,https://magiceden.io/item-details/GRjf34stHo4dZU1QmyruKHBXNdhMNPUXi2ufovsX7HTh,Whiskey Bottle,Cotton Candy,Cyclops Laser Eyes,McDo  Visor,Cheeseburger,Cocktail Waitress,Solana
 2362,3.3,4218,55.26,https://magiceden.io/item-details/6QcPSzxsTAm4298HJCcn6BTBmuipu7nS2LSC3QESx42K,Yo-Yo,Solana Gradient,Monacle,TopHat,Cigar,Rainbow Suspenders,Grey
-2395,4.5,2277,61.27,https://magiceden.io/item-details/Arvete2G8jTixpMQtDSZLyTRyqndco3pcTdDFg3JM19n,Yo-Yo,Cigar Lounge,Sunglasses,Thugbird HeisenHat,Grill,Superman,Zombie
+2395,3.7,2277,69.27,https://magiceden.io/item-details/Arvete2G8jTixpMQtDSZLyTRyqndco3pcTdDFg3JM19n,Yo-Yo,Cigar Lounge,Sunglasses,Thugbird HeisenHat,Grill,Superman,Zombie
 2405,5.5,968,63.42,https://magiceden.io/item-details/FHNkYEzAeTSM9wAzg1Dz1K8FtHkz5BCRCX2DPSbNMp37,Rainbow Duffle Bag,Solana Gradient,Spades,Thugbird HeisenHat,Cheeseburger,Solana T-shirt,Gold
+2432,2.75,717,93.25,https://magiceden.io/item-details/6KQUyb1tkNWmdkcwm35vNQNkeZyuUzt169f2FGJqrNHw,Purse,Gold Mansion,Gold Pitvipers,TopHat,Cigar Rainbow,Monkey Suit,Red
 2445,3.5,368,88.99,https://magiceden.io/item-details/9R2fURBbb2iUMrEffnVHawjVZnHD2oJbJRZdh4mikeU8,Briefcase,Castle in the Sky,Sunglasses,Gold TopHat,Cigar Rainbow,Rainbow Suspenders,Rainbow
 2449,5.5,619,66.66,https://magiceden.io/item-details/6YMm2mEVzr28sSv7yeBg2s79rAmDezc5D8FtBYhdu5YD,Whiskey Bottle,Casino,Sunglasses,TopHat,Grill,Superman,Diamond
+2532,2.75,1852,82.72,https://magiceden.io/item-details/HPkxB4EXc2Q7oPAYE4sSMqF268dv23ANWHLSoJ7Apc6P,Rolex Watch,Cigar Lounge,Monacle,WoolCap,Bubble Gum,Superman,Solana
 2574,4.1,352,83.13,https://magiceden.io/item-details/3kzVN3djBrD2oonFsfm3UMXrYLWvbNRcZnwGtbW2eAPy,Martini,Casino,Red Lasers,BigBrain,Cigar Solana,Superman,White
 2582,3,4041,59.91,https://magiceden.io/item-details/FaBnyN7z48wtSwFwynKpqQs4D6moAXYjTvedPyZJxmmP,Poker Chips,Casino,Sunglasses,TopHat,Bubble Gum,Monkey Suit,Zombie
 2585,6,437,63.35,https://magiceden.io/item-details/BUuXy1SL3q5eoj8yQWETHzW2o7Czeskz1gG8fN3AruSn,Briefcase,Yacht,3D Glasses,TopHat,Cheeseburger,Monkey Suit,Silver
