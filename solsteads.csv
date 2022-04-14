@@ -47,6 +47,7 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 78 Rosa Street,800,1957,0,https://magiceden.io/item-details/HL5GV1B7AvmBdmYsyZJHfRD4q5xPXJR89Sns6Y2YmDzL,Woods,Yellow,78,Cottage,,Red,Shuttered,,Red,Patio,Night,Rosa Street
 80 Abbey Road,111,1118,0,https://magiceden.io/item-details/318cGu6r8x6AHryc97w2SzXEHHiwtMYHFjMk4MksLV7Y,Treehouse,Green,80,Cottage,Vines,Blue,Shuttered,,Mix,Grass,Day,Abbey Road
 81 Teeps Lane,48.88,1617,0,https://magiceden.io/item-details/HvGwRifNPNdsyGsSinr1MKASCSFdx8RbpiG5UMQ2b8fK,Desert,Yellow,81,Cottage,Vines,Blue,Shuttered,,Blue,Tin,Night,Teeps Lane
+81 King Street,69,2333,0,https://magiceden.io/item-details/DVwQkpBw3x7QfxVf7yUm1N4NyakEGGD7nwzxbX3pzVPN,Mountain,Red,81,Cottage,,Yellow,Shuttered,,Blue,Shingle,Day,King Street
 83 Supple Circle,88,2456,0,https://magiceden.io/item-details/72iXNfbPQNqgcmYHFXGQEqnqBCjMczRzXwrHKcV2sRBB,Field,Green,83,Cottage,,Green,Rounded,,Blue,Shingle,Day,Supple Circle
 83 Abbey Road,100,2244,0,https://solanart.io/nft/GNG8KpFF1nA6eTNjtdqLzP68mq6jJDhwz3mM4DZAb53k,Desert,Yellow,83,Cottage,,Red,Shuttered,,Mix,Grass,Day,Abbey Road
 85 King Street,199.99,1394,0,https://magiceden.io/item-details/8xuU571DD7S9fRZbUc9uipzeYudKC9pNUCEGcpY5KRrZ,Beach,Green,85,Cottage,,Blue,Shuttered,Rain,Green,Shingle,Day,King Street
@@ -90,7 +91,6 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 263 Frontier Street,100,34,0,https://magiceden.io/item-details/4w6dzGeDvC4KE6q6aF76r3zFkbN1LeZzLpgDkhHpi3Th,Volcanic,Dark green,263,Cottage,Brick,,Glass,,Green,Haunted,Stormy,Frontier Street
 268 Baker Street,80,2362,0,https://solanart.io/nft/H5N4E73JKR6ApSPWAzN5YuhCEom6MyJQet7LsSJT1coN,City,Blue,268,Cottage,,Red,Shuttered,,Yellow,Skylight,Day,Baker Street
 279 Bit Boulevard,165,75,0,https://magiceden.io/item-details/79A74dtHSC2nUjGpw839ZXpM51eoLpTzhWiHv99kPFe1,Mountain,Yellow,279,Art Deco,Brick,Yellow,Rounded,Snow,Mix,Grass,Day,Bit Boulevard
-283 Bit Boulevard,31.5,1633,67.02,https://magiceden.io/item-details/SKjjxJj23DuSPSvuAN4UxZpFxnLnYVYT23zqQegkFfH,City,Red,283,Cottage,,Red,Rounded,,Green,Shingle,Sunset,Bit Boulevard
 286 Bit Boulevard,75,924,0,https://magiceden.io/item-details/BkjmdmtKqoraf1Qh4zt8TgCfFarMLXVWumhKVEaPfR6C,City,Yellow,286,Mansion,Vines,Lavender,Rounded,,Green,Patio,Day,Bit Boulevard
 286 Delray Circle,200,1552,0,https://solanart.io/nft/AAPtyjds1e8vCM97kN6LBuEqiXnitcNciARTrQVJcMdR,Beach,Red,286,Modern,,Blue,Shuttered,,Yellow,Skylight,Night,Delray Circle
 294 Bit Boulevard,39,1577,0,https://magiceden.io/item-details/6K9d6DVrW8yxVyjrUKtznrsWw8wHyDeywwDiWAPiAwAf,Volcanic,Blue,294,Cottage,,Yellow,Rounded,,Red,Skylight,Day,Bit Boulevard
@@ -178,7 +178,7 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 558 Jane Jacobs Way,65,904,0,https://magiceden.io/item-details/F4rVHqEZVMtbaKL7vYedo4rx65vd3rCWF12YSnAURYMU,Underwater,Blue,558,Cottage,,Yellow,Shuttered,,Blue,Shingle,,Jane Jacobs Way
 559 Poplar Street,43,1690,0,https://solanart.io/nft/GqEYPcPZnVqmHq5Ujjkr3GJXEx9vgtc6yY89K5YTSWK1,Field,Green,559,Cottage,Brick,,Crystal,,Pale green,Skylight,Day,Poplar Street
 560 Dahlia Drive,38,1485,4.41,https://magiceden.io/item-details/7cf6FDAKESxYysXybLZJCD6vwXuV97ya74JbJXzrbufV,Desert,Green,560,Art Deco,Vines,Blue,Shuttered,,Dark green,Shingle,Day,Dahlia Drive
-565 Poplar Street,34.69,1914,30.57,https://magiceden.io/item-details/AqZ1iTXwzzwQE2o1UDKLK8rwwfeXMxZzMYJoKHMdbuWe,Mountain,Blue,565,Cottage,,Pale green,Rounded,,Yellow,Shingle,Day,Poplar Street
+565 Poplar Street,33,1914,47.47,https://magiceden.io/item-details/AqZ1iTXwzzwQE2o1UDKLK8rwwfeXMxZzMYJoKHMdbuWe,Mountain,Blue,565,Cottage,,Pale green,Rounded,,Yellow,Shingle,Day,Poplar Street
 567 Jane Jacobs Way,63.900002,87,0,https://solanart.io/nft/6LCxsdKHB6ePr99h7YjT4ebdHXfroMDXNK4gZLuFHozM,Mountain,Yellow,567,Modern,Brick,Yellow,Rounded,,Mix,Mushroom,Sunset,Jane Jacobs Way
 568 Jane Jacobs Way,49,546,0,https://magiceden.io/item-details/5yNiRznSqRLWPyQ9uXeNtBDP4dQo9A4asN1kFr2zMmqD,Desert,Yellow,568,Cottage,Brick,,Crystal,,Red,Shingle,Stormy,Jane Jacobs Way
 569 Dahlia Drive,38,325,23.19,https://magiceden.io/item-details/96QcupVLkEFS4V6ELXYcy93TZ7XEmpv2Q8yu83QLobyg,Woods,Green,569,Art Deco,,Blue,Rounded,Rain,Red,Skylight,Night,Dahlia Drive
@@ -224,10 +224,11 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 669 Ramsey Street,66.9,581,0,https://magiceden.io/item-details/7tZiTfy5CzJ6HDBQkzZgwMfv7sCQeoBgULFkhkTNT7XQ,Desert,Red,669,Art Deco,Brick,Blue,Shuttered,,Mix,Food,Night,Ramsey Street
 671 Epoch Avenue,65,74,0,https://magiceden.io/item-details/Cbq4XaxNy2HMG6B1kRepP6LdcxDW1XD3vGYbk4GWeZ6a,Mountain,Green,671,Modern,,Yellow,Shuttered,Snow,Dark green,Shingle,Night,Epoch Avenue
 673 Epoch Avenue,666,1366,0,https://magiceden.io/item-details/Ght8EqhqbpEiY8Wges4gHmRBegi7WoFt9MBfnNNbo2WN,Woods,Blue,673,Cottage,Vines,Yellow,Rounded,,Blue,Patio,Day,Epoch Avenue
+679 Epoch Avenue,48,878,0,https://magiceden.io/item-details/5r8GrMZVPpinYaa3p7NLwBzzHoyQ11N35YAZTKB7zx2z,Treehouse,Yellow,679,Cottage,,Lavender,Shuttered,,Lavender,Shingle,Day,Epoch Avenue
 683 Clipping Drive,47.5,599,0,https://solanart.io/nft/5zWAraWfvoJr77XPEMfhejNBsnmx52dN64mQ3uXgy3CL,Woods,Yellow,683,Art Deco,Vines,,Glass,,Red,Haunted,Day,Clipping Drive
-685 Epoch Avenue,35,1130,40.16,https://magiceden.io/item-details/DQ8jB8rpMfdYt8Yr2AcQphzQ1yRSKehpCfb2F25oVvZU,Desert,Red,685,Cottage,Brick,Pale green,Rounded,,Green,Tin,Night,Epoch Avenue
-687 Clipping Drive,33,561,69.37,https://magiceden.io/item-details/3FSwmLNHBBL56aTkZCPCuTLzujSBAK9rCkTnsXrXHeG6,Underwater,Red,687,Cottage,Vines,Lavender,Rounded,,Blue,Shingle,,Clipping Drive
-687 Ramsey Street,39.5,605,3.66,https://magiceden.io/item-details/EhkyBme2HehF3Rha9n2yiEL4QYg8o9Hw8Wk8YUrvHEgw,Field,Yellow,687,Cottage,Brick,Red,Shuttered,,Mix,Mushroom,Sunset,Ramsey Street
+685 Epoch Avenue,33.69,1130,53.26,https://magiceden.io/item-details/DQ8jB8rpMfdYt8Yr2AcQphzQ1yRSKehpCfb2F25oVvZU,Desert,Red,685,Cottage,Brick,Pale green,Rounded,,Green,Tin,Night,Epoch Avenue
+687 Clipping Drive,38,561,19.37,https://magiceden.io/item-details/3FSwmLNHBBL56aTkZCPCuTLzujSBAK9rCkTnsXrXHeG6,Underwater,Red,687,Cottage,Vines,Lavender,Rounded,,Blue,Shingle,,Clipping Drive
+687 Ramsey Street,38.9,605,9.66,https://magiceden.io/item-details/EhkyBme2HehF3Rha9n2yiEL4QYg8o9Hw8Wk8YUrvHEgw,Field,Yellow,687,Cottage,Brick,Red,Shuttered,,Mix,Mushroom,Sunset,Ramsey Street
 689 Clipping Drive,39,755,6.23,https://magiceden.io/item-details/6Auebos4dbBy1HZxgd5CtxB6W1ro4NJLpnxHJ5ypQARc,Underwater,Green,689,Cottage,,,Crystal,,Blue,Skylight,,Clipping Drive
 695 Helix Avenue,100,1991,0,https://solanart.io/nft/Am9zXTXsmLZaA937bqgTRAq6VkdT4gYuLwkay7bjz42W,Volcanic,Blue,695,Art Deco,,Red,Shuttered,,Green,Shingle,Day,Helix Avenue
 704 Clipping Drive,50,740,0,https://solanart.io/nft/2tpnwPisnXw4yFzf7isVtAQykVGJrWVQ4BnVwcFHHygv,Field,Green,704,Art Deco,,Blue,Rounded,Rain,Mix,Food,Day,Clipping Drive
@@ -250,7 +251,7 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 822 Battle Street,200,1131,0,https://solanart.io/nft/G5S2RbcPbhjLFs9CEq2DNqiRcDjFzowhp2znTUYUW33Y,Field,Yellow,822,Mansion,Vines,,Occult,,Blue,Shingle,Day,Battle Street
 823 Battle Street,40,2074,0,https://magiceden.io/item-details/Ckq2wFqMgd7aSvbdgyFkv45coMPguQvdz4ibNaenzo59,Woods,Green,823,Cottage,,Yellow,Shuttered,,Red,Shingle,Day,Battle Street
 825 Battle Street,55,1630,0,https://solanart.io/nft/51Jw53d3bEPx1mdiBsr9WhtX72k3i4wnwfoBVpzqAH8i,City,Yellow,825,Mansion,,,Glass,,Yellow,Shingle,Day,Battle Street
-828 Broadway,48,369,0,https://magiceden.io/item-details/2LZLWyUxxwFBP42q6zxgzYq9snayPogHwVVKGVGMLkeD,Underwater,Yellow,828,Modern,Brick,Pale green,Shuttered,,Red,Tin,,Broadway
+828 Broadway,56,369,0,https://magiceden.io/item-details/2LZLWyUxxwFBP42q6zxgzYq9snayPogHwVVKGVGMLkeD,Underwater,Yellow,828,Modern,Brick,Pale green,Shuttered,,Red,Tin,,Broadway
 828 Battle Street,69,513,0,https://magiceden.io/item-details/JUaEhGcqJLVNT7vsotf4oTsCvwWsN396Pk63AnAAHNU,Underwater,Blue,828,Mansion,Brick,Blue,Rounded,,Green,Shingle,,Battle Street
 829 Broadway,48,446,0,https://magiceden.io/item-details/25kYBdrQQvj4yh6Td1JTVQsnU8ZdCRT1iWu5cBxexygx,City,Yellow,829,Art Deco,,,Crystal,,Blue,Patio,Sunset,Broadway
 842 Battle Street,60,287,0,https://solanart.io/nft/14nJhFwrsEHo1sEiEBUjbgX3stE832vNHAAk7msmf6HJ,Treehouse,Lavender,842,Modern,Vines,,Glass,,Dark green,Shingle,Day,Battle Street
