@@ -28,6 +28,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Belly,Body,Decoration,Eyes,
 160,0.4,3314,57.78,https://magiceden.io/item-details/5eFJE7jYvCkb3fsgqHUXrLK8g2iWLUHwfbJrAYNr7jTh,Orange,Cell,Grim Pink,None,Happy,None,Cat Pink,Bored
 161,0.4,2775,64.26,https://magiceden.io/item-details/9R24Y8XbCpiUNcmVKY58KRhSDJftmYhri6cNPGsFobdN,Purple,Cell,Grim Pink,Rain,Happy,None,Bunny Pink,Cheeky
 162,0.4,1846,75.42,https://magiceden.io/item-details/7Xa2CQ1sE8mSA7i5umY7npPGP5TDZH4Cf4vf12VvgniB,Purple,Cell,Grim Teal,None,Panic,Scars,Dog Pink,Sad
+163,0.21,1879,76.92,https://magiceden.io/item-details/36wxTQM24qSHP3vwczogMjQjLCEgXNZh66j13RzC76Yq,Pink,Heart,Grim Teal,Rain,Panic,Stars,Dog Teal,Sad
 165,0.4,1877,75.05,https://magiceden.io/item-details/DDLVwNSRKHa8Rgogw4S9Fs6Qy2khJBV7QL3yjxqJ74Bn,Purple,Heart,Grim Purple,Pink Flair,Hurt,Cap,Cat Purple,Surly
 167,7,1523,13.3,https://magiceden.io/item-details/ECYChhikHFgXdEmQTuSxaK8biVkaeKdEGXGhXs3u4ugL,Orange,Lightning,Shy Pink,Colorful,In Love,None,Cat Pink,Sad
 173,0.4,2518,67.34,https://magiceden.io/item-details/J2ZvVKfwDD475mtgWYMxEw16BciYhYdQYQ1tqBp4Hh4N,Teal,Cell,Grim Teal,None,Happy,Cap,Cat Teal,Joker
@@ -192,7 +193,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Belly,Body,Decoration,Eyes,
 1339,0.41,2919,62.43,https://magiceden.io/item-details/7uN749yvy2eUN61rCBMPDLHMV2KY3cXfC6ePHHkAy1rY,Pink,Cell,Concerned Pink,Rain,Panic,None,Dog Pink,Bored
 1343,1,7,91.52,https://magiceden.io/item-details/2bnuBo6k9rKkWde1kvc6jBKpAQ7K7PSU7J1dtLu5HhGZ,Orange,Spookyz 2,Shy Pink,Scribbles,Happy,Scars,Cat Purple,Spookyz Scary
 1344,0.22,810,89.67,https://magiceden.io/item-details/4jpWaeC3WxVoLDYkB85WYrfvXyA6t4UDt7BxbCPXPFey,Orange,Spookyz 1,Concerned Teal,Rain,Excited,None,Cat Purple,Clueless
-1352,0.21,2906,64.58,https://magiceden.io/item-details/4Jd6239Md1Z2u4gPaSCZjbbvZZJ8nEtxTHCqqXYs4f2a,Teal,Heart,Grim Purple,Pink Flair,Exhausted,None,Cat Purple,Hungry
 1360,1,119,90.17,https://magiceden.io/item-details/25JqnZNfoPFJQSuaVzB49oNiJHQ2pXH15ZgETFokfuJ9,Grey,House,Friendly Teal,None,Hurt,None,Dog Pink,Spookyz Fangs
 1363,0.55,2837,62.01,https://magiceden.io/item-details/AUujxYcCmBPnXSkNy6yJKrxD1zh5YHZmshjukZu3bBJT,Purple,Lightning,Concerned Purple,None,Worried,None,Dog Purple,Happy
 1423,0.47,900,86.09,https://magiceden.io/item-details/B85qadweVfrohz1C8oqouFhVccomhAhAF6BdVUTt6oHb,Grey,Lightning,Shy Purple,Scribbles,Hurt,None,Dog Teal,Sad
@@ -336,7 +336,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Belly,Body,Decoration,Eyes,
 2666,0.5,1752,75.55,https://magiceden.io/item-details/4c8nji6CzQ3dGZYEmhoMj75jzXaSgC8io7KJsdBhzFGA,Purple,Heart,Grim Teal,Scribbles,Panic,Cap,Cat Purple,Hungry
 2667,0.2,294,96.07,https://magiceden.io/item-details/37CWTa8UUEDTyCzUQQKrhd1zQosmunMCkEE6qPkJCp1y,Pink,House,Friendly Pink,Scribbles,In Love,Stars,Bunny Teal,Bored
 2671,1,202,89.17,https://magiceden.io/item-details/Gv232MEhF2dV7qkMuaGKPB5jFzm8DRWJi3EVnRmo7Bcr,Teal,Cell,Grim Purple,Orange Halo,Panic,Spookyz Scribbles,Fox Pink,Hungry
-2675,0.45,53,96.46,https://magiceden.io/item-details/ALSLokxWu56gc6M1rgbY6qz6GMTGsnBjEEej2NiyjjpG,Purple,Cloud,Shy Purple,None,Spookyz Watery,Eyes Scribbles,Fox Purple,Joker
+2675,0.35,53,97.46,https://magiceden.io/item-details/ALSLokxWu56gc6M1rgbY6qz6GMTGsnBjEEej2NiyjjpG,Purple,Cloud,Shy Purple,None,Spookyz Watery,Eyes Scribbles,Fox Purple,Joker
 2685,0.7,3048,57.98,https://magiceden.io/item-details/2PGGrFUBoj5jnmqYNRnGjG357ZRnJbpTQzmzVQGS2eKa,Orange,Cell,Grim Pink,Orange Halo,In Love,None,Dog Purple,Bored
 2688,0.25,3281,59.68,https://magiceden.io/item-details/59Auns7tvJXT8hecCz1B4K7MjZJPs1PfHnSafH5L2jep,Purple,Heart,Concerned Teal,None,In Love,None,Dog Purple,Bored
 2699,0.72727273,38,93.87,https://magiceden.io/item-details/CuVRxsUvnkR4DVyZShBsmTsNbTpLSfcJqKceRksCvFv1,Grey,Heart,Concerned Teal,Pink Flair,Spookyz Spiral,Cap,Bunny Teal,Clueless
