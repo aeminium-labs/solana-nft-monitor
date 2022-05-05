@@ -1,5 +1,6 @@
 id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Beak,Body,Clothing,Eyes,Eyewear,Headwear
 4,2.8,3068,74.69,https://magiceden.io/item-details/CVvdu1QngkX1ZnFqGmXNnfGxzJ6stnJK186bwNcfD3jU,,Quackgram Lines,Yellow,Metaduck,Prisoner,Empty,Plastic Bag,
+23,2.5,1659,84.95,https://magiceden.io/item-details/G2Za3A21jezCyVMX9gwcyuUtyyrwydf5rbcf16ojNckC,Spiked Choker,Rays Pink,Yellow,Hunt,Vest Biker,Metaduck,,Huey Hat
 25,2.5,1682,84.83,https://magiceden.io/item-details/E5c1AKXjWEofFqnx21XGQnj1BKajxXkeGzx7ATY6JULv,,Chess Purple,Yellow,Metaduck,Wild Lover Suit,Hypno Black,Wayfarer Glasses,Mia Black
 61,2.8,6147,58.82,https://magiceden.io/item-details/GALsrzLD35m1MdHYV5JULGe2Y9Pp3eAG3X4nnAMJHmUZ,,Red Dots,Yellow,Bath,Coverall,Classic,,Ginger Hair
 102,5,5309,41.14,https://magiceden.io/item-details/Hb1Dko6iaQyDTppmcGjCQJcPHMbceQkf7oLwqCjGdga9,,Red Dots,Goth,Devil,Vest Jeans,Classic,,MDGA Cap
@@ -13,13 +14,12 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Beak,Body,Clothin
 203,5.5,1067,58,https://solanart.io/nft/7Gi5jdTWWEL3omykXzu2v4XBB9e6MMqmF5PS1PuppA3C,,Waves Orange,Devil,Goth,Total Black,Otherside Yellow,Band Hero Purple,Sambrero
 218,4.4,4815,49.69,https://solanart.io/nft/BMmuh7RST9Jwvidnsq4snpe7Gtd9joscDA3ctiYsd4ZH,,Quackgram Lines,Goth,Devil,Kill Duck Tracksuit,Classic,,Viking Helmet
 237,3,1484,80.85,https://magiceden.io/item-details/J5eqcSppuq38CnF7uZs5oWTCYAq46szQQSQqKm6Zhqq7,,Dark Drips,Yellow,Bath,Raspberry 90s,Strab,Cyclop,Huey Hat
-244,1.9499,3538,80.77,https://magiceden.io/item-details/Q3S2jum1XJtkqANn6wu7TwGctKttmWApGU4hn3HGh3w,,Chess Classic,Yellow,Metaduck,Oasis Tee,Classic,Blue Makeup,Goldern Horns
 246,8.2,1585,28.33,https://magiceden.io/item-details/3JeGZkYAmaGbDu964wGtG3jf819pRuLibovLxdkhju7P,,Waves Orange,Zombie,Zombie,,Strab,Heist Mask,
 263,8.2,2917,21.47,https://solanart.io/nft/CXrhcfQPzqDiUtYg7w6DZWnyo3B1wCq41KfczNVp6fcq,,Rays Dark,Yellow,Devil,Wang GOFL Tee,Empty,Hockey Black,
 283,3.5,6685,49.05,https://magiceden.io/item-details/2RV65Pz7QFEJ758xL6REMyemD4JTGxvEEBw8CQisRZC6,,Rays Pink,Yellow,Hunt,Pioneer Tee,Classic,,Purple Cap
 298,4.5,605,70.38,https://magiceden.io/item-details/J3J8Jn8WufQiAabB5oJ9Wi2ef6FneCktXrXhfCoQTgXg,,Solana,Metaduck,Metaduck,Prisoner,Strab,Cyclop,Red Dragon Bandana
 323,20,5167,0,https://solanart.io/nft/9mP6yZikuE96qNMbGLub16smcSZ9HpwSLxnheC2EnWkc,,Chess Purple,Yellow,Goth,Wild Lover Suit,Classic,,Brain
-349,2.7,3687,72.5,https://magiceden.io/item-details/FiaM8W1sQ6f7NLfPH9ekuj91rE1NTLcbdha375iKrNKT,,Rays Orange,Goth,Goth,,Robo Blue,MF Quack,
+349,2,3687,79.5,https://magiceden.io/item-details/FiaM8W1sQ6f7NLfPH9ekuj91rE1NTLcbdha375iKrNKT,,Rays Orange,Goth,Goth,,Robo Blue,MF Quack,
 378,4.3,6508,41.96,https://magiceden.io/item-details/GH9MeNXnRsoGLh2H6FU9sWzgy6TLDteWN4Pro9LiuMj1,,Framed Strains,Yellow,Metaduck,Squid Game,Classic,,Dewey Hat
 401,6.99,2169,37.42,https://magiceden.io/item-details/EC9ginqCEpL8CyMc27iGbWPPYejpmBvU42ALJPWpF9rn,,Framed Strains,Devil,Hunt,Playduck,Classic,2477 Mask,Black Horns
 439,29,4736,0,https://solanart.io/nft/3MwYmiY5fru9e4CcWiu45oL8HMPKEoXxEVrzsqEEZroG,,Ducktrix,Yellow,Devil,Total Black,Classic,,Viking Helmet
@@ -28,6 +28,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Beak,Body,Clothin
 493,2,6745,63.74,https://magiceden.io/item-details/BYKcu2J4sBNFqtn6YUEYRvsP5jJNRPQwp9E9K7ZxwUqB,,Waves Purple,Yellow,White,Experience Tee,Classic,,Mia Black
 497,10,586,15.48,https://magiceden.io/item-details/DYQawUmHAGMyPaLbhkb3AKnYe7D5CCHf9AShMnm6jV5h,,Biege Dotted,Metaduck,Bath,Wild Lover Suit,Robo Magenta,Gordon's Glasses,Ginger Hair
 523,5,4466,45.49,https://magiceden.io/item-details/3geWX59SauCeo2n6LST8BD65hWLXqZ7SKA3x6Vg1dZwn,,Waves Orange,Goth,Goth,Prisoner,Classic,MF Quack,
+546,2,1508,90.73,https://magiceden.io/item-details/K4aiEf4TotRCsaDZ9K5YRuvrvYkurfTZdbLnXVy97bB,,Rays Orange,Devil,White,Rancher Shirt,Stoned,Camo,Huey Hat
 580,2.6,3721,73.32,https://magiceden.io/item-details/G9t8SbuPZNG2zi8izMeEtrdmALxwV7dT3kb52nStxuEf,,Waves Purple,Devil,White,Vest Jeans,Classic,Crystal Lake Duck,
 584,10,1122,12.72,https://solanart.io/nft/B74TWh5HLSWRYiYRV9brzEn1RZKUtnT4V7LYByLsa68j,,Quackgram Lines,Metaduck,Goth,Black Cowboy Shirt,Hypno Black,Eye Band,Red Dragon Bandana
 591,3.9,4712,55.22,https://magiceden.io/item-details/i71woF5NYpE4b3Y6oqkx9XHT1cSmiHZssokBkqAQKaV,,Solana,Yellow,Bath,Pioneer Tee,Classic,,Brain
@@ -73,6 +74,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Beak,Body,Clothin
 1138,6.75,2608,37.56,https://magiceden.io/item-details/FeY6EsXcNXPdXK69M9wCwDKETwN79VRujXaBzBVay1B9,,Rays Dark,Devil,Bath,Outlaw Quacker Jacket,Otherside Yellow,Racing Mask,
 1145,3.2,4421,63.72,https://magiceden.io/item-details/EpeexySWEU98Jt9gfZZ52JJ51xbnVrHGk7gknv2ecanN,,Biege Dotted,Goth,Hunt,Billie Quack Armstrong,Classic,,Octo Hat
 1173,4,6736,43.79,https://magiceden.io/item-details/3JxgWo5PbwntD8KTCLmtFJdfb18GhsFnuGqbctuUMjBh,,Waves Orange,Yellow,White,Wild Lover Suit,Classic,,Black Horns
+1188,9,4171,7.01,https://magiceden.io/item-details/AZfDSiMJDezSGSbZtJ3pq396zF4GoYHQ6GYhjn1h29YB,,MC Duck,Yellow,White,,Classic,,Solana Head
 1207,4,4923,53.13,https://magiceden.io/item-details/2D3oPbnF4YbBc2YUypuuYfWPiuhaTvBLcqJW9wUw1x1F,,Quackgram Lines,Metaduck,Hunt,Billie Quack Armstrong,Classic,,Mia Black
 1211,5,2147,57.44,https://solanart.io/nft/8Lv4UjjgSaAfLr94mwG5y2JhFabZXicXBXA1weL1mkVo,,Rays Yellow,Devil,Bath,Wild Lover Suit,Void,Hockey Black,
 1217,9.99,4507,0,https://magiceden.io/item-details/QveBmiucwS3nEVQq7XLhvAMkf5PQCjkeuEnG857bojV,,Rays Pink,Yellow,Hunt,Danger Duck Hunter,Classic,,Eric's Hat
@@ -81,7 +83,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Beak,Body,Clothin
 1234,24,48,0,https://magiceden.io/item-details/6s4RoNsnW8tCCda4Co1Ms1WhVtzkEBRAj8Tnc44idLeG,Spiked Choker,Chess Purple,Zombie,Zombie,Comedian College Jacket,Otherside Green,Red Makeup,Purple Cap
 1246,2.23,3206,79.68,https://magiceden.io/item-details/8ri4hvmJ3E9AahkCyDAd3XcLV4KrmT862VeSdi2Krwwb,,Framed Strains,Metaduck,Bath,Babrie Coverall,Hypno Red,,Purple Cap
 1264,8,5987,7.65,https://magiceden.io/item-details/H2q6sGYDVjFG8Q37Hibe6MkwNE9HWhexDUauMUyeo9bv,,Waves Purple,Yellow,Hunt,Coverall,Classic,,Diamonds Poker Hat
-1276,2.7,4269,69.5,https://magiceden.io/item-details/CrkmrziMdqu9o9B7n6qF3MxyJTJJPBMmfw5jHfY6DDfj,,Chess Purple,Goth,Hunt,,Metaduck,MF Quack,
+1276,2,4269,76.5,https://magiceden.io/item-details/CrkmrziMdqu9o9B7n6qF3MxyJTJJPBMmfw5jHfY6DDfj,,Chess Purple,Goth,Hunt,,Metaduck,MF Quack,
 1277,3.2,6042,55.36,https://magiceden.io/item-details/4aVD6vhc2MYaE9jN7z6joexWzMV8YhG4tFoT97U3hXMv,,MC Duck,Yellow,White,,Classic,,Sambrero
 1296,2,6687,64.04,https://magiceden.io/item-details/FBCX7ZdDcBT5armxxLmMZGQ1pUxXpijBZ3qFCUhk2Pmd,,Waves Orange,Yellow,Hunt,Wang GOFL Tee,Classic,,Cowboy Black
 1319,3.8,3965,60.07,https://magiceden.io/item-details/EaSUbVsqYnQq8t2HrHUjxkR6hvAbYTy59Pd7HYExgpV4,,Waves Purple,Metaduck,Metaduck,,Classic,Gordon's Glasses,Mia Blue
@@ -136,7 +138,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Beak,Body,Clothin
 2016,10,6667,0,https://magiceden.io/item-details/ERihgihY7Mopo6RU3aHQRV9K8PcAC8jxip7hgyQmjCNJ,,Quackgram Lines,Yellow,Hunt,Comedian College Jacket,Classic,,Red Dragon Bandana
 2027,3.5,5077,57.34,https://magiceden.io/item-details/7B5rhzZusHUjgjcqjyf1pbiPsefYpgrTwc6g7s64SD4v,,Chess Purple,Yellow,Hunt,Lizard Wizard Tee,Classic,,Brain
 2042,3.9,3606,60.92,https://solanart.io/nft/3SUPpYs9m6bJB3ZMdNUhzovutdUgkeFQT9ua8LZES2fu,,Blue Lines,Metaduck,White,Pioneer Tee,Otherside Green,,Louie Hat
-2043,2.7,2297,79.66,https://magiceden.io/item-details/FP4sDovFn8z3p7thR9rCF5B9jyj1AuFcmh1dkgftHcSj,,Dark Red,Devil,Metaduck,Pioneer Tee,Stoned,MF Quack,
+2043,2,2297,86.66,https://magiceden.io/item-details/FP4sDovFn8z3p7thR9rCF5B9jyj1AuFcmh1dkgftHcSj,,Dark Red,Devil,Metaduck,Pioneer Tee,Stoned,MF Quack,
 2051,10,720,14.79,https://solanart.io/nft/GiMEUWHhBzrZmnXkYPgthwCDyRZmNZGDkbrgUZQN97bp,Joint,Rays Orange,Metaduck,Goth,Squid Game,Empty,,Louie Hat
 2061,8.8,447,28.2,https://magiceden.io/item-details/2pgkLAhfCRQbgYYQhnBBTBbQx8edBJJtPG9vxBt1d5s6,,Waves Orange,Yellow,Metaduck,Tank Black,Dark Cyborg,Skull Eye,Teen Solana
 2062,3.5,3532,65.3,https://magiceden.io/item-details/EJCqNfvufLFnF7Wa4qp4TLY9316NTNJVBxaMFTa4fLe4,,Waves Purple,Yellow,Devil,Raspberry 90s,Classic,Solana Explorer,
@@ -153,7 +155,6 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Beak,Body,Clothin
 2201,1.99,4119,77.37,https://magiceden.io/item-details/7cySaA4uFbunpuNNt8efivAhn3E1nmtMYr7S5oNKJYeB,,Quackgram Lines,Metaduck,Goth,,Classic,Eye Band,Party Hat
 2209,3.6,3813,62.85,https://magiceden.io/item-details/7moRGwsnXAiVDCJ1toxrb1Jhkkn9fGUwRoBTyaB7PzRk,,Rays Pink,Goth,Bath,Playduck,Classic,Crystal Lake Duck,
 2211,15,5760,0,https://magiceden.io/item-details/LnoKYbJ2v88HdvFoc1tvcNhwmGfn7Xa7fjEpVnBBSJ9,,Rays Pink,Yellow,Goth,Smith Suit,Classic,,Ginger Hair
-2214,3,822,84.26,https://magiceden.io/item-details/8XH97cr6sNcz448roRp1S31YtvBjdqe8tR1KgubWtqBn,,Quackgram Lines,Metaduck,Metaduck,Safari Lover,Stoned,Red Makeup,Teen Solana
 2223,400,5650,0,https://magiceden.io/item-details/G1kxjwQN9ciofkYj4my2YU92YKmv4zsS1x3XbE3bR3qZ,,Dark Drips,Goth,Metaduck,Experience Tee,Classic,,Killer Style
 2225,10,1646,10.02,https://solanart.io/nft/4UDwK5LjdPL1F7kPA5cc266MHwmejJPTC2Q7bA9EPPgB,,Solana,Devil,White,,Metaduck,Kano Eye,Sambrero
 2259,2.2,4179,74.96,https://magiceden.io/item-details/6ie3776H8FZU7LV7KABCm11YXLfdsazHGA8DbY6aA1t8,,Rays Yellow,Metaduck,White,Black Cowboy Shirt,Classic,Hockey Black,
@@ -167,10 +168,11 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Beak,Body,Clothin
 2356,60,365,0,https://magiceden.io/item-details/CJHG5CF7NKLzhEcs61HMLnKC6TEtCtnHjsytmbvfphdq,Cigarette,Waves Purple,Yellow,Hunt,Tank Motorhead,Hypno Red,Death Metal,Black Bandana
 2359,25,1256,0,https://magiceden.io/item-details/DQ6keffJU5jWLmHm3B2cvfbpnCVujFbNphnVuameMgUL,,Framed Strains,Zombie,Zombie,Tank BAYC,Stoned,,Huey Hat
 2377,3,2195,77.19,https://magiceden.io/item-details/9U3QmxzZ5YFVehQgBjK7ynE38iksrLEKhjV5SZRQLyzf,,Rays Pink,Metaduck,Goth,Tank Slayer,Hypno Red,Mighty Quacks,
+2420,2.1,1393,90.32,https://magiceden.io/item-details/BUD18oUrjM7z4E7qFGv5TYAnHn1xN73CtM1UA1GmG7GC,,Dark Red,Devil,Goth,Rancher Shirt,Metaduck,Bruce Lee Glasses,Killer Style
+2425,2.15,2278,85.26,https://magiceden.io/item-details/3tvf9UFnju1NekUewoSSVrUsWQZymMoaekxupaQPyqWS,,Waves Orange,Goth,Metaduck,McFly Retro,Hypno Red,Racing Mask,
 2439,10,728,14.75,https://magiceden.io/item-details/AT8usFPSf8wAuvxyM6AX3CqEmNpzELHWaHGV3M6EsDqF,,Waves Orange,Goth,Hunt,Babrie Coverall,Robo Magenta,3D Glasses,Red Horns
 2442,2,7552,59.58,https://magiceden.io/item-details/7ZAP565WzmnjEfNLaqRXENEB9rz2w9xf471NjC6avu12,,Rays Pink,Yellow,Hunt,,Classic,,Killer Style
 2449,2.9,3252,72.74,https://magiceden.io/item-details/6cFVUo6wDTNHqk8AD6MW7JioNpYtdenfzBN4HpRTRfJ8,,Rays Dark,Yellow,Bath,Squid Game,Void,Plastic Bag,
-2461,2.5,1975,83.32,https://magiceden.io/item-details/JAX3TwwoRGgMupSGM3Fsuk8S61cFnECCoCXuBU13LxPs,,Biege Dotted,Devil,Devil,Wild Lover Suit,Classic,2477 Mask,Arrow
 2463,14.9,446,0,https://magiceden.io/item-details/EMafrwZEx9Fv6CerVsYWaqcZDcXgcT1DWQjcL9Y7D78f,Isle Tattoo,Chess Purple,Goth,White,Wild Lover Suit,Classic,Wayfarer Glasses,Huey Hat
 2472,5,4726,44.15,https://magiceden.io/item-details/C6LFq5z4kiTTfsizm9CrEWgckGGoySZi3QyNecvD6yxy,,Solana,Yellow,Bath,Coverall,Classic,,Octo Hat
 2481,5,3878,48.52,https://magiceden.io/item-details/CMuDcV6NNdmM6FTCFrF5eoC8z2PbzSj323VsvsAYMiL4,,Dark Red,Devil,Bath,Raspberry 90s,Classic,Hockey Black,
@@ -207,6 +209,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Beak,Body,Clothin
 2899,8,477,36.04,https://magiceden.io/item-details/Gg82v8JWREjcK6ZSsUJvdbgSFZLKmfacipm2wiU8Cpu7,,Solana,Devil,Hunt,Prisoner,Hypno Black,Skull Eye,Black Horns
 2900,6.5,5139,27.02,https://solanart.io/nft/1EKTrRSZ2eu5k7mi5L1GL1kAxZd3TVd7CEcsFCkif8A,,Chess Classic,Goth,Devil,Playduck,Classic,,Captain Duck Price Hat
 2919,4.5,3186,57.08,https://magiceden.io/item-details/8vMGkUeAwputNo3SokiEPUEoVsFmue6P5AJdtAyZzA9G,Cigarette,Rays Orange,Yellow,Bath,,Otherside Green,,Ballas Bandana
+2929,2.2,2654,82.82,https://magiceden.io/item-details/A4HSsUQWommaqsczcf8pBqHJLCc5vu4gAFPhF3JnA57u,,Rays Yellow,Goth,Bath,Lizard Wizard Tee,Empty,MF Quack,
 2943,3.5,2754,69.31,https://magiceden.io/item-details/A1m1yjKSG5oq4b3GAmdfjmSz1fmtQmyqD1QhJRQozMC2,,Waves Orange,Goth,Hunt,Vercetti Shirt,Classic,Band Hero Purple,Diamonds Poker Hat
 2961,5,2203,57.15,https://magiceden.io/item-details/6zzQMPztr8ZRN3e4v9x3LjAsv9fcVtXMDqhJ4rcrfEWZ,Cigarette,Rays Yellow,Goth,White,Oasis Tee,Hypno Red,,
 2976,5,6702,33.96,https://magiceden.io/item-details/BViGcHKdYRLw6xQWyg5zY41FfkMUg5Uo9hRdAt3FdRDV,,Quackgram Lines,Yellow,Hunt,Vest Jeans,Classic,,Louie Hat
@@ -243,7 +246,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Beak,Body,Clothin
 3446,50,5600,0,https://magiceden.io/item-details/GKn2zwuXLEcEyK2EbiqnzQPnYdgymGZsFgWP9amnfUQP,,Quackgram Lines,Yellow,White,,Classic,,Shiny Treasure
 3453,3.2,7533,47.68,https://magiceden.io/item-details/Gj9Sy9h58JekwnzpwGzb2zC1eXhUyYaokrHmNH1ALfZA,,Rays Pink,Yellow,Bath,,Classic,,MDGA Cap
 3459,8,6877,3.06,https://magiceden.io/item-details/9TrJ5AqSMkSP3QSNLUpGYx1fMLuucz92qXoaf9h8hUD9,,Blue Lines,Yellow,White,,Classic,,Shroom Head
-3477,2.1,4820,72.66,https://solanart.io/nft/8yJZ9isXngZ3vfZiedVf4YVGHMwfn5tz5KiXyWkjo43k,,Framed Strains,Goth,Hunt,McFly Retro,Classic,,Ginger Hair
+3477,2.48,4820,68.86,https://solanart.io/nft/8yJZ9isXngZ3vfZiedVf4YVGHMwfn5tz5KiXyWkjo43k,,Framed Strains,Goth,Hunt,McFly Retro,Classic,,Ginger Hair
 3486,3.6,1012,77.28,https://magiceden.io/item-details/GeKpNivmmxdN2JfyG3EPgQsdqj2FxgbNks9HSbSr35Dn,,Waves Purple,Goth,Devil,Prisoner,Strab,Glitch Digital Mask,Huey Hat
 3493,20,1986,0,https://magiceden.io/item-details/5P8zWjeXsSfpTrTABUniVDyjbvcG2xJNYebNcW26yAYK,,Waves Orange,Goth,Metaduck,Smith Suit,Creep,,Mia Pink
 3554,1.94,6157,67.37,https://magiceden.io/item-details/Dvw4fwoLYoNm9gFsZr2QyY59Kdpn6khZz15vJcHi6hof,,Waves Purple,Yellow,Bath,Comedian College Jacket,Classic,,Captain Hat
@@ -276,6 +279,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Beak,Body,Clothin
 3871,12,121,0,https://magiceden.io/item-details/G2WbTb3LxwL8xLFDWhPMfSuFzpTuykPDiit7jqyR2RVq,Royal Cigar,Blue Lines,Devil,Metaduck,Tank Black,Void,Death Metal,Louie Hat
 3893,30,90,0,https://magiceden.io/item-details/Efe3kVU1PAQU7R85R7LJwh3SEC3rmxFXFW4bwQwaSrMi,,Rays Yellow,Robo,Robo,Squid Game,Otherside Yellow,Mighty Quacks,
 3905,7.95,137,38.29,https://magiceden.io/item-details/GQtQrLfdLfsVM5cjVfQdaYyMFNARZ8YNbPB3KfRYd4V2,TNT,Waves Purple,Acid Ranger,Acid Ranger,Prisoner,Otherside Green,,Captain Duck Price Hat
+3906,2.6,5522,64.04,https://magiceden.io/item-details/2KbzuH5FW3aMLbiPo8CjG3AZ3PmDhqKrwKRFSBgimywj,,Waves Orange,Goth,White,Wild Lover Shirt,Classic,,Captain Hat
 3908,5.5,7709,23.77,https://magiceden.io/item-details/AAoTfd4RUkBaEfvBH4R7fBdFcX237R631JDHsNeNrmHM,,Blue Lines,Yellow,White,,Classic,,Eric's Hat
 3913,4,6340,45.83,https://solanart.io/nft/6Edey81Je2FmkCyhvdQ8f5AF4SWqgbGRb3HCGFtsfALY,,Dark Red,Yellow,White,Experience Tee,Classic,,Strong Beak
 3923,150,5011,0,https://magiceden.io/item-details/F5kMf4uieKfHBVL6Dn7FbajLL99aBAiyNtMTQpuqHhQt,,Dark Red,Metaduck,Bath,Outlaw Quacker Jacket,Classic,,MDGA Cap
@@ -321,7 +325,6 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Beak,Body,Clothin
 4461,4,7070,42.07,https://magiceden.io/item-details/EJqAKdFxmRHn2UY32nUbhzj1W33njSqav1kF58muTcqe,,Blue Lines,Yellow,Bath,,Classic,,Introvader
 4473,99.99,756,0,https://magiceden.io/item-details/Hp9QKWrArF22me7D8C8PPXQ8FVsbMKRDBkF2NPpUFYTm,,Blue Lines,Metaduck,Metaduck,Raspberry 90s,Hypno Black,Red Makeup,Black Horns
 4486,7.5,4147,22.13,https://magiceden.io/item-details/3URvWnjDe1FCcxBZHwossN1e85As8f7KsyLviEAWhUAo,,Rays Yellow,Yellow,Hunt,Prisoner,Classic,,Derived Brain
-4496,1.939,3258,82.32,https://magiceden.io/item-details/B9mqibrPxEPoPma84q874PdEpqDYKoEHUSfJzpVVhv5i,,Quackgram Lines,Yellow,Goth,,Empty,Blue Makeup,Party Hat
 4500,3.5,338,81.76,https://magiceden.io/item-details/HgepWXSg4DszFxPwvmoF3yyBEyq5n9X2SJbo3vTUGuCo,Spiked Choker,Blue Lines,Goth,Hunt,Comedian College Jacket,Otherside Yellow,Gordon's Glasses,Louie Hat
 4515,8,1053,33.07,https://magiceden.io/item-details/AeZ42MwhDbM1QGpxxMZm6VFZ8QyBhEeWfe8SjXLXHpZq,,Dark Red,Metaduck,Bath,Oasis Tee,Otherside Green,Cyclop,Party Hat
 4521,3,5321,61.08,https://magiceden.io/item-details/4BkpVY3quZ4G5YJpZgKrhCGdszrsTDC6r3Tmxm8ZdN7h,,Rays Dark,Goth,Goth,Lizard Wizard Tee,Classic,,Spades Poker Hat
@@ -357,7 +360,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Beak,Body,Clothin
 4895,4,4093,57.41,https://solanart.io/nft/7etyhtJ2pquGfJyzqE9dmpzxWCCUufjfUtrek7gUv56o,,Quackgram Lines,Metaduck,Hunt,Tank Motorhead,Classic,Racing Mask,
 4925,4.89,100,69.08,https://magiceden.io/item-details/72MqZzNmxHsgxYwHDpVfi4YHtqMEUx4sSFEeiNs85wNM,Cigarette,Waves Orange,Zombie,Zombie,,Hypno Red,Gordon's Glasses,Mia Blue
 4937,3.5,4633,59.62,https://magiceden.io/item-details/8hU5s9PhUd1kNJiB2p5nkzpXedEGHnP5FdBkHqWy2YAY,,Chess Purple,Goth,Hunt,Basketball Duckstars Black,Classic,,Eric's Hat
-4944,2.19,7634,57.26,https://magiceden.io/item-details/BNohxGMh5zxU8MLW4SrShScdthfnfnYM8c8kLVUDmUA3,,Dark Red,Yellow,Goth,,Classic,,Eric's Hat
+4944,1.938,7634,59.78,https://magiceden.io/item-details/BNohxGMh5zxU8MLW4SrShScdthfnfnYM8c8kLVUDmUA3,,Dark Red,Yellow,Goth,,Classic,,Eric's Hat
 4949,100,7526,0,https://magiceden.io/item-details/DCX1fMZhphjK89YeN67h7HRcvVaWUEVZWMNqBfwgig9f,,Dark Drips,Yellow,Goth,,Classic,,Party Hat
 4972,2,4326,76.21,https://magiceden.io/item-details/DYY3jAujLBTLoUfUSqjciaeQAeXpax5eg6M8veSgZGDD,,Waves Purple,Goth,Bath,Donald,Classic,Heist Mask,
 4978,5,6768,33.62,https://magiceden.io/item-details/cqGsFAF5q48T2Q8zqmnPRnLxaFcd5jymuT1c4oLByzD,,Waves,Goth,Metaduck,,Classic,,Sailor Hat
@@ -367,7 +370,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Beak,Body,Clothin
 5111,4.5,955,68.58,https://magiceden.io/item-details/CwStnucuwMW5G1th6JJZnEJkmv856YEo5eDqn3xvAY22,Royal Cigar,Waves Purple,Yellow,White,Leather Jacket,Classic,Round Glasses,MEOW!
 5122,6.8,2504,37.6,https://magiceden.io/item-details/FVymbnMpeaacu1QaiBPNgBZR6ggCj9Qq4HsYQuAJFkjd,,Red Dots,Yellow,Hunt,Tank Motorhead,Strab,Crystal Lake Duck,
 5128,2,5672,69.27,https://magiceden.io/item-details/HuWZ2ZqBRRCDzhQb4tkW7mK5NGwoFEPfL3EPYX5zGaRw,,Solana,Yellow,Bath,Coverall,Classic,,Sambrero
-5161,12,3768,0,https://magiceden.io/item-details/EtkuCGYKm1vWQps2ZZ4jmo6163NcAnBPkg3tWjqNFhm2,,Solana,Metaduck,Metaduck,Liquid Tee,Classic,,Red Horns
+5161,7,3768,29.08,https://magiceden.io/item-details/EtkuCGYKm1vWQps2ZZ4jmo6163NcAnBPkg3tWjqNFhm2,,Solana,Metaduck,Metaduck,Liquid Tee,Classic,,Red Horns
 5180,50,6199,0,https://solanart.io/nft/6NQihpHvVuA629izZRzcFfvg3wAkCP399RgDz3ogs4pV,,Chess Purple,Goth,White,Wild Lover Suit,Classic,,Cowboy Black
 5206,3,4850,63.51,https://magiceden.io/item-details/EVcxNWjAdfQspZ7oBV5njrcnuhTrWECYfgzk7DKomfhN,,Framed Strains,Yellow,Goth,Liquid Tee,Classic,,Captain Hat
 5238,15,5690,0,https://magiceden.io/item-details/HZ6LDceKuwTLwvdHwvTDxG4eRfQVXDBCb5Mop6b8r7sf,,Quackgram Lines,Yellow,Bath,Pepe Tee,Hypno Black,,
@@ -395,6 +398,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Beak,Body,Clothin
 5463,4,5253,51.43,https://magiceden.io/item-details/G8QN37MKBDuPBPn2fMRCpgNmtoz8Hkm8CB6B7pnAA8No,,Biege Dotted,Yellow,Bath,IDDQD Tee,Classic,,Introvader
 5466,5,5044,42.51,https://magiceden.io/item-details/2DgCUg75vGxaSYqgkFjBB1jC7KsjzFfeZGmsdZjBz1iT,,Chess Classic,Yellow,White,Vice Suit,Classic,,Jurassic Hat
 5485,2.3,6345,62.8,https://magiceden.io/item-details/aAtvNMP7AHXMpD4YuD8zVzNwQnXQNdTVCuSTr8MAMty,,Red Dots,Yellow,White,Lizard Wizard Tee,Classic,,Viking Helmet
+5492,2.5,378,91.55,https://magiceden.io/item-details/4kUdX2m25RjqHq3Y2WbHqj6bE8RWtuoMpVcaPs6xohEW,Joint,Waves Orange,Yellow,Devil,Squid Game,Metaduck,Blue Makeup,Huey Hat
 5501,3.18,4399,64.03,https://magiceden.io/item-details/8mdvuBv3gxBttCWts93qPFb2NXoqyBF287fG2C67Syju,,Ducktrix,Yellow,Metaduck,Basketball Kobe Purple,Classic,,Huey Hat
 5506,3,6271,56.18,https://magiceden.io/item-details/84WAdoVUnSZrzwotaocRKFioMtRPaiMUXsPtqS7BoFdb,,Waves Orange,Yellow,Metaduck,Wang GOFL Tee,Classic,,Party Hat
 5509,100,6117,0,https://magiceden.io/item-details/CEDzqwsWCLTSCvFA3VD3kBdcrA3xZQAUz57LucdkjDwX,,Rays Yellow,Yellow,Goth,Experience Tee,Classic,,Arrow
@@ -405,13 +409,14 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Beak,Body,Clothin
 5592,8,3981,17.98,https://magiceden.io/item-details/Bxhksx7kpHjguk9ufvmm1vpnaLMLXuy4WMi6hqdsmnxf,,Ducktrix,Goth,Devil,Raspberry 90s,Classic,,Viking Helmet
 5613,5,6228,36.41,https://magiceden.io/item-details/HceNNMG98swwAJMoX4tdCDYy5MrEYdgyeeiNxYS1rtRE,,Dark Drips,Yellow,Bath,Solana Hoodie,Classic,,Teen Solana
 5629,2.19,5808,66.67,https://solanart.io/nft/2zGSU5eXpDUXhvAM2UALbqv1EZXVf3rWD3K6jPKBN4Sc,,Rays Pink,Yellow,Metaduck,Coverall,Classic,,Captain Hat
-5639,3,4116,67.29,https://magiceden.io/item-details/EwsmH5U3LtNbCUcYsAzbTDvvaqxr1SvqAWuo85ShGMEz,,Rays Pink,Devil,White,Comedian College Jacket,Classic,MF Quack,
+5639,2,4116,77.29,https://magiceden.io/item-details/EwsmH5U3LtNbCUcYsAzbTDvvaqxr1SvqAWuo85ShGMEz,,Rays Pink,Devil,White,Comedian College Jacket,Classic,MF Quack,
 5654,3,4438,65.63,https://magiceden.io/item-details/7hfca9UEpUMA3vS9ezE2ntGjc74CnzwnokvmjTUkDfer,,Solana,Yellow,Hunt,Donald,Classic,,Introvader
 5670,2.19,7663,57.11,https://magiceden.io/item-details/AbDDyszvCXemLY9CtYB9KNjZqiSz37oLqxeSs2Gnf5jF,,Blue Lines,Yellow,Bath,,Classic,,Dewey Hat
 5673,3,937,83.67,https://magiceden.io/item-details/DQbc823PRxBnvHB8M7GZ5rH3gxLzEV7Qu4m1Q9kRtLJ4,,Rays Yellow,Devil,Hunt,Comedian College Jacket,Strab,Eye Band,Goldern Horns
 5685,15,4601,0,https://magiceden.io/item-details/6GoKxsJA5abMneRbrjsP7cXfhCXJTK1E3KYyrjhw5Vba,,Framed Strains,Yellow,Metaduck,Basketball Air Red,Classic,,Teen Blonde
 5697,3.5,1223,77.2,https://magiceden.io/item-details/FRHHbgPfG7muuZEuHMouPytT6PCV1GXskQSdJ43ojWqo,Joint,Waves Orange,Yellow,Metaduck,Squid Game,Hypno Red,,Eric's Hat
 5710,2.25,2833,81.4,https://magiceden.io/item-details/ERZ8oqdPXxHX5GRi3AJPXE17YMhPX96PSS7AFuneLZcm,,Rays Yellow,Goth,Bath,Smith Suit,Otherside Yellow,MF Quack,
+5731,1.9,6743,64.75,https://magiceden.io/item-details/9qzsMuJjHgYw4BdXJxHzbzZmx1Km83AJktTTYCMPmv5u,,Rays Dark,Yellow,White,Rancher Shirt,Classic,,Black Horns
 5734,10,285,17.03,https://magiceden.io/item-details/4vQ1mq6RKqoNw4DSBCRHfejHH6KsuNBMmsPiXCYbUANF,Gang Tattoo,Rays Orange,Devil,White,,Strab,Eye Band,Huey Hat
 5774,25,277,0,https://magiceden.io/item-details/GDjHJwF1UKx3pTa5PFxVhRMZBYhUY1uqdDPPVrHdmiP8,,Chess Classic,Zombie,Zombie,Rancher Shirt,Empty,Death Metal,Captain Duck Price Hat
 5836,4.5,3701,54.43,https://magiceden.io/item-details/CvejhQzTskJUTnKwsVYmwejsik5birxYbhWNxrUVq7TJ,,Quackgram Lines,Metaduck,Hunt,,Hypno Black,Hockey Rage,
@@ -458,7 +463,7 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Beak,Body,Clothin
 6588,3.2,3608,67.91,https://magiceden.io/item-details/6qxh4fvkH6eBUEAZ6UogVM41xBvyikSBN7wf4TxeRUEs,,Rays Orange,Yellow,Bath,Lizard Wizard Tee,Otherside Green,Round Glasses,
 6622,2.5,6826,58.32,https://magiceden.io/item-details/FWa3QA5uYDkMw6whQRv3tcuKkzYwqZNdFnSjiceN6Yvk,,Rays Orange,Yellow,Bath,Kill Duck Tracksuit,Classic,,Black Bandana
 6623,2.1,7470,59,https://magiceden.io/item-details/4n26YUx3cp3RR2kwwxJZm3bwDNi75jx684qGEw7Q4Uwu,,Dark Red,Yellow,White,,Classic,,Teen Solana
-6631,1.949,7674,59.46,https://magiceden.io/item-details/956bBMwmaZMv1jJ5UrH6QFFE95aHyhKre8mMJ32XP9AR,,Chess Purple,Yellow,Bath,,Classic,,Killer Style
+6631,1.939,7674,59.56,https://magiceden.io/item-details/956bBMwmaZMv1jJ5UrH6QFFE95aHyhKre8mMJ32XP9AR,,Chess Purple,Yellow,Bath,,Classic,,Killer Style
 6637,13,3715,0,https://magiceden.io/item-details/Hx6kMkU7FY2ZyKMprzFE4mZTz4P8o7WUzqnbpoaPWrS2,,Ducktrix,Yellow,Hunt,Duckcraft Tentacles,Classic,,Diamonds Poker Hat
 6649,2.2,6195,64.58,https://magiceden.io/item-details/G9FrU29bp6z816PguzEJSMLhRmbosSzKCVQF9unR9irj,,Quackgram Lines,Yellow,Goth,Total Black,Classic,,Pirate Captain Jack Duck
 6662,7.77,3320,23.69,https://magiceden.io/item-details/4tXVzDpJBysZ8Kss48z4azDh3MQCpkXqZKPVaHLfKYv1,,Dark Drips,Goth,Metaduck,Pepe Tee,Classic,Solana Explorer,
@@ -469,7 +474,6 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Beak,Body,Clothin
 6735,70,3310,0,https://magiceden.io/item-details/4Jch6ARyBiXuWfQH6SgbyjT9U4yRK7PJnEP8yrdNvi5w,,Biege Dotted,Yellow,White,Vest Biker,Void,Hockey Black,
 6740,1.85,6972,64.07,https://magiceden.io/item-details/Ehf5a1L9MwgU7GMZXsBiFDU2puK3A7LWt53fPraSHMud,,Chess Purple,Goth,White,,Classic,Racing Mask,
 6761,5,7066,32.09,https://magiceden.io/item-details/6mX33QMZ6phjsnETrVhARxgcfZrch396yyz1R4YaycMu,,Rays Dark,Yellow,Bath,,Classic,,Octo Hat
-6782,1.85,7649,60.58,https://magiceden.io/item-details/DsVmVNKsPnx6G4Aogs4dSzTvkVWgdGfjUzw5F2DXZxpQ,,Waves Orange,Yellow,Bath,,Classic,,Eric's Hat
 6789,2.75,4158,69.57,https://magiceden.io/item-details/6fG9muyu3yJrNGw1soVyBNcgMAcpZApVEqU1nCtcvJg3,,Waves,Goth,Devil,Racing,Classic,,Black Bandana
 6795,2,6067,67.23,https://magiceden.io/item-details/DcoJ4pNqrC2gJX4MhpeFNcMV9nsMxE8gn2dWxbB4UWbv,,Waves Purple,Yellow,Hunt,Vice Suit,Classic,,Sailor Hat
 6797,3.2,6732,51.81,https://magiceden.io/item-details/HceWyUizCt6QGmKEMQ8XLVH7gA2SHhGQzt3uHHQES24j,,Red Dots,Yellow,White,Vest Jeans,Classic,,Goldern Horns
@@ -546,4 +550,4 @@ id,price,moonRank,💎 score (%),storeURL,Accessory,Background,Beak,Body,Clothin
 7743,2.5,5739,63.93,https://solanart.io/nft/EZf3AXxyb2eedGvZQXWNLRaPwoFZpEb9q4f6vguwXaGu,,Chess Classic,Yellow,Hunt,Regal Suit,Classic,,Donald Duck
 7753,19,3766,0,https://magiceden.io/item-details/4qdRTTmZNy57sU22N9hkxr1MXYjFF31n69CsrY8vCs31,,Waves Purple,Yellow,Goth,Danger Duck Hunter,Classic,,Caesar
 7756,5,2999,53.05,https://magiceden.io/item-details/FeUaCLq92cHDZfgbSQnwmYPzZJwd8ouvms4qMYkZBrZk,,Red Dots,Yellow,Metaduck,Kill Duck Tracksuit,Strab,Hockey Black,
-7768,2.3,7745,55.59,https://magiceden.io/item-details/7XvaSfANssyT1MSVwWoZAPEsVn8Z4WxTG59hJkToq6Yd,,Waves Orange,Yellow,White,,Classic,,Killer Style
+7768,1.9,7745,59.59,https://magiceden.io/item-details/7XvaSfANssyT1MSVwWoZAPEsVn8Z4WxTG59hJkToq6Yd,,Waves Orange,Yellow,White,,Classic,,Killer Style
