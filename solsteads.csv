@@ -7,7 +7,7 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 30 Rosa Street,140,1941,0,https://solanart.io/nft/9i2PvYje2t61PsjXpwR7ddDRLHvQLTgg7qnd7qN3h247,City,Green,30,Modern,,,Glass,,Mix,Food,Day,Rosa Street
 35 Rosa Street,149,2042,0,https://solanart.io/nft/8A1ULJcJE7dv1FFLqd5LMcnUWyaqXLehdXZHsQCi1k39,Volcanic,Red,35,Cottage,,Red,Shuttered,,Yellow,Shingle,Day,Rosa Street
 36 Ape Lane,40,690,0,https://solanart.io/nft/BzYhhjdApsrTEQLMEYt9fJv8uX8p9KxcVRyy1cqWAiJs,City,Yellow,36,Cottage,,Pale green,Rounded,,Lavender,Patio,Night,Ape Lane
-38 Teeps Lane,34,1706,0,https://solanart.io/nft/GyJPp8hH5bJCDxAgMr7zfDQBdGtW8shDaMUPskqxNh3T,City,Blue,38,Cottage,Vines,Blue,Rounded,,Mix,Mushroom,Day,Teeps Lane
+38 Teeps Lane,21.5,1706,62.38,https://solanart.io/nft/GyJPp8hH5bJCDxAgMr7zfDQBdGtW8shDaMUPskqxNh3T,City,Blue,38,Cottage,Vines,Blue,Rounded,,Mix,Mushroom,Day,Teeps Lane
 43 Rosa Street,555,22,0,https://solanart.io/nft/9vBLXr7aQbjzp194xf7Y6DsaipbG5f4rrbdxeQfUUztr,Field,Gold,43,Art Deco,Gold,Gold,Gold,,Gold,Gold,Day,Rosa Street
 45 Groove Path,1000,46,0,https://solanart.io/nft/ChgckGgUuHnjicM5vQVwimBsyQZ9DkyK4DrWFCabxjAZ,Woods,Green,45,Modern,Vines,,Glass,,Mix,Mushroom,Night,Groove Path
 48 Supple Circle,26.879999,1994,3.92,https://solanart.io/nft/BMeYUjkKcxaWzyGxmh3qE1Rfv5pDvP83HGLUqdNFrsFE,Desert,Yellow,48,Cottage,Vines,Green,Shuttered,,Yellow,Tin,Day,Supple Circle
@@ -32,7 +32,6 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 78 King Street,555,23,0,https://solanart.io/nft/H7nzZq872h4FSR5xM9bfBcuKXWfWsztgUP23PcQe8it4,City,Gold,78,Cottage,Gold,Gold,Gold,,Gold,Gold,Day,King Street
 80 Rosa Street,59.990002,1033,0,https://solanart.io/nft/CaAktBZrmcSUV9Uynu8ZGTXHrHSsJpcCDhfe5o2QnVtW,Desert,Yellow,80,Mansion,Vines,Blue,Rounded,,Mix,Food,Day,Rosa Street
 80 Abbey Road,111,1118,0,https://solanart.io/nft/318cGu6r8x6AHryc97w2SzXEHHiwtMYHFjMk4MksLV7Y,Treehouse,Green,80,Cottage,Vines,Blue,Shuttered,,Mix,Grass,Day,Abbey Road
-81 Teeps Lane,32.5,1617,0,https://solanart.io/nft/HvGwRifNPNdsyGsSinr1MKASCSFdx8RbpiG5UMQ2b8fK,Desert,Yellow,81,Cottage,Vines,Blue,Shuttered,,Blue,Tin,Night,Teeps Lane
 81 King Street,69,2333,0,https://solanart.io/nft/DVwQkpBw3x7QfxVf7yUm1N4NyakEGGD7nwzxbX3pzVPN,Mountain,Red,81,Cottage,,Yellow,Shuttered,,Blue,Shingle,Day,King Street
 83 Abbey Road,100,2244,0,https://solanart.io/nft/GNG8KpFF1nA6eTNjtdqLzP68mq6jJDhwz3mM4DZAb53k,Desert,Yellow,83,Cottage,,Red,Shuttered,,Mix,Grass,Day,Abbey Road
 85 Stewart Avenue,38,979,0,https://solanart.io/nft/G2bMnciCTqoixirmK3wck8eoTfag45BfmUe3oh3dghC1,Mountain,Yellow,85,Cottage,,Blue,Shuttered,Snow,Green,Shingle,Day,Stewart Avenue
@@ -68,6 +67,7 @@ id,price,moonRank,💎 score (%),storeURL,Biome,House color,House number,House s
 225 Baker Street,40,612,0,https://solanart.io/nft/CBtnrVbzhnBcBhMVEBgaTYMqwV7ZuztqmjupNhjx4hyz,City,Blue,225,Art Deco,,Blue,Rounded,,Green,Tin,Stormy,Baker Street
 226 Delray Circle,55,435,0,https://solanart.io/nft/9YFLzjTf97mpiHW2ixMCW98rkJTmPTGsgy3thBrXGvAb,Underwater,Green,226,Mansion,,Red,Rounded,,Blue,Patio,,Delray Circle
 233 Privet Drive,40.689999,1983,0,https://solanart.io/nft/FgfmbXZbbx1t4NiXSzpJY1FMjojDXbAirAMqqvkbjf9X,Field,Yellow,233,Modern,,Pale green,Shuttered,,Red,Shingle,Day,Privet Drive
+238 Delray Circle,21,1717,67.21,https://solanart.io/nft/3bksKos4QNfX2W62s7732AW6NyU9AU9DCxebk9vM4SHm,Woods,Green,238,Modern,,,Crystal,,Mix,Grass,Day,Delray Circle
 241 Privet Drive,43.799999,1981,0,https://solanart.io/nft/CZKbRQ48EQpgwu6VWnef8RQw8VyddZ4rkH6caZ77pHR7,Field,Blue,241,Cottage,,,Crystal,,Blue,Patio,Day,Privet Drive
 243 Privet Drive,75,295,0,https://solanart.io/nft/4NXG6Y4vcpJphfZSgGJhLzM1Rkm4BrmwCWrU3uBqmG6A,City,Green,243,Cottage,Vines,Blue,Rounded,,Dark green,Tin,Night,Privet Drive
 245 Bit Boulevard,50,69,0,https://solanart.io/nft/Ao5s25ehJcbCPLCqtJLeFBLSYrocHGw1pqs2VX4UNA2M,Woods,Red,245,Mansion,Brick,Green,Shuttered,Rain,Lavender,Haunted,Day,Bit Boulevard
